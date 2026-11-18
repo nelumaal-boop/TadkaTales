@@ -1,0 +1,69 @@
+/* TadkaTales Modern Clean Styles */
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Category Pill Styling */
+.cat-pill {
+  color: #64748b;
+  background-color: #ffffff;
+  border: 1px solid #e2e8f0;
+}
+
+.cat-pill:hover {
+  background-color: #f8fafc;
+  color: #0f172a;
+  border-color: #cbd5e1;
+}
+
+.cat-pill.active {
+  background-color: #0f172a;
+  color: #ffffff;
+  border-color: #0f172a;
+}
+
+/* Language toggle button states */
+.lang-active {
+  background-color: #ffffff !important;
+  color: #0f172a !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) !important;
+}
+
+.lang-inactive {
+  background-color: transparent !important;
+  color: #64748b !important;
+}
+
+.lang-inactive:hover {
+  color: #0f172a !important;
+}
+
+/* Print styling */
+@media print {
+  .no-print, header, footer, iframe, button, a {
+    display: none !important;
+  }
+  
+  body {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    font-size: 11pt;
+  }
+  
+  article {
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+  }
+
+  .grid {
+    display: block !important;
+  }
+
+  .lg\:col-span-5, .lg\:col-span-7 {
+    width: 100% !important;
+    margin-bottom: 2rem !important;
+  }
+}

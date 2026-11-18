@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EA580C"/>
+      <stop offset="60%" stop-color="#C2410C"/>
+      <stop offset="100%" stop-color="#9A3412"/>
+    </linearGradient>
+    <linearGradient id="flameGrad" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="60%" stop-color="#FCD34D"/>
+      <stop offset="100%" stop-color="#FEF08A"/>
+    </linearGradient>
+    <linearGradient id="panGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#FED7AA"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="6" y="6" width="108" height="108" rx="28" fill="url(#bgGrad)"/>
+  <rect x="10" y="10" width="100" height="100" rx="24" fill="none" stroke="rgba(255, 255, 255, 0.2)" stroke-width="2"/>
+
+  <!-- Flame / Steam -->
+  <path d="M 46 44 C 42 36, 48 30, 44 22" fill="none" stroke="url(#flameGrad)" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M 60 48 C 66 38, 54 30, 60 18" fill="none" stroke="url(#flameGrad)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M 74 44 C 78 36, 72 30, 76 22" fill="none" stroke="url(#flameGrad)" stroke-width="3.5" stroke-linecap="round"/>
+
+  <!-- Pan Body -->
+  <path d="M 32 58 C 32 79, 44 87, 60 87 C 76 87, 88 79, 88 58 Z" fill="url(#panGrad)"/>
+  <ellipse cx="60" cy="58" rx="28" ry="6.5" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <path d="M 32 58 C 22 56, 22 66, 33 65" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 88 58 C 98 56, 98 66, 87 65" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="60" cy="62" rx="19" ry="4" fill="url(#flameGrad)"/>
+</svg>
