@@ -145,6 +145,10 @@ def index():
     recipes = load_all_recipes()
     return render_template("index.html", recipes=recipes)
 
+@app.route("/googlecccccdc404ce1a05.html")
+def google_verification():
+    return "google-site-verification: googlecccccdc404ce1a05.html", 200, {'Content-Type': 'text/html; charset=utf-8'}
+
 @app.route("/recipe/<recipe_id>")
 def view_recipe(recipe_id):
     filepath = os.path.join(RECIPES_DIR, f"{recipe_id}.json")
@@ -205,4 +209,5 @@ def api_save_recipe():
     })
 
 if __name__ == "__main__":
-    app.run(host="127.0.0.1", port=5000, debug=True)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port, debug=False)
