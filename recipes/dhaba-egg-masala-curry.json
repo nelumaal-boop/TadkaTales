@@ -1,0 +1,108 @@
+{
+  "id": "dhaba-egg-masala-curry",
+  "title": {
+    "en": "Spicy Dhaba Style Egg Masala Curry (Perfect for Roti)",
+    "hi": "ढाबा स्टाइल अंडा मसाला करी (रोटी व चावल के लिए)"
+  },
+  "title_en": "Spicy Dhaba Style Egg Masala Curry (Perfect for Roti)",
+  "title_hi": "ढाबा स्टाइल अंडा मसाला करी (रोटी व चावल के लिए)",
+  "description": {
+    "en": "Flavor-packed Highway Dhaba style Egg Masala featuring hard-boiled eggs pan-seared with turmeric and chilli, then simmered in a rich, rustic onion-tomato gravy with freshly ground spices.",
+    "hi": "हाईवे ढाबा स्टाइल तीखी और चटपटी अंडा मसाला करी। उबले अंडों को हल्दी-मिर्च में कुरकुरा फ्राई करके प्याज-टमाटर और साबुत मसालों की भुनी हुई गाढ़ी ग्रेवी में पकाया जाता है।"
+  },
+  "description_en": "Flavor-packed Highway Dhaba style Egg Masala featuring hard-boiled eggs pan-seared with turmeric and chilli, then simmered in a rich, rustic onion-tomato gravy with freshly ground spices.",
+  "description_hi": "हाईवे ढाबा स्टाइल तीखी और चटपटी अंडा मसाला करी। उबले अंडों को हल्दी-मिर्च में कुरकुरा फ्राई करके प्याज-टमाटर और साबुत मसालों की भुनी हुई गाढ़ी ग्रेवी में पकाया जाता है।",
+  "category": "Latest Recipe",
+  "isVegetarian": false,
+  "diet": "Non-Veg",
+  "diet_hi": "मांसाहारी",
+  "prepTime": "10 mins",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cookTime": "20 mins",
+  "cook_time_en": "20 mins",
+  "cook_time_hi": "20 मिनट",
+  "servings": "4 servings",
+  "servings_en": "4 servings",
+  "servings_hi": "4 सर्विंग्स",
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "youtube_id": "qPBt5Dwquas",
+  "youtubeId": "qPBt5Dwquas",
+  "youtube_url": "https://www.youtube.com/watch?v=qPBt5Dwquas",
+  "author": "HomeCookingShow",
+  "image_url": "/static/images/qPBt5Dwquas.jpg",
+  "tags": [
+    "Egg Masala",
+    "Anda Curry",
+    "Dhaba Style",
+    "Side Dish for Roti",
+    "High Protein",
+    "Non-Veg",
+    "HomeCookingShow"
+  ],
+  "ingredients_en": [
+    "5 Hard Boiled Eggs (peeled and lightly pricked with fork)",
+    "3 tbsp Mustard Oil or Cooking Oil",
+    "1/4 tsp Turmeric + 1/2 tsp Chilli Powder (for searing eggs)",
+    "1 tsp Cumin Seeds, 1 Bay Leaf, 2 Cloves, 1-inch Cinnamon",
+    "2 large Onions (finely chopped)",
+    "1 tbsp Ginger-Garlic Paste",
+    "2 Green Chillies (slit)",
+    "2 large Tomatoes (finely chopped or pureed)",
+    "1/2 tsp Turmeric Powder & 1.5 tsp Kashmiri Chilli Powder",
+    "1 tsp Coriander Powder & 1/2 tsp Cumin Powder",
+    "1/2 tsp Garam Masala",
+    "1 tsp Kasuri Methi (crushed)",
+    "Salt to taste",
+    "1 cup Warm Water",
+    "Fresh Coriander Leaves"
+  ],
+  "ingredients_hi": [
+    "5 उबले अंडे (छिले और कांटे से हल्के प्रिक किए हुए)",
+    "3 बड़े चम्मच सरसों का तेल या रिफाइंड तेल",
+    "1/4 छोटा चम्मच हल्दी + 1/2 छोटा चम्मच लाल मिर्च (अंडे फ्राई करने हेतु)",
+    "1 छोटा चम्मच जीरा, 1 तेजपत्ता, 2 लौंग, 1 इंच दालचीनी",
+    "2 बड़े प्याज (बारीक कटे हुए)",
+    "1 बड़ा चम्मच अदरक-लहसुन पेस्ट",
+    "2 हरी मिर्च",
+    "2 बड़े टमाटर (बारीक कटे या पीसे हुए)",
+    "1/2 छोटा चम्मच हल्दी व 1.5 छोटा चम्मच कश्मीरी लाल मिर्च",
+    "1 छोटा चम्मच धनिया पाउडर व 1/2 छोटा चम्मच जीरा पाउडर",
+    "1/2 छोटा चम्मच गरम मसाला",
+    "1 छोटा चम्मच कसूरी मेथी",
+    "स्वादानुसार नमक",
+    "1 कप गर्म पानी",
+    "बारीक कटा ताजा हरा धनिया"
+  ],
+  "instructions_en": [
+    "Prick boiled eggs gently with a fork. Heat 1 tbsp oil in a pan, add turmeric and chilli powder, and toss eggs on medium heat for 2–3 minutes until blistered and golden. Set aside.",
+    "Heat remaining oil in the pan. Splutter cumin seeds, bay leaf, cloves, and cinnamon.",
+    "Add chopped onions and sauté over medium heat for 7–8 minutes until deep golden brown.",
+    "Add ginger-garlic paste and green chillies; sauté for 1 minute until fragrant.",
+    "Add tomatoes and cook until soft and oil separates from the masala base.",
+    "Stir in turmeric powder, Kashmiri chilli powder, coriander powder, cumin powder, and salt. Sauté for 2 minutes.",
+    "Pour in 1 cup warm water and bring to a gentle boil.",
+    "Add the seared eggs, cover with a lid, and simmer on low heat for 5–7 minutes so the eggs absorb the gravy.",
+    "Finish with garam masala, crushed kasuri methi, and fresh coriander. Serve hot with tandoori roti, paratha, or jeera rice."
+  ],
+  "instructions_hi": [
+    "उबले अंडों पर कांटे से हल्के छेद कर लें। पैन में 1 चम्मच तेल, हल्दी और लाल मिर्च डालकर अंडों को 2-3 मिनट सुनहरा होने तक फ्राई करें।",
+    "कड़ाही में बचा तेल गरम करें। जीरा, तेजपत्ता, लौंग और दालचीनी चटकाएं।",
+    "कटा प्याज डालकर मध्यम आंच पर 7-8 मिनट गहरा सुनहरा होने तक भूनें।",
+    "अदरक-लहसुन पेस्ट और हरी मिर्च डालकर 1 मिनट भूनें।",
+    "टमाटर डालें और तेल अलग होने तक अच्छी तरह पकाएं।",
+    "हल्दी, कश्मीरी लाल मिर्च, धनिया पाउडर, जीरा पाउडर और नमक डालकर 2 मिनट मसालों को भूनें।",
+    "1 कप गर्म पानी डालें और उबाल आने दें।",
+    "फ्राई किए हुए अंडे डालें, ढक्कन लगाकर धीमी आंच पर 5-7 मिनट तक पकने दें।",
+    "गरम मसाला, कसूरी मेथी और हरा धनिया डालकर गरमा-गरम रोटी या पराठे के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "Pricking eggs and searing them in spiced oil creates a delicious crispy outer skin that catches the rich gravy.",
+    "Browning the onions patiently is the cornerstone of dhaba-style depth of flavor."
+  ],
+  "chef_tips_hi": [
+    "अंडों पर कांटे से छेद करने से मसाले अंदर तक जाते हैं और अंडे तलते समय फटते नहीं हैं।",
+    "प्याज को अच्छी तरह भूरा होने तक भूनना ही ढाबा स्टाइल स्वाद का असली राज है।"
+  ]
+}

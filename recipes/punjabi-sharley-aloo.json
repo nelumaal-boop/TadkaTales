@@ -1,0 +1,408 @@
+{
+  "id": "punjabi-sharley-aloo",
+  "title": {
+    "en": "Amritsari Sharley Aloo - Punjab's Crispy Street Snack",
+    "hi": "अमृतसरी शरले आलू - पंजाब का मशहूर स्ट्रीट स्नैक"
+  },
+  "description": {
+    "en": "Not an aloo tikki or a pakora—Sharley is Punjab's iconic winter street delicacy! Made with skin-on baby potatoes, fresh methi & palak greens, coarse coriander-fennel spices, light besan binding, and served with tangy radish-leaf (mooli patta) chutney.",
+    "hi": "न टिक्की, न पकोड़ा—यह है पंजाब का मशहूर विंटर स्ट्रीट फूड 'शरले आलू'! नए आलू, ताजी मेथी-पालक, दरदरे खड़े मसालों और कुरकुरी कोटिंग के साथ तैयार किया गया लाजवाब स्नैक, जिसे तीखी मूली-पत्ता चटनी और लच्छेदार मूली के साथ परोसा जाता है।"
+  },
+  "category": "Snacks",
+  "isVegetarian": true,
+  "prepTime": "20 mins",
+  "cookTime": "20 mins",
+  "servings": "4-5 servings (8-10 sharley)",
+  "youtubeId": "Kc8-K7PCjHk",
+  "author": "Bharatzkitchen Hindi",
+  "ingredients": [
+    {
+      "category": {
+        "en": "Potatoes & Greens Base",
+        "hi": "आलू और हरी सब्जियां"
+      },
+      "items": [
+        {
+          "en": "New Baby Potatoes (Naye Aloo) - 700g (washed thoroughly, boiled 80% with skin on, halved)",
+          "hi": "नए छोटे आलू - 700 ग्राम (छिलके सहित 80% उबले और दो टुकड़ों में कटे)"
+        },
+        {
+          "en": "Salt for boiling potatoes - 2 tbsp in 1.25L water",
+          "hi": "आलू उबालने के लिए नमक - 2 बड़े चम्मच (1.25 लीटर पानी में)"
+        },
+        {
+          "en": "Fresh Fenugreek leaves (Methi) - 90g (roughly chopped)",
+          "hi": "ताजी मेथी - 90 ग्राम (मोटे टुकड़ों में कटी)"
+        },
+        {
+          "en": "Fresh Spinach leaves (Palak) - 80g (roughly chopped)",
+          "hi": "ताजा पालक - 80 ग्राम (मोटे टुकड़ों में कटा)"
+        },
+        {
+          "en": "Salt to sweat greens - 1.5 tsp",
+          "hi": "मेथी-पालक को नरम करने के लिए नमक - 1.5 छोटा चम्मच"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Aromatic Sharley Spices",
+        "hi": "शरले के खड़े और पिसे मसाले"
+      },
+      "items": [
+        {
+          "en": "Whole Coriander Seeds (Sabut Dhaniya) - 2 tbsp (coarsely crushed)",
+          "hi": "साबुत धनिया - 2 बड़े चम्मच (दरदरा कुटा हुआ)"
+        },
+        {
+          "en": "Cumin Seeds (Jeera) - 1 tsp",
+          "hi": "जीरा - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Fennel Seeds (Saunf) - 1 tsp",
+          "hi": "सौंफ - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Fresh Ginger - 1 heaped tbsp (grated)",
+          "hi": "ताजा अदरक - 1 बड़ा चम्मच (कद्दूकस किया हुआ)"
+        },
+        {
+          "en": "Green Chillies - 4 to 5 (finely chopped)",
+          "hi": "हरी मिर्च - 4 से 5 (बारीक कटी)"
+        },
+        {
+          "en": "Chaat Masala or Anardana Powder - 1 tsp",
+          "hi": "चाट मसाला या अनारदाना पाउडर - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Kashmiri Red Chilli Powder - 2 tsp (natural vibrant hue)",
+          "hi": "कश्मीरी लाल मिर्च पाउडर - 2 छोटे चम्मच"
+        },
+        {
+          "en": "Spicy Red Chilli Powder - 1 tsp",
+          "hi": "तीखी लाल मिर्च - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Turmeric Powder - 1/2 tsp",
+          "hi": "हल्दी पाउडर - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Roasted Cumin Powder - 1/2 tsp",
+          "hi": "भुना जीरा पाउडर - 1/2 छोटा चम्मच"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Light Binding & Frying",
+        "hi": "हल्की बाइंडिंग और तलने का तेल"
+      },
+      "items": [
+        {
+          "en": "Gram Flour (Besan) - 1/2 cup (added in parts, do not make a batter)",
+          "hi": "बेसन - 1/2 कप (सिर्फ आलुओं पर चिपकाने के लिए)"
+        },
+        {
+          "en": "Rice Flour (Chawal ka Aata) - 2 tbsp (for extra crisp shell)",
+          "hi": "चावल का आटा - 2 बड़े चम्मच (कुरकुरेपन के लिए)"
+        },
+        {
+          "en": "Water - just a splash (wet hands technique)",
+          "hi": "पानी - सिर्फ हल्का सा हाथ गीला करने के लिए"
+        },
+        {
+          "en": "Cooking Oil / Mustard Oil - for deep frying",
+          "hi": "सरसों का तेल या कुकिंग ऑयल - मध्यम आंच पर तलने के लिए"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Street-Style Radish Leaf (Mooli Patta) Chutney",
+        "hi": "स्ट्रीट-स्टाइल मूली-पत्ता चटनी"
+      },
+      "items": [
+        {
+          "en": "Tender Radish Leaves (Mooli ke Patte) - 2 cups (washed)",
+          "hi": "ताजी मूली के कोमल पत्ते - 2 कप"
+        },
+        {
+          "en": "Fresh Coriander leaves - 1 cup",
+          "hi": "ताजा हरा धनिया - 1 कप"
+        },
+        {
+          "en": "Green Chillies - 6 to 7 (spicy street punch)",
+          "hi": "हरी मिर्च - 6 से 7 (तीखी)"
+        },
+        {
+          "en": "Ginger - 2 inch piece",
+          "hi": "अदरक - 2 इंच"
+        },
+        {
+          "en": "Aloo Bhujia / Boondi or Besan Sev - 2 tbsp (thickener/binder)",
+          "hi": "आलू भुजिया, बूंदी या बेसन सेव - 2 बड़े चम्मच (चटनी बांधने के लिए)"
+        },
+        {
+          "en": "Black Salt (Kala Namak) - 1/2 tsp & Regular Salt - 1 tsp",
+          "hi": "काला नमक - 1/2 छोटा चम्मच और सादा नमक - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Lemon Juice - 1 whole lemon",
+          "hi": "नींबू का रस - 1 पूरा नींबू"
+        },
+        {
+          "en": "Roasted Cumin & Ajwain pinch - 1/2 tsp each",
+          "hi": "भुना जीरा और चुटकी भर अजवाइन - आधा-आधा छोटा चम्मच"
+        },
+        {
+          "en": "Water - 1 to 1.5 cups (for thin flowing street consistency)",
+          "hi": "पानी - 1 से 1.5 कप (पतली बहने वाली चटनी के लिए)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Serving Accompaniments",
+        "hi": "परोसने के लिए"
+      },
+      "items": [
+        {
+          "en": "Fresh Radish (Mooli) - 1 cup (grated or fine juliennes)",
+          "hi": "ताजी मूली - 1 कप (कद्दूकस की हुई)"
+        },
+        {
+          "en": "Sweet Tamarind Chutney (Meethi Imli Chutney) - 1/2 cup",
+          "hi": "खट्टी-मीठी इमली की चटनी - 1/2 कप"
+        },
+        {
+          "en": "Chaat Masala - for dusting",
+          "hi": "चाट मसाला - छिड़कने के लिए"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": {
+        "en": "Boiling New Potatoes (Skin-On)",
+        "hi": "नए आलू छिलके सहित उबालना"
+      },
+      "text": {
+        "en": "Scrub 700g new baby potatoes under running water. Bring 1.25L water with 2 tbsp salt to a boil. Add potatoes and cook for 7-8 minutes until 80-85% cooked through (tender when pierced with a knife, but firm and not falling apart). Drain and let cool completely. Halve or quarter them into chunky pieces.",
+        "hi": "700 ग्राम नए छोटे आलुओं को साफ धो लें। 1.25 लीटर पानी में 2 बड़े चम्मच नमक डालकर उबालें। आलू डालें और 7-8 मिनट तक 80-85% उबलने तक पकाएं (चाकू आसानी से घुसे लेकिन आलू टूटे नहीं)। पानी छानकर पूरी तरह ठंडा होने दें और दो टुकड़ों में काट लें।"
+      }
+    },
+    {
+      "step": 2,
+      "title": {
+        "en": "Sweating Methi & Palak Greens",
+        "hi": "मेथी-पालक को नमक से नरम करना"
+      },
+      "text": {
+        "en": "Roughly chop 90g fresh methi and 80g fresh palak. Place in a wide parat and toss with 1.5 tsp salt. Let rest for 5 minutes—the greens will wilt and soften naturally, making them easy to mix without releasing excess moisture during frying.",
+        "hi": "90 ग्राम मेथी और 80 ग्राम पालक को मोटा काट लें। परात में रखकर 1.5 छोटा चम्मच नमक मिलाएं और 5 मिनट छोड़ दें। पत्ते अपने आप नरम और ढीले हो जाएंगे, जिससे तलते समय पानी नहीं छूटेगा।"
+      }
+    },
+    {
+      "step": 3,
+      "title": {
+        "en": "Seasoning Potatoes with Whole Spices",
+        "hi": "खड़े मसालों के साथ आलू मिलाना"
+      },
+      "text": {
+        "en": "To the wilted greens, add crushed whole coriander seeds, cumin seeds, fennel seeds, grated ginger, chopped chillies, chaat masala, turmeric, chilli powders, and roasted cumin. Mix well. Add the cooled potato chunks and gently toss so every potato piece is coated in the spice-green mixture.",
+        "hi": "नरम हुए पत्तों में दरदरा कुटा साबुत धनिया, जीरा, सौंफ, कद्दूकस अदरक, कटी हरी मिर्च, चाट मसाला, हल्दी, लाल मिर्च और भुना जीरा मिलाएं। अब ठंडे कटे आलू डालें और हल्के हाथ से मिलाएं ताकि हर आलू पर मसालों की अच्छी परत चढ़ जाए।"
+      }
+    },
+    {
+      "step": 4,
+      "title": {
+        "en": "Light Besan & Rice Flour Coating (No Batter)",
+        "hi": "बेसन और चावल के आटे की सूखी बाइंडिंग"
+      },
+      "text": {
+        "en": "Sprinkle half of the besan and 2 tbsp rice flour over the potato mix. Rub gently with your fingertips (do not mash the potatoes). Add the remaining besan and sprinkle just a few drops of water with wet fingers until the flour clings tightly around each potato chunk like a light crust. Potatoes should remain visibly distinct, not drowned in a thick pakora batter.",
+        "hi": "आलुओं पर आधा बेसन और 2 चम्मच चावल का आटा छिड़कें। सिर्फ उंगलियों से हल्के हाथ से मिलाएं (आलू को मैश बिल्कुल न करें)। बचा हुआ बेसन डालें और हाथ गीला करके हल्का सा पानी का छींटा मारें ताकि बेसन आलू और पत्तों पर चिपक जाए। यह पकोड़े का घोल नहीं है, बल्कि सूखी कोटिंग है।"
+      }
+    },
+    {
+      "step": 5,
+      "title": {
+        "en": "Blending Street Mooli Patta Chutney",
+        "hi": "स्ट्रीट स्टाइल मूली-पत्ता चटनी तैयार करना"
+      },
+      "text": {
+        "en": "In a blender, add 2 cups tender radish leaves, 1 cup coriander, 6-7 green chillies, 2 inches ginger, regular and black salt, and lemon juice with 1/4 cup water. Blend coarsely. Add 2 tbsp aloo bhujia/boondi (which acts as a stabilizer so water and herbs don't separate) and 1 cup water. Blend into a smooth, thin, vibrant green flowing street chutney. Stir in roasted cumin and a pinch of ajwain.",
+        "hi": "मिक्सी में मूली के पत्ते, हरा धनिया, 6-7 हरी मिर्च, 2 इंच अदरक, काला व सादा नमक, नींबू रस और 1/4 कप पानी डालकर दरदरा पीसें। अब 2 चम्मच आलू भुजिया या बूंदी डालें (यह पानी अलग होने से रोकती है) और 1 कप पानी मिलाकर एकदम पतली बहने वाली चटनी बना लें। अंत में भुना जीरा और चुटकी भर अजवाइन मिलाएं।"
+      }
+    },
+    {
+      "step": 6,
+      "title": {
+        "en": "Shaping Sharley with a Small Katori",
+        "hi": "कटोरी से शरले का आकार देना और हवा लगाना"
+      },
+      "text": {
+        "en": "Lightly oil the inside of a small round steel katori (bowl). Fill with a portion of the potato-greens mixture and press gently with your fingers to form a compact round patty. Tap out into your palm. Place all shaped sharley on a plate and let them sit in open air for 5-10 minutes to firm up and air-dry before frying.",
+        "hi": "छोटी स्टील की कटोरी में हल्का सा तेल लगाएं। थोड़ा सा आलू-मसाले का मिश्रण रखकर हल्के हाथ से दबाकर गोल पैटी जैसा आकार दें। हथेली पर निकालें। सभी शरले बनाकर प्लेट पर 5-10 मिनट खुली हवा में सूखने दें ताकि वे फ्राई करते समय बिखरें नहीं।"
+      }
+    },
+    {
+      "step": 7,
+      "title": {
+        "en": "Crisp Frying & Double Searing",
+        "hi": "कुरकुरा होने तक तलना"
+      },
+      "text": {
+        "en": "Heat oil to medium in a kadhai. Place a shaped sharley onto an oiled flat slotted spoon and gently slide into the hot oil. Fry on medium flame for 4-5 minutes, flipping occasionally until crackling, deeply golden, and crisp all over. Drain on paper towels.",
+        "hi": "कड़ाही में मध्यम आंच पर तेल गर्म करें। छरले को तेल लगी कलछी पर रखें और सावधानी से गर्म तेल में छोड़ें। मध्यम आंच पर 4-5 मिनट दोनों तरफ से पलटते हुए एकदम सुनहरा और करारा होने तक तलें।"
+      }
+    },
+    {
+      "step": 8,
+      "title": {
+        "en": "Assembling the Punjabi Street Platter",
+        "hi": "अमृतसरी स्ट्रीट प्लेटर सजाना"
+      },
+      "text": {
+        "en": "Slightly crush the hot crispy sharley in a serving plate. Top generously with freshly grated winter radish (mooli), a ladle of thin spicy mooli-patta chutney, sweet imli chutney, and a dusting of chaat masala. Serve immediately while piping hot.",
+        "hi": "प्लेट में गरमा-गरम कुरकुरे शरले को हल्का सा दबाकर खोलें। ऊपर से ढेर सारी कद्दूकस की हुई ताजी मूली, तीखी मूली-पत्ता चटनी, खट्टी-मीठी इमली की चटनी और चाट मसाला डालकर गरमा-गरम परोसें।"
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Always use winter new potatoes (naye aloo) with skin on. Old potatoes have converted their starches to sugars and will turn soggy and sweet rather than crisp.",
+      "hi": "शरले हमेशा सर्दियों के नए छोटे आलू (छिलके सहित) से ही बनाएं। पुराने आलू तलने पर मीठे और नरम पड़ जाते हैं जबकि नए आलू बेहद कुरकुरे बनते हैं।"
+    },
+    {
+      "en": "Never make a wet batter with water and besan. Rub the besan and rice flour with dry/damp fingertips over the potatoes so individual chunks stay distinct.",
+      "hi": "बेसन का कभी गीला घोल न बनाएं। उंगलियों से सूखा बेसन और चावल का आटा छिड़क कर मिलाएं ताकि आलू पकोड़े जैसा न बने और अलग-अलग दानेदार रहे।"
+    },
+    {
+      "en": "Adding 2 tbsp of aloo bhujia or boondi to the radish leaf chutney binds the water and green pulp, ensuring it coats the potatoes smoothly without weeping watery liquid.",
+      "hi": "मूली-पत्ता चटनी में 2 चम्मच आलू भुजिया या बूंदी पीसने से चटनी में पानी अलग नहीं होता और वह बाजार जैसी गाढ़ी-पतली बनी रहती है।"
+    }
+  ],
+  "title_en": "Amritsari Sharley Aloo - Punjab's Crispy Street Snack",
+  "title_hi": "अमृतसरी शरले आलू - पंजाब का मशहूर स्ट्रीट स्नैक",
+  "description_en": "Not an aloo tikki or a pakora—Sharley is Punjab's iconic winter street delicacy! Made with skin-on baby potatoes, fresh methi & palak greens, coarse coriander-fennel spices, light besan binding, and served with tangy radish-leaf (mooli patta) chutney.",
+  "description_hi": "न टिक्की, न पकोड़ा—यह है पंजाब का मशहूर विंटर स्ट्रीट फूड 'शरले आलू'! नए आलू, ताजी मेथी-पालक, दरदरे खड़े मसालों और कुरकुरी कोटिंग के साथ तैयार किया गया लाजवाब स्नैक, जिसे तीखी मूली-पत्ता चटनी और लच्छेदार मूली के साथ परोसा जाता है।",
+  "prep_time_en": "20 mins",
+  "prep_time_hi": "20 mins",
+  "cook_time_en": "20 mins",
+  "cook_time_hi": "20 mins",
+  "servings_en": "4-5 servings (8-10 sharley)",
+  "servings_hi": "4-5 servings (8-10 sharley)",
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "youtube_id": "Kc8-K7PCjHk",
+  "youtube_url": "https://www.youtube.com/watch?v=Kc8-K7PCjHk",
+  "image_url": "https://img.youtube.com/vi/Kc8-K7PCjHk/hqdefault.jpg",
+  "ingredients_en": [
+    "New Baby Potatoes (Naye Aloo) - 700g (washed thoroughly, boiled 80% with skin on, halved)",
+    "Salt for boiling potatoes - 2 tbsp in 1.25L water",
+    "Fresh Fenugreek leaves (Methi) - 90g (roughly chopped)",
+    "Fresh Spinach leaves (Palak) - 80g (roughly chopped)",
+    "Salt to sweat greens - 1.5 tsp",
+    "Whole Coriander Seeds (Sabut Dhaniya) - 2 tbsp (coarsely crushed)",
+    "Cumin Seeds (Jeera) - 1 tsp",
+    "Fennel Seeds (Saunf) - 1 tsp",
+    "Fresh Ginger - 1 heaped tbsp (grated)",
+    "Green Chillies - 4 to 5 (finely chopped)",
+    "Chaat Masala or Anardana Powder - 1 tsp",
+    "Kashmiri Red Chilli Powder - 2 tsp (natural vibrant hue)",
+    "Spicy Red Chilli Powder - 1 tsp",
+    "Turmeric Powder - 1/2 tsp",
+    "Roasted Cumin Powder - 1/2 tsp",
+    "Gram Flour (Besan) - 1/2 cup (added in parts, do not make a batter)",
+    "Rice Flour (Chawal ka Aata) - 2 tbsp (for extra crisp shell)",
+    "Water - just a splash (wet hands technique)",
+    "Cooking Oil / Mustard Oil - for deep frying",
+    "Tender Radish Leaves (Mooli ke Patte) - 2 cups (washed)",
+    "Fresh Coriander leaves - 1 cup",
+    "Green Chillies - 6 to 7 (spicy street punch)",
+    "Ginger - 2 inch piece",
+    "Aloo Bhujia / Boondi or Besan Sev - 2 tbsp (thickener/binder)",
+    "Black Salt (Kala Namak) - 1/2 tsp & Regular Salt - 1 tsp",
+    "Lemon Juice - 1 whole lemon",
+    "Roasted Cumin & Ajwain pinch - 1/2 tsp each",
+    "Water - 1 to 1.5 cups (for thin flowing street consistency)",
+    "Fresh Radish (Mooli) - 1 cup (grated or fine juliennes)",
+    "Sweet Tamarind Chutney (Meethi Imli Chutney) - 1/2 cup",
+    "Chaat Masala - for dusting"
+  ],
+  "ingredients_hi": [
+    "नए छोटे आलू - 700 ग्राम (छिलके सहित 80% उबले और दो टुकड़ों में कटे)",
+    "आलू उबालने के लिए नमक - 2 बड़े चम्मच (1.25 लीटर पानी में)",
+    "ताजी मेथी - 90 ग्राम (मोटे टुकड़ों में कटी)",
+    "ताजा पालक - 80 ग्राम (मोटे टुकड़ों में कटा)",
+    "मेथी-पालक को नरम करने के लिए नमक - 1.5 छोटा चम्मच",
+    "साबुत धनिया - 2 बड़े चम्मच (दरदरा कुटा हुआ)",
+    "जीरा - 1 छोटा चम्मच",
+    "सौंफ - 1 छोटा चम्मच",
+    "ताजा अदरक - 1 बड़ा चम्मच (कद्दूकस किया हुआ)",
+    "हरी मिर्च - 4 से 5 (बारीक कटी)",
+    "चाट मसाला या अनारदाना पाउडर - 1 छोटा चम्मच",
+    "कश्मीरी लाल मिर्च पाउडर - 2 छोटे चम्मच",
+    "तीखी लाल मिर्च - 1 छोटा चम्मच",
+    "हल्दी पाउडर - 1/2 छोटा चम्मच",
+    "भुना जीरा पाउडर - 1/2 छोटा चम्मच",
+    "बेसन - 1/2 कप (सिर्फ आलुओं पर चिपकाने के लिए)",
+    "चावल का आटा - 2 बड़े चम्मच (कुरकुरेपन के लिए)",
+    "पानी - सिर्फ हल्का सा हाथ गीला करने के लिए",
+    "सरसों का तेल या कुकिंग ऑयल - मध्यम आंच पर तलने के लिए",
+    "ताजी मूली के कोमल पत्ते - 2 कप",
+    "ताजा हरा धनिया - 1 कप",
+    "हरी मिर्च - 6 से 7 (तीखी)",
+    "अदरक - 2 इंच",
+    "आलू भुजिया, बूंदी या बेसन सेव - 2 बड़े चम्मच (चटनी बांधने के लिए)",
+    "काला नमक - 1/2 छोटा चम्मच और सादा नमक - 1 छोटा चम्मच",
+    "नींबू का रस - 1 पूरा नींबू",
+    "भुना जीरा और चुटकी भर अजवाइन - आधा-आधा छोटा चम्मच",
+    "पानी - 1 से 1.5 कप (पतली बहने वाली चटनी के लिए)",
+    "ताजी मूली - 1 कप (कद्दूकस की हुई)",
+    "खट्टी-मीठी इमली की चटनी - 1/2 कप",
+    "चाट मसाला - छिड़कने के लिए"
+  ],
+  "instructions_en": [
+    "Scrub 700g new baby potatoes under running water. Bring 1.25L water with 2 tbsp salt to a boil. Add potatoes and cook for 7-8 minutes until 80-85% cooked through (tender when pierced with a knife, but firm and not falling apart). Drain and let cool completely. Halve or quarter them into chunky pieces.",
+    "Roughly chop 90g fresh methi and 80g fresh palak. Place in a wide parat and toss with 1.5 tsp salt. Let rest for 5 minutes—the greens will wilt and soften naturally, making them easy to mix without releasing excess moisture during frying.",
+    "To the wilted greens, add crushed whole coriander seeds, cumin seeds, fennel seeds, grated ginger, chopped chillies, chaat masala, turmeric, chilli powders, and roasted cumin. Mix well. Add the cooled potato chunks and gently toss so every potato piece is coated in the spice-green mixture.",
+    "Sprinkle half of the besan and 2 tbsp rice flour over the potato mix. Rub gently with your fingertips (do not mash the potatoes). Add the remaining besan and sprinkle just a few drops of water with wet fingers until the flour clings tightly around each potato chunk like a light crust. Potatoes should remain visibly distinct, not drowned in a thick pakora batter.",
+    "In a blender, add 2 cups tender radish leaves, 1 cup coriander, 6-7 green chillies, 2 inches ginger, regular and black salt, and lemon juice with 1/4 cup water. Blend coarsely. Add 2 tbsp aloo bhujia/boondi (which acts as a stabilizer so water and herbs don't separate) and 1 cup water. Blend into a smooth, thin, vibrant green flowing street chutney. Stir in roasted cumin and a pinch of ajwain.",
+    "Lightly oil the inside of a small round steel katori (bowl). Fill with a portion of the potato-greens mixture and press gently with your fingers to form a compact round patty. Tap out into your palm. Place all shaped sharley on a plate and let them sit in open air for 5-10 minutes to firm up and air-dry before frying.",
+    "Heat oil to medium in a kadhai. Place a shaped sharley onto an oiled flat slotted spoon and gently slide into the hot oil. Fry on medium flame for 4-5 minutes, flipping occasionally until crackling, deeply golden, and crisp all over. Drain on paper towels.",
+    "Slightly crush the hot crispy sharley in a serving plate. Top generously with freshly grated winter radish (mooli), a ladle of thin spicy mooli-patta chutney, sweet imli chutney, and a dusting of chaat masala. Serve immediately while piping hot."
+  ],
+  "instructions_hi": [
+    "700 ग्राम नए छोटे आलुओं को साफ धो लें। 1.25 लीटर पानी में 2 बड़े चम्मच नमक डालकर उबालें। आलू डालें और 7-8 मिनट तक 80-85% उबलने तक पकाएं (चाकू आसानी से घुसे लेकिन आलू टूटे नहीं)। पानी छानकर पूरी तरह ठंडा होने दें और दो टुकड़ों में काट लें।",
+    "90 ग्राम मेथी और 80 ग्राम पालक को मोटा काट लें। परात में रखकर 1.5 छोटा चम्मच नमक मिलाएं और 5 मिनट छोड़ दें। पत्ते अपने आप नरम और ढीले हो जाएंगे, जिससे तलते समय पानी नहीं छूटेगा।",
+    "नरम हुए पत्तों में दरदरा कुटा साबुत धनिया, जीरा, सौंफ, कद्दूकस अदरक, कटी हरी मिर्च, चाट मसाला, हल्दी, लाल मिर्च और भुना जीरा मिलाएं। अब ठंडे कटे आलू डालें और हल्के हाथ से मिलाएं ताकि हर आलू पर मसालों की अच्छी परत चढ़ जाए।",
+    "आलुओं पर आधा बेसन और 2 चम्मच चावल का आटा छिड़कें। सिर्फ उंगलियों से हल्के हाथ से मिलाएं (आलू को मैश बिल्कुल न करें)। बचा हुआ बेसन डालें और हाथ गीला करके हल्का सा पानी का छींटा मारें ताकि बेसन आलू और पत्तों पर चिपक जाए। यह पकोड़े का घोल नहीं है, बल्कि सूखी कोटिंग है।",
+    "मिक्सी में मूली के पत्ते, हरा धनिया, 6-7 हरी मिर्च, 2 इंच अदरक, काला व सादा नमक, नींबू रस और 1/4 कप पानी डालकर दरदरा पीसें। अब 2 चम्मच आलू भुजिया या बूंदी डालें (यह पानी अलग होने से रोकती है) और 1 कप पानी मिलाकर एकदम पतली बहने वाली चटनी बना लें। अंत में भुना जीरा और चुटकी भर अजवाइन मिलाएं।",
+    "छोटी स्टील की कटोरी में हल्का सा तेल लगाएं। थोड़ा सा आलू-मसाले का मिश्रण रखकर हल्के हाथ से दबाकर गोल पैटी जैसा आकार दें। हथेली पर निकालें। सभी शरले बनाकर प्लेट पर 5-10 मिनट खुली हवा में सूखने दें ताकि वे फ्राई करते समय बिखरें नहीं।",
+    "कड़ाही में मध्यम आंच पर तेल गर्म करें। छरले को तेल लगी कलछी पर रखें और सावधानी से गर्म तेल में छोड़ें। मध्यम आंच पर 4-5 मिनट दोनों तरफ से पलटते हुए एकदम सुनहरा और करारा होने तक तलें।",
+    "प्लेट में गरमा-गरम कुरकुरे शरले को हल्का सा दबाकर खोलें। ऊपर से ढेर सारी कद्दूकस की हुई ताजी मूली, तीखी मूली-पत्ता चटनी, खट्टी-मीठी इमली की चटनी और चाट मसाला डालकर गरमा-गरम परोसें।"
+  ],
+  "chef_tips_en": [
+    "Always use winter new potatoes (naye aloo) with skin on. Old potatoes have converted their starches to sugars and will turn soggy and sweet rather than crisp.",
+    "Never make a wet batter with water and besan. Rub the besan and rice flour with dry/damp fingertips over the potatoes so individual chunks stay distinct.",
+    "Adding 2 tbsp of aloo bhujia or boondi to the radish leaf chutney binds the water and green pulp, ensuring it coats the potatoes smoothly without weeping watery liquid."
+  ],
+  "chef_tips_hi": [
+    "शरले हमेशा सर्दियों के नए छोटे आलू (छिलके सहित) से ही बनाएं। पुराने आलू तलने पर मीठे और नरम पड़ जाते हैं जबकि नए आलू बेहद कुरकुरे बनते हैं।",
+    "बेसन का कभी गीला घोल न बनाएं। उंगलियों से सूखा बेसन और चावल का आटा छिड़क कर मिलाएं ताकि आलू पकोड़े जैसा न बने और अलग-अलग दानेदार रहे।",
+    "मूली-पत्ता चटनी में 2 चम्मच आलू भुजिया या बूंदी पीसने से चटनी में पानी अलग नहीं होता और वह बाजार जैसी गाढ़ी-पतली बनी रहती है।"
+  ],
+  "tags": [
+    "Sharley Aloo",
+    "Punjabi Style",
+    "Street Food",
+    "Snacks",
+    "Vegetarian"
+  ]
+}

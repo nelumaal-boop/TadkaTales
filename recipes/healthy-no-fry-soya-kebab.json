@@ -1,0 +1,215 @@
+{
+  "id": "healthy-no-fry-soya-kebab",
+  "title_en": "Healthy Pan-Seared No-Fry Soya Kebab (हाई-प्रोटीन सोया कबाब)",
+  "title_hi": "हेल्दी नो-फ्राई सोया कबाब (तवे पर सिका हाई-प्रोटीन कबाब)",
+  "title": {
+    "en": "Healthy Pan-Seared No-Fry Soya Kebab (हाई-प्रोटीन सोया कबाब)",
+    "hi": "हेल्दी नो-फ्राई सोया कबाब (तवे पर सिका हाई-प्रोटीन कबाब)"
+  },
+  "description_en": "1.9M views! Guilt-free, melt-in-mouth kebabs made without deep frying. Minced boiled soya chunks blended with roasted besan in desi ghee, fresh mint, coriander, ginger, garlic, and chaat masala, seared to golden perfection on a tawa.",
+  "description_hi": "19 लाख लोगों द्वारा पसंद किए गए बिना तले सुपर हेल्दी कबाब! उबली हुई सोयाबीन की बड़ियों का कीमा, भुने हुए बेसन, देसी घी, पुदीना, धनिया और खड़े मसालों के साथ तवे पर हल्का सेककर बनाए गए बेहद स्वादिष्ट कबाब।",
+  "description": {
+    "en": "1.9M views! Guilt-free, melt-in-mouth kebabs made without deep frying. Minced boiled soya chunks blended with roasted besan in desi ghee, fresh mint, coriander, ginger, garlic, and chaat masala, seared to golden perfection on a tawa.",
+    "hi": "19 लाख लोगों द्वारा पसंद किए गए बिना तले सुपर हेल्दी कबाब! उबली हुई सोयाबीन की बड़ियों का कीमा, भुने हुए बेसन, देसी घी, पुदीना, धनिया और खड़े मसालों के साथ तवे पर हल्का सेककर बनाए गए बेहद स्वादिष्ट कबाब।"
+  },
+  "category": "Snacks",
+  "diet": "Vegetarian",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "सरल",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cook_time_en": "15 mins",
+  "cook_time_hi": "15 मिनट",
+  "prepTime": "15 mins",
+  "cookTime": "15 mins",
+  "servings_en": "4 servings (12-14 kebabs)",
+  "servings_hi": "4 लोग (12-14 कबाब)",
+  "servings": 4,
+  "youtube_id": "FRyfG33qReo",
+  "youtubeId": "FRyfG33qReo",
+  "youtube_url": "https://youtu.be/FRyfG33qReo",
+  "image_url": "/static/images/FRyfG33qReo.jpg",
+  "tags": [
+    "Soya Kebab",
+    "No Fry",
+    "High Protein",
+    "Weight Loss",
+    "Healthy Snacks",
+    "Bharatzkitchen",
+    "Vegetarian"
+  ],
+  "ingredients_en": [
+    "150g Soya Chunks, boiled in 1 litre salted water & thoroughly squeezed dry",
+    "1/2 cup Gram Flour (Besan), roasted with 3 tsp Desi Ghee",
+    "1 tsp Cumin Seeds & 1 tsp Coriander Seeds (roasted with besan)",
+    "1 tsp Kashmiri Red Chilli Powder",
+    "2 medium Onions, finely minced",
+    "40g Fresh Coriander Leaves, chopped",
+    "2 inches Fresh Ginger & 10-12 Garlic Cloves, minced",
+    "5 Green Chillies, finely chopped",
+    "1 tsp Chaat Masala & 1/2 tsp Garam Masala",
+    "Salt to taste",
+    "1-2 tbsp Desi Ghee or Oil for pan searing",
+    "Sliced onions, lemon wedges & green mint chutney for serving"
+  ],
+  "ingredients_hi": [
+    "150 ग्राम सोया चंक्स (नमक पानी में उबले व पूरी तरह निचोड़े हुए)",
+    "1/2 कप बेसन (3 चम्मच देसी घी में भुना हुआ)",
+    "1 छोटा चम्मच जीरा व 1 छोटा चम्मच साबुत धनिया (बेसन संग भुना)",
+    "1 छोटा चम्मच कश्मीरी लाल मिर्च पाउडर",
+    "2 प्याज (बारीक कटे)",
+    "40 ग्राम हरा धनिया (बारीक कटा)",
+    "2 इंच अदरक व 10-12 लहसुन की कलियां (बारीक कटी)",
+    "5 हरी मिर्च (बारीक कटी)",
+    "1 छोटा चम्मच चाट मसाला व 1/2 छोटा चम्मच गरम मसाला",
+    "नमक स्वादानुसार",
+    "1-2 बड़े चम्मच देसी घी या तेल (तवे पर सेकने हेतु)",
+    "प्याज के लच्छे, नींबू व हरी चटनी"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Minced Soya Base (सोया कीमा)",
+      "category_hi": "सोया कीमा",
+      "items": [
+        {
+          "name_en": "Boiled & Squeezed Soya Chunks",
+          "name_hi": "उबले व निचोड़े सोया चंक्स",
+          "amount": "150g"
+        },
+        {
+          "name_en": "Ginger, Garlic & Green Chillies",
+          "name_hi": "अदरक, लहसुन व हरी मिर्च",
+          "amount": "2 inch + 12 cloves + 5 chillies"
+        },
+        {
+          "name_en": "Finely Minced Onions & Coriander",
+          "name_hi": "बारीक प्याज व हरा धनिया",
+          "amount": "2 onions + 40g coriander"
+        }
+      ]
+    },
+    {
+      "category_en": "Ghee Roasted Besan Binding (भुना बेसन बाइंडिंग)",
+      "category_hi": "भुना बेसन बाइंडिंग",
+      "items": [
+        {
+          "name_en": "Gram Flour (Besan)",
+          "name_hi": "बेसन",
+          "amount": "1/2 cup"
+        },
+        {
+          "name_en": "Desi Ghee",
+          "name_hi": "देसी घी",
+          "amount": "3 tsp"
+        },
+        {
+          "name_en": "Cumin, Coriander Seeds & Kashmiri Chilli",
+          "name_hi": "जीरा, साबुत धनिया व कश्मीरी मिर्च",
+          "amount": "1 tsp each"
+        }
+      ]
+    },
+    {
+      "category_en": "Seasoning & Pan Searing (सीजनिंग व तवा रोस्टिंग)",
+      "category_hi": "सीजनिंग व तवा रोस्टिंग",
+      "items": [
+        {
+          "name_en": "Chaat Masala & Garam Masala",
+          "name_hi": "चाट मसाला व गरम मसाला",
+          "amount": "1 tsp + 1/2 tsp"
+        },
+        {
+          "name_en": "Desi Ghee (for searing)",
+          "name_hi": "देसी घी (सेकने हेतु)",
+          "amount": "1-2 tbsp"
+        },
+        {
+          "name_en": "Salt",
+          "name_hi": "नमक",
+          "amount": "To taste"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Boil & Mince Soya Chunks: Boil 150g soya chunks in 1 litre water with 1 tsp salt for 5 minutes. Drain and rinse under cold water. Squeeze out every drop of moisture firmly with hands. Pulse in a mixer grinder into a fine, crumbly keema texture.",
+    "Roast Besan in Desi Ghee: Heat 3 tsp desi ghee in a pan. Add 1 tsp cumin seeds and 1 tsp whole coriander seeds; let them splutter. Add 1/2 cup besan and 1 tsp Kashmiri red chilli powder. Roast on low flame for 4-5 minutes until golden and nutty.",
+    "Mix Kebab Mixture: In a large bowl, combine the pulsed soya keema, roasted nutty besan mixture, finely chopped onions, ginger, garlic, green chillies, chopped coriander leaves, chaat masala, garam masala, and salt. Knead firmly with your hands into a cohesive, malleable dough.",
+    "Shape Kebabs: Grease hands with a drop of oil. Pinch lemon-sized portions of the mixture and shape into smooth, flat round patties or seekh kebab logs.",
+    "Pan-Sear on Tawa: Heat a flat tawa or cast iron pan over medium flame and brush with 1 tbsp desi ghee. Arrange the kebabs on the tawa with space between them.",
+    "Roast to Golden Crisp: Sear on medium-low flame for 3-4 minutes until the bottom crust turns deep golden brown and crispy. Flip gently with a spatula and sear the other side, adding a few drops of ghee along the edges.",
+    "Serve Hot: Transfer to a platter, sprinkle with a pinch of chaat masala, and serve piping hot with thinly sliced onion rings, lemon wedges, and chilled mint-coriander chutney!"
+  ],
+  "instructions_hi": [
+    "सोया कीमा बनाना: 150 ग्राम सोया चंक्स को नमक के पानी में 5 मिनट उबालें। ठंडा करके दोनों हाथों से दबाकर पूरा पानी निचोड़ लें। मिक्सी में पल्स करके दरदरा कीमा बना लें।",
+    "देसी घी में बेसन भूनना: पैन में 3 चम्मच देसी घी गरम करें। जीरा और साबुत धनिया चटकाएं। 1/2 कप बेसन और कश्मीरी मिर्च डालकर धीमी आंच पर सोंधी खुशबू आने तक भूनें।",
+    "कबाब का मिश्रण मिलाना: एक बाउल में सोया कीमा, भुना हुआ बेसन, बारीक प्याज, अदरक, लहसुन, हरी मिर्च, हरा धनिया, चाट मसाला, गरम मसाला और नमक डालकर हाथों से अच्छी तरह मिला लें।",
+    "टिक्की का आकार देना: हाथों में थोड़ा तेल लगाएं और नींबू के आकार की गोल चपटी टिक्कियां (कबाब) बना लें।",
+    "तवे पर सेकना: तवे पर 1 चम्मच देसी घी लगाएं और मध्यम आंच पर कबाब रखें।",
+    "दोनों तरफ से क्रिस्पी सेकना: धीमी-मध्यम आंच पर 3-4 मिनट सेकें। नीचे से सुनहरा होने पर पलटें और दूसरी तरफ भी क्रिस्पी होने तक सेकें।",
+    "गरमा-गरम परोसना: ऊपर से चाट मसाला छिड़कें और प्याज के लच्छों, नींबू व हरी पुदीना चटनी के साथ गरमा-गरम सर्व करें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Mince Squeezed Soya Chunks",
+      "title_hi": "सोया कीमा बनाना",
+      "instruction_en": "Boil soya chunks, squeeze out all moisture, and pulse in mixer into a fine keema.",
+      "instruction_hi": "सोयाबीन को उबालकर पूरा पानी निचोड़ें और मिक्सी में दरदरा कीमा बना लें।"
+    },
+    {
+      "step": 2,
+      "title_en": "Roast Besan in Desi Ghee",
+      "title_hi": "देसी घी में बेसन भूनना",
+      "instruction_en": "Roast gram flour in desi ghee with cumin, coriander seeds, and Kashmiri chilli until nutty.",
+      "instruction_hi": "देसी घी में जीरा, साबुत धनिया और कश्मीरी मिर्च के साथ बेसन को सुनहरा भूनें।"
+    },
+    {
+      "step": 3,
+      "title_en": "Knead Spiced Kebab Dough",
+      "title_hi": "कबाब का मिश्रण तैयार करना",
+      "instruction_en": "Knead minced soya with roasted besan, aromatics, herbs, chaat masala, and salt into cohesive dough.",
+      "instruction_hi": "सोया कीमा, भुना बेसन, प्याज, अदरक, लहसुन, मिर्च और चाट मसाला मिलाकर मिश्रण बनाएं।"
+    },
+    {
+      "step": 4,
+      "title_en": "Shape Even Round Patties",
+      "title_hi": "कबाब का आकार देना",
+      "instruction_en": "Shape dough into smooth, flat round kebab patties between oiled hands.",
+      "instruction_hi": "हाथों में तेल लगाकर गोल चपटे कबाब का आकार दें।"
+    },
+    {
+      "step": 5,
+      "title_en": "Brush Tawa with Ghee",
+      "title_hi": "तवे पर घी लगाना",
+      "instruction_en": "Heat flat tawa on medium flame and lightly brush with pure desi ghee.",
+      "instruction_hi": "तवे पर देसी घी लगाकर मध्यम आंच पर गरम करें।"
+    },
+    {
+      "step": 6,
+      "title_en": "Pan-Sear Till Crisp Golden",
+      "title_hi": "सुनहरा क्रिस्पी सेकना",
+      "instruction_en": "Sear for 3-4 minutes per side until deeply golden-brown and crispy without deep frying.",
+      "instruction_hi": "दोनों तरफ से 3-4 मिनट बिना डीप फ्राई किए सुनहरा कुरकुरा होने तक सेकें।"
+    },
+    {
+      "step": 7,
+      "title_en": "Garnish with Chaat Masala & Serve",
+      "title_hi": "चाट मसाला व चटनी संग परोसना",
+      "instruction_en": "Dust with chaat masala and serve hot with onion rings, lemon, and mint chutney!",
+      "instruction_hi": "ऊपर से चाट मसाला छिड़कें और प्याज व पुदीना चटनी के साथ गरमा-गरम परोसें!"
+    }
+  ],
+  "chef_tips_en": [
+    "Squeeze Out 100% Water: Any residual water in the boiled soya chunks will make the kebabs sticky and mushy. Squeeze with both fists until dry.",
+    "Roast Besan in Desi Ghee First: Adding raw besan gives an astringent taste; roasting it in ghee with cumin seeds beforehand provides an irresistible toasted nutty fragrance.",
+    "Pan-Searing vs Deep Frying: Sealing the exterior on a hot tawa with minimal ghee creates a crunchy golden crust while keeping the interior juicy and high in protein."
+  ],
+  "chef_tips_hi": [
+    "सोयाबीन का पूरा पानी निचोड़ना: उबली सोयाबीन में पानी रहने से कबाब गीले हो जाते हैं; इसलिए दोनों हाथों से दबाकर पूरा पानी निकालना बेहद जरूरी है।",
+    "घी में बेसन भूनने का राज: कच्चा बेसन डालने के बजाय देसी घी और जीरे में भूनकर डालने से कबाब में सोंधी खुशबू और हलवाई जैसा स्वाद आता है।",
+    "तवे पर सेकने की ट्रिक: डीप फ्राई करने के बजाय कम घी में तवे पर सेकने से कबाब बाहर से क्रिस्पी और अंदर से जूसी बनते हैं।"
+  ]
+}

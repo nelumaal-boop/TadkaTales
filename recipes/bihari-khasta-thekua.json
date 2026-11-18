@@ -1,0 +1,151 @@
+{
+  "id": "bihari-khasta-thekua",
+  "title_en": "Traditional Bihari Khasta Thekua (Chhath Puja Prasad)",
+  "title_hi": "छठ पूजा का महाप्रसाद पारंपरिक खस्ता ठेकुआ (बिहारी ठेकुआ)",
+  "title": {
+    "en": "Traditional Bihari Khasta Thekua (Chhath Puja Prasad)",
+    "hi": "छठ पूजा का महाप्रसाद पारंपरिक खस्ता ठेकुआ (बिहारी ठेकुआ)"
+  },
+  "description_en": "Recreate authentic Bihar Chhath Puja Mahaprasad Khasta Thekua with Kabita's Kitchen. Features whole wheat flour infused with desi ghee moyan, crunchy dry coconut slices, fragrant fennel seeds (saunf), cardamom, and slow-fried into crunchy, biscuit-like sweet cookies that stay fresh for over a month.",
+  "description_hi": "कबिताज़ किचन की प्रामाणिक रेसिपी से बनाएं छठ पूजा का महाप्रसाद पारंपरिक खस्ता बिहारी ठेकुआ। जानिए सही मोयन का अनुपात, बिना ज्यादा गूंथे दानेदार आटा बांधने की ट्रिक, सौंफ-सूखे नारियल की खुशबू और धीमी आंच पर सुनहरा खस्ता तलने का तरीका।",
+  "description": {
+    "en": "Recreate authentic Bihar Chhath Puja Mahaprasad Khasta Thekua with Kabita's Kitchen. Features whole wheat flour infused with desi ghee moyan, crunchy dry coconut slices, fragrant fennel seeds (saunf), cardamom, and slow-fried into crunchy, biscuit-like sweet cookies that stay fresh for over a month.",
+    "hi": "कबिताज़ किचन की प्रामाणिक रेसिपी से बनाएं छठ पूजा का महाप्रसाद पारंपरिक खस्ता बिहारी ठेकुआ। जानिए सही मोयन का अनुपात, बिना ज्यादा गूंथे दानेदार आटा बांधने की ट्रिक, सौंफ-सूखे नारियल की खुशबू और धीमी आंच पर सुनहरा खस्ता तलने का तरीका।"
+  },
+  "category": "Dessert",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cook_time_en": "25 mins",
+  "cook_time_hi": "25 मिनट",
+  "prepTime": "15 mins",
+  "cookTime": "25 mins",
+  "servings_en": "15-20 Thekuas",
+  "servings_hi": "15-20 ठेकुआ",
+  "servings": "15-20 Thekuas",
+  "youtube_id": "pfCAfHnTOEI",
+  "youtubeId": "pfCAfHnTOEI",
+  "youtube_url": "https://www.youtube.com/watch?v=pfCAfHnTOEI",
+  "image_url": "https://img.youtube.com/vi/pfCAfHnTOEI/hqdefault.jpg",
+  "tags": [
+    "thekua",
+    "chhath puja",
+    "bihari food",
+    "kabitas kitchen",
+    "prasad",
+    "mithai",
+    "traditional cookies",
+    "dessert"
+  ],
+  "ingredients_en": [
+    "4 cups Coarse Whole wheat flour (gehun ka atta)",
+    "1 cup Granulated sugar (cheeni) or jaggery (gud)",
+    "1/2 cup Water (for dissolving sugar partially)",
+    "1/3 cup Desi Ghee (melted warm, the essential moyan shortening)",
+    "1/2 cup Dry coconut / Copra (sukha nariyal, thinly sliced into small slivers)",
+    "1 tbsp Fennel seeds (saunf - the signature thekua flavor)",
+    "1 tsp Green cardamom powder (freshly pounded elaichi)",
+    "2 tbsp Chopped cashews or dry fruits (optional)",
+    "Desi Ghee or Cooking oil for deep frying"
+  ],
+  "ingredients_hi": [
+    "4 कप गेहूं का आटा (थोड़ा दरदरा पिसा आटा सबसे अच्छा होता है)",
+    "1 कप चीनी (या स्वादानुसार गुड़)",
+    "1/2 कप पानी (चीनी को हल्का घोलने के लिए)",
+    "1/3 कप देसी घी (पिघला हुआ, खस्तापन के लिए जरूरी मोयन)",
+    "1/2 कप सूखा नारियल / गोला (पतले छोटे लच्छों या टुकड़ों में कटा)",
+    "1 बड़ा चम्मच सौंफ (ठेकुआ की असली खुशबू)",
+    "1 छोटा चम्मच हरी इलायची का ताज़ा पाउडर",
+    "2 बड़ा चम्मच बारीक कटे काजू या सूखे मेवे (वैकल्पिक)",
+    "तलने के लिए देसी घी या रिफाइंड तेल"
+  ],
+  "ingredients": [
+    {
+      "category": "Flour & Fragrant Aromatics",
+      "items": [
+        { "en": "4 cups Whole wheat flour", "hi": "4 कप गेहूं का आटा" },
+        { "en": "1/3 cup Desi Ghee (warm moyan)", "hi": "1/3 कप देसी घी (मोयन)" },
+        { "en": "1/2 cup Thinly sliced dry coconut", "hi": "1/2 कप सूखा नारियल (पतले टुकड़े)" },
+        { "en": "1 tbsp Fennel seeds (saunf) & 1 tsp Cardamom", "hi": "1 बड़ा चम्मच सौंफ और 1 छोटा चम्मच इलायची" }
+      ]
+    },
+    {
+      "category": "Sugar Syrup & Frying",
+      "items": [
+        { "en": "1 cup Sugar dissolved partially in 1/2 cup Water", "hi": "1 कप चीनी 1/2 कप पानी में आधी घुली हुई" },
+        { "en": "Desi Ghee or Oil for deep frying", "hi": "तलने के लिए देसी घी या तेल" }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Step 1 - Prepare Sugar Water: In a bowl, combine 1 cup granulated sugar and 1/2 cup water. Stir for 1 to 2 minutes just until sugar crystals break down slightly. DO NOT boil or fully dissolve the sugar; keeping partial sugar crystals gives thekua its signature crunchy caramelized speckles after frying.",
+    "Step 2 - The Moyan Rubbing Secret: In a large wide parat or mixing bowl, take 4 cups of whole wheat flour. Add the fennel seeds (saunf), cardamom powder, and sliced dry coconut. Pour in 1/3 cup of melted warm desi ghee. Rub the ghee thoroughly into the flour between both palms for 3 to 4 minutes until the flour resembles wet breadcrumbs. Squeeze a handful of flour tightly in your fist—it should hold a solid shape without crumbling easily. This guarantees biscuit-like khasta texture.",
+    "Step 3 - Bind the Crumbly Dough: Gradually splash the prepared sugar-water over the flour in small portions. Using your fingers, simply gather and press the flour together until it binds into a stiff, crumbly, moist mass. CRUCIAL RULE: Never knead this like bread or chapati dough! Kneading develops gluten and turns the thekua hard and rubbery.",
+    "Step 4 - Shaping the Thekua: Pinch small portions of the stiff mixture (size of a small lime). Squeeze tightly in your palm to compact it into an oval or round patty (approx. 1/2-inch thickness). If you have a traditional wooden thekua mould (sancha), grease it lightly with ghee, place the dough ball on it, and press down firmly to imprint the iconic leaf or geometric pattern. Alternatively, press the back of a fork, slotted spoon, or toothpick into the dough to create decorative leaf veins.",
+    "Step 5 - The Slow Frying Science: Heat desi ghee or oil in a heavy-bottomed kadai over medium flame. Drop a tiny piece of dough into the oil—it should slowly bubble and rise to the surface (oil must be medium-low, never smoking hot). Gently slide 5 to 6 thekuas into the hot oil.",
+    "Step 6 - Patient Frying on Low Flame: Fry strictly on low to medium-low flame for 10 to 12 minutes. Thekua is dense and thick; high heat will burn the outside while leaving the raw dough gooey inside. Turn them gently with a slotted spoon every 2 to 3 minutes until they transform into a rich, deep mahogany-red golden hue.",
+    "Step 7 - Cooling & Setting: Lift the thekuas out using a slotted skimmer, holding them against the side of the kadai to drain excess ghee. Place them in a single layer on a wide tray or plate. Important: The thekuas will feel soft and tender while piping hot. Do not disturb them. As they cool completely to room temperature over 1 hour, the ghee sets and they harden into brittle, crispy, melt-in-the-mouth biscuits.",
+    "Step 8 - Store & Enjoy: Once 100% cooled, store in an airtight glass or steel container. They remain crisp, flavorful, and fresh for over 4 to 6 weeks at room temperature!"
+  ],
+  "instructions_hi": [
+    "स्टेप 1 - चीनी का पानी तैयार करना: एक बर्तन में 1 कप चीनी और 1/2 कप पानी लें। चम्मच से 1-2 मिनट चलाएं ताकि चीनी आधी घुल जाए। चीनी को पूरी तरह नहीं घोलना है और न ही चाशनी बनानी है; साबुत चीनी के दाने तलने पर कैरेमल बनकर ठेकुआ में लाजवाब क्रंच देते हैं।",
+    "स्टेप 2 - मोयन देने का राज़: एक बड़ी परात में 4 कप गेहूं का आटा लें। इसमें सौंफ, इलायची पाउडर और पतले कटे सूखे नारियल के टुकड़े डालें। अब 1/3 कप पिघला गुनगुना देसी घी डालें। दोनों हथेलियों से 3-4 मिनट तक अच्छी तरह मसलें ताकि मोयन आटे के हर कण में मिल जाए। मुट्ठी बांधकर देखें—मुट्ठी आसानी से बंधनी चाहिए। यह खस्तापन की पहचान है।",
+    "स्टेप 3 - आटा बांधने का सही तरीका: अब चीनी वाले पानी को थोड़ा-थोड़ा करके आटे पर छिड़कें और उंगलियों से समेटते हुए सख्त और दानेदार आटा बांध लें। सबसे बड़ा नियम: इसे रोटी के आटे की तरह बिल्कुल न गूंथें! ज्यादा गूंथने से ग्लूटेन खिंच जाता है और ठेकुआ कड़ा और रबर जैसा बन जाता है।",
+    "स्टेप 4 - ठेकुआ का आकार और डिजाइन: आटे की छोटी लोई (नींबू जितनी) तोड़ें और हथेली से दबाकर आधा इंच मोटी गोल या अंडाकार टिक्की बनाएं। अगर आपके पास लकड़ी का सांचा है, तो उस पर थोड़ा घी लगाकर लोई को दबाएं ताकि सुंदर पत्ते या जाली का डिजाइन छप जाए। सांचा न हो तो कांटे (Fork) या छलनी से दबाकर सुंदर डिजाइन बना लें।",
+    "स्टेप 5 - धीमी आंच पर तलने का विज्ञान: कड़ाही में देसी घी या तेल मध्यम गरम करें। तेल ज्यादा खौलता हुआ नहीं होना चाहिए (आटे का टुकड़ा डालने पर वह धीरे-धीरे तैरकर ऊपर आना चाहिए)। एक बार में 5-6 ठेकुआ कड़ाही में डालें।",
+    "स्टेप 6 - धैर्य से पकाना: बिल्कुल धीमी से मध्यम-धीमी आंच पर 10 से 12 मिनट तक तलें। ठेकुआ मोटा होता है, तेज़ आंच पर वह ऊपर से जल जाएगा और अंदर से कच्चा रह जाएगा। उलट-पुलट करते हुए गहरा सुनहरा और लाल रंग आने तक सेकें।",
+    "स्टेप 7 - ठंडा होने पर ही सख्त होना: करछी से निकालें और एक थाली में अलग-अलग रखें। ध्यान दें: गरम रहने पर ठेकुआ बहुत नरम होता है। 1 घंटे तक बिल्कुल ठंडा होने दें; ठंडा होने पर घी जम जाएगा और ठेकुआ एकदम बिस्कुट जैसा खस्ता और कुरकुरा हो जाएगा।",
+    "स्टेप 8 - स्टोर करें: पूरी तरह ठंडा होने पर एयरटाइट डिब्बे में भरकर रखें। यह पारंपरिक बिहारी ठेकुआ 1 महीने से ज्यादा समय तक एकदम ताज़ा और खस्ता बना रहता है!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": {
+        "en": "Partially dissolve 1 cup sugar in 1/2 cup water, keeping crunchy sugar crystals visible.",
+        "hi": "1 कप चीनी को 1/2 कप पानी में आधा घोलें ताकि चीनी के दाने बाकी रहें।"
+      }
+    },
+    {
+      "step": 2,
+      "text": {
+        "en": "Rub 1/3 cup warm ghee into 4 cups wheat flour with fennel, dry coconut, and cardamom until a tight fist holds shape.",
+        "hi": "आटे में घी, सौंफ, सूखा नारियल और इलायची डालकर मुट्ठी बंधने तक अच्छी तरह मसलें।"
+      }
+    },
+    {
+      "step": 3,
+      "text": {
+        "en": "Sprinkle sugar-water gradually; press together into a stiff crumbly mass without kneading like bread.",
+        "hi": "चीनी का पानी छिड़ककर सख्त दानेदार आटा बांध लें, इसे गूंथना नहीं है।"
+      }
+    },
+    {
+      "step": 4,
+      "text": {
+        "en": "Shape into 1/2-inch thick patties; press on a traditional thekua mould or with a fork to imprint patterns.",
+        "hi": "आधा इंच मोटी टिक्की बनाएं और सांचे या कांटे से सुंदर डिजाइन बनाएं।"
+      }
+    },
+    {
+      "step": 5,
+      "text": {
+        "en": "Deep fry on low heat for 10-12 mins until deep mahogany golden. Cool 1 hour until biscuit-crisp. Stores for 1 month.",
+        "hi": "धीमी आंच पर 10-12 मिनट लाल सुनहरा तलें। ठंडा करके बिस्कुट जैसा खस्ता बनाएं; 1 महीने तक स्टोर करें।"
+      }
+    }
+  ],
+  "chef_tips_en": [
+    "Never Knead like Chapati: The single biggest secret to authentic thekua is gathering the dough with fingertips without kneading. Kneading develops gluten elasticity which turns thekua rock-hard. Gathering preserves the crumbly biscuit layers.",
+    "Partially Dissolved Sugar: Never boil sugar into a syrup or use powdered sugar. Intact sugar granules melt and caramelize inside the hot ghee during frying, leaving sweet crunchy jewel-like pockets.",
+    "Soft When Hot, Hard When Cold: Do not panic if thekuas feel soft when lifted out of hot oil. As the internal ghee cools to room temperature, they solidify into crisp, shattered cookies."
+  ],
+  "chef_tips_hi": [
+    "आटे को गूंथना नहीं है: ठेकुआ के आटे को कभी भी रोटी की तरह मसला नहीं जाता; केवल उंगलियों से पानी छिड़ककर जोड़ना होता है। ज्यादा गूंथने से ठेकुआ पत्थर जैसा सख्त हो जाता है।",
+    "आधी घुली चीनी का महत्व: चीनी को पूरा न घोलें। साबुत चीनी के दाने तेल में सिकते समय कैरेमलाइज होकर ठेकुआ के अंदर बहुत ही कुरकुरा और स्वादिष्ट क्रंच देते हैं।",
+    "गरम में नरम, ठंडे में खस्ता: गरम तेल से निकालते समय ठेकुआ बहुत सॉफ्ट होता है; जैसे-जैसे यह ठंडा होता है, घी जमने से एकदम खस्ता बिस्कुट जैसा बन जाता है।"
+  ]
+}

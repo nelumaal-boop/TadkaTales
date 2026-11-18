@@ -1,0 +1,96 @@
+{
+  "id": "moringa-leaves-stir-fry",
+  "title": {
+    "en": "Nutritious Moringa Leaves Stir Fry (Murungai Keerai Poriyal)",
+    "hi": "पौष्टिक मोरिंगा/सहजन के पत्तों की भुर्जी (पोरियल)"
+  },
+  "title_en": "Nutritious Moringa Leaves Stir Fry (Murungai Keerai Poriyal)",
+  "title_hi": "पौष्टिक मोरिंगा/सहजन के पत्तों की भुर्जी (पोरियल)",
+  "description": {
+    "en": "A superfood side dish loaded with iron, vitamins, and antioxidants. Tender moringa (drumstick) leaves lightly cooked with golden lentils, crunchy mustard seeds, shallots, and freshly grated coconut.",
+    "hi": "आयरन और विटामिन्स से भरपूर सुपरफूड मोरिंगा (सहजन) के पत्तों की स्वादिष्ट भुर्जी। मूंग दाल, छोटे प्याज, राई के तड़के और ताजे नारियल के साथ तैयार यह पोरियल चावल व रसम के साथ उत्तम लगता है।"
+  },
+  "description_en": "A superfood side dish loaded with iron, vitamins, and antioxidants. Tender moringa (drumstick) leaves lightly cooked with golden lentils, crunchy mustard seeds, shallots, and freshly grated coconut.",
+  "description_hi": "आयरन और विटामिन्स से भरपूर सुपरफूड मोरिंगा (सहजन) के पत्तों की स्वादिष्ट भुर्जी। मूंग दाल, छोटे प्याज, राई के तड़के और ताजे नारियल के साथ तैयार यह पोरियल चावल व रसम के साथ उत्तम लगता है।",
+  "category": "Latest Recipe",
+  "isVegetarian": true,
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "prepTime": "10 mins",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cookTime": "15 mins",
+  "cook_time_en": "15 mins",
+  "cook_time_hi": "15 मिनट",
+  "servings": "4 servings",
+  "servings_en": "4 servings",
+  "servings_hi": "4 सर्विंग्स",
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "youtube_id": "AIgAown9ccw",
+  "youtubeId": "AIgAown9ccw",
+  "youtube_url": "https://www.youtube.com/watch?v=AIgAown9ccw",
+  "author": "HomeCookingShow",
+  "image_url": "/static/images/AIgAown9ccw.jpg",
+  "tags": [
+    "Moringa Leaves",
+    "Iron Rich",
+    "Poriyal",
+    "South Indian",
+    "Healthy Side Dish",
+    "Vegetarian",
+    "HomeCookingShow"
+  ],
+  "ingredients_en": [
+    "1 large bunch fresh Moringa Leaves (washed, plucked, stalks discarded)",
+    "1/4 cup Yellow Moong Dal (cooked till firm, not mushy)",
+    "2 tbsp Coconut Oil",
+    "1 tsp Mustard Seeds & 1 tsp Urad Dal",
+    "2 Dry Red Chillies (broken)",
+    "1/2 cup Shallots / Small Onions (finely chopped)",
+    "2 cloves Garlic (crushed)",
+    "1/4 tsp Turmeric Powder",
+    "1/2 tsp Salt (to taste, add at end)",
+    "3 tbsp Fresh Grated Coconut"
+  ],
+  "ingredients_hi": [
+    "1 बड़ी गड्डी ताजे मोरिंगा/सहजन के पत्ते (धोकर डंठल अलग किए हुए)",
+    "1/4 कप मूंग दाल (खिली-खिली उबली हुई)",
+    "2 बड़े चम्मच नारियल का तेल",
+    "1 छोटा चम्मच राई व 1 छोटा चम्मच उड़द दाल",
+    "2 सूखी लाल मिर्च (तोड़ी हुई)",
+    "1/2 कप छोटे प्याज / सांभर प्याज (बारीक कटे हुए)",
+    "2 कलियां लहसुन (कुटी हुई)",
+    "1/4 छोटा चम्मच हल्दी पाउडर",
+    "1/2 छोटा चम्मच नमक (स्वादानुसार, अंत में डालें)",
+    "3 बड़े चम्मच कद्दूकस ताजा नारियल"
+  ],
+  "instructions_en": [
+    "Pluck clean tender moringa leaves from the thick stems, rinse thoroughly in salted water, and drain completely.",
+    "Boil moong dal in a small pan with water and a pinch of turmeric until cooked tender yet holding shape. Drain excess water.",
+    "Heat coconut oil in a wide pan. Splutter mustard seeds, urad dal, and dried red chillies until fragrant and golden.",
+    "Add chopped shallots and crushed garlic. Sauté on medium flame until onions turn light pink and aromatic.",
+    "Add the cleaned moringa leaves and turmeric powder. Toss on medium flame for 3–4 minutes until leaves wilt down.",
+    "Add a splash of water, cover, and cook on low heat for 5 minutes until leaves turn tender.",
+    "Stir in the boiled moong dal and salt (always add salt after greens shrink to avoid over-salting). Mix well for 1 minute.",
+    "Turn off the flame and fold in freshly grated coconut. Serve as a wholesome nutritious accompaniment to rice and sambar."
+  ],
+  "instructions_hi": [
+    "मोरिंगा के पत्तों को मोटे डंठलों से अलग कर लें, पानी में अच्छी तरह धोकर पूरी तरह सुखा लें।",
+    "मूंग दाल को चुटकी भर हल्दी के साथ इतना उबालें कि वह पक जाए पर घुले नहीं।",
+    "कड़ाही में नारियल तेल गरम करें। राई, उड़द दाल और सूखी लाल मिर्च डालकर चटकाएं।",
+    "बारीक कटे छोटे प्याज और कुटा लहसुन डालें और प्याज के गुलाबी होने तक भूनें।",
+    "अब मोरिंगा के पत्ते और हल्दी डालें। मध्यम आंच पर 3-4 मिनट चलाएं ताकि पत्ते सिकुड़ जाएं।",
+    "2 चम्मच पानी छिड़कें, ढककर धीमी आंच पर 5 मिनट पकने दें जब तक पत्ते अच्छे से गल न जाएं।",
+    "अब उबली मूंग दाल और स्वादानुसार नमक मिलाएं (हरी सब्जियों में नमक हमेशा अंत में डालें)।",
+    "गैस बंद करें और ऊपर से कद्दूकस किया नारियल डालकर मिलाएं। चावल और सांबर के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "Always remove the bitter fibrous stems; only tender leaves should be used.",
+    "Never overcook leafy greens; a brief gentle sauté retains vibrant color and nutritional potency."
+  ],
+  "chef_tips_hi": [
+    "पत्तों के साथ मोटे डंठल न रखें, केवल मुलायम पत्तों का ही उपयोग करें।",
+    "नमक हमेशा अंत में डालें क्योंकि पत्ते पकने के बाद मात्रा में काफी कम हो जाते हैं।"
+  ]
+}

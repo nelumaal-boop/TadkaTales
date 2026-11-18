@@ -1,0 +1,286 @@
+{
+  "id": "dhaba-pressure-cooker-mushroom-masala",
+  "title_en": "Dhaba-Style Pressure Cooker Mushroom Masala",
+  "title_hi": "ढाबा स्टाइल प्रेशर कुकर मशरूम मसाला",
+  "title": {
+    "en": "Dhaba-Style Pressure Cooker Mushroom Masala",
+    "hi": "ढाबा स्टाइल प्रेशर कुकर मशरूम मसाला"
+  },
+  "description_en": "A robust, rustic North Indian winter curry featuring plump button mushrooms seared in butter and meat masala, simmered in a velvety pressure-cooked gravy of caramelized onions, ripe tomatoes, and 20-25 whole garlic cloves in smoking mustard oil. Richer and more satisfying than non-veg curries, made effortlessly in 25 minutes.",
+  "description_hi": "सर्दियों की बेहद लजीज और खुशबूदार ढाबा स्टाइल मशरूम मसाला करी। मक्खन और मसालों में भुने जूसी मशरूम, जिन्हें सरसों के तेल में कैरामेलाइज्ड प्याज, टमाटर और 20-25 साबुत लहसुन की कलियों के साथ कुकर में मखमली पकाई गई रिच ग्रेवी में पकाया गया है।",
+  "description": {
+    "en": "A robust, rustic North Indian winter curry featuring plump button mushrooms seared in butter and meat masala, simmered in a velvety pressure-cooked gravy of caramelized onions, ripe tomatoes, and 20-25 whole garlic cloves in smoking mustard oil. Richer and more satisfying than non-veg curries, made effortlessly in 25 minutes.",
+    "hi": "सर्दियों की बेहद लजीज और खुशबूदार ढाबा स्टाइल मशरूम मसाला करी। मक्खन और मसालों में भुने जूसी मशरूम, जिन्हें सरसों के तेल में कैरामेलाइज्ड प्याज, टमाटर और 20-25 साबुत लहसुन की कलियों के साथ कुकर में मखमली पकाई गई रिच ग्रेवी में पकाया गया है।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cook_time_en": "20 mins",
+  "cook_time_hi": "20 मिनट",
+  "prepTime": "10 mins",
+  "cookTime": "20 mins",
+  "servings_en": "4 servings (4 लोग)",
+  "servings_hi": "4 सर्विंग्स (4 लोग)",
+  "servings": "4 servings",
+  "youtube_id": "stvMrVPwJQc",
+  "youtubeId": "stvMrVPwJQc",
+  "youtube_url": "https://youtu.be/stvMrVPwJQc",
+  "image_url": "https://img.youtube.com/vi/stvMrVPwJQc/maxresdefault.jpg",
+  "tags": [
+    "mushroom masala",
+    "pressure cooker curry",
+    "dhaba style mushroom",
+    "bharatzkitchen",
+    "winter recipe",
+    "high protein veg",
+    "restaurant style gravy",
+    "easy dinner"
+  ],
+  "ingredients_en": [
+    "500g Fresh White Button Mushrooms",
+    "2 tbsp Whole Wheat Flour (Atta, for cleaning mushrooms)",
+    "1 tbsp Butter (for searing mushrooms)",
+    "1 tbsp Meat Masala (or Kitchen King / Garam Masala - 100% vegetarian spice blend)",
+    "1/4 cup Mustard Oil (Sarson ka Tel)",
+    "1 tsp Cumin Seeds (Jeera)",
+    "2-3 Dried Whole Red Chillies (Sabut Lal Mirch)",
+    "3 Medium Onions, finely chopped",
+    "20-25 Whole Garlic Cloves (peeled)",
+    "2 inch Fresh Ginger, grated (for gravy)",
+    "2 inch Fresh Ginger, cut into fine juliennes (for mushroom sear)",
+    "3 Medium Ripe Tomatoes, finely chopped",
+    "3 Fresh Green Chillies, slit lengthwise",
+    "1/2 tsp Turmeric Powder (Haldi)",
+    "1 tsp Kashmiri Red Chilli Powder",
+    "1 tbsp Coriander Powder (Dhaniya Powder)",
+    "1 tsp Garam Masala Powder",
+    "1 tsp Kasuri Methi (crushed dried fenugreek leaves)",
+    "2 tsp Salt (or to taste)",
+    "1/2 to 3/4 cup Water (as needed for pressure cooking)",
+    "1/4 cup Fresh Coriander Leaves, finely chopped"
+  ],
+  "ingredients_hi": [
+    "500 ग्राम ताजे बटन मशरूम",
+    "2 बड़े चम्मच गेहूं का आटा (मशरूम साफ करने के लिए)",
+    "1 बड़ा चम्मच मक्खन (मशरूम भूनने के लिए)",
+    "1 बड़ा चम्मच मीट मसाला (या किचन किंग / गरम मसाला - 100% शाकाहारी साबुत मसालों का मिश्रण)",
+    "1/4 कप सरसों का तेल",
+    "1 छोटा चम्मच जीरा",
+    "2-3 साबुत सूखी लाल मिर्च",
+    "3 मध्यम प्याज (बारीक कटे हुए)",
+    "20-25 साबुत लहसुन की कलियां (छिली हुई)",
+    "2 इंच अदरक (कद्दूकस किया हुआ - ग्रेवी के लिए)",
+    "2 इंच अदरक (लंबे लच्छे - मशरूम के साथ)",
+    "3 मध्यम पके टमाटर (बारीक कटे हुए)",
+    "3 हरी मिर्च (लंबाई में कटी हुई)",
+    "1/2 छोटा चम्मच हल्दी पाउडर",
+    "1 छोटा चम्मच कश्मीरी लाल मिर्च पाउडर",
+    "1 बड़ा चम्मच धनिया पाउडर",
+    "1 छोटा चम्मच गरम मसाला पाउडर",
+    "1 छोटा चम्मच कसूरी मेथी (हाथ से मसली हुई)",
+    "2 छोटे चम्मच नमक (स्वादानुसार)",
+    "1/2 से 3/4 कप पानी (कुकर में पकाने के लिए)",
+    "1/4 कप ताजा हरा धनिया (बारीक कटा हुआ)"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Mushroom Prep & Searing (मशरूम और मक्खन भुनाई)",
+      "category_hi": "मशरूम तैयारी व मक्खन भुनाई",
+      "items": [
+        {
+          "name_en": "Fresh Button Mushrooms",
+          "name_hi": "बटन मशरूम",
+          "amount": "500g (दो टुकड़ों में कटे)"
+        },
+        {
+          "name_en": "Whole Wheat Flour (Atta)",
+          "name_hi": "गेहूं का आटा",
+          "amount": "2 tbsp (सफाई के लिए)"
+        },
+        {
+          "name_en": "Butter",
+          "name_hi": "मक्खन",
+          "amount": "1 tbsp"
+        },
+        {
+          "name_en": "Meat Masala / Kitchen King",
+          "name_hi": "मीट मसाला / किचन किंग",
+          "amount": "1 tbsp"
+        },
+        {
+          "name_en": "Ginger Juliennes",
+          "name_hi": "अदरक के लच्छे",
+          "amount": "2 inch"
+        },
+        {
+          "name_en": "Green Chillies",
+          "name_hi": "हरी मिर्च",
+          "amount": "3 (चीरा लगी)"
+        }
+      ]
+    },
+    {
+      "category_en": "Pressure Cooker Gravy Base (कुकर ग्रेवी बेस)",
+      "category_hi": "कुकर ग्रेवी सामग्री",
+      "items": [
+        {
+          "name_en": "Mustard Oil",
+          "name_hi": "सरसों का तेल",
+          "amount": "1/4 cup"
+        },
+        {
+          "name_en": "Cumin Seeds",
+          "name_hi": "जीरा",
+          "amount": "1 tsp"
+        },
+        {
+          "name_en": "Dried Red Chillies",
+          "name_hi": "सूखी लाल मिर्च",
+          "amount": "2-3"
+        },
+        {
+          "name_en": "Onions",
+          "name_hi": "बारीक कटे प्याज",
+          "amount": "3 medium"
+        },
+        {
+          "name_en": "Whole Garlic Cloves",
+          "name_hi": "साबुत लहसुन की कलियां",
+          "amount": "20-25 cloves"
+        },
+        {
+          "name_en": "Grated Ginger",
+          "name_hi": "कद्दूकस अदरक",
+          "amount": "2 inch"
+        },
+        {
+          "name_en": "Tomatoes",
+          "name_hi": "बारीक कटे टमाटर",
+          "amount": "3 medium"
+        }
+      ]
+    },
+    {
+      "category_en": "Spices & Finishing (मसाले व गार्निश)",
+      "category_hi": "मसाले और खुशबूदार सामग्री",
+      "items": [
+        {
+          "name_en": "Turmeric Powder",
+          "name_hi": "हल्दी पाउडर",
+          "amount": "1/2 tsp"
+        },
+        {
+          "name_en": "Kashmiri Red Chilli Powder",
+          "name_hi": "कश्मीरी लाल मिर्च",
+          "amount": "1 tsp"
+        },
+        {
+          "name_en": "Coriander Powder",
+          "name_hi": "धनिया पाउडर",
+          "amount": "1 tbsp"
+        },
+        {
+          "name_en": "Garam Masala",
+          "name_hi": "गरम मसाला",
+          "amount": "1 tsp"
+        },
+        {
+          "name_en": "Kasuri Methi",
+          "name_hi": "कसूरी मेथी",
+          "amount": "1 tsp"
+        },
+        {
+          "name_en": "Salt",
+          "name_hi": "नमक",
+          "amount": "2 tsp or to taste"
+        },
+        {
+          "name_en": "Fresh Coriander Leaves",
+          "name_hi": "ताजा हरा धनिया",
+          "amount": "1/4 cup"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Clean Mushrooms with Wheat Flour: Place the 500g whole mushrooms in a large bowl. Sprinkle 2 tbsp of dry whole wheat flour (atta) all over. Gently rub each mushroom with your fingers—the dry flour absorbs moisture and removes all black compost dirt effortlessly. Rinse quickly under cold running water, pat completely dry with a kitchen towel, and halve each mushroom.",
+    "Smoke Mustard Oil in Cooker: Heat 1/4 cup mustard oil in a pressure cooker on medium-high heat until it reaches smoking point. Turn down the heat slightly, then add 1 tsp cumin seeds and 2-3 dried whole red chillies. Let them crackle.",
+    "Build the Gravy Base: Add 3 finely chopped onions and sauté for 4-5 minutes until translucent and light golden. Add 20-25 whole peeled garlic cloves and 2 inches of grated ginger. Stir for 1 minute until fragrant.",
+    "Add Tomatoes & Ground Spices: Add the 3 finely chopped tomatoes, 1/2 tsp turmeric powder, 1 tsp Kashmiri red chilli powder, 1 tbsp coriander powder, and 2 tsp salt. Cook for 2 minutes, then pour in 1/2 to 3/4 cup water. Stir well.",
+    "Pressure Cook the Gravy: Close the pressure cooker lid and cook on medium flame for 2 whistles. Turn off the flame and let the steam release naturally. Open the cooker and briskly whisk or mash the gravy with a ladle—the whole garlic and onions will melt into a luscious, silky, thick restaurant-style masala gravy.",
+    "Pan-Sear Mushrooms in Butter (The Flavor Bomb): In a separate wide frying pan, melt 1 tbsp butter on high flame. Add the cleaned halved mushrooms, ginger juliennes, 3 slit green chillies, and 1 tbsp meat masala. Toss vigorously on high heat for just 2 to 3 minutes until slightly seared and fragrant. (High heat prevents mushrooms from releasing too much water).",
+    "Combine Mushrooms and Gravy: Immediately transfer the sizzling butter-seared mushrooms into the simmering pressure-cooked gravy. Stir thoroughly to coat.",
+    "Simmer & Finish: Simmer the mushroom masala on low heat for 3-4 minutes so the mushrooms absorb all the spicy juices while remaining plump and juicy. Sprinkle 1 tsp crushed kasuri methi, 1 tsp garam masala, and 1/4 cup chopped fresh coriander. Serve piping hot with tandoori rotis, garlic naans, or steamed basmati rice!"
+  ],
+  "instructions_hi": [
+    "आटे से मशरूम साफ करें: एक बर्तन में 500 ग्राम मशरूम लें और ऊपर 2 बड़े चम्मच गेहूं का आटा छिड़कें। उंगलियों से हल्के हाथों से रगड़ें—आटा सारी गंदगी और नमी सोख लेगा। अब तुरंत ठंडे पानी से धोकर सूखे कपड़े से पोंछ लें और दो-दो टुकड़ों में काट लें।",
+    "कुकर में सरसों का तेल गरम करें: प्रेशर कुकर में 1/4 कप सरसों का तेल धुआं निकलने तक गरम करें। आंच थोड़ी धीमी करें और 1 चम्मच जीरा व 2-3 सूखी लाल मिर्च डालकर चटकाएं।",
+    "प्याज और साबुत लहसुन भूनें: 3 बारीक कटे प्याज डालकर 4-5 मिनट हल्का सुनहरा होने तक भूनें। अब 20-25 साबुत छिली लहसुन की कलियां और कद्दूकस किया अदरक डालकर 1 मिनट चलाएं।",
+    "टमाटर और मसाले मिलाएं: 3 कटे टमाटर, 1/2 चम्मच हल्दी, 1 चम्मच कश्मीरी लाल मिर्च, 1 चम्मच धनिया पाउडर और 2 चम्मच नमक डालें। 2 मिनट भूनें, फिर 1/2 से 3/4 कप पानी डालकर अच्छी तरह मिलाएं।",
+    "कुकर में 2 सीटी लगाएं: कुकर का ढक्कन बंद करें और मध्यम आंच पर 2 सीटी आने तक पकाएं। प्रेशर अपने आप निकलने दें। ढक्कन खोलें और कलछी से हल्का चलाएं—साबुत लहसुन, प्याज और टमाटर गलकर एकदम मखमली गाढ़ी ग्रेवी बन जाएंगे।",
+    "मक्खन में मशरूम भूनें (सीक्रेट फ्लेवर स्टेप): एक अलग पैन में 1 बड़ा चम्मच मक्खन तेज आंच पर पिघलाएं। इसमें कटे मशरूम, अदरक के लच्छे, 3 हरी मिर्च और 1 बड़ा चम्मच मीट मसाला डालें। तेज आंच पर 2-3 मिनट तेजी से टॉस करें ताकि मशरूम मक्खन और मसालों को सोख लें।",
+    "ग्रेवी में मशरूम मिलाएं: भुने हुए खुशबूदार मशरूम को तुरंत कुकर की उबलती हुई गाढ़ी ग्रेवी में पलट दें और अच्छी तरह मिलाएं।",
+    "धीमी आंच पर पकाएं और सजाएं: धीमी आंच पर 3-4 मिनट तक उबलने दें ताकि मशरूम जूसी रहें और सारा मसाला उनके अंदर समा जाए। ऊपर से 1 चम्मच कसूरी मेथी, 1 चम्मच गरम मसाला और हरा धनिया डालकर गरमा-गरम तंदूरी रोटी या पराठे के साथ परोसें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Flour Rub Cleaning",
+      "title_hi": "आटे से मशरूम सफाई",
+      "instruction_en": "Rub mushrooms with dry wheat flour to absorb compost dirt, rinse quickly under water, wipe dry, and cut into halves.",
+      "instruction_hi": "सूखे गेहूं के आटे से मशरूम रगड़कर साफ करें, पानी से धोकर पोंछें और दो टुकड़ों में काट लें।"
+    },
+    {
+      "step": 2,
+      "title_en": "Tempering in Mustard Oil",
+      "title_hi": "सरसों तेल में तड़का",
+      "instruction_en": "Heat mustard oil to smoking point in a cooker. Splutter cumin seeds and dried whole red chillies.",
+      "instruction_hi": "कुकर में सरसों का तेल धुआं उठने तक गरम करें और जीरा व सूखी लाल मिर्च चटकाएं।"
+    },
+    {
+      "step": 3,
+      "title_en": "Sautéing Onions & Whole Garlic",
+      "title_hi": "प्याज व साबुत लहसुन भूनना",
+      "instruction_en": "Sauté chopped onions until golden, then add 20-25 whole garlic cloves and grated ginger.",
+      "instruction_hi": "कटे प्याज भूनें, फिर 20-25 साबुत लहसुन की कलियां और कद्दूकस अदरक डालकर भूनें।"
+    },
+    {
+      "step": 4,
+      "title_en": "Pressure Cooking the Gravy",
+      "title_hi": "कुकर में ग्रेवी पकाना",
+      "instruction_en": "Add tomatoes, turmeric, chilli powder, coriander powder, salt, and water. Cook for 2 whistles until velvety.",
+      "instruction_hi": "टमाटर, हल्दी, मिर्च, धनिया पाउडर, नमक और पानी डालकर 2 सीटी आने तक पकाएं और मैश करें।"
+    },
+    {
+      "step": 5,
+      "title_en": "High Heat Butter Searing",
+      "title_hi": "मक्खन में मशरूम भूनना",
+      "instruction_en": "In a pan on high flame, sear mushrooms with butter, meat masala, ginger juliennes, and green chillies for 2-3 minutes.",
+      "instruction_hi": "पैन में तेज आंच पर 1 चम्मच मक्खन में मशरूम, मीट मसाला, अदरक लच्छे और हरी मिर्च 2-3 मिनट टॉस करें।"
+    },
+    {
+      "step": 6,
+      "title_en": "Simmering Together & Finishing",
+      "title_hi": "मिलाना और कसूरी मेथी से सजाना",
+      "instruction_en": "Combine seared mushrooms with cooked gravy, simmer for 3 minutes, and finish with kasuri methi, garam masala, and coriander.",
+      "instruction_hi": "मशरूम को ग्रेवी में मिलाएं, 3 मिनट धीमी आंच पर पकाएं, कसूरी मेथी और हरा धनिया डालकर परोसें।"
+    }
+  ],
+  "chef_tips_en": [
+    "Dry Wheat Flour Cleaning: Never soak mushrooms in water, as their porous structure acts like a sponge, becoming waterlogged and spongy. Rubbing with dry wheat flour lifts away soil effortlessly without adding excess moisture.",
+    "The 20-25 Whole Garlic Cloves: Cooking whole garlic cloves in the pressure cooker softens them into sweet, buttery pearls that melt into the gravy when stirred, creating restaurant-style body and natural sweetness.",
+    "High Heat Searing in Butter: Searing the mushrooms separately on high flame caramelizes the exterior and seals in moisture, ensuring the mushrooms stay tender and plump rather than shrinking or turning rubbery.",
+    "Clarification on Meat Masala: In Indian spice commerce, 'Meat Masala' is completely vegetarian—it is a traditional, intensely fragrant blend of coriander, cumin, black pepper, nutmeg, mace, cinnamon, and cloves crafted to replicate the rich spice profile of Mughlai gravies."
+  ],
+  "chef_tips_hi": [
+    "आटे से सफाई का विज्ञान: मशरूम को कभी पानी में भिगोकर न रखें, क्योंकि वे स्पंज की तरह पानी सोख लेते हैं और पकाने पर रबर जैसे हो जाते हैं। सूखा आटा रगड़ने से सारी गंदगी मिनटों में छूट जाती है।",
+    "20-25 साबुत लहसुन का जादू: कुकर में साबुत लहसुन की कलियां 2 सीटी में मक्खन की तरह मुलायम हो जाती हैं और ग्रेवी को बिना क्रीम के भी गाढ़ा और लाजवाब सोंधापन देती हैं।",
+    "तेज आंच पर मक्खन में भुनाई: मशरूम को हमेशा अलग पैन में तेज आंच पर 2-3 मिनट मक्खन के साथ भूनें। इससे मशरूम के अंदर का रस सील हो जाता है और वे सिकुड़ने की बजाय रसदार बने रहते हैं।",
+    "मीट मसाला 100% शाकाहारी है: भारतीय मसालों में 'मीट मसाला' पूरी तरह शाकाहारी खड़े मसालों (जायफल, जावित्री, लौंग, दालचीनी, काली मिर्च) का सुगंधित मिश्रण होता है जो ढाबा स्टाइल ग्रेवी में जान फूंक देता है।"
+  ]
+}

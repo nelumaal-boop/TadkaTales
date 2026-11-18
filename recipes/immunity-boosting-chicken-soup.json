@@ -1,0 +1,263 @@
+{
+  "id": "immunity-boosting-chicken-soup",
+  "title_en": "Immunity Boosting Chicken Soup (Winter Cold & Cough Remedy)",
+  "title_hi": "इम्यूनिटी बूस्टर विंटर चिकन सूप (सर्दी-जुकाम स्पेशल)",
+  "title": {
+    "en": "Immunity Boosting Chicken Soup (Winter Cold & Cough Remedy)",
+    "hi": "इम्यूनिटी बूस्टर विंटर चिकन सूप (सर्दी-जुकाम स्पेशल)"
+  },
+  "description_en": "A restorative, soul-soothing chicken soup simmered with bone-in chicken, fragrant whole spices, garlic, ginger, and cracked black pepper. High in protein and collagen, this comforting elixir clears congested sinuses, beats cold & cough, and builds natural immunity.",
+  "description_hi": "सर्दियों के लिए एक बेहद पौष्टिक, स्वादिष्ट और ताजगी देने वाला सूप। हड्डी वाले चिकन, साबुत मसालों, कुटे अदरक-लहसुन और ताजी कुटी काली मिर्च के साथ तैयार यह सूप सर्दी, खांसी और जुकाम में तुरंत राहत देता है और शरीर की रोग प्रतिरोधक क्षमता (Immunity) बढ़ाता है।",
+  "description": {
+    "en": "A restorative, soul-soothing chicken soup simmered with bone-in chicken, fragrant whole spices, garlic, ginger, and cracked black pepper. High in protein and collagen, this comforting elixir clears congested sinuses, beats cold & cough, and builds natural immunity.",
+    "hi": "सर्दियों के लिए एक बेहद पौष्टिक, स्वादिष्ट और ताजगी देने वाला सूप। हड्डी वाले चिकन, साबुत मसालों, कुटे अदरक-लहसुन और ताजी कुटी काली मिर्च के साथ तैयार यह सूप सर्दी, खांसी और जुकाम में तुरंत राहत देता है और शरीर की रोग प्रतिरोधक क्षमता (Immunity) बढ़ाता है।"
+  },
+  "category": "Snacks",
+  "diet": "Non-Vegetarian",
+  "diet_hi": "मांसाहारी",
+  "isVegetarian": false,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "सरल",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cook_time_en": "25 mins",
+  "cook_time_hi": "25 मिनट",
+  "prepTime": "15 mins",
+  "cookTime": "25 mins",
+  "servings_en": "4 servings",
+  "servings_hi": "4 लोग",
+  "servings": 4,
+  "youtube_id": "QQrVBsRXAGc",
+  "youtubeId": "QQrVBsRXAGc",
+  "youtube_url": "https://youtu.be/QQrVBsRXAGc",
+  "image_url": "/static/images/QQrVBsRXAGc.jpg",
+  "tags": [
+    "Chicken Soup",
+    "Soup",
+    "Healthy",
+    "Winter Special",
+    "Immunity Booster",
+    "Weight Loss",
+    "Bharatzkitchen",
+    "Non-Vegetarian"
+  ],
+  "ingredients_en": [
+    "400g Bone-in Chicken pieces (for nutrient-rich stock)",
+    "1.2 Litres Water (about 5 cups)",
+    "1.5 inches Fresh Ginger, bruised",
+    "10 Garlic Cloves, crushed",
+    "2 tbsp Fresh Coriander Stems (Dhania ki Dandi)",
+    "10-12 Whole Black Peppercorns",
+    "3 Cloves (Laung) & 1 inch Cinnamon Stick (Dalchini)",
+    "1.5 tbsp Butter or Pure Desi Ghee",
+    "1 tbsp Garlic, finely minced",
+    "1 medium Onion, finely chopped",
+    "1/3 cup Carrots, finely chopped",
+    "1/4 cup French Beans or Cabbage, finely chopped",
+    "2 Green Chillies, slit",
+    "1 to 1.5 tsp Freshly Cracked Black Pepper (Kali Mirch)",
+    "1 tbsp Fresh Lemon Juice",
+    "1 Egg White (optional - whisked for silky ribbons)",
+    "Salt to taste",
+    "2 tbsp Fresh Coriander and Spring Onion Greens, chopped"
+  ],
+  "ingredients_hi": [
+    "400 ग्राम हड्डी वाला चिकन (पोषक तत्वों से भरपूर स्टॉक के लिए)",
+    "1.2 लीटर पानी (लगभग 5 कप)",
+    "1.5 इंच अदरक (कुटा हुआ)",
+    "10 लहसुन की कलियां (कुटी हुई)",
+    "2 बड़े चम्मच हरे धनिए के डंठल (गहरे स्वाद हेतु)",
+    "10-12 साबुत काली मिर्च",
+    "3 लौंग व 1 इंच दालचीनी का टुकड़ा",
+    "1.5 बड़ा चम्मच मक्खन या देसी घी",
+    "1 बड़ा चम्मच बारीक कटा लहसुन",
+    "1 मध्यम प्याज (बारीक कटा)",
+    "1/3 कप गाजर (बारीक कटी)",
+    "1/4 कप बीन्स या पत्तागोभी (बारीक कटी)",
+    "2 हरी मिर्च (चीरा लगी)",
+    "1 से 1.5 छोटा चम्मच ताजी कुटी काली मिर्च (जुकाम में राहत हेतु)",
+    "1 बड़ा चम्मच नींबू का रस",
+    "1 अंडे की सफेदी (वैकल्पिक - रेशमी रिबन टेक्सचर के लिए)",
+    "नमक स्वादानुसार",
+    "2 बड़े चम्मच हरा धनिया व हरा प्याज (बारीक कटा)"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Collagen-Rich Chicken Stock (चिकन ब्रोथ / स्टॉक निर्माण)",
+      "category_hi": "चिकन ब्रोथ / स्टॉक निर्माण",
+      "items": [
+        {
+          "name_en": "Bone-in Chicken Pieces",
+          "name_hi": "हड्डी वाला चिकन",
+          "amount": "400g"
+        },
+        {
+          "name_en": "Water",
+          "name_hi": "पानी",
+          "amount": "1.2 Litres"
+        },
+        {
+          "name_en": "Fresh Ginger (Bruised)",
+          "name_hi": "अदरक (कुटा हुआ)",
+          "amount": "1.5 inch"
+        },
+        {
+          "name_en": "Garlic Cloves (Crushed)",
+          "name_hi": "लहसुन (कुटा हुआ)",
+          "amount": "10 cloves"
+        },
+        {
+          "name_en": "Coriander Stems",
+          "name_hi": "हरे धनिए के डंठल",
+          "amount": "2 tbsp"
+        },
+        {
+          "name_en": "Whole Spices (Pepper, Cloves, Cinnamon)",
+          "name_hi": "साबुत मसाले (काली मिर्च, लौंग, दालचीनी)",
+          "amount": "12 peppercorns + 3 cloves + 1 cinnamon"
+        },
+        {
+          "name_en": "Salt",
+          "name_hi": "नमक",
+          "amount": "1 tsp"
+        }
+      ]
+    },
+    {
+      "category_en": "Aromatics, Butter & Veggies (मक्खन, तड़का व सब्जियां)",
+      "category_hi": "मक्खन, तड़का व सब्जियां",
+      "items": [
+        {
+          "name_en": "Butter or Desi Ghee",
+          "name_hi": "मक्खन या देसी घी",
+          "amount": "1.5 tbsp"
+        },
+        {
+          "name_en": "Minced Garlic",
+          "name_hi": "बारीक कटा लहसुन",
+          "amount": "1 tbsp"
+        },
+        {
+          "name_en": "Chopped Onion",
+          "name_hi": "बारीक कटा प्याज",
+          "amount": "1 medium"
+        },
+        {
+          "name_en": "Chopped Carrots & Beans",
+          "name_hi": "बारीक कटी गाजर व बीन्स",
+          "amount": "1/3 cup + 1/4 cup"
+        },
+        {
+          "name_en": "Green Chillies",
+          "name_hi": "हरी मिर्च",
+          "amount": "2 slit"
+        }
+      ]
+    },
+    {
+      "category_en": "Healing Seasoning & Garnish (सीजनिंग व गार्निश)",
+      "category_hi": "सीजनिंग व गार्निश",
+      "items": [
+        {
+          "name_en": "Freshly Cracked Black Pepper",
+          "name_hi": "ताजी कुटी काली मिर्च",
+          "amount": "1 to 1.5 tsp"
+        },
+        {
+          "name_en": "Fresh Lemon Juice",
+          "name_hi": "नींबू का रस",
+          "amount": "1 tbsp"
+        },
+        {
+          "name_en": "Egg White (Optional)",
+          "name_hi": "अंडे की सफेदी (वैकल्पिक)",
+          "amount": "1 white"
+        },
+        {
+          "name_en": "Fresh Coriander & Spring Onions",
+          "name_hi": "हरा धनिया व हरा प्याज",
+          "amount": "2 tbsp"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Simmer Nutrient-Dense Stock: In a pressure cooker or deep stockpot, combine 400g bone-in chicken pieces, 1.2 litres water, bruised ginger, crushed garlic, coriander stems, whole black peppercorns, cloves, cinnamon, and 1 tsp salt. Pressure cook for 3-4 whistles (or simmer covered on low heat for 25-30 minutes) until chicken is tender and all natural juices infuse into the stock.",
+    "Strain Golden Broth: Release steam naturally and strain the fragrant chicken stock through a sieve into a clean bowl. Discard whole spices and coriander stems, keeping the pristine golden broth.",
+    "Shred Tender Chicken: Remove chicken pieces to a plate. Separate the meat from the bones and shred the cooked chicken into small, bite-sized ribbons using two forks. Discard bones.",
+    "Sauté Butter & Aromatics: In a soup pan, melt 1.5 tbsp butter or ghee over medium heat. Add 1 tbsp minced garlic and chopped onion. Sauté for 1-2 minutes until translucent and aromatic without browning.",
+    "Add Veggies & Stock: Add finely chopped carrots and beans (or cabbage). Sauté for 1 minute so they stay tender-crisp. Pour in the strained golden chicken stock and bring it to a rolling boil.",
+    "Add Chicken & Black Pepper: Stir in the shredded chicken pieces. Season with 1 to 1.5 tsp of freshly cracked black pepper and adjust salt. Optional: Drizzle in whisked egg white while gently swirling the soup with a spoon to form delicate, silky egg ribbons. Simmer on low flame for 4 minutes.",
+    "Finish with Lemon & Serve Steaming: Turn off the flame. Squeeze in 1 tbsp fresh lemon juice and garnish with fresh coriander and spring onion greens. Ladle into warm bowls and serve piping hot for instant soothing comfort!"
+  ],
+  "instructions_hi": [
+    "चिकन स्टॉक तैयार करना: प्रेशर कुकर या गहरे बर्तन में 400 ग्राम हड्डी वाला चिकन, 1.2 लीटर पानी, कुटा अदरक, कुटा लहसुन, धनिए के डंठल, साबुत काली मिर्च, लौंग, दालचीनी और 1 छोटा चम्मच नमक डालें। कुकर में 3-4 सीटी लगाएं (या धीमी आंच पर 25-30 मिनट उबालें) ताकि हड्डियों से सारा सत्व और पोषक तत्व पानी में आ जाए।",
+    "ब्रोथ छानना: कुकर का प्रेशर निकलने के बाद सुगंधित स्टॉक को छलनी से छानकर एक बाउल में निकाल लें। खड़े मसाले और धनिए के डंठल अलग कर दें।",
+    "चिकन श्रेड करना: उबले हुए चिकन पीस को प्लेट में निकालें। हड्डियों को अलग कर दें और कांटे या हाथ से चिकन के छोटे-छोटे रेशे (Shreds) तैयार कर लें।",
+    "मक्खन में तड़का लगाना: सूप वाले बर्तन में 1.5 बड़ा चम्मच मक्खन या घी गरम करें। बारीक कटा लहसुन और प्याज डालें और मध्यम आंच पर 1-2 मिनट हल्का भूनें ताकि खुशबू आ जाए (ब्राउन नहीं करना है)।",
+    "सब्जियां व स्टॉक मिलाना: बारीक कटी गाजर और बीन्स डालें। 1 मिनट भूनें ताकि क्रंच बना रहे। अब इसमें छाना हुआ गरम चिकन स्टॉक डालें और तेज आंच पर उबाल आने दें।",
+    "श्रेड चिकन व काली मिर्च मिलाना: उबला श्रेड किया हुआ चिकन डालें। 1 से 1.5 छोटा चम्मच ताजी कुटी काली मिर्च और स्वादानुसार नमक डालें। वैकल्पिक: एक कटोरी में फेंटा हुआ अंडे का सफेद भाग धीरे-धीरे डालते हुए सूप को कलछी से घुमाएं जिससे सिल्की रिबन बनेंगे। 4 मिनट धीमी आंच पर पकने दें।",
+    "नींबू मिलाना व गरमा-गरम परोसना: गैस बंद करें। ऊपर से 1 बड़ा चम्मच नींबू का रस, बारीक कटा हरा धनिया और हरा प्याज डालें। गरमा-गरम कटोरी में भरकर पिएं और सर्दी-खांसी में तुरंत राहत पाएं!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Simmer Bone-in Chicken Stock",
+      "title_hi": "हड्डी वाले चिकन का स्टॉक उबालना",
+      "instruction_en": "Cook bone-in chicken with aromatics, coriander stems, whole spices, and salt for 3-4 whistles to extract collagen.",
+      "instruction_hi": "कुकर में चिकन, अदरक, लहसुन, धनिए के डंठल और साबुत मसाले डालकर 3-4 सीटी लगाएं।"
+    },
+    {
+      "step": 2,
+      "title_en": "Strain Golden Broth",
+      "title_hi": "ब्रोथ को छलनी से छानना",
+      "instruction_en": "Strain the aromatic chicken stock into a bowl; discard whole spices and spent herb stems.",
+      "instruction_hi": "तैयार स्टॉक को छान लें और खड़े मसाले अलग कर दें।"
+    },
+    {
+      "step": 3,
+      "title_en": "Shred Tender Meat",
+      "title_hi": "चिकन के रेशे (Shred) अलग करना",
+      "instruction_en": "Debone the cooked chicken and shred the meat into delicate, bite-sized ribbons.",
+      "instruction_hi": "हड्डियों से चिकन का मांस अलग करके कांटे से बारीक रेशे बना लें।"
+    },
+    {
+      "step": 4,
+      "title_en": "Sauté Garlic & Onion in Butter",
+      "title_hi": "मक्खन में लहसुन-प्याज भूनना",
+      "instruction_en": "Melt butter in a soup pot; gently sauté minced garlic and onion until aromatic without browning.",
+      "instruction_hi": "बर्तन में मक्खन गरम करके लहसुन और प्याज को 1-2 मिनट हल्का भूनें।"
+    },
+    {
+      "step": 5,
+      "title_en": "Add Veggies & Simmer Broth",
+      "title_hi": "सब्जियां व स्टॉक मिलाना",
+      "instruction_en": "Toss in carrots and beans; pour in the strained chicken stock and bring to a rolling boil.",
+      "instruction_hi": "बारीक कटी सब्जियां डालें और छाना हुआ चिकन स्टॉक मिलाकर उबालें।"
+    },
+    {
+      "step": 6,
+      "title_en": "Add Chicken & Black Pepper Punch",
+      "title_hi": "श्रेड चिकन व कुटी काली मिर्च मिलाना",
+      "instruction_en": "Add shredded chicken, cracked pepper, and optional whisked egg ribbons; simmer for 4 minutes.",
+      "instruction_hi": "श्रेड चिकन और ताजी कुटी काली मिर्च डालें। 4 मिनट धीमी आंच पर पकने दें।"
+    },
+    {
+      "step": 7,
+      "title_en": "Fresh Lemon & Steaming Serve",
+      "title_hi": "नींबू रस व धनिया डालकर परोसना",
+      "instruction_en": "Stir in fresh lemon juice, fresh coriander, and scallions. Serve steaming hot in warm bowls!",
+      "instruction_hi": "नींबू का रस, हरा धनिया और हरा प्याज डालकर गरमा-गरम प्यालों में परोसें!"
+    }
+  ],
+  "chef_tips_en": [
+    "Always Use Bone-In Chicken: Bones, cartilage, and joints release gelatin, glycine, and essential minerals into the broth that boneless breasts lack, creating a truly restorative broth.",
+    "Coriander Stems Secret: Never discard fresh coriander stems (dhaniya ki dandi). Boiling them in the stock imparts an intensely comforting herbal aroma.",
+    "Freshly Cracked Black Pepper: Use whole peppercorns freshly crushed in a mortar-pestle rather than store powder; fresh piperine clears blocked nasal passages and soothes irritated throats."
+  ],
+  "chef_tips_hi": [
+    "हमेशा हड्डी वाले चिकन का इस्तेमाल: हड्डियों और जोड़ों में प्राकृतिक जिलेटिन और मिनरल्स होते हैं जो स्टॉक को गाढ़ा और बेहद पौष्टिक बनाते हैं।",
+    "धनिए के डंठल का कमाल: हरे धनिए के डंठल (Stems) में सबसे ज्यादा खुशबूदार तेल होते हैं; स्टॉक में इन्हें उबालने से सूप में बहुत बढ़िया महक और ताज़गी आती है।",
+    "ताजा कुटी काली मिर्च: पहले से पिसे पाउडर की जगह तुरंत खलबट्टे में कुटी काली मिर्च डालें; इसका ताजा पिपेरिन बंद नाक और गले की खराश को तुरंत खोलता है।"
+  ]
+}

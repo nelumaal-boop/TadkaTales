@@ -1,0 +1,183 @@
+{
+  "id": "crispy-atta-aloo-pinwheel-rolls",
+  "title_en": "Crispy Atta Aloo Pinwheel Samosa Rolls",
+  "title_hi": "गेहूं के आटे और आलू का कुरकुरा पिनव्हील नाश्ता (समोसा रोल्स)",
+  "title": {
+    "en": "Crispy Atta Aloo Pinwheel Samosa Rolls",
+    "hi": "गेहूं के आटे और आलू का कुरकुरा पिनव्हील नाश्ता (समोसा रोल्स)"
+  },
+  "description_en": "An irresistible, kid-favorite evening snack and breakfast recipe by Kitchen Magic by Vanisha. Features wholesome whole wheat dough layered with spiced mashed potatoes, rolled into spiral pinwheels, coated in a crunchy white sesame batter, and fried golden crisp like mini layered samosas.",
+  "description_hi": "किचन मैजिक बाय वनिषा का बच्चों और बड़ों का पसंदीदा गेहूं के आटे और आलू का कुरकुरा नाश्ता। मसालेदार आलू की परत को आटे की पतली रोटी पर रोल करके बनाए गए स्पाइरल पिनव्हील, जिन्हें सफेद तिल की कुरकुरी कोटिंग के साथ सुनहरा सेका जाता है।",
+  "description": {
+    "en": "An irresistible, kid-favorite evening snack and breakfast recipe by Kitchen Magic by Vanisha. Features wholesome whole wheat dough layered with spiced mashed potatoes, rolled into spiral pinwheels, coated in a crunchy white sesame batter, and fried golden crisp like mini layered samosas.",
+    "hi": "किचन मैजिक बाय वनिषा का बच्चों और बड़ों का पसंदीदा गेहूं के आटे और आलू का कुरकुरा नाश्ता। मसालेदार आलू की परत को आटे की पतली रोटी पर रोल करके बनाए गए स्पाइरल पिनव्हील, जिन्हें सफेद तिल की कुरकुरी कोटिंग के साथ सुनहरा सेका जाता है।"
+  },
+  "category": "Snacks",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cook_time_en": "15 mins",
+  "cook_time_hi": "15 मिनट",
+  "prepTime": "15 mins",
+  "cookTime": "15 mins",
+  "servings_en": "3-4 Servings (12-14 Pinwheels)",
+  "servings_hi": "3-4 लोग (12-14 रोल्स)",
+  "servings": "3-4 Servings (12-14 Pinwheels)",
+  "youtube_id": "FCurRqVSthA",
+  "youtubeId": "FCurRqVSthA",
+  "youtube_url": "https://www.youtube.com/watch?v=FCurRqVSthA",
+  "image_url": "https://img.youtube.com/vi/FCurRqVSthA/hqdefault.jpg",
+  "tags": [
+    "pinwheel samosa",
+    "atta snacks",
+    "aloo rolls",
+    "kitchen magic by vanisha",
+    "tea time snack",
+    "kids tiffin",
+    "crispy breakfast"
+  ],
+  "ingredients_en": [
+    "1.5 cups Whole wheat flour (gehun ka atta)",
+    "2 tbsp Fine semolina (sooji, for added crunch)",
+    "1 tbsp Cooking oil or ghee",
+    "1/2 tsp Carom seeds (ajwain, rubbed between palms)",
+    "1/2 tsp Salt (for the dough)",
+    "Water as needed (to knead a semi-stiff dough)",
+    "3 Medium Potatoes (boiled, peeled, and mashed smooth without lumps)",
+    "1 Small Onion (very finely chopped)",
+    "2 Green chillies (finely minced)",
+    "1 inch Ginger (grated)",
+    "1/4 cup Fresh coriander leaves (finely chopped)",
+    "1 tbsp Cornstarch or rice flour (the secret binder that prevents potato from spilling in oil)",
+    "1/2 tsp Roasted cumin powder",
+    "1/2 tsp Red chilli flakes or chilli powder",
+    "1/2 tsp Garam masala powder",
+    "3/4 tsp Amchur powder (dry mango powder) or chaat masala",
+    "Salt to taste (for the stuffing)",
+    "2 tbsp Wheat flour + 1/3 cup Water (for slurry)",
+    "1 tbsp White sesame seeds (safed til, for nutty crust)",
+    "1/2 tsp Chilli flakes & pinch of salt (for slurry)",
+    "Oil for shallow or deep frying"
+  ],
+  "ingredients_hi": [
+    "1.5 कप गेहूं का आटा",
+    "2 बड़ा चम्मच बारीक सूजी (अतिरिक्त कुरकुरेपन के लिए)",
+    "1 बड़ा चम्मच तेल या घी (मोयन के लिए)",
+    "1/2 छोटा चम्मच अजवायन (हाथ से मसलकर)",
+    "1/2 छोटा चम्मच नमक (आटे के लिए)",
+    "मध्यम सख्त आटा गूंथने के लिए पानी",
+    "3 मध्यम आलू (उबले, छीले और बिना गांठ के बारीक मैश किए)",
+    "1 छोटा प्याज (एकदम बारीक कटा हुआ)",
+    "2 हरी मिर्च (बारीक कटी हुई)",
+    "1 इंच अदरक (कद्दूकस किया हुआ)",
+    "1/4 कप ताज़ा हरा धनिया (बारीक कटा हुआ)",
+    "1 बड़ा चम्मच कॉर्नस्टार्च या चावल का आटा (सीक्रेट बाइंडर ताकि आलू तेल में न बिखरे)",
+    "1/2 छोटा चम्मच भुना जीरा पाउडर",
+    "1/2 छोटा चम्मच कुटी लाल मिर्च (चिली फ्लेक्स)",
+    "1/2 छोटा चम्मच गरम मसाला",
+    "3/4 छोटा चम्मच अमचूर पाउडर या चाट मसाला",
+    "स्वादानुसार नमक (स्टफिंग के लिए)",
+    "2 बड़ा चम्मच गेहूं का आटा + 1/3 कप पानी (घोल के लिए)",
+    "1 बड़ा चम्मच सफेद तिल (कुरकुरी और नटी कोटिंग के लिए)",
+    "1/2 छोटा चम्मच चिली फ्लेक्स और चुटकी भर नमक",
+    "तलने के लिए तेल"
+  ],
+  "ingredients": [
+    {
+      "category": "Crispy Wheat Dough",
+      "items": [
+        { "en": "1.5 cups Wheat flour & 2 tbsp Sooji", "hi": "1.5 कप गेहूं आटा और 2 चम्मच सूजी" },
+        { "en": "1 tbsp Oil, 1/2 tsp Ajwain & 1/2 tsp Salt", "hi": "1 चम्मच तेल, अजवायन और नमक" },
+        { "en": "Water as required (semi-stiff dough)", "hi": "मध्यम सख्त आटा गूंथने अनुसार पानी" }
+      ]
+    },
+    {
+      "category": "Spiced Potato Filling with Binder",
+      "items": [
+        { "en": "3 Boiled potatoes (smoothly mashed)", "hi": "3 उबले आलू (बारीक मैश किए)" },
+        { "en": "1 tbsp Cornstarch / Rice flour (secret binder)", "hi": "1 चम्मच कॉर्नस्टार्च (बाइंडर)" },
+        { "en": "Finely chopped Onion, Green chillies, Ginger & Coriander", "hi": "बारीक प्याज, हरी मिर्च, अदरक और हरा धनिया" },
+        { "en": "Amchur, Garam masala, Cumin & Chilli flakes", "hi": "अमचूर, गरम मसाला, जीरा और चिली फ्लेक्स" }
+      ]
+    },
+    {
+      "category": "Sesame Slurry Coating",
+      "items": [
+        { "en": "2 tbsp Wheat flour + 1/3 cup Water", "hi": "2 चम्मच गेहूं का आटा + पानी" },
+        { "en": "1 tbsp White sesame seeds (safed til)", "hi": "1 बड़ा चम्मच सफेद तिल" },
+        { "en": "Chilli flakes & chopped coriander", "hi": "चिली फ्लेक्स और हरा धनिया" }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Step 1 - Knead Crisp Atta Dough: In a mixing bowl, combine whole wheat flour, semolina (sooji), ajwain, salt, and 1 tbsp oil. Rub oil into the flour with your fingertips for 1 minute. Gradually add water and knead into a smooth, semi-stiff dough (like poori dough). Cover with a damp cloth and rest for 10-15 minutes.",
+    "Step 2 - The Spiced Aloo Mash: In another bowl, mash the boiled potatoes thoroughly so no lumps remain. Add finely chopped onions, minced green chillies, grated ginger, fresh coriander, roasted cumin powder, red chilli flakes, garam masala, amchur powder, and salt. Crucial Secret: Add 1 tablespoon of cornstarch or rice flour and mix well; this absorbs any residual moisture from potatoes and prevents the filling from dissolving or spilling out during frying.",
+    "Step 3 - Roll the Sheet: Divide the rested dough into 2 large balls. Take one ball and roll it out evenly on a board into a large, thin rectangular or circular sheet (about 1/8th inch thickness, slightly thinner than a paratha).",
+    "Step 4 - Spread & Roll into a Log: Spread half of the spiced potato mixture evenly across the rolled sheet, leaving a 1/2-inch border along the far edge. Wet the far edge with a dab of water. Roll the sheet tightly from the near edge forward into a snug, compact cylinder (Swiss roll style). Press the wet edge firmly to seal.",
+    "Step 5 - Slice Pinwheels: Using a sharp knife, slice the log into 1/2-inch to 3/4-inch diagonal spiral slices. Place each spiral flat on your cutting board and press down gently with the heel of your palm to flatten slightly into beautiful pinwheel shapes.",
+    "Step 6 - Sesame Dip (Slurry): In a small bowl, whisk 2 tbsp wheat flour, a pinch of salt, 1/2 tsp chilli flakes, 1 tbsp white sesame seeds (safed til), chopped coriander, and 1/3 cup water into a thin, lump-free slurry.",
+    "Step 7 - Fry to Golden Crunch: Heat oil in a pan on medium flame. Dip each flattened pinwheel briefly into the sesame slurry to coat both cut sides, and slide gently into the hot oil. Fry on medium flame for 4 to 5 minutes, turning occasionally, until the crust turns deeply golden, flaky, and ultra-crisp.",
+    "Step 8 - Serve: Drain on a paper towel. The sesame seeds toast into a nutty crunch on the outer shell while the potato spirals stay soft and savory inside. Serve piping hot with spicy green chutney, tomato ketchup, and a hot cup of masala chai."
+  ],
+  "instructions_hi": [
+    "स्टेप 1 - खस्ता आटा गूंथना: एक बाउल में गेहूं का आटा, सूजी, अजवायन, नमक और 1 बड़ा चम्मच तेल डालें। हाथों से 1 मिनट मसलें। थोड़ा-थोड़ा पानी डालकर पूरी जैसा थोड़ा सख्त और चिकना आटा गूंथ लें। 10-15 मिनट ढककर रेस्ट करने दें।",
+    "स्टेप 2 - चटपटा आलू मसाला: उबले आलू को बिना किसी गांठ के बारीक मैश करें। इसमें बारीक प्याज, हरी मिर्च, अदरक, हरा धनिया, भुना जीरा, चिली फ्लेक्स, गरम मसाला, अमचूर पाउडर और नमक मिलाएं। खास सीक्रेट: इसमें 1 बड़ा चम्मच कॉर्नस्टार्च या चावल का आटा ज़रूर मिलाएं; यह आलू की नमी को सोख लेता है जिससे तलते समय आलू तेल में बिखरता नहीं है।",
+    "स्टेप 3 - बड़ी रोटी बेलना: आटे की दो बड़ी लोइयां बनाएं। एक लोई को चकले पर रखकर थोड़ा पतला और चौड़ा (गोल या चौकोर शीट जैसा) बेल लें।",
+    "स्टेप 4 - रोल करना: पूरी शीट पर आलू का मसाला एकसमान पतला फैलाएं (आगे के किनारे पर आधा इंच जगह छोड़ें)। आगे के किनारे पर थोड़ा पानी लगाएं। अब नीचे से ऊपर की तरफ कसकर गोल-गोल घुमाते हुए एक टाइट रोल (सिलेंडर) बना लें और पानी लगे किनारे को अच्छी तरह चिपका दें।",
+    "स्टेप 5 - पिनव्हील काटना: तेज़ चाकू से रोल को 1/2 से 3/4 इंच के तिरछे टुकड़ों में काट लें। हर टुकड़े को हाथ पर रखकर हथेली से हल्का सा दबाकर चपटा कर लें (सुंदर स्पाइरल डिजाइन दिखेगा)।",
+    "स्टेप 6 - तिल वाला घोल बनाना: एक कटोरी में 2 चम्मच गेहूं का आटा, चुटकी भर नमक, चिली फ्लेक्स, 1 बड़ा चम्मच सफेद तिल, हरा धनिया और थोड़ा पानी डालकर पतला घोल बना लें।",
+    "स्टेप 7 - कुरकुरा तलना: कड़ाही में तेल मध्यम गरम करें। हर पिनव्हील को तिल वाले घोल में डुबोएं और गरम तेल में छोड़ें। मध्यम आंच पर उलट-पुलट करते हुए 4-5 मिनट तक सेकें जब तक कि बाहर से एकदम सुनहरी और कुरकुरी न हो जाए।",
+    "स्टेप 8 - परोसें: टिशू पेपर पर निकालें। ऊपर से तिल का नटी क्रंच और अंदर से मसालेदार आलू का स्वाद हर बाइट में लाजवाब लगता है। हरी पुदीना चटनी, टोमैटो केचप और गरमा-गरम कड़क चाय के साथ परोसें।"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": {
+        "en": "Knead whole wheat flour, sooji, ajwain, oil, and salt with water into a semi-stiff dough. Rest 15 mins.",
+        "hi": "गेहूं के आटे, सूजी, अजवायन, तेल और नमक को पानी के साथ मध्यम सख्त गूंथकर 15 मिनट रेस्ट दें।"
+      }
+    },
+    {
+      "step": 2,
+      "text": {
+        "en": "Mix mashed potatoes with onion, chillies, ginger, spices, and 1 tbsp cornstarch binder to lock in moisture.",
+        "hi": "आलू में प्याज, हरी मिर्च, मसाले और 1 चम्मच कॉर्नस्टार्च बाइंडर मिलाकर भरावन तैयार करें।"
+      }
+    },
+    {
+      "step": 3,
+      "text": {
+        "en": "Roll a thin wide sheet of dough, spread potato filling evenly, and roll up tightly into a compact log.",
+        "hi": "पतली बड़ी रोटी बेलें, आलू का मसाला फैलाएं और कसकर टाइट रोल बनाकर किनारा सील करें।"
+      }
+    },
+    {
+      "step": 4,
+      "text": {
+        "en": "Slice into 1/2-inch pinwheels and press flat. Dip into a thin wheat flour & white sesame slurry.",
+        "hi": "टुकड़ों में काटें, हथेली से दबाएं और सफेद तिल वाले पतले घोल में डुबोएं।"
+      }
+    },
+    {
+      "step": 5,
+      "text": {
+        "en": "Fry on medium heat for 4-5 mins until deeply golden and shatter-crisp. Serve with green chutney and chai.",
+        "hi": "मध्यम तेल में 4-5 मिनट सुनहरा और कुरकुरा होने तक तलें। चटनी और चाय के साथ पेश करें।"
+      }
+    }
+  ],
+  "chef_tips_en": [
+    "The Cornstarch Binder Secret: The most common failure with pinwheels is potato filling oozing out into the frying oil. Mixing 1 tablespoon of cornstarch or rice flour directly into the potato mash binds the starch molecules, preventing any spillage while frying.",
+    "Sesame Crust: Dipping the cut pinwheel in a light sesame-flecked slurry seals both open faces and toasts into an aromatic nutty crust that stays crispy long after cooling.",
+    "Tight Rolling: Roll the sheet as tightly as possible without tearing to eliminate internal air pockets, ensuring the spiral holds its distinct layers during frying."
+  ],
+  "chef_tips_hi": [
+    "कॉर्नस्टार्च का सीक्रेट: पिनव्हील तलते समय अक्सर आलू तेल में बिखर जाता है। आलू के मसाले में 1 चम्मच कॉर्नस्टार्च या चावल का आटा मिलाने से आलू का स्टार्च बंध जाता है और तलते समय एक दाना भी बाहर नहीं निकलता।",
+    "तिल की कोटिंग: तिल वाले घोल में डुबोने से पिनव्हील के दोनों खुले हिस्से सील हो जाते हैं और तलने पर तिल की खुशबूदार, कुरकुरी परत जम जाती है।",
+    "टाइट रोल करना: रोटी को रोल करते समय बिल्कुल ढीला न छोड़ें; कसकर टाइट रोल बनाने से परतों के बीच हवा नहीं रहती और तलते समय आकार एकदम सही बना रहता है।"
+  ]
+}

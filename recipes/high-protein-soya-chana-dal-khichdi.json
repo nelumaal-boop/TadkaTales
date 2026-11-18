@@ -1,0 +1,222 @@
+{
+  "id": "high-protein-soya-chana-dal-khichdi",
+  "title_en": "High-Protein Soya Chana Dal Khichdi (Healthy One-Pot Pulao)",
+  "title_hi": "हाई-प्रोटीन सोया चना दाल पुलाव / खिचड़ी (हेल्दी वन-पॉट रेसिपी)",
+  "title": {
+    "en": "High-Protein Soya Chana Dal Khichdi (Healthy One-Pot Pulao)",
+    "hi": "हाई-प्रोटीन सोया चना दाल पुलाव / खिचड़ी (हेल्दी वन-पॉट रेसिपी)"
+  },
+  "description_en": "A 7.8M-view blockbuster healthy meal by Bharat! Soya chunks marinated in spiced curd and biryani masala, combined with nutty chana dal, fragrant basmati rice, and whole spices in desi ghee.",
+  "description_hi": "78 लाख से ज्यादा लोगों द्वारा पसंद की गई भरत की सुपर-हिट हाई-प्रोटीन रेसिपी! दही और बिरयानी मसाले में मैरीनेट की हुई सोयाबीन की बड़ियां, भीगी चना दाल और खिले-खिले चावल का देसी घी में बना लाजवाब पुलाव।",
+  "description": {
+    "en": "A 7.8M-view blockbuster healthy meal by Bharat! Soya chunks marinated in spiced curd and biryani masala, combined with nutty chana dal, fragrant basmati rice, and whole spices in desi ghee.",
+    "hi": "78 लाख से ज्यादा लोगों द्वारा पसंद की गई भरत की सुपर-हिट हाई-प्रोटीन रेसिपी! दही और बिरयानी मसाले में मैरीनेट की हुई सोयाबीन की बड़ियां, भीगी चना दाल और खिले-खिले चावल का देसी घी में बना लाजवाब पुलाव।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Vegetarian",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "सरल",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cook_time_en": "20 mins",
+  "cook_time_hi": "20 मिनट",
+  "prepTime": "15 mins",
+  "cookTime": "20 mins",
+  "servings_en": "4 servings",
+  "servings_hi": "4 लोग",
+  "servings": 4,
+  "youtube_id": "D2LB4ipFlSU",
+  "youtubeId": "D2LB4ipFlSU",
+  "youtube_url": "https://youtu.be/D2LB4ipFlSU",
+  "image_url": "/static/images/D2LB4ipFlSU.jpg",
+  "tags": [
+    "Soya Chunks",
+    "Chana Dal",
+    "Khichdi",
+    "Pulao",
+    "High Protein",
+    "Weight Loss",
+    "Bharatzkitchen",
+    "Vegetarian"
+  ],
+  "ingredients_en": [
+    "50g Soya Chunks (boiled in salted water & squeezed)",
+    "80g Fresh Curd (Dahi) for marinade",
+    "1 tsp Biryani Masala",
+    "1 tsp Meat / Kitchen King Masala",
+    "2 tsp Ginger Garlic Paste",
+    "1/2 cup Chana Dal (soaked 1 hour)",
+    "200g Basmati Rice (washed & soaked 20 mins)",
+    "4 tsp Pure Desi Ghee",
+    "1 tsp Cumin Seeds (Jeera)",
+    "1 Bay Leaf & 1 Dried Red Chilli",
+    "4 Cloves, 1 Black Cardamom, 3 Green Cardamoms, 1 Cinnamon, 10 Peppercorns",
+    "1 large Onion, sliced",
+    "2 Green Chillies, slit",
+    "2 Tomatoes, chopped",
+    "Salt to taste",
+    "Water as needed for cooker"
+  ],
+  "ingredients_hi": [
+    "50 ग्राम सोया चंक्स (नमक पानी में उबले व निचोड़े)",
+    "80 ग्राम ताजा दही (मैरीनेशन हेतु)",
+    "1 छोटा चम्मच बिरयानी मसाला",
+    "1 छोटा चम्मच किचन किंग / चिकन मसाला (वेज)",
+    "2 छोटे चम्मच अदरक-लहसुन पेस्ट",
+    "1/2 कप चना दाल (1 घंटा भीगी हुई)",
+    "200 ग्राम बासमती चावल (धोकर 20 मिनट भीगा)",
+    "4 छोटे चम्मच शुद्ध देसी घी",
+    "1 छोटा चम्मच जीरा",
+    "1 तेज पत्ता व 1 सूखी लाल मिर्च",
+    "4 लौंग, 1 बड़ी इलायची, 3 छोटी इलायची, दालचीनी, 10 काली मिर्च",
+    "1 बड़ा प्याज (बारीक कटा)",
+    "2 हरी मिर्च (चीरा लगी)",
+    "2 टमाटर (बारीक कटे)",
+    "स्वादानुसार नमक व पानी"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Soya Marinade (सोया मैरीनेशन)",
+      "category_hi": "सोया मैरीनेशन",
+      "items": [
+        {
+          "name_en": "Boiled Soya Chunks",
+          "name_hi": "उबले सोया चंक्स",
+          "amount": "50g"
+        },
+        {
+          "name_en": "Fresh Curd (Dahi)",
+          "name_hi": "ताजा दही",
+          "amount": "80g"
+        },
+        {
+          "name_en": "Biryani & Kitchen King Masala",
+          "name_hi": "बिरयानी व मसाला पाउडर",
+          "amount": "1 tsp + 1 tsp"
+        },
+        {
+          "name_en": "Ginger Garlic Paste",
+          "name_hi": "अदरक-लहसुन पेस्ट",
+          "amount": "1 tsp"
+        }
+      ]
+    },
+    {
+      "category_en": "Lentils & Grain Foundation (दाल व चावल)",
+      "category_hi": "दाल व चावल",
+      "items": [
+        {
+          "name_en": "Chana Dal (Soaked)",
+          "name_hi": "चना दाल (भीगी हुई)",
+          "amount": "1/2 cup"
+        },
+        {
+          "name_en": "Basmati Rice (Soaked)",
+          "name_hi": "बासमती चावल",
+          "amount": "200g (1 cup)"
+        }
+      ]
+    },
+    {
+      "category_en": "Desi Ghee Whole Spice Tadka (तड़का व भुना मसाला)",
+      "category_hi": "तड़का व भुना मसाला",
+      "items": [
+        {
+          "name_en": "Pure Desi Ghee",
+          "name_hi": "देसी घी",
+          "amount": "4 tsp"
+        },
+        {
+          "name_en": "Whole Spices (Cardamom, Pepper, Cloves, Bay Leaf)",
+          "name_hi": "खड़े मसाले",
+          "amount": "As listed"
+        },
+        {
+          "name_en": "Onions, Chillies & Tomatoes",
+          "name_hi": "प्याज, मिर्च व टमाटर",
+          "amount": "1 onion + 2 chillies + 2 tomatoes"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Boil & Marinate Soya: Boil 50g soya chunks in salted water for 5 minutes. Squeeze out excess water completely. In a bowl, toss with 80g whisked curd, 1 tsp biryani masala, 1 tsp kitchen king masala, and 1 tsp ginger-garlic paste. Rest 10 minutes.",
+    "Temper Ghee & Whole Spices: Heat 4 tsp desi ghee in a pressure cooker. Add cumin seeds, bay leaf, dried red chilli, cinnamon, cardamoms, cloves, and peppercorns. Let them splutter.",
+    "Sauté Onions & Aromatics: Add sliced onions and sauté until golden brown. Stir in 1 tsp ginger-garlic paste and slit green chillies for 1 minute.",
+    "Cook Tomatoes: Add chopped tomatoes and 1 tsp salt. Cook on medium heat for 3-4 minutes until mushy.",
+    "Bhunao Marinated Soya: Slide in the marinated soya chunks along with all juices. Sauté on medium flame for 3 minutes until ghee separates.",
+    "Add Chana Dal & Rice: Drain soaked chana dal and basmati rice; add into the cooker. Gently toss with the masala for 1 minute. Add 2 cups water and adjust salt.",
+    "Pressure Cook & Fluff: Close cooker lid and cook for 2 whistles on medium flame. Let pressure release naturally. Fluff gently and serve hot with chilled boondi raita!"
+  ],
+  "instructions_hi": [
+    "सोया उबालना व मैरीनेट करना: 50 ग्राम सोया चंक्स को नमक के पानी में 5 मिनट उबालकर निचोड़ लें। दही, 1 चम्मच बिरयानी मसाला, 1 चम्मच किचन किंग मसाला और अदरक-लहसुन पेस्ट के साथ 10 मिनट मैरीनेट करें।",
+    "खड़े मसालों का तड़का: कुकर में 4 चम्मच देसी घी गरम करें। जीरा, तेज पत्ता, सूखी मिर्च, इलायची, लौंग, दालचीनी और काली मिर्च डालकर चटकाएं।",
+    "प्याज व टमाटर भूनना: प्याज डालकर सुनहरा भूनें। अदरक-लहसुन पेस्ट और हरी मिर्च भूनें। फिर टमाटर और नमक डालकर गलने तक पकाएं।",
+    "मैरीनेटेड सोया भूनना: मैरीनेट किया हुआ सोया डालकर 3 मिनट भूनें जब तक घी अलग न दिखने लगे।",
+    "दाल व चावल मिलाना: भीगी चना दाल और बासमती चावल डालकर 1 मिनट चलाएं। 2 कप पानी डालें और नमक चखें।",
+    "2 सीटी पर पकाना: कुकर बंद करके मध्यम आंच पर 2 सीटी लगाएं। भाप अपने आप निकलने दें और गरमा-गरम बूंदी रायते के साथ परोसें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Boil & Spiced Curd Marinade",
+      "title_hi": "सोया उबालकर मैरीनेट करना",
+      "instruction_en": "Boil soya chunks, squeeze dry, and marinate in spiced curd, biryani masala, and ginger-garlic.",
+      "instruction_hi": "सोया चंक्स को उबालकर दही, बिरयानी मसाला और अदरक-लहसुन के साथ 10 मिनट मैरीनेट करें।"
+    },
+    {
+      "step": 2,
+      "title_en": "Temper Whole Spices in Ghee",
+      "title_hi": "देसी घी में खड़े मसाले चटकाना",
+      "instruction_en": "Heat desi ghee in cooker; bloom cumin, bay leaf, cardamoms, cinnamon, cloves, and peppercorns.",
+      "instruction_hi": "कुकर में देसी घी गरम करके सभी खड़े मसाले और जीरा चटकाएं।"
+    },
+    {
+      "step": 3,
+      "title_en": "Brown Onions & Aromatics",
+      "title_hi": "प्याज व अदरक-लहसुन भूनना",
+      "instruction_en": "Sauté sliced onions until golden brown; add ginger-garlic paste and slit chillies.",
+      "instruction_hi": "प्याज को सुनहरा भूनें और अदरक-लहसुन पेस्ट व हरी मिर्च मिलाएं।"
+    },
+    {
+      "step": 4,
+      "title_en": "Cook Tomato Masala",
+      "title_hi": "टमाटर व नमक पकाना",
+      "instruction_en": "Add chopped tomatoes and salt; cook until mushy and ghee releases.",
+      "instruction_hi": "टमाटर और नमक डालकर गलने तक अच्छी तरह भूनें।"
+    },
+    {
+      "step": 5,
+      "title_en": "Roast Marinated Soya",
+      "title_hi": "सोया चंक्स की भुनाई",
+      "instruction_en": "Add marinated soya; roast 3 minutes over medium flame until fragrant.",
+      "instruction_hi": "मैरीनेटेड सोया डालकर 3 मिनट भूनें जब तक घी न छूटने लगे।"
+    },
+    {
+      "step": 6,
+      "title_en": "Add Chana Dal, Rice & Water",
+      "title_hi": "चना दाल, चावल व पानी मिलाना",
+      "instruction_en": "Add soaked chana dal, basmati rice, and 2 cups water; stir gently.",
+      "instruction_hi": "भीगी चना दाल, चावल और 2 कप पानी डालकर हल्के हाथ से मिलाएं।"
+    },
+    {
+      "step": 7,
+      "title_en": "Pressure Cook 2 Whistles & Serve",
+      "title_hi": "2 सीटी लगाना व रायता संग परोसना",
+      "instruction_en": "Cook on medium heat for 2 whistles. Let steam release naturally, fluff, and serve hot!",
+      "instruction_hi": "2 सीटी लगाएं, भाप निकलने दें और गरमा-गरम रायते के साथ परोसें!"
+    }
+  ],
+  "chef_tips_en": [
+    "Marinate Soya in Curd: Soya chunks easily dry out; marinating them in spiced yogurt locks in deep moisture and mimics tender meat texture.",
+    "Pre-Soak Chana Dal: Always soak chana dal for at least 1 hour so it cooks at the exact same rate as basmati rice in 2 whistles.",
+    "Desi Ghee Elevation: Cooking in pure desi ghee elevates this healthy protein dish into a royal biryani-like experience."
+  ],
+  "chef_tips_hi": [
+    "दही में सोया मैरीनेट करना: सोया चंक्स को दही और बिरयानी मसाले में मैरीनेट करने से वे अंदर तक रसीले और स्पंजी बनते हैं।",
+    "चना दाल को 1 घंटा भिगोना: चना दाल को पहले भिगोने से वह चावल के साथ ही 2 सीटी में बिल्कुल मक्खन जैसी पक जाती है।",
+    "देसी घी का तड़का: शुद्ध देसी घी में पकाने से यह साधारण दाल-चावल एकदम शाही पुलाव जैसा स्वाद देता है।"
+  ]
+}

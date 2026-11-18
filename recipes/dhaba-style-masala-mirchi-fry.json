@@ -1,0 +1,167 @@
+{
+  "id": "dhaba-style-masala-mirchi-fry",
+  "title_en": "Dhaba Style Masaledar Mirchi Fry",
+  "title_hi": "ढाबा स्टाइल चटपटी मसालेदार हरी मिर्च फ्राई (इंस्टेंट मिर्च का अचार)",
+  "title": {
+    "en": "Dhaba Style Masaledar Mirchi Fry",
+    "hi": "ढाबा स्टाइल चटपटी मसालेदार हरी मिर्च फ्राई (इंस्टेंट मिर्च का अचार)"
+  },
+  "description_en": "A mouthwatering, instant dhaba-style fried green chilli recipe by Veg Food Talks (Rutba Khan). Fresh green chillies blistered in mustard oil and coated in a coarsely ground roasted spice blend of fennel (saunf), coriander, cumin, mustard seeds, and amchur that elevates any simple meal into a feast.",
+  "description_hi": "वेज फूड टॉक्स (रूतबा खान) की मुंह में पानी ला देने वाली ढाबा स्टाइल मसालेदार हरी मिर्च फ्राई रेसिपी। सरसों के तेल में तली और भुने सौंफ, साबुत धनिया, जीरा, राई और अमचूर के दरदरे मसाले में लिपटी चटपटी मिर्च, जिसके साथ बिना भूख के भी 4 रोटियां खा जाएंगे।",
+  "description": {
+    "en": "A mouthwatering, instant dhaba-style fried green chilli recipe by Veg Food Talks (Rutba Khan). Fresh green chillies blistered in mustard oil and coated in a coarsely ground roasted spice blend of fennel (saunf), coriander, cumin, mustard seeds, and amchur that elevates any simple meal into a feast.",
+    "hi": "वेज फूड टॉक्स (रूतबा खान) की मुंह में पानी ला देने वाली ढाबा स्टाइल मसालेदार हरी मिर्च फ्राई रेसिपी। सरसों के तेल में तली और भुने सौंफ, साबुत धनिया, जीरा, राई और अमचूर के दरदरे मसाले में लिपटी चटपटी मिर्च, जिसके साथ बिना भूख के भी 4 रोटियां खा जाएंगे।"
+  },
+  "category": "Snacks",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "5 mins",
+  "prep_time_hi": "5 मिनट",
+  "cook_time_en": "7 mins",
+  "cook_time_hi": "7 मिनट",
+  "prepTime": "5 mins",
+  "cookTime": "7 mins",
+  "servings_en": "6-8 Servings (Jar Batch)",
+  "servings_hi": "6-8 लोग (जार बैच)",
+  "servings": "6-8 Servings (Jar Batch)",
+  "youtube_id": "gTJp-gqX8_s",
+  "youtubeId": "gTJp-gqX8_s",
+  "youtube_url": "https://www.youtube.com/watch?v=gTJp-gqX8_s",
+  "image_url": "https://img.youtube.com/vi/gTJp-gqX8_s/hqdefault.jpg",
+  "tags": [
+    "mirchi fry",
+    "hari mirch fry",
+    "dhaba style mirchi",
+    "instant pickle",
+    "veg food talks",
+    "side dish",
+    "spicy condiment"
+  ],
+  "ingredients_en": [
+    "250g Fresh Green Chillies (washed, dried completely, stems removed, and slit lengthwise)",
+    "1 tbsp Whole Coriander Seeds (sabut dhania)",
+    "1 tbsp Fennel Seeds (saunf)",
+    "1 tsp Cumin seeds (jeera)",
+    "1 tsp Mustard seeds (rai)",
+    "1/3 cup Mustard oil (sarson ka tel - authentic dhaba pickle base)",
+    "1/4 tsp Carom seeds (ajwain)",
+    "1/4 tsp Asafoetida (hing)",
+    "1/5 tsp Turmeric powder (haldi)",
+    "1 tsp Kashmiri red chilli powder (for vibrant color)",
+    "1 tsp Dry mango powder (amchur powder - the essential sour punch)",
+    "1 tsp Salt (or to taste)",
+    "1/2 tsp Black salt (kala namak, for digestive zing)",
+    "1 tbsp Fresh lemon juice (optional, for prolonged shelf-life and extra tang)"
+  ],
+  "ingredients_hi": [
+    "250 ग्राम ताज़ी हरी मिर्च (धोकर, कपड़े से पूरी तरह सुखाकर और बीच से चीरी हुई)",
+    "1 बड़ा चम्मच साबुत धनिया",
+    "1 बड़ा चम्मच सौंफ",
+    "1 छोटा चम्मच जीरा",
+    "1 छोटा चम्मच राई / सरसों के दाने",
+    "1/3 कप सरसों का तेल (असली ढाबा स्वाद के लिए)",
+    "1/4 छोटा चम्मच अजवायन",
+    "1/4 छोटा चम्मच हींग",
+    "1/5 छोटा चम्मच हल्दी पाउडर",
+    "1 छोटा चम्मच कश्मीरी लाल मिर्च पाउडर",
+    "1 छोटा चम्मच अमचूर पाउडर (खटास और चटपटेपन के लिए)",
+    "1 छोटा चम्मच सादा नमक (स्वादानुसार)",
+    "1/2 छोटा चम्मच काला नमक",
+    "1 बड़ा चम्मच नींबू का रस (वैकल्पिक, टिकाऊपन और खटास के लिए)"
+  ],
+  "ingredients": [
+    {
+      "category": "Fresh Chillies & Blistering Oil",
+      "items": [
+        { "en": "250g Green chillies (slit lengthwise)", "hi": "250 ग्राम हरी मिर्च (चीरी हुई)" },
+        { "en": "1/3 cup Mustard oil", "hi": "1/3 कप सरसों का तेल" },
+        { "en": "1/4 tsp Ajwain & 1/4 tsp Hing", "hi": "1/4 छोटा चम्मच अजवायन और हींग" }
+      ]
+    },
+    {
+      "category": "Roasted Achar Masala Blend",
+      "items": [
+        { "en": "1 tbsp Coriander seeds & 1 tbsp Saunf", "hi": "1 बड़ा चम्मच साबुत धनिया और सौंफ" },
+        { "en": "1 tsp Cumin & 1 tsp Mustard seeds", "hi": "1 छोटा चम्मच जीरा और राई" }
+      ]
+    },
+    {
+      "category": "Sour & Savory Seasoning",
+      "items": [
+        { "en": "1 tsp Amchur powder & 1/5 tsp Haldi", "hi": "1 छोटा चम्मच अमचूर और हल्दी" },
+        { "en": "1 tsp Kashmiri chilli, Salt & Kala namak", "hi": "कश्मीरी मिर्च, सादा नमक और काला नमक" },
+        { "en": "1 tbsp Lemon juice", "hi": "1 बड़ा चम्मच नींबू का रस" }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Step 1 - Prepare Chillies: Wash the green chillies thoroughly under cold water. Wipe each chilli completely dry with a clean kitchen towel (any moisture will spoil the shelf-life). Snip off the stems and make a long vertical slit down the center of each chilli without cutting it into two.",
+    "Step 2 - Roast & Grind Achar Masala: In a small dry pan, add whole coriander seeds, fennel seeds (saunf), cumin seeds, and mustard seeds. Dry-roast on low flame for 1 to 2 minutes until warm and fragrant. Transfer to a spice grinder or mortar-pestle and pulse into a coarse (dardara) aromatic powder.",
+    "Step 3 - Smoke Mustard Oil: In a kadai or pan, heat 1/3 cup mustard oil on medium-high until light smoke rises (burns off raw pungency). Turn the flame to low and let it cool slightly for 30 seconds. Add carom seeds (ajwain), a few mustard seeds, and asafoetida (hing). Let them crackle.",
+    "Step 4 - Blister the Chillies: Add the slit green chillies into the hot oil. Sauté on medium flame for 2 to 3 minutes, stirring regularly, until white blister marks appear on the skin and the chillies turn slightly tender.",
+    "Step 5 - Coat in Spices: Lower heat to minimum. Sprinkle turmeric powder, Kashmiri red chilli powder, salt, black salt, and dry mango powder (amchur). Add the freshly ground roasted achar masala.",
+    "Step 6 - Bhunao & Emulsify: Toss continuously on low flame for 2 minutes. The coarse spices will soak up the mustard oil and form a thick, glistening spicy crust that clings tightly to every slit chilli. Turn off the heat.",
+    "Step 7 - Lemon Finish & Storage: Drizzle 1 tbsp of fresh lemon juice over the hot chillies and toss well. Allow to cool completely to room temperature. Transfer into a clean, dry glass jar.",
+    "Step 8 - Shelf Life & Serving: This instant dhaba-style mirchi fry stays fresh at room temperature for up to 2 weeks and in the refrigerator for over 1 month. Serve alongside everyday dal-chawal, stuffed parathas, poori, or khichdi."
+  ],
+  "instructions_hi": [
+    "स्टेप 1 - मिर्च तैयार करना: हरी मिर्चों को धो लें और साफ सूती कपड़े से पूरी तरह पोंछकर सुखा लें (पानी की एक भी बूंद नहीं होनी चाहिए ताकि मिर्च खराब न हो)। डंठल हटाएं और चाकू से बीच में एक लंबा चीरा लगाएं (दो टुकड़े नहीं करने हैं)।",
+    "स्टेप 2 - अचार का दरदरा मसाला भूनना: एक छोटे पैन में साबुत धनिया, सौंफ, जीरा और राई लें। धीमी आंच पर 1-2 मिनट हल्का सा भूनें जब तक कि खुशबू न आने लगे। मिक्सी में या ओखली में डालकर दरदरा (coarse) पीस लें।",
+    "स्टेप 3 - सरसों का तेल पकाना: कड़ाही में 1/3 कप सरसों का तेल धुआं निकलने तक गरम करें ताकि उसका कच्चापन खत्म हो जाए। गैस धीमी करें, 30 सेकंड बाद अजवायन, थोड़ी राई और हींग चटकाएं।",
+    "स्टेप 4 - मिर्च को फ्राई करना: चीरी हुई हरी मिर्च तेल में डालें। मध्यम आंच पर 2 से 3 मिनट तक लगातार चलाते हुए भूनें जब तक कि मिर्च की त्वचा पर सफेद चित्तियां (blisters) न आ जाएं और मिर्च हल्की नरम न हो जाए।",
+    "स्टेप 5 - मसाले मिलाना: आंच बिल्कुल धीमी करें। हल्दी पाउडर, कश्मीरी लाल मिर्च, सादा नमक, काला नमक और अमचूर पाउडर छिड़कें। साथ ही दरदरा पिसा हुआ भुना मसाला डाल दें।",
+    "स्टेप 6 - मसाले को लपेटना: धीमी आंच पर 2 मिनट तक अच्छी तरह टॉस करें ताकि सारा मसाला तेल सोखकर मिर्च के अंदर और बाहर अच्छी तरह चिपक जाए। गैस बंद कर दें।",
+    "स्टेप 7 - नींबू का रस और ठंडा करना: ऊपर से 1 बड़ा चम्मच नींबू का रस डालें और मिला लें। पूरी तरह ठंडा होने दें और फिर कांच के सूखे जार में भरकर रख लें।",
+    "स्टेप 8 - परोसें और स्टोर करें: यह चटपटी ढाबा स्टाइल मिर्च फ्राई बिना फ्रिज के 2 हफ्ते और फ्रिज में 1 महीने से ज्यादा बिल्कुल ताज़ा रहती है। इसे दाल-चावल, भरवां पराठे, पूरी या सादी रोटी के साथ हर खाने का स्वाद चार गुना बढ़ाने के लिए परोसें।"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": {
+        "en": "Wash and completely dry 250g green chillies; make a vertical slit down each chilli.",
+        "hi": "हरी मिर्च को धोकर पूरी तरह सुखाएं और बीच में लंबाई से चीरा लगाएं।"
+      }
+    },
+    {
+      "step": 2,
+      "text": {
+        "en": "Dry-roast whole coriander, fennel, cumin, and mustard seeds for 2 mins; grind into a coarse achar masala.",
+        "hi": "साबुत धनिया, सौंफ, जीरा और राई को 2 मिनट भूनकर दरदरा पीस लें।"
+      }
+    },
+    {
+      "step": 3,
+      "text": {
+        "en": "Heat mustard oil to smoking; temper with ajwain and hing. Sauté chillies for 2-3 mins until blistered.",
+        "hi": "सरसों का तेल पकाएं, अजवायन-हींग तड़काएं और मिर्च को 2-3 मिनट सफेद चित्ती आने तक भूनें।"
+      }
+    },
+    {
+      "step": 4,
+      "text": {
+        "en": "Add roasted masala, amchur, turmeric, Kashmiri chilli, salt, and black salt on low flame for 2 mins.",
+        "hi": "धीमी आंच पर भुना मसाला, अमचूर, हल्दी, कश्मीरी मिर्च, सादा व काला नमक डालकर 2 मिनट चलाएं।"
+      }
+    },
+    {
+      "step": 5,
+      "text": {
+        "en": "Stir in lemon juice. Cool completely and store in a glass jar. Stays fresh for weeks.",
+        "hi": "नींबू का रस मिलाएं। ठंडा करके कांच के जार में भरें; यह हफ्तों तक ताज़ा रहती है।"
+      }
+    }
+  ],
+  "chef_tips_en": [
+    "Complete Dryness for Longevity: Ensure chillies are 100% moisture-free before frying. Moisture causes oil splattering and causes fungi, whereas completely dry chillies coated in cooked mustard oil stay fresh for over a month.",
+    "Amchur + Fennel (Saunf) Harmony: The sweetness of slow-roasted fennel seeds balances the pungent heat of the chillies, while dry mango powder (amchur) gives that irresistible puckering tang reminiscent of highway truck-dhabas.",
+    "Mustard Oil Smoking: Heating mustard oil until light smoke appears is critical to eliminate sulfur bitterness and release sweet, nutty pungency."
+  ],
+  "chef_tips_hi": [
+    "मिर्च को पूरी तरह सुखाना: मिर्च पर पानी की एक भी बूंद नहीं होनी चाहिए। सूखी मिर्च को तेल में पकाने से वह 1 महीने तक खराब नहीं होती और तेल भी नहीं उछलता।",
+    "सौंफ और अमचूर का संतुलन: भुनी सौंफ मिर्च के तीखेपन को दबाकर मिठास और खुशबू देती है, और अमचूर पाउडर ढाबे जैसी खट्टी-चटपटी जान डाल देता है।",
+    "सरसों का तेल धुआं निकलने तक गरम करें: सरसों के तेल का धुआं निकालना जरूरी है ताकि उसका तीखा कच्चापन दूर हो सके और सोंधा स्वाद मिले।"
+  ]
+}

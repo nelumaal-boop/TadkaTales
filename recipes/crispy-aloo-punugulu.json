@@ -1,0 +1,80 @@
+{
+  "id": "crispy-aloo-punugulu",
+  "title_en": "Instant Crispy Aloo Punugulu with Tomato Chutney",
+  "title_hi": "आलू के क्रिस्पी पुनुगुलु और तीखी टमाटर चटनी (आंध्र स्टाइल)",
+  "description_en": "Popular Andhra street-style crispy golden potato-rice fritters served with a fiery garlic-tomato chutney. Crisp on the outside, pillow-soft inside, ready in 15 minutes.",
+  "description_hi": "पकोड़े भूल जाओगे! उबले आलू और चावल के आटे से 15 मिनट में बनने वाला साउथ इंडियन क्रिस्पी नाश्ता और चटपटी लहसुनी टमाटर चटनी।",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cook_time_en": "15 mins",
+  "cook_time_hi": "15 मिनट",
+  "servings_en": "4 servings",
+  "servings_hi": "4 लोगों के लिए",
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "category": "Snacks",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "youtube_id": "Iy6HMgqCF9c",
+  "youtube_url": "https://www.youtube.com/watch?v=Iy6HMgqCF9c",
+  "image_url": "https://img.youtube.com/vi/Iy6HMgqCF9c/maxresdefault.jpg",
+  "ingredients_en": [
+    "3 medium Boiled Potatoes, peeled",
+    "1/3 cup Whisked Curd (Dahi)",
+    "1 cup Rice Flour (Chawal ka Atta - for supreme crunch)",
+    "1/3 cup All-Purpose Flour (Maida - for softness)",
+    "1 medium Onion, finely chopped",
+    "2-3 Green Chillies, finely chopped",
+    "1-inch Ginger, minced",
+    "10-12 fresh Curry leaves & fresh Coriander, chopped",
+    "1/4 tsp Baking Soda",
+    "1.5 tsp Salt",
+    "Spicy Andhra Tomato Chutney: 3 ripe Tomatoes, 10-12 Garlic cloves, 6-7 Green Chillies, 8-10 Curry leaves, coriander stems, 1 tsp salt, 1 cup water",
+    "Chutney Tadka: 1 tsp Oil, 1 tsp Mustard seeds, 1 tsp Cumin seeds, 6-7 Curry leaves",
+    "Cooking Oil for deep frying"
+  ],
+  "ingredients_hi": [
+    "3 मध्यम उबले आलू (छिले हुए)",
+    "1/3 कप फेंटा हुआ दही",
+    "1 कप चावल का आटा (शानदार कुरकुरापन देने के लिए)",
+    "1/3 कप मैदा (बाइंडिंग और सॉफ्टनेस के लिए)",
+    "1 मध्यम प्याज (बारीक कटा हुआ)",
+    "2-3 हरी मिर्च (बारीक कटी)",
+    "1 इंच अदरक (बारीक कटा)",
+    "10-12 ताज़ा करी पत्ते और हरा धनिया (बारीक कटा)",
+    "1/4 छोटा चम्मच बेकिंग सोडा",
+    "1.5 छोटा चम्मच नमक",
+    "तीखी लहसुनी टमाटर चटनी: 3 पके टमाटर, 10-12 लहसुन की कलियां, 6-7 हरी मिर्च, 8-10 करी पत्ते, धनिए के डंठल, 1 चम्मच नमक, 1 कप पानी",
+    "चटनी का तड़का: 1 चम्मच तेल, 1 चम्मच राई, 1 चम्मच जीरा, 6-7 करी पत्ते",
+    "पुनुगुलु तलने के लिए कुकिंग ऑयल"
+  ],
+  "instructions_en": [
+    "Step 1 (Smooth Potato Puree): In a blender jar, add boiled potatoes, 1/3 cup curd, and 1/2 cup water. Blend into an ultra-smooth, creamy potato paste without any lumps.",
+    "Step 2 (Batter Prep): Transfer the potato puree to a mixing bowl. Add rice flour, maida, and 1.5 tsp salt. Whisk vigorously into a thick, dropping-consistency batter (like idli/vada batter).",
+    "Step 3 (Aromatics): Add finely chopped onions, green chillies, ginger, curry leaves, fresh coriander, and 1/4 tsp baking soda. Mix well and let rest for 5 minutes.",
+    "Step 4 (Tomato Chutney Base): In a saucepan, heat 1 tsp oil. Add garlic cloves, green chillies, curry leaves, coriander stems, and chopped tomatoes. Add 1 tsp salt and 1 cup water. Simmer covered for 6-7 minutes until tomatoes are completely soft. Cool and blend into a smooth spicy chutney.",
+    "Step 5 (Chutney Tadka): Heat 1 tsp oil in a small pan, crackle mustard seeds, cumin seeds, and curry leaves. Pour sizzling tadka over the chutney.",
+    "Step 6 (Frying Punugulu): Heat oil in a kadhai on medium-high flame. Wet your fingers with water, scoop small bite-sized balls of the batter, and drop them into the hot oil (or use a small spoon).",
+    "Step 7: Fry on medium flame for 4-5 minutes, turning occasionally, until the punugulu puff up like round balloons and turn evenly golden and crisp.",
+    "Step 8: Remove with a slotted spoon, drain on paper, and serve piping hot with the spicy tomato-garlic chutney."
+  ],
+  "instructions_hi": [
+    "स्टेप 1 (आलू-दही पेस्ट): मिक्सी जार में उबले आलू, 1/3 कप दही और 1/2 कप पानी डालकर बिल्कुल चिकना और मलाईदार पेस्ट पीस लें।",
+    "स्टेप 2 (घोल तैयार करना): आलू के पेस्ट को एक बर्तन में निकालें। इसमें चावल का आटा, मैदा और डेढ़ चम्मच नमक डालकर अच्छी तरह फेंटें। गाढ़ा चिकना घोल तैयार कर लें।",
+    "स्टेप 3 (सब्ज़ियां और मसाले): घोल में बारीक कटा प्याज, हरी मिर्च, अदरक, करी पत्ता, हरा धनिया और 1/4 चम्मच बेकिंग सोडा डालकर मिला लें और 5 मिनट ढककर रखें।",
+    "स्टेप 4 (टमाटर चटनी): एक पैन में 1 चम्मच तेल गरम करें। लहसुन, हरी मिर्च, करी पत्ता, धनिए के डंठल, कटे टमाटर, नमक और 1 कप पानी डालकर 6-7 मिनट टमाटर गलने तक उबालें। ठंडा करके मिक्सी में पीस लें।",
+    "स्टेप 5 (चटनी का तड़का): 1 चम्मच तेल में राई, जीरा और करी पत्ता तड़काकर चटनी के ऊपर डालें।",
+    "स्टेप 6 (पुनुगुलु तलना): कड़ाही में तेल मध्यम-तेज़ आंच पर गरम करें। हाथों को हल्के पानी से गीला करें और छोटे-छोटे गोल बॉल्स की तरह घोल तेल में छोड़ें।",
+    "स्टेप 7: मध्यम आंच पर उलट-पुलट करते हुए 4-5 मिनट सुनहरा और एकदम कुरकुरा होने तक तलें। पुनुगुलु फूलकर गोल गुब्बारे जैसे हो जाएंगे।",
+    "स्टेप 8: बाहर निकालें और गरमा-गरम क्रिस्पी पुनुगुलु को तीखी आंध्र स्टाइल टमाटर चटनी के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "Blending boiled potatoes with curd creates a natural emulsified starch base that absorbs zero excess oil while keeping the inside light and fluffy.",
+    "Rice flour provides the shatteringly crisp outer crust, while a touch of maida gives elasticity so the fritters retain their round ball shape."
+  ],
+  "chef_tips_hi": [
+    "उबले आलू को दही के साथ पीसने से पेस्ट में ऐसी बाइंडिंग आती है कि तलते समय पकोड़े बिल्कुल भी तेल नहीं पीते और अंदर से जालीदार बनते हैं।",
+    "चावल का आटा ऊपर से सुपर क्रंची टेक्सचर देता है और थोड़ा सा मैदा इन्हें गोल आकार में बांधे रखता है।"
+  ],
+  "tags": ["Punugulu", "South Indian", "Aloo Snacks", "Crispy Bonda", "Tea Time", "Vegetarian"]
+}

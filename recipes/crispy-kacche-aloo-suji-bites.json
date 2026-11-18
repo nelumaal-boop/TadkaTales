@@ -1,0 +1,165 @@
+{
+  "id": "crispy-kacche-aloo-suji-bites",
+  "title_en": "Crispy 2-Potato Suji Square Bites",
+  "title_hi": "2 कच्चे आलू और सूजी का कुरकुरा चौकोर नाश्ता (पोटैटो बाइट्स)",
+  "title": {
+    "en": "Crispy 2-Potato Suji Square Bites",
+    "hi": "2 कच्चे आलू और सूजी का कुरकुरा चौकोर नाश्ता (पोटैटो बाइट्स)"
+  },
+  "description_en": "An instant, tea-time snack recipe by Kitchen Magic by Vanisha made from just 2 raw grated potatoes and semolina. Cooked in fragrant spiced water, set into a tray, cut into bite-sized squares, and shallow-fried to golden, puffed, shatter-crisp perfection.",
+  "description_hi": "किचन मैजिक बाय वनिषा की बिना किसी झंझट के केवल 2 कच्चे आलू और सूजी से बनने वाली गरमा-गरम कुरकुरी स्नैक रेसिपी। तड़के वाले पानी में पके आलू-सूजी के डो को थाली में जमाकर चौकोर टुकड़ों में काटें और सुनहरा क्रिस्पी सेकें।",
+  "description": {
+    "en": "An instant, tea-time snack recipe by Kitchen Magic by Vanisha made from just 2 raw grated potatoes and semolina. Cooked in fragrant spiced water, set into a tray, cut into bite-sized squares, and shallow-fried to golden, puffed, shatter-crisp perfection.",
+    "hi": "किचन मैजिक बाय वनिषा की बिना किसी झंझट के केवल 2 कच्चे आलू और सूजी से बनने वाली गरमा-गरम कुरकुरी स्नैक रेसिपी। तड़के वाले पानी में पके आलू-सूजी के डो को थाली में जमाकर चौकोर टुकड़ों में काटें और सुनहरा क्रिस्पी सेकें।"
+  },
+  "category": "Snacks",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cook_time_en": "15 mins",
+  "cook_time_hi": "15 मिनट",
+  "prepTime": "10 mins",
+  "cookTime": "15 mins",
+  "servings_en": "4 Servings (16-18 Square Bites)",
+  "servings_hi": "4 लोग (16-18 चौकोर बाइट्स)",
+  "servings": "4 Servings (16-18 Square Bites)",
+  "youtube_id": "5qopAIQ_NOk",
+  "youtubeId": "5qopAIQ_NOk",
+  "youtube_url": "https://www.youtube.com/watch?v=5qopAIQ_NOk",
+  "image_url": "https://img.youtube.com/vi/5qopAIQ_NOk/hqdefault.jpg",
+  "tags": [
+    "kacche aloo nashta",
+    "potato bites",
+    "suji snack",
+    "kitchen magic by vanisha",
+    "tea time snack",
+    "crispy nuggets",
+    "easy breakfast"
+  ],
+  "ingredients_en": [
+    "2 Medium Raw Potatoes (kacche aloo, peeled, washed, and grated into thin shreds)",
+    "1 cup Fine Semolina (suji / rava)",
+    "2 cups Water (exact 2:1 ratio with suji)",
+    "1 tbsp Cooking oil (for tempering)",
+    "1 tsp Cumin seeds (jeera)",
+    "1/2 tsp Mustard seeds (rai)",
+    "1 tbsp White sesame seeds (safed til, for nutty crunch)",
+    "1 inch Ginger (finely minced or grated)",
+    "2 Green chillies (finely chopped)",
+    "1 tsp Red chilli flakes (kuti lal mirch)",
+    "1/4 tsp Turmeric powder (haldi, for cheerful golden hue)",
+    "1/2 tsp Garam masala powder or Chaat masala",
+    "1 tsp Salt (or to taste)",
+    "1/4 cup Fresh coriander leaves (finely chopped)",
+    "1 tsp Lemon juice (for subtle tang)",
+    "Oil for shallow or deep frying"
+  ],
+  "ingredients_hi": [
+    "2 मध्यम कच्चे आलू (छीलकर, धोकर पतले लच्छों में कद्दूकस किए हुए)",
+    "1 कप बारीक सूजी (रवा)",
+    "2 कप पानी (सूजी से दोगुना अनुपात)",
+    "1 बड़ा चम्मच तेल (तड़के के लिए)",
+    "1 छोटा चम्मच जीरा",
+    "1/2 छोटा चम्मच राई / सरसों",
+    "1 बड़ा चम्मच सफेद तिल (कुरकुरे स्वाद के लिए)",
+    "1 इंच अदरक (बारीक कद्दूकस)",
+    "2 हरी मिर्च (बारीक कटी हुई)",
+    "1 छोटा चम्मच कुटी लाल मिर्च (चिली फ्लेक्स)",
+    "1/4 छोटा चम्मच हल्दी पाउडर (सुनहरे रंग के लिए)",
+    "1/2 छोटा चम्मच गरम मसाला या चाट मसाला",
+    "1 छोटा चम्मच नमक (स्वादानुसार)",
+    "1/4 कप ताज़ा हरा धनिया (बारीक कटा हुआ)",
+    "1 छोटा चम्मच नींबू का रस",
+    "शैलो फ्राई या डीप फ्राई के लिए तेल"
+  ],
+  "ingredients": [
+    {
+      "category": "Tempered Spiced Water & Potatoes",
+      "items": [
+        { "en": "2 Raw potatoes (grated into shreds)", "hi": "2 कच्चे आलू (कद्दूकस किए हुए)" },
+        { "en": "2 cups Water & 1 tbsp Oil", "hi": "2 कप पानी और 1 बड़ा चम्मच तेल" },
+        { "en": "Jeera, Mustard seeds & White sesame seeds", "hi": "जीरा, राई और सफेद तिल" },
+        { "en": "Minced Ginger, Green chillies & Chilli flakes", "hi": "अदरक, हरी मिर्च और चिली फ्लेक्स" }
+      ]
+    },
+    {
+      "category": "Suji Dough & Seasoning",
+      "items": [
+        { "en": "1 cup Fine Suji (semolina)", "hi": "1 कप बारीक सूजी" },
+        { "en": "Haldi, Garam masala, Salt & Lemon juice", "hi": "हल्दी, गरम मसाला, नमक और नींबू रस" },
+        { "en": "Generous fresh coriander leaves", "hi": "ढेर सारा बारीक कटा हरा धनिया" }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Step 1 - Grate & Rinse Potatoes: Peel the raw potatoes and grate them using the medium holes of a box grater directly into a bowl of clean water. Rinse twice to wash off excess surface starch and squeeze out the water thoroughly with your hands.",
+    "Step 2 - Temper the Water: In a non-stick kadai or pan, heat 1 tbsp oil over medium flame. Splutter cumin seeds, mustard seeds, and white sesame seeds. Add minced ginger, chopped green chillies, and red chilli flakes. Sauté for 30 seconds until fragrant.",
+    "Step 3 - Boil Potatoes in Aromatics: Pour 2 cups of water into the tempered spices. Add turmeric powder, salt, and garam masala. Add the squeezed grated raw potatoes. Bring to a vigorous rolling boil and cook for 2 to 3 minutes until potatoes turn half-cooked (translucent).",
+    "Step 4 - Incorporate Semolina (Suji): Lower the flame to minimum. Gradually rain in 1 cup of fine semolina with one hand while stirring continuously with a spatula in the other hand to prevent lumps. Continue stirring on low-medium flame for 3 to 4 minutes as the semolina rapidly absorbs the water and swells. Mix in fresh coriander and lemon juice. Cook until the mixture forms a smooth, non-sticky dough that pulls cleanly away from the sides and bottom of the pan.",
+    "Step 5 - Set in a Greased Tray: Lightly grease a flat metal thali, baking tin, or plate with a few drops of oil. Transfer the hot dough onto the plate. Use a flat greased spatula or bowl base to press and smoothen it into an even, level slab (approx. 1/2-inch to 3/4-inch thickness). Let it rest and cool at room temperature for 10-15 minutes (or 5 minutes in the fridge) until firmly set.",
+    "Step 6 - Cut into Square Bites: Once set firm, take a knife and cut the slab into clean, bite-sized 1.5-inch squares (or diamond / bite shapes). The edges should be sharp and neat.",
+    "Step 7 - Fry to Puffy Golden Crispness: Heat oil in a flat pan on medium-high heat. Slide the square bites into the hot oil in batches without crowding. Fry on medium flame for 3 to 4 minutes on the first side until crisp and golden, then flip and fry the other side for 2 minutes. The bites will puff up like little pillow nuggets with a brittle, shattering crust.",
+    "Step 8 - Serve: Drain on a paper towel. Serve piping hot with tangy tomato ketchup, green mint-coriander chutney, and a hot cup of tea. Can also be frozen raw in an airtight container for up to 1 week and fried directly!"
+  ],
+  "instructions_hi": [
+    "स्टेप 1 - कच्चे आलू कद्दूकस करना: दो कच्चे आलू छीलकर पानी भरे बर्तन में कद्दूकस करें ताकि उनका स्टार्च निकल जाए और वे काले न पड़ें। दो बार पानी से धोकर हाथों से सारा पानी अच्छी तरह निचोड़ लें।",
+    "स्टेप 2 - तड़का लगाना: एक कड़ाही में 1 बड़ा चम्मच तेल गरम करें। जीरा, राई और सफेद तिल चटकाएं। बारीक कटा अदरक, हरी मिर्च और चिली फ्लेक्स डालकर 30 सेकंड भूनें।",
+    "स्टेप 3 - आलू को पानी में खौलाना: अब कड़ाही में 2 कप पानी डालें। साथ ही हल्दी, नमक और गरम मसाला मिलाएं। निचोड़े हुए कच्चे आलू के लच्छे डालें और तेज़ आंच पर 2-3 मिनट उबलने दें ताकि आलू आधे पक जाएं।",
+    "स्टेप 4 - सूजी मिलाकर डो बनाना: आंच बिल्कुल धीमी करें। 1 कप बारीक सूजी को धीरे-धीरे डालते हुए दूसरे हाथ से लगातार चलाते रहें ताकि एक भी गांठ न पड़े। धीमी आंच पर 3-4 मिनट पकाएं। सूजी सारा पानी सोख लेगी। हरा धनिया और नींबू का रस मिलाएं। जब मिश्रण कड़ाही छोड़ने लगे और चिकना डो बन जाए तो गैस बंद करें।",
+    "स्टेप 5 - थाली में जमाना: एक थाली या ट्रे पर थोड़ा तेल लगाकर चिकना करें। गरम मिश्रण को थाली में निकालें और कटोरी के पिछले हिस्से से दबाकर आधा इंच मोटाई की एकसमान चौकोर परत में फैला लें। 10-15 मिनट पंखे के नीचे या 5 मिनट फ्रिज में सेट होने दें।",
+    "स्टेप 6 - चौकोर बाइट्स काटना: सेट होने के बाद चाकू से 1.5 इंच के सुंदर चौकोर (Square) टुकड़ों में काट लें।",
+    "स्टेप 7 - कुरकुरा फ्राई करना: पैन में तेल मध्यम-तेज़ गरम करें। चौकोर बाइट्स को तेल में डालें। मध्यम आंच पर 3-4 मिनट एक तरफ से सुनहरा होने तक सेकें, फिर पलटकर दूसरी तरफ भी 2-3 मिनट क्रिस्पी सेकें। यह बाइट्स फूलकर बाहर से एकदम खस्ता और अंदर से सॉफ्ट बनेंगी।",
+    "स्टेप 8 - परोसें: प्लेट में निकालें। ऊपर से चाट मसाला छिड़कें और गरमा-गरम तीखी हरी चटनी या टोमैटो केचप के साथ शाम की चाय में परोसें। इन्हें बनाकर फ्रिज में 1 हफ्ते तक स्टोर भी कर सकते हैं!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": {
+        "en": "Grate 2 raw potatoes into water, rinse twice, and squeeze out excess moisture completely.",
+        "hi": "2 कच्चे आलू को पानी में कद्दूकस करें, दो बार धोएं और पानी अच्छी तरह निचोड़ लें।"
+      }
+    },
+    {
+      "step": 2,
+      "text": {
+        "en": "Sauté jeera, mustard, white sesame, ginger, chillies, and chilli flakes in 1 tbsp oil. Add 2 cups water, salt, and potatoes. Boil 3 mins.",
+        "hi": "जीरा, राई, तिल, अदरक और मिर्च तड़काएं। 2 कप पानी, नमक और आलू डालकर 3 मिनट उबालें।"
+      }
+    },
+    {
+      "step": 3,
+      "text": {
+        "en": "Gradually stir in 1 cup fine suji on low flame. Cook 3-4 mins with coriander until it forms a smooth non-sticky dough.",
+        "hi": "धीमी आंच पर सूजी डालते हुए लगातार चलाएं। हरा धनिया मिलाकर कड़ाही छोड़ने तक डो की तरह पकाएं।"
+      }
+    },
+    {
+      "step": 4,
+      "text": {
+        "en": "Spread into an even 1/2-inch slab on a greased plate. Cool 10 mins to set firm, then cut into neat squares.",
+        "hi": "तेल लगी थाली में आधा इंच मोटाई में फैलाएं। 10 मिनट ठंडा करके चौकोर टुकड़ों में काटें।"
+      }
+    },
+    {
+      "step": 5,
+      "text": {
+        "en": "Shallow fry in medium-hot oil for 4-5 mins until puffed, golden, and shatter-crisp. Serve with chutney.",
+        "hi": "मध्यम तेल में 4-5 मिनट उलट-पुलट कर कुरकुरा और सुनहरा तलें। चटनी के साथ गरमा-गरम पेश करें।"
+      }
+    }
+  ],
+  "chef_tips_en": [
+    "Exact 2:1 Water Ratio: Always use exactly 2 cups of water for 1 cup of semolina. This guarantees the suji fully hydrates into a smooth, malleable dough without turning sloppy or dry.",
+    "Rinsing Raw Potato Shreds: Rinsing grated raw potatoes strips surface starch, which ensures the nuggets stay crisp like hashbrowns rather than gummy.",
+    "Make-Ahead Freezer Friendly: After cutting into squares, place them on a parchment sheet and freeze. Once frozen hard, transfer to a ziplock bag—fry directly straight from the freezer whenever unexpected guests arrive!"
+  ],
+  "chef_tips_hi": [
+    "पानी का सटीक अनुपात: 1 कप सूजी के लिए ठीक 2 कप पानी का इस्तेमाल करें। इससे सूजी बिना चिपचिपी हुए एकदम सही सेट होने वाला डो बनाती है।",
+    "कच्चे आलू को धोना: कद्दूकस किए आलू को धोने से अतिरिक्त स्टार्च निकल जाता है, जिससे नाश्ता अंदर से चिपचिपा नहीं बनता बल्कि हैशब्राउन जैसा कुरकुरा बनता है।",
+    "फ्रीज करने की सुविधा: चौकोर टुकड़ों को काटकर डिब्बे में रखकर हफ्ते भर फ्रीजर में रख सकते हैं और जब मन करे तब तुरंत निकालकर गरमा-गरम तल सकते हैं।"
+  ]
+}

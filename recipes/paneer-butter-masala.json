@@ -1,0 +1,90 @@
+{
+  "id": "paneer-butter-masala",
+  "title_en": "Dhaba-Style Paneer Butter Masala",
+  "title_hi": "ढाबा स्टाइल पनीर बटर मसाला",
+  "description_en": "Soft cottage cheese cubes cooked in a silky, rich, mildly sweet tomato and cashew nut makhani gravy.",
+  "description_hi": "मुलायम पनीर के टुकड़े, काजू और टमाटर की मखमली व खुशबूदार ग्रेवी में बने ढाबा स्टाइल पनीर बटर मसाला।",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cook_time_en": "20 mins",
+  "cook_time_hi": "20 मिनट",
+  "servings_en": "4 servings",
+  "servings_hi": "4 लोगों के लिए",
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "category": "Latest Recipe",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "youtube_id": "u4o-h8r_1qQ",
+  "youtube_url": "https://www.youtube.com/watch?v=u4o-h8r_1qQ",
+  "image_url": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?q=80&w=1200&auto=format&fit=crop",
+  "ingredients_en": [
+    "250g Fresh Paneer, cut into cubes",
+    "4 medium tomatoes, roughly chopped",
+    "2 medium onions, sliced",
+    "12-15 Cashews (Kaju), soaked in warm water",
+    "2 tbsp Butter + 1 tbsp Oil",
+    "1 tbsp Ginger-Garlic paste",
+    "1 Bay leaf, 2 Green Cardamoms, 1-inch Cinnamon stick",
+    "1 tsp Kashmiri Red Chilli powder",
+    "1/2 tsp Turmeric powder",
+    "1 tsp Coriander powder",
+    "1/2 tsp Garam Masala",
+    "1 tbsp Kasuri Methi, crushed",
+    "2 tbsp Fresh Cream",
+    "1/2 tsp Sugar (balances acidity)",
+    "Salt to taste"
+  ],
+  "ingredients_hi": [
+    "250 ग्राम ताज़ा पनीर (चौकोर टुकड़ों में कटा हुआ)",
+    "4 मध्यम टमाटर (मोटे कटे हुए)",
+    "2 मध्यम प्याज (कटे हुए)",
+    "12-15 काजू (गुनगुने पानी में भीगे हुए)",
+    "2 बड़े चम्मच मक्खन + 1 बड़ा चम्मच तेल",
+    "1 बड़ा चम्मच अदरक-लहसुन पेस्ट",
+    "1 तेजपत्ता, 2 हरी इलायची, 1 इंच दालचीनी टुकड़ा",
+    "1 छोटा चम्मच कश्मीरी लाल मिर्च पाउडर",
+    "1/2 छोटा चम्मच हल्दी पाउडर",
+    "1 छोटा चम्मच धनिया पाउडर",
+    "1/2 छोटा चम्मच गरम मसाला",
+    "1 बड़ा चम्मच भुनी कसूरी मेथी",
+    "2 बड़े चम्मच ताज़ी मलाई या क्रीम",
+    "1/2 छोटा चम्मच चीनी (टमाटर का खट्टापन संतुलित करने के लिए)",
+    "स्वादानुसार नमक"
+  ],
+  "instructions_en": [
+    "In a pan, heat 1 tsp butter and saute onions, tomatoes, soaked cashews, and whole spices for 6-7 minutes until tomatoes are soft.",
+    "Let the mixture cool down, discard the bay leaf, and blend into an ultra-smooth velvety puree using a little water.",
+    "Heat remaining butter and oil in a pan. Add ginger-garlic paste and saute for 30 seconds.",
+    "Pour the strained tomato-cashew puree into the pan. Stir well and cook on medium flame for 5 minutes.",
+    "Add Kashmiri chilli, coriander powder, turmeric, salt, and 1/2 tsp sugar. Mix well and cook until oil dots appear on the surface.",
+    "Add 1/2 cup warm water to adjust gravy consistency.",
+    "Gently drop in paneer cubes. Simmer on low heat for 3-4 minutes so paneer absorbs the gravy without becoming chewy.",
+    "Finish with crushed kasuri methi, garam masala, and fresh cream. Serve hot with Garlic Naan or Tandoori Roti."
+  ],
+  "instructions_hi": [
+    "एक पैन में 1 चम्मच मक्खन गरम करें और प्याज, टमाटर, भीगे काजू और खड़े मसाले डालकर 6-7 मिनट तक टमाटर नरम होने तक भूनें।",
+    "मिश्रण को ठंडा होने दें, तेजपत्ता निकाल दें, और मिक्सी में थोड़ा पानी डालकर बिल्कुल महीन और मखमली पेस्ट बना लें।",
+    "कड़ाही में बचा हुआ मक्खन और तेल गरम करें। अदरक-लहसुन पेस्ट डालकर 30 सेकंड भूनें।",
+    "अब पिसी हुई टमाटर-काजू प्यूरी डालें और मध्यम आंच पर 5 मिनट तक पकने दें।",
+    "कश्मीरी लाल मिर्च, धनिया पाउडर, हल्दी, नमक और आधा चम्मच चीनी डालकर अच्छी तरह मिलाएँ।",
+    "ग्रेवी गाढ़ी लगे तो 1/2 कप गुनगुना पानी मिलाएँ।",
+    "अब पनीर के टुकड़े डालें और धीमी आंच पर 3-4 मिनट तक पकने दें ताकि पनीर में मसाले का स्वाद समा जाए।",
+    "ऊपर से कसूरी मेथी, गरम मसाला और ताज़ी मलाई डालकर गैस बंद करें। गरमा-गरम गार्लिक नान या तंदूरी रोटी के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "Soak paneer cubes in warm salted water for 10 minutes before adding to keep them pillow-soft.",
+    "Straining the blended puree through a fine sieve gives that glossy, authentic five-star hotel texture."
+  ],
+  "chef_tips_hi": [
+    "पनीर को ग्रेवी में डालने से पहले 10 मिनट के लिए हल्के गर्म नमक वाले पानी में रखें, पनीर बेहद मुलायम रहेगा।",
+    "प्यूरी को छलनी से छानकर इस्तेमाल करने से ग्रेवी बिल्कुल स्मूथ और रेशमी बनती है।"
+  ],
+  "tags": [
+    "Paneer",
+    "North Indian",
+    "Curry",
+    "Vegetarian",
+    "Quick & Easy"
+  ]
+}

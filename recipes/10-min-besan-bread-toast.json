@@ -1,0 +1,97 @@
+{
+  "id": "10-min-besan-bread-toast",
+  "title": {
+    "en": "Crispy 10-Minute Besan Bread Toast",
+    "hi": "10 मिनट में क्रिस्पी बेसन ब्रेड टोस्ट (झटपट नाश्ता)"
+  },
+  "title_en": "Crispy 10-Minute Besan Bread Toast",
+  "title_hi": "10 मिनट में क्रिस्पी बेसन ब्रेड टोस्ट (झटपट नाश्ता)",
+  "description": {
+    "en": "Quick, healthy, and protein-packed savory breakfast toast made by dipping bread in a spiced gram flour (besan) batter studded with crunchy veggies, then pan-toasted until golden crisp.",
+    "hi": "सुबह के नाश्ते या शाम की चाय के लिए 10 मिनट में बनने वाला बेसन ब्रेड टोस्ट। सब्जियों और मसालों से भरे बेसन के घोल में ब्रेड को डुबोकर तवे पर कुरकुरा सेका जाता है।"
+  },
+  "description_en": "Quick, healthy, and protein-packed savory breakfast toast made by dipping bread in a spiced gram flour (besan) batter studded with crunchy veggies, then pan-toasted until golden crisp.",
+  "description_hi": "सुबह के नाश्ते या शाम की चाय के लिए 10 मिनट में बनने वाला बेसन ब्रेड टोस्ट। सब्जियों और मसालों से भरे बेसन के घोल में ब्रेड को डुबोकर तवे पर कुरकुरा सेका जाता है।",
+  "category": "Snacks",
+  "isVegetarian": true,
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "prepTime": "5 mins",
+  "prep_time_en": "5 mins",
+  "prep_time_hi": "5 मिनट",
+  "cookTime": "10 mins",
+  "cook_time_en": "10 mins",
+  "cook_time_hi": "10 मिनट",
+  "servings": "4 toasts",
+  "servings_en": "4 toasts",
+  "servings_hi": "4 टोस्ट",
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "youtube_id": "X4649wE4tLU",
+  "youtubeId": "X4649wE4tLU",
+  "youtube_url": "https://www.youtube.com/watch?v=X4649wE4tLU",
+  "author": "HomeCookingShow",
+  "image_url": "/static/images/X4649wE4tLU.jpg",
+  "tags": [
+    "Besan Toast",
+    "Bread Snacks",
+    "Tea Time Snack",
+    "Quick Breakfast",
+    "Vegetarian",
+    "HomeCookingShow"
+  ],
+  "ingredients_en": [
+    "6 slices Bread (White or Whole Wheat)",
+    "1 cup Besan (Gram Flour)",
+    "1 small Onion (finely chopped)",
+    "1 small Tomato (finely chopped, seeds removed)",
+    "1 small Capsicum (finely chopped)",
+    "2 Green Chillies & 1/4 cup Coriander (finely chopped)",
+    "1/2 tsp Carom Seeds (Ajwain, crushed)",
+    "1/2 tsp Turmeric & 1/2 tsp Red Chilli Powder",
+    "1/2 tsp Chaat Masala",
+    "Salt to taste",
+    "Water as needed (approx 3/4 cup)",
+    "Oil or Butter for pan toasting"
+  ],
+  "ingredients_hi": [
+    "6 ब्रेड स्लाइस (व्हाइट या ब्राउन)",
+    "1 कप बेसन",
+    "1 छोटा प्याज (बारीक कटा हुआ)",
+    "1 छोटा टमाटर (बारीक कटा, बीज रहित)",
+    "1 छोटी शिमला मिर्च (बारीक कटी हुई)",
+    "2 हरी मिर्च व हरा धनिया (बारीक कटा)",
+    "1/2 छोटा चम्मच अजवाइन (मसलकर)",
+    "1/2 छोटा चम्मच हल्दी व 1/2 छोटा चम्मच लाल मिर्च",
+    "1/2 छोटा चम्मच चाट मसाला",
+    "स्वादानुसार नमक",
+    "घोल बनाने के लिए पानी (लगभग 3/4 कप)",
+    "सेकने के लिए तेल या मक्खन"
+  ],
+  "instructions_en": [
+    "In a wide mixing bowl, whisk besan, ajwain, turmeric, red chilli powder, chaat masala, and salt. Add water gradually to make a smooth flowing batter (like pancake batter).",
+    "Add chopped onions, tomatoes, capsicum, green chillies, and fresh coriander. Mix well.",
+    "Heat a tawa or non-stick griddle over medium heat and drizzle 1 tsp oil.",
+    "Dip a slice of bread into the besan batter, coating both sides evenly along with the colorful veggies.",
+    "Immediately place the coated bread onto the hot tawa. Cook on medium-low flame for 2–3 minutes until bottom is set and golden crisp.",
+    "Drizzle a few drops of oil on top, flip gently, and press lightly with a spatula to cook the other side for 2 minutes.",
+    "Once both sides are crisp and cooked through, transfer to a cutting board, slice diagonally, and serve with mint chutney and ketchup."
+  ],
+  "instructions_hi": [
+    "एक चौड़े बर्तन में बेसन, अजवाइन, हल्दी, लाल मिर्च, चाट मसाला और नमक मिलाएं। थोड़ा-थोड़ा पानी डालकर गाढ़ा चिकना घोल तैयार करें।",
+    "अब इसमें बारीक कटा प्याज, टमाटर, शिमला मिर्च, हरी मिर्च और हरा धनिया डालकर मिला लें।",
+    "तवा मध्यम आंच पर गरम करें और थोड़ा सा तेल लगाएं।",
+    "ब्रेड स्लाइस को बेसन के घोल में डुबोएं ताकि दोनों तरफ सब्जियों वाला घोल अच्छी तरह लग जाए।",
+    "तुरंत गरम तवे पर रखें और धीमी-मध्यम आंच पर 2-3 मिनट तक सुनहरा और क्रिस्पी होने तक सेकें।",
+    "ऊपर थोड़ा तेल लगाएं, पलटें और दूसरी तरफ से भी दबाते हुए कुरकुरा होने तक सेकें।",
+    "तिकोना काटें और गरमा-गरम चाय व हरी चटनी के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "Do not leave the bread in the batter too long or it will become soggy and break.",
+    "Ajwain aids digestion and lends authentic pakora-like fragrance to the toast."
+  ],
+  "chef_tips_hi": [
+    "ब्रेड को घोल में ज्यादा देर न भिगोएं, बस डुबोकर तुरंत तवे पर डालें ताकि ब्रेड टूटे नहीं।",
+    "अजवाइन डालने से बेसन आसानी से पचता है और पकोड़े जैसा लाजवाब स्वाद आता है।"
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "id": "crispy-matar-poori-aloo-sabzi",
+  "title_en": "Crispy Fresh Green Peas Poori with Rassewali Aloo Sabzi",
+  "title_hi": "ताज़े मटर की खस्ता पूरी और रस्से वाली आलू टमाटर की सब्ज़ी",
+  "title": {
+    "en": "Crispy Fresh Green Peas Poori with Rassewali Aloo Sabzi",
+    "hi": "ताज़े मटर की खस्ता पूरी और रस्से वाली आलू टमाटर की सब्ज़ी"
+  },
+  "description_en": "A glorious winter breakfast feast of vibrant green, flaky pooris made with fresh green peas, spinach, and spices, served with piping hot, halwai-style rustic aloo tamatar rasedar sabzi.",
+  "description_hi": "सर्दियों का लाजवाब नाश्ता! ताज़े हरे मटर, पालक और मसालों के हरे-भरे आटे से बनी फूली-फूली खस्ता पूरी और साथ में हलवाई स्टाइल झटपट बनने वाली रस्सेदार आलू टमाटर की चटपटी सब्ज़ी।",
+  "description": {
+    "en": "A glorious winter breakfast feast of vibrant green, flaky pooris made with fresh green peas, spinach, and spices, served with piping hot, halwai-style rustic aloo tamatar rasedar sabzi.",
+    "hi": "सर्दियों का लाजवाब नाश्ता! ताज़े हरे मटर, पालक और मसालों के हरे-भरे आटे से बनी फूली-फूली खस्ता पूरी और साथ में हलवाई स्टाइल झटपट बनने वाली रस्सेदार आलू टमाटर की चटपटी सब्ज़ी।"
+  },
+  "category": "Breakfast",
+  "diet": "Vegetarian",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "सरल",
+  "prep_time_en": "20 mins",
+  "prep_time_hi": "20 मिनट",
+  "cook_time_en": "25 mins",
+  "cook_time_hi": "25 मिनट",
+  "prepTime": "20 mins",
+  "cookTime": "25 mins",
+  "servings_en": "5 servings",
+  "servings_hi": "5 लोग",
+  "servings": 5,
+  "youtube_id": "iI7cOBgadi8",
+  "youtubeId": "iI7cOBgadi8",
+  "youtube_url": "https://youtu.be/iI7cOBgadi8",
+  "image_url": "/static/images/iI7cOBgadi8.jpg",
+  "tags": [
+    "Matar Poori",
+    "Matar Kachori",
+    "Aloo Sabzi",
+    "Breakfast",
+    "Brunch",
+    "Green Peas",
+    "Winter Special",
+    "Kabita's Kitchen"
+  ],
+  "ingredients_en": [
+    "1.5 cups Fresh Green Peas (Taaza Matar)",
+    "1 cup Fresh Spinach Leaves (Palak), washed",
+    "1/2 cup Fresh Coriander Leaves",
+    "4 Green Chillies",
+    "6 Garlic Cloves",
+    "2 inches Fresh Ginger",
+    "2 cups Whole Wheat Flour (Atta)",
+    "1/4 cup Semolina (Sooji / Rava) - for extra crispiness",
+    "1/2 tsp Black Pepper Powder (Kali Mirch)",
+    "2 tbsp Cooking Oil or Ghee (for dough moyan)",
+    "Oil for Deep Frying",
+    "3 Boiled Potatoes, roughly hand-crushed",
+    "1 large Ripe Tomato, finely chopped",
+    "2 Green Chillies, slit",
+    "1 inch Ginger, julienned or minced",
+    "1/2 tsp Turmeric Powder (Haldi)",
+    "1 tsp Kashmiri Red Chilli Powder",
+    "1/2 tsp Coriander Powder (Dhaniya)",
+    "1/2 tsp Cumin Powder (Jeera)",
+    "1/3 tsp Black Pepper Powder",
+    "2 tbsp Cooking Oil (for sabzi tadka)",
+    "1.5 cups Water (for sabzi gravy)",
+    "Salt to taste",
+    "2 tbsp Fresh Coriander Leaves, chopped for garnish"
+  ],
+  "ingredients_hi": [
+    "1.5 कप ताज़े हरे मटर",
+    "1 कप धुली हुई पालक के पत्ते",
+    "1/2 कप हरा धनिया",
+    "4 हरी मिर्च",
+    "6 लहसुन की कलियां",
+    "2 इंच अदरक",
+    "2 कप गेहूं का आटा",
+    "1/4 कप बारीक सूजी (पूरी को खस्ता बनाने के लिए)",
+    "1/2 छोटा चम्मच काली मिर्च पाउडर",
+    "2 बड़े चम्मच तेल या घी (मोयन के लिए)",
+    "तलने के लिए तेल",
+    "3 उबले हुए आलू (हाथ से रफ तोड़े हुए)",
+    "1 बड़ा टमाटर (बारीक कटा)",
+    "2 हरी मिर्च (चीरा लगी)",
+    "1 इंच अदरक (बारीक कटा)",
+    "1/2 छोटा चम्मच हल्दी पाउडर",
+    "1 छोटा चम्मच कश्मीरी लाल मिर्च पाउडर",
+    "1/2 छोटा चम्मच धनिया पाउडर",
+    "1/2 छोटा चम्मच जीरा पाउडर",
+    "1/3 छोटा चम्मच काली मिर्च पाउडर",
+    "2 बड़े चम्मच तेल (सब्जी के तड़के हेतु)",
+    "1.5 कप पानी (रस्से हेतु)",
+    "नमक स्वादानुसार",
+    "2 बड़े चम्मच बारीक कटा हरा धनिया (गार्निश के लिए)"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Green Peas & Herb Paste (मटर, पालक व मसाला पेस्ट)",
+      "category_hi": "मटर, पालक व मसाला पेस्ट",
+      "items": [
+        {
+          "name_en": "Fresh Green Peas",
+          "name_hi": "ताज़े हरे मटर",
+          "amount": "1.5 cups"
+        },
+        {
+          "name_en": "Fresh Spinach Leaves",
+          "name_hi": "पालक के पत्ते",
+          "amount": "1 cup"
+        },
+        {
+          "name_en": "Fresh Coriander Leaves",
+          "name_hi": "हरा धनिया",
+          "amount": "1/2 cup"
+        },
+        {
+          "name_en": "Green Chillies",
+          "name_hi": "हरी मिर्च",
+          "amount": "4"
+        },
+        {
+          "name_en": "Garlic Cloves",
+          "name_hi": "लहसुन",
+          "amount": "6 cloves"
+        },
+        {
+          "name_en": "Fresh Ginger",
+          "name_hi": "अदरक",
+          "amount": "2 inch"
+        }
+      ]
+    },
+    {
+      "category_en": "Khasta Dough & Frying (खस्ता पूरी आटा व तलने हेतु)",
+      "category_hi": "खस्ता पूरी आटा व तलने हेतु",
+      "items": [
+        {
+          "name_en": "Whole Wheat Flour (Atta)",
+          "name_hi": "गेहूं का आटा",
+          "amount": "2 cups"
+        },
+        {
+          "name_en": "Semolina (Sooji)",
+          "name_hi": "सूजी",
+          "amount": "1/4 cup"
+        },
+        {
+          "name_en": "Black Pepper Powder",
+          "name_hi": "काली मिर्च पाउडर",
+          "amount": "1/2 tsp"
+        },
+        {
+          "name_en": "Melted Ghee / Oil",
+          "name_hi": "मोयन तेल या घी",
+          "amount": "2 tbsp"
+        },
+        {
+          "name_en": "Salt",
+          "name_hi": "नमक",
+          "amount": "1 tsp (to taste)"
+        },
+        {
+          "name_en": "Oil for Frying",
+          "name_hi": "तलने के लिए तेल",
+          "amount": "As needed"
+        }
+      ]
+    },
+    {
+      "category_en": "Halwai-Style Rassewali Aloo Sabzi (रस्सेदार आलू टमाटर सब्ज़ी)",
+      "category_hi": "रस्सेदार आलू टमाटर सब्ज़ी",
+      "items": [
+        {
+          "name_en": "Boiled Potatoes (Crushed)",
+          "name_hi": "उबले आलू (हाथ से तोड़े हुए)",
+          "amount": "3 medium"
+        },
+        {
+          "name_en": "Ripe Tomato",
+          "name_hi": "बारीक कटा टमाटर",
+          "amount": "1 large"
+        },
+        {
+          "name_en": "Green Chillies & Ginger",
+          "name_hi": "हरी मिर्च व अदरक",
+          "amount": "2 chillies + 1 inch ginger"
+        },
+        {
+          "name_en": "Turmeric, Chilli & Coriander",
+          "name_hi": "हल्दी, मिर्च व धनिया पाउडर",
+          "amount": "1/2 tsp + 1 tsp + 1/2 tsp"
+        },
+        {
+          "name_en": "Cumin & Black Pepper Powder",
+          "name_hi": "जीरा व काली मिर्च पाउडर",
+          "amount": "1/2 tsp + 1/3 tsp"
+        },
+        {
+          "name_en": "Cooking Oil",
+          "name_hi": "तेल",
+          "amount": "2 tbsp"
+        },
+        {
+          "name_en": "Water",
+          "name_hi": "पानी",
+          "amount": "1.5 cups"
+        },
+        {
+          "name_en": "Fresh Coriander",
+          "name_hi": "हरा धनिया",
+          "amount": "2 tbsp"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Blend Green Peas & Herb Paste: In a mixer grinder jar, add 1.5 cups fresh green peas, 1 cup washed spinach leaves, 1/2 cup coriander leaves, 4 green chillies, 6 garlic cloves, and 2 inches ginger. Blend without water (or minimal 1 tbsp) into a vibrant, thick green aromatic puree.",
+    "Knead Khasta Dough: In a wide mixing bowl, combine 2 cups wheat flour, 1/4 cup semolina (sooji), 1/2 tsp black pepper powder, 1 tsp salt, and 2 tbsp oil. Rub well to distribute moyan. Add the pureed pea-spinach mixture gradually and knead into a firm, smooth dough. Cover with a damp cloth and rest for 15 minutes.",
+    "Temper Spices for Aloo Sabzi: Heat 2 tbsp oil in a pan over medium flame. Add 1/2 tsp cumin seeds and let them splutter. Add chopped ginger and slit green chillies; sauté for 30 seconds until fragrant.",
+    "Cook Tomatoes & Masala: Add finely chopped tomato along with 1/2 tsp turmeric powder, 1 tsp Kashmiri red chilli powder, 1/2 tsp coriander powder, 1/2 tsp cumin powder, 1/3 tsp black pepper powder, and salt. Cook until tomatoes become soft and oil separates from the masala.",
+    "Add Potatoes & Simmer Gravy: Roughly break the 3 boiled potatoes by hand into rustic chunks and toss into the masala for 2 minutes. Pour in 1.5 cups warm water. Bring to a boil, then simmer on low flame for 5-6 minutes until the curry becomes richly flavored and velvety. Garnish with fresh coriander.",
+    "Roll the Pooris: Divide the rested green dough into small lemon-sized balls. Smear a drop of oil on your rolling board and roll each ball into an even, medium-thick circular poori (do not roll too thin to ensure perfect puffing).",
+    "Deep Fry & Serve: Heat oil in a kadai on medium-high flame until hot. Gently slide in a poori and press lightly with a slotted spoon until it puffs up balloon-like. Flip and fry for a few seconds until golden and crispy. Drain on paper towels and serve piping hot with delicious rassewali aloo sabzi!"
+  ],
+  "instructions_hi": [
+    "मटर-पालक पेस्ट पीसना: मिक्सर जार में 1.5 कप ताज़े हरे मटर, 1 कप धुली पालक, 1/2 कप हरा धनिया, 4 हरी मिर्च, 6 लहसुन की कलियां और 2 इंच अदरक डालें। बिना पानी (या केवल 1 चम्मच पानी) के गाढ़ा और सुगंधित हरा पेस्ट पीस लें।",
+    "खस्ता आटा गूंथना: एक बड़ी परात में 2 कप गेहूं का आटा, 1/4 कप सूजी, 1/2 छोटा चम्मच काली मिर्च पाउडर, 1 छोटा चम्मच नमक और 2 बड़े चम्मच तेल डालें। हाथों से अच्छे से मिलाएं। अब तैयार मटर-पालक का पेस्ट डालकर सख्त और चिकना आटा गूंथ लें। गीले कपड़े से ढककर 15 मिनट रखें।",
+    "सब्जी का तड़का: कड़ाही में 2 बड़े चम्मच तेल गरम करें। इसमें जीरा डालें और चटकने दें। फिर बारीक कटा अदरक और कटी हरी मिर्च डालकर 30 सेकंड भूनें।",
+    "टमाटर व मसाले पकाना: बारीक कटा टमाटर, 1/2 छोटा चम्मच हल्दी, 1 छोटा चम्मच कश्मीरी लाल मिर्च, 1/2 छोटा चम्मच धनिया पाउडर, 1/2 छोटा चम्मच जीरा पाउडर, 1/3 छोटा चम्मच काली मिर्च और स्वादानुसार नमक डालें। टमाटर के गलने और तेल छोड़ने तक भूनें।",
+    "आलू मिलाना व रस्सा पकाना: 3 उबले आलू को हाथ से रफ तोड़कर मसाले में डालें और 2 मिनट भूनें। अब 1.5 कप पानी डालें, उबाल आने दें और धीमी आंच पर 5-6 मिनट पकने दें ताकि ग्रेवी गाढ़ी हो जाए। ऊपर से हरा धनिया डालें।",
+    "पूरी बेलना: आटे की छोटी-छोटी नींबू के आकार की लोइयां बनाएं। चकले और बेलन पर थोड़ा तेल लगाएं और मध्यम मोटाई की पूरियां बेल लें (ज्यादा पतली न बेलें)।",
+    "पूरी तलना व परोसना: कड़ाही में तेल तेज गरम करें। पूरी डालकर झारे से हल्का दबाएं जिससे पूरी गुब्बारे जैसी फूल जाएगी। पलटकर दोनों तरफ से क्रिस्पी होने तक तलें। गरमा-गरम खस्ता मटर पूरी को हलवाई स्टाइल रस्सेदार आलू सब्जी के साथ परोसें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Blend Pea & Spinach Puree",
+      "title_hi": "मटर-पालक मसाला पेस्ट बनाना",
+      "instruction_en": "Grind fresh peas, spinach, coriander, chillies, garlic, and ginger into a thick, vibrant green paste.",
+      "instruction_hi": "मटर, पालक, हरा धनिया, हरी मिर्च, अदरक और लहसुन को बिना पानी के गाढ़ा पीस लें।"
+    },
+    {
+      "step": 2,
+      "title_en": "Knead Firm Khasta Dough",
+      "title_hi": "सूजी व आटे का सख्त आटा गूंथना",
+      "instruction_en": "Mix flour, sooji, black pepper, salt, and oil. Knead into a firm dough with the pea paste and rest 15 mins.",
+      "instruction_hi": "आटा, सूजी, काली मिर्च, नमक और तेल मिलाएं। मटर के पेस्ट से सख्त आटा गूंथकर 15 मिनट ढकें।"
+    },
+    {
+      "step": 3,
+      "title_en": "Temper Sabzi Aromatics",
+      "title_hi": "सब्जी का तड़का लगाना",
+      "instruction_en": "Heat oil in a kadai, splutter cumin seeds, and sauté minced ginger and slit green chillies.",
+      "instruction_hi": "तेल में जीरा चटकाएं और बारीक कटा अदरक व हरी मिर्च भूनें।"
+    },
+    {
+      "step": 4,
+      "title_en": "Cook Tomato Masala",
+      "title_hi": "टमाटर व पिसे मसाले भूनना",
+      "instruction_en": "Add chopped tomatoes and dry spices (turmeric, chilli, coriander, cumin, pepper, salt). Sauté till oil leaves.",
+      "instruction_hi": "टमाटर और सभी सूखे मसाले डालकर तेल अलग होने तक अच्छी तरह भूनें।"
+    },
+    {
+      "step": 5,
+      "title_en": "Simmer Rassewali Aloo Gravy",
+      "title_hi": "हाथ से तोड़े आलू व रस्सा उबालना",
+      "instruction_en": "Crush boiled potatoes by hand into uneven rustic chunks. Add water, simmer 5-6 mins, and finish with coriander.",
+      "instruction_hi": "उबले आलू हाथ से तोड़कर मिलाएं, पानी डालकर 5-6 मिनट धीमी आंच पर पकाएं और धनिया डालें।"
+    },
+    {
+      "step": 6,
+      "title_en": "Roll Even Green Pooris",
+      "title_hi": "पूरियां बेलना",
+      "instruction_en": "Divide dough into balls, grease board with oil, and roll into medium-thick smooth discs.",
+      "instruction_hi": "लोइयां बनाकर तेल लगाकर मध्यम मोटाई की पूरियां बेल लें।"
+    },
+    {
+      "step": 7,
+      "title_en": "Fry Till Crisp & Puffed",
+      "title_hi": "गुब्बारे जैसी पूरी तलना",
+      "instruction_en": "Fry in smoking hot oil, pressing lightly with slotted spoon until ballooned and crispy. Serve hot!",
+      "instruction_hi": "तेज गरम तेल में पूरी डालकर झारे से दबाएं, फूलने पर पलटकर सेकें और आलू सब्जी के साथ परोसें!"
+    }
+  ],
+  "chef_tips_en": [
+    "Semolina (Sooji) for Crispness: Adding 1/4 cup sooji prevents the pooris from turning soggy and keeps them crisp for a longer time.",
+    "Hand-Crushed Potatoes: Hand-crushing boiled potatoes instead of cutting with a knife releases potato starch naturally, giving the thin gravy a rich, restaurant-style body.",
+    "Knead with Puree Moisture: Avoid pouring extra water while kneading; the natural juices from peas and spinach are just right for a firm poori dough."
+  ],
+  "chef_tips_hi": [
+    "सूजी का खस्तापन: 1/4 कप सूजी डालने से पूरियां नरम नहीं पड़तीं और लंबे समय तक फूली और क्रिस्पी बनी रहती हैं।",
+    "हाथ से तोड़े आलू: चाकू से काटने के बजाय हाथ से रफ तोड़े आलू डालने से स्टार्च निकलता है जिससे रस्सेदार ग्रेवी में हलवाई जैसी गाढ़ी चमक आती है।",
+    "बिना अतिरिक्त पानी के आटा गूंथना: आटा गूंथते समय अलग से पानी न डालें; ताजे मटर और पालक की प्राकृतिक नमी से ही आटा एकदम परफेक्ट सख्त बनता है।"
+  ]
+}

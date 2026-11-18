@@ -1,0 +1,102 @@
+{
+  "id": "baingan-ka-bharta",
+  "title": {
+    "en": "Authentic Dhaba Style Baingan Ka Bharta",
+    "hi": "ढाबा स्टाइल भुना हुआ बैंगन का भरता"
+  },
+  "title_en": "Authentic Dhaba Style Baingan Ka Bharta",
+  "title_hi": "ढाबा स्टाइल भुना हुआ बैंगन का भरता",
+  "description": {
+    "en": "Classic North Indian style Baingan Ka Bharta made by fire-roasting a whole large eggplant until charred and smoky, then mashed and tossed with golden onions, garlic, green chillies, and aromatic spices.",
+    "hi": "पारंपरिक उत्तर भारतीय ढाबा स्टाइल बैंगन का भरता। बड़े बैंगन को सीधी आंच पर भूनकर स्मोकी फ्लेवर दिया जाता है, फिर बारीक कटे प्याज, लहसुन, हरी मिर्च और मसालों के साथ तड़का लगाकर पकाया जाता है।"
+  },
+  "description_en": "Classic North Indian style Baingan Ka Bharta made by fire-roasting a whole large eggplant until charred and smoky, then mashed and tossed with golden onions, garlic, green chillies, and aromatic spices.",
+  "description_hi": "पारंपरिक उत्तर भारतीय ढाबा स्टाइल बैंगन का भरता। बड़े बैंगन को सीधी आंच पर भूनकर स्मोकी फ्लेवर दिया जाता है, फिर बारीक कटे प्याज, लहसुन, हरी मिर्च और मसालों के साथ तड़का लगाकर पकाया जाता है।",
+  "category": "Latest Recipe",
+  "isVegetarian": true,
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "prepTime": "10 mins",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cookTime": "20 mins",
+  "cook_time_en": "20 mins",
+  "cook_time_hi": "20 मिनट",
+  "servings": "4 servings",
+  "servings_en": "4 servings",
+  "servings_hi": "4 सर्विंग्स",
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "youtube_id": "BHFeZSZZ2Bc",
+  "youtubeId": "BHFeZSZZ2Bc",
+  "youtube_url": "https://www.youtube.com/watch?v=BHFeZSZZ2Bc",
+  "author": "HomeCookingShow",
+  "image_url": "/static/images/BHFeZSZZ2Bc.jpg",
+  "tags": [
+    "Baingan Bharta",
+    "Smoky Eggplant",
+    "Dhaba Style",
+    "North Indian",
+    "Side Dish",
+    "Vegetarian",
+    "HomeCookingShow"
+  ],
+  "ingredients_en": [
+    "1 large Aubergine / Eggplant (Bharta Baingan)",
+    "4 tbsp Mustard Oil or Cooking Oil",
+    "10 cloves Garlic (finely chopped)",
+    "8-10 Green Chillies (slit or chopped, adjust to taste)",
+    "2 large Onions (finely chopped)",
+    "1/2 tsp Turmeric Powder",
+    "1 tsp Kashmiri Red Chilli Powder",
+    "1 tsp Cumin Powder",
+    "1 tsp Salt (or to taste)",
+    "Juice of 1 fresh Lemon",
+    "1/4 cup Fresh Coriander Leaves (finely chopped)"
+  ],
+  "ingredients_hi": [
+    "1 बड़ा भरता बैंगन (गोल और चमकदार)",
+    "4 बड़े चम्मच सरसों का तेल या कुकिंग ऑयल",
+    "10 कलियां लहसुन (बारीक कटा हुआ)",
+    "8-10 हरी मिर्च (बारीक कटी हुई, स्वादानुसार)",
+    "2 बड़े प्याज (बारीक कटे हुए)",
+    "1/2 छोटा चम्मच हल्दी पाउडर",
+    "1 छोटा चम्मच कश्मीरी लाल मिर्च पाउडर",
+    "1 छोटा चम्मच भुना जीरा पाउडर",
+    "1 छोटा चम्मच नमक (स्वादानुसार)",
+    "1 बड़े नींबू का रस",
+    "बारीक कटा ताजा हरा धनिया"
+  ],
+  "instructions_en": [
+    "Rinse and wipe the eggplant dry. Lightly brush oil on the surface and make 3 to 4 deep slits to inspect inside.",
+    "Roast the eggplant directly over an open flame on medium heat, turning every few minutes until the skin is completely charred and the inner flesh turns soft and tender (about 10–12 minutes).",
+    "Remove from flame and let it cool slightly in a covered bowl. Gently peel off the charred black skin and discard the stem.",
+    "Transfer the roasted pulp onto a board and coarsely mash it with a fork. Retain the natural smoky juices.",
+    "Heat oil in a heavy kadai or pan. Add finely chopped garlic and green chillies, sautéing on medium flame until fragrant and lightly golden.",
+    "Add chopped onions and fry for 5–7 minutes until translucent and soft with golden-brown edges.",
+    "Lower flame and stir in turmeric powder, Kashmiri red chilli powder, cumin powder, and salt. Sauté the spices for 1 minute until aromatic.",
+    "Add the mashed roasted eggplant. Mix thoroughly and cook on medium-low flame for 6–8 minutes, stirring frequently so the smoky mash absorbs the tempered spices.",
+    "Turn off the heat. Drizzle fresh lemon juice and garnish with chopped coriander leaves. Serve hot with rotis, parathas, or dal chawal."
+  ],
+  "instructions_hi": [
+    "बैंगन को धोकर पोंछ लें। ऊपर हल्का सा तेल लगाएं और 3-4 चीरे लगाकर देख लें कि बैंगन अंदर से साफ है।",
+    "बैंगन को गैस की मध्यम आंच पर सीधे जाली पर रखें। पलटते हुए तब तक भूनें जब तक छिलका पूरी तरह काला न हो जाए और बैंगन अंदर से एकदम नरम न पड़ जाए (10-12 मिनट)।",
+    "भुने हुए बैंगन को थोड़ा ठंडा होने दें। फिर जले हुए काले छिलके को आसानी से उतार लें और डंठल काटकर अलग कर दें।",
+    "बैंगन के गूदे को कांटे (fork) या चाकू की मदद से अच्छी तरह मैश कर लें ताकि स्मोकी रस और स्वाद बरकरार रहे।",
+    "एक कड़ाही में तेल गरम करें। इसमें बारीक कटा लहसुन और हरी मिर्च डालकर हल्की खुशबू आने तक भूनें।",
+    "अब बारीक कटा प्याज डालें और मध्यम आंच पर 5-7 मिनट तक सुनहरा और नरम होने तक भूनें।",
+    "आंच धीमी करें और हल्दी, कश्मीरी लाल मिर्च, जीरा पाउडर और स्वादानुसार नमक डालकर 1 मिनट तक मसालों को भूनें।",
+    "अब मैश किया हुआ बैंगन डालें और अच्छी तरह मिलाएं। धीमी आंच पर 6-8 मिनट तक पकने दें ताकि सारे मसाले बैंगन में अच्छी तरह समा जाएं।",
+    "गैस बंद करें, ऊपर से नींबू का रस निचोड़ें और ढेर सारा हरा धनिया डालकर गार्निश करें। गरमा-गरम रोटी या पराठे के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "Selecting the right eggplant: Choose a large, lightweight bharta brinjal with a smooth, glossy skin and fresh green stem. Lightweight brinjals have fewer seeds.",
+    "Authentic smokiness: Direct flame roasting is the true secret to authentic dhaba-style flavor. Do not boil or bake in an oven if fire roasting is available.",
+    "Oil choice: Mustard oil gives the most traditional rustic pungent kick to bharta. Heat it until smoking point before adding garlic."
+  ],
+  "chef_tips_hi": [
+    "हल्का बैंगन चुनें: भरता बनाने के लिए वजन में हल्का और चमकदार बैंगन चुनें, हल्के बैंगन में बीज कम और गूदा ज्यादा होता है।",
+    "स्मोकी स्वाद: असली ढाबा स्वाद के लिए बैंगन को सीधी आंच पर ही भूनें। उबालने से वह स्मोकी स्वाद नहीं मिलता।",
+    "सरसों का तेल: बैंगन के भरते में सरसों के तेल का तड़का सबसे बेहतरीन और पारंपरिक स्वाद देता है।"
+  ]
+}

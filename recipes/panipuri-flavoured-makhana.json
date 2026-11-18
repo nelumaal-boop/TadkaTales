@@ -1,0 +1,237 @@
+{
+  "id": "panipuri-flavoured-makhana",
+  "title_en": "Chatpata Pani Puri Flavoured Makhana (15-Min Healthy Snack)",
+  "title_hi": "गोलगप्पे के स्वाद वाला चटपटा मखाना (15 मिनट में हेल्दी स्नैक)",
+  "title": {
+    "en": "Chatpata Pani Puri Flavoured Makhana (15-Min Healthy Snack)",
+    "hi": "गोलगप्पे के स्वाद वाला चटपटा मखाना (15 मिनट में हेल्दी स्नैक)"
+  },
+  "description_en": "Crispy, roasted fox nuts (phool makhana) coated in a vibrant homemade Golgappa / Pani Puri masala blend made from fresh coriander, refreshing mint, tangy amchur, chaat masala, black salt, and roasted cumin. A guilt-free, crunchy 15-minute tea-time snack loved by kids and adults alike.",
+  "description_hi": "कुरकुरे भुने हुए फूल मखाने, जिन पर ताजा हरा धनिया, पुदीना, अमचूर, चाट मसाला, भुना जीरा और काले नमक से तैयार तीखा-चटपटा गोलगप्पे वाला मसाला लिपटा हुआ है। मात्र 15 मिनट में बनने वाला बेहद स्वादिष्ट, करारा और पौष्टिक टी-टाइम स्नैक।",
+  "description": {
+    "en": "Crispy, roasted fox nuts (phool makhana) coated in a vibrant homemade Golgappa / Pani Puri masala blend made from fresh coriander, refreshing mint, tangy amchur, chaat masala, black salt, and roasted cumin. A guilt-free, crunchy 15-minute tea-time snack loved by kids and adults alike.",
+    "hi": "कुरकुरे भुने हुए फूल मखाने, जिन पर ताजा हरा धनिया, पुदीना, अमचूर, चाट मसाला, भुना जीरा और काले नमक से तैयार तीखा-चटपटा गोलगप्पे वाला मसाला लिपटा हुआ है। मात्र 15 मिनट में बनने वाला बेहद स्वादिष्ट, करारा और पौष्टिक टी-टाइम स्नैक।"
+  },
+  "category": "Snack",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "5 mins",
+  "prep_time_hi": "5 मिनट",
+  "cook_time_en": "10 mins",
+  "cook_time_hi": "10 मिनट",
+  "prepTime": "5 mins",
+  "cookTime": "10 mins",
+  "servings_en": "4-5 servings (100g batch)",
+  "servings_hi": "4-5 सर्विंग्स (100 ग्राम बैच)",
+  "servings": "4-5 servings",
+  "youtube_id": "aVdVP2XDLUE",
+  "youtubeId": "aVdVP2XDLUE",
+  "youtube_url": "https://youtu.be/aVdVP2XDLUE",
+  "image_url": "https://img.youtube.com/vi/aVdVP2XDLUE/maxresdefault.jpg",
+  "tags": [
+    "makhana",
+    "panipuri",
+    "golgappa makhana",
+    "healthy snacks",
+    "tea-time snack",
+    "fox nuts",
+    "kabitas kitchen",
+    "roasted makhana",
+    "weight loss snack",
+    "diwali snacks"
+  ],
+  "ingredients_en": [
+    "100g Phool Makhana (Lotus Seeds / Fox Nuts)",
+    "2 tbsp Pure Desi Ghee (or Olive Oil for vegan)",
+    "1 cup Fresh Coriander Leaves (Dhaniya Patta), washed and drained",
+    "1 cup Fresh Mint Leaves (Pudina Patta), washed and drained",
+    "1/2 tsp Turmeric Powder (Haldi)",
+    "1/2 tsp Kashmiri Red Chilli Powder",
+    "1 tsp Roasted Cumin Seed Powder (Bhuna Jeera)",
+    "1 tsp Chaat Masala",
+    "1/2 tsp Dry Mango Powder (Amchur)",
+    "1/2 tsp Black Salt (Kala Namak)",
+    "1/2 tsp Regular Salt (or to taste)",
+    "1/4 tsp Dry Ginger Powder (Sonth)",
+    "1/2 tsp Sugar (or powdered sugar to balance the tanginess)"
+  ],
+  "ingredients_hi": [
+    "100 ग्राम फूल मखाना (लोटस सीड्स / फॉक्स नट्स)",
+    "2 बड़े चम्मच शुद्ध देसी घी (या ऑलिव ऑयल)",
+    "1 कप ताजा हरा धनिया पत्ता (धोकर सुखाया हुआ)",
+    "1 कप ताजा पुदीना पत्ता (धोकर सुखाया हुआ)",
+    "1/2 छोटा चम्मच हल्दी पाउडर",
+    "1/2 छोटा चम्मच कश्मीरी लाल मिर्च पाउडर",
+    "1 छोटा चम्मच भुना जीरा पाउडर",
+    "1 छोटा चम्मच चाट मसाला",
+    "1/2 छोटा चम्मच अमचूर पाउडर (खटाई)",
+    "1/2 छोटा चम्मच काला नमक",
+    "1/2 छोटा चम्मच सादा नमक (स्वादानुसार)",
+    "1/4 छोटा चम्मच सोंठ पाउडर (अदरक पाउडर)",
+    "1/2 छोटा चम्मच चीनी (खट्टे-तीखे स्वाद को संतुलित करने के लिए)"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Base Snack (मुख्य सामग्री)",
+      "category_hi": "मुख्य सामग्री (मखाना)",
+      "items": [
+        {
+          "name_en": "Phool Makhana (Fox Nuts)",
+          "name_hi": "फूल मखाना",
+          "amount": "100g (लगभग 4 कप)"
+        },
+        {
+          "name_en": "Pure Desi Ghee",
+          "name_hi": "शुद्ध देसी घी",
+          "amount": "2 tbsp (2 बड़े चम्मच)"
+        }
+      ]
+    },
+    {
+      "category_en": "Fresh Herb Base (ताजा जड़ी-बूटी बेस)",
+      "category_hi": "ताजा पुदीना-धनिया बेस",
+      "items": [
+        {
+          "name_en": "Fresh Coriander Leaves",
+          "name_hi": "ताजा हरा धनिया",
+          "amount": "1 cup (धोकर सुखाया हुआ)"
+        },
+        {
+          "name_en": "Fresh Mint Leaves",
+          "name_hi": "ताजा पुदीना पत्ता",
+          "amount": "1 cup (धोकर सुखाया हुआ)"
+        }
+      ]
+    },
+    {
+      "category_en": "Pani Puri Seasoning Spices (गोलगप्पा चटपटा मसाला)",
+      "category_hi": "पानीपूरी चटपटे मसाले",
+      "items": [
+        {
+          "name_en": "Chaat Masala",
+          "name_hi": "चाट मसाला",
+          "amount": "1 tsp (1 छोटा चम्मच)"
+        },
+        {
+          "name_en": "Roasted Cumin Powder (Bhuna Jeera)",
+          "name_hi": "भुना जीरा पाउडर",
+          "amount": "1 tsp (1 छोटा चम्मच)"
+        },
+        {
+          "name_en": "Dry Mango Powder (Amchur)",
+          "name_hi": "अमचूर पाउडर",
+          "amount": "1/2 tsp (1/2 छोटा चम्मच)"
+        },
+        {
+          "name_en": "Black Salt (Kala Namak)",
+          "name_hi": "काला नमक",
+          "amount": "1/2 tsp (1/2 छोटा चम्मच)"
+        },
+        {
+          "name_en": "Regular Salt",
+          "name_hi": "सादा नमक",
+          "amount": "1/2 tsp or to taste"
+        },
+        {
+          "name_en": "Red Chilli Powder",
+          "name_hi": "लाल मिर्च पाउडर",
+          "amount": "1/2 tsp (1/2 छोटा चम्मच)"
+        },
+        {
+          "name_en": "Dry Ginger Powder (Sonth)",
+          "name_hi": "सोंठ पाउडर",
+          "amount": "1/4 tsp (1/4 छोटा चम्मच)"
+        },
+        {
+          "name_en": "Turmeric Powder (Haldi)",
+          "name_hi": "हल्दी पाउडर",
+          "amount": "1/2 tsp (1/2 छोटा चम्मच)"
+        },
+        {
+          "name_en": "Sugar",
+          "name_hi": "चीनी",
+          "amount": "1/2 tsp (संतुलन के लिए)"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Dry roast the Makhana: Heat a heavy-bottomed kadhai or pan on low-medium flame and add 1 tbsp of ghee. Add the 100g phool makhana and slow roast continuously for 6–8 minutes.",
+    "Test for crispiness: Take a piece of roasted makhana and press it between your fingers. It should snap instantly and shatter into crisp crumbs with a crunch without any chewiness. Transfer to a bowl.",
+    "Prepare the Herb Base: In a small grinder jar, grind the washed 1 cup coriander leaves and 1 cup mint leaves with just 1-2 teaspoons of water into a thick, fine green herb paste.",
+    "Cook the Pani Puri Masala: In the same kadhai, heat the remaining 1 tbsp ghee on low flame. Add the prepared green herb paste along with turmeric powder, red chilli powder, roasted cumin powder, chaat masala, amchur powder, dry ginger powder, black salt, regular salt, and sugar.",
+    "Sauté Masala: Stir and cook the spice-herb mix on low heat for 1 to 2 minutes until the moisture evaporates, the ghee separates, and an irresistible aroma of fresh spicy pani-puri pani wafts up.",
+    "Toss the Makhana: Immediately lower flame to minimum or turn off the heat. Add the pre-roasted crispy makhana into the pan.",
+    "Coat evenly: Gently toss and mix continuously for 2 minutes so that every single makhana gets evenly enveloped in the tangy, aromatic green pani-puri seasoning without becoming soft.",
+    "Cool and Store: Spread the coated makhana on a wide plate and let them cool down to room temperature. As they cool, they regain maximum crispiness. Store in a clean airtight jar for up to 2-3 weeks."
+  ],
+  "instructions_hi": [
+    "मखाना भूनें: एक भारी तले की कड़ाही में 1 बड़ा चम्मच घी गरम करें। अब इसमें 100 ग्राम फूल मखाना डालें और धीमी आंच पर लगातार चलाते हुए 6-8 मिनट तक भूनें।",
+    "कुरकुरापन चेक करें: एक मखाना हाथ में लेकर उंगलियों से दबाएं। यदि यह बिना किसी खिंचाव के तुरंत 'क्रंच' की आवाज के साथ बारीक टूट जाए, तो मखाना भुन चुका है। इसे एक प्लेट में निकाल लें।",
+    "ताजा धनिया-पुदीना पेस्ट बनाएं: एक छोटे मिक्सी जार में 1 कप हरा धनिया और 1 कप पुदीना पत्ता केवल 1-2 चम्मच पानी डालकर गाढ़ा और महीन पेस्ट पीस लें।",
+    "पानीपूरी मसाला तैयार करें: उसी कड़ाही में बचा हुआ 1 बड़ा चम्मच घी धीमी आंच पर गरम करें। इसमें तैयार हरा पेस्ट, हल्दी पाउडर, लाल मिर्च, भुना जीरा, चाट मसाला, अमचूर, सोंठ, काला नमक, सादा नमक और चीनी डालें।",
+    "मसाला भूनें: धीमी आंच पर 1 से 2 मिनट तक चलाते हुए भूनें जब तक कि पेस्ट का अतिरिक्त पानी सूख न जाए और उसमें से तीखे चटपटे गोलगप्पे के पानी जैसी शानदार खुशबू न आने लगे।",
+    "मखाना मिलाएं: आंच को एकदम धीमा कर दें (या बंद कर दें)। अब इसमें पहले से भुने हुए कुरकुरे मखाने डालें।",
+    "अच्छी तरह टॉस करें: हल्के हाथों से 2 मिनट तक लगातार चलाएं ताकि हर एक मखाने के ऊपर यह चटपटा मसाला एकसमान लिपट जाए।",
+    "ठंडा करें और स्टोर करें: मखाने को एक चौड़ी थाली में निकालकर पूरी तरह ठंडा होने दें। ठंडा होते ही ये सुपर क्रिस्पी हो जाएंगे। इन्हें किसी एयर-टाइट डिब्बे में भरकर 2-3 सप्ताह तक मजे से खाएं।"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Slow Roasting Makhana",
+      "title_hi": "धीमी आंच पर मखाना भूनना",
+      "instruction_en": "Heat 1 tbsp desi ghee in a heavy kadhai. Add 100g makhana and roast on low flame for 6–8 minutes, stirring constantly until completely crunchy.",
+      "instruction_hi": "कड़ाही में 1 चम्मच घी गरम करें और 100 ग्राम मखाना धीमी आंच पर 6-8 मिनट तक लगातार चलाते हुए भूनें ताकि अंदर तक कुरकुरे हो जाएं।"
+    },
+    {
+      "step": 2,
+      "title_en": "Testing Crispiness",
+      "title_hi": "कुरकुरापन जांचना",
+      "instruction_en": "Crush a makhana between your thumb and forefinger. It should snap and shatter with a crisp crunch without feeling spongy.",
+      "instruction_hi": "एक मखाने को उंगली और अंगूठे से दबाएं, यह बिल्कुल चूरा हो जाना चाहिए और बिल्कुल भी रबड़ जैसा नहीं होना चाहिए।"
+    },
+    {
+      "step": 3,
+      "title_en": "Grinding Fresh Green Base",
+      "title_hi": "हरा धनिया-पुदीना पेस्ट तैयार करना",
+      "instruction_en": "In a blender, blend 1 cup cleaned coriander leaves and 1 cup mint leaves with minimal water into a smooth, thick herb puree.",
+      "instruction_hi": "मिक्सी के जार में 1 कप धोया हुआ हरा धनिया और 1 कप पुदीना पत्ता बहुत कम पानी डालकर महीन गाढ़ा पेस्ट पीस लें।"
+    },
+    {
+      "step": 4,
+      "title_en": "Sautéing Golgappa Masala",
+      "title_hi": "चटपटा पानीपूरी मसाला पकाना",
+      "instruction_en": "In the same pan, heat 1 tbsp ghee. Add the green puree, chaat masala, bhuna jeera, amchur, kala namak, salt, red chilli, turmeric, sonth, and sugar. Sauté on low flame for 1-2 minutes until moisture evaporates.",
+      "instruction_hi": "कड़ाही में 1 चम्मच घी गरम करें। हरा पेस्ट और सभी सूखे मसाले (चाट मसाला, भुना जीरा, अमचूर, काला नमक, सोंठ, हल्दी, मिर्च, चीनी) डालकर धीमी आंच पर 1-2 मिनट भूनें जब तक नमी खत्म न हो जाए।"
+    },
+    {
+      "step": 5,
+      "title_en": "Tossing and Coating",
+      "title_hi": "मसाले में मखाना लपेटना",
+      "instruction_en": "Add the roasted crispy makhana to the pan. Toss quickly and gently on low heat until every makhana is beautifully coated with the green pani-puri seasoning.",
+      "instruction_hi": "भुने हुए मखाने कड़ाही में डालें और धीमी आंच पर तेजी से चलाएं ताकि सारा चटपटा मसाला मखानों पर अच्छी तरह चिपक जाए।"
+    },
+    {
+      "step": 6,
+      "title_en": "Cooling and Storing",
+      "title_hi": "ठंडा करना और एयरटाइट स्टोर करना",
+      "instruction_en": "Transfer to a wide plate and let them cool completely. They turn incredibly crisp and can be preserved in an airtight container for weeks.",
+      "instruction_hi": "मखाने को प्लेट में निकालें और पूरी तरह ठंडा होने दें। ठंडा होने पर ये एकदम करारे हो जाएंगे, फिर एयरटाइट जार में स्टोर करें।"
+    }
+  ],
+  "chef_tips_en": [
+    "Low Flame Roasting is Key: Always roast makhana on low heat. High flame will brown the outside quickly while leaving the inside chewy and spongy.",
+    "Moisture Control for Maximum Crunch: Cook the fresh mint-coriander paste thoroughly until the water dries up before adding the makhana, ensuring the makhana stays crunchy rather than turning soggy.",
+    "Alternative Dry Herb Method: If making for long shelf life or large batches, you can also dry roast mint leaves in a microwave or warm pan, crush into mint powder, and toss directly with dry spices and ghee.",
+    "Sugar Balance: The 1/2 tsp sugar doesn't make the makhana sweet; it expertly balances the sharp tang of amchur and chaat masala, replicating authentic Mumbai/Delhi golgappe ka teekha-meetha paani."
+  ],
+  "chef_tips_hi": [
+    "धीमी आंच पर भूनें: मखाने को हमेशा धीमी आंच पर ही भूनें। तेज आंच पर मखाने ऊपर से काले हो जाएंगे और अंदर से सीले (चबाने जैसे) रह जाएंगे।",
+    "मसाले की नमी सुखाना जरूरी: हरा पेस्ट डालने के बाद उसे 1-2 मिनट अच्छे से भूनें ताकि उसका पानी सूख जाए। गीले पेस्ट में मखाना डालने से वह नरम पड़ सकता है।",
+    "सूखे पुदीना पाउडर का विकल्प: यदि आप इसे लंबे समय के लिए ज्यादा मात्रा में बना रहे हैं, तो पुदीने को माइक्रोवेव या तवे पर सुखाकर उसका पाउडर बनाकर भी सूखे मसालों के साथ मिला सकते हैं।",
+    "चीनी का संतुलन: आधा छोटा चम्मच चीनी मखाने को मीठा नहीं बनाती, बल्कि अमचूर और चाट मसाले की खटास को बैलेंस करके बिल्कुल असली पानीपूरी के पानी जैसा खट्टा-तीखा स्वाद देती है।"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "kerala-parippu-curry",
+  "title": {
+    "en": "Traditional Kerala Parippu Curry (Moong Dal with Coconut Paste)",
+    "hi": "पारंपरिक केरला परिप्पु करी (नारियल वाली मूंग दाल)"
+  },
+  "title_en": "Traditional Kerala Parippu Curry (Moong Dal with Coconut Paste)",
+  "title_hi": "पारंपरिक केरला परिप्पु करी (नारियल वाली मूंग दाल)",
+  "description": {
+    "en": "An indispensable classic of the Kerala Onam Sadya. Roasted yellow moong dal cooked to buttery smoothness, blended with freshly ground coconut-cumin-chilli paste, and finished with coconut oil and curry leaf tadka.",
+    "hi": "केरला ओणम सद्या की सबसे महत्वपूर्ण और पहली परोसी जाने वाली पारंपरिक मूंग दाल। भुनी हुई मूंग दाल को नारियल, जीरा और हरी मिर्च के महीन पेस्ट के साथ पकाया जाता है और नारियल तेल का तड़का दिया जाता है।"
+  },
+  "description_en": "An indispensable classic of the Kerala Onam Sadya. Roasted yellow moong dal cooked to buttery smoothness, blended with freshly ground coconut-cumin-chilli paste, and finished with coconut oil and curry leaf tadka.",
+  "description_hi": "केरला ओणम सद्या की सबसे महत्वपूर्ण और पहली परोसी जाने वाली पारंपरिक मूंग दाल। भुनी हुई मूंग दाल को नारियल, जीरा और हरी मिर्च के महीन पेस्ट के साथ पकाया जाता है और नारियल तेल का तड़का दिया जाता है।",
+  "category": "Latest Recipe",
+  "isVegetarian": true,
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "prepTime": "10 mins",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cookTime": "20 mins",
+  "cook_time_en": "20 mins",
+  "cook_time_hi": "20 मिनट",
+  "servings": "4 servings",
+  "servings_en": "4 servings",
+  "servings_hi": "4 सर्विंग्स",
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "youtube_id": "tJ-GCK64VKI",
+  "youtubeId": "tJ-GCK64VKI",
+  "youtube_url": "https://www.youtube.com/watch?v=tJ-GCK64VKI",
+  "author": "HomeCookingShow",
+  "image_url": "/static/images/tJ-GCK64VKI.jpg",
+  "tags": [
+    "Kerala Parippu Curry",
+    "Sadya Special",
+    "Moong Dal",
+    "South Indian",
+    "Comfort Food",
+    "Vegetarian",
+    "HomeCookingShow"
+  ],
+  "ingredients_en": [
+    "1 cup Yellow Moong Dal (Cherupayar Parippu)",
+    "1/2 tsp Turmeric Powder",
+    "3 cups Water",
+    "Salt to taste",
+    "For Coconut Paste: 1/2 cup Fresh Grated Coconut, 1 tsp Cumin Seeds, 2 Green Chillies, 2 Shallots, water to grind smooth",
+    "For Tempering: 2 tbsp Coconut Oil, 1 tsp Mustard Seeds, 3 Shallots (sliced), 2 Dry Red Chillies, 2 sprigs Fresh Curry Leaves",
+    "1 tbsp Desi Ghee (optional, for topping)"
+  ],
+  "ingredients_hi": [
+    "1 कप पीली मूंग दाल",
+    "1/2 छोटा चम्मच हल्दी पाउडर",
+    "3 कप पानी",
+    "स्वादानुसार नमक",
+    "नारियल पेस्ट के लिए: 1/2 कप ताजा कद्दूकस नारियल, 1 छोटा चम्मच जीरा, 2 हरी मिर्च, 2 छोटे प्याज, पीसने हेतु पानी",
+    "तड़के के लिए: 2 बड़े चम्मच नारियल का तेल, 1 छोटा चम्मच राई, 3 छोटे प्याज (बारीक कटे), 2 सूखी लाल मिर्च, कढ़ी पत्ता",
+    "1 बड़ा चम्मच देसी घी (ऊपर से डालने के लिए)"
+  ],
+  "instructions_en": [
+    "Dry roast yellow moong dal in a pan on medium heat until fragrant and slightly pink (do not burn). Wash thoroughly.",
+    "Pressure cook the roasted dal with 3 cups water, turmeric powder, and salt for 3–4 whistles until soft and mushy. Mash smoothly with a ladle.",
+    "Grind fresh grated coconut, cumin seeds, green chillies, and shallots with a little water into a fine velvety paste.",
+    "Add the coconut paste to the mashed dal, stirring well to combine. Add warm water to achieve a medium-thick curry consistency.",
+    "Simmer the curry on low heat for 3–4 minutes until raw aroma of coconut leaves. Do not boil vigorously.",
+    "In a small pan, heat coconut oil. Splutter mustard seeds, then add sliced shallots, dry red chillies, and curry leaves. Fry until shallots turn crisp golden.",
+    "Pour the sizzling tempering into the parippu curry and cover immediately to trap the aromas.",
+    "Serve piping hot over Kerala Matta rice with a drizzle of melted ghee and papadum."
+  ],
+  "instructions_hi": [
+    "पीली मूंग दाल को धीमी आंच पर हल्की खुशबू और गुलाबी रंग आने तक सूखा भूनें। फिर अच्छी तरह धो लें।",
+    "कुकर में दाल, 3 कप पानी, हल्दी और नमक डालकर 3-4 सीटी आने तक एकदम गलने तक पकाएं। कलछी से अच्छी तरह घोट लें।",
+    "कद्दूकस नारियल, जीरा, हरी मिर्च और छोटे प्याज को थोड़े पानी के साथ मिक्सी में एकदम बारीक पीस लें।",
+    "इस नारियल पेस्ट को घूटी हुई दाल में मिलाएं। आवश्यकतानुसार थोड़ा गर्म पानी डालकर गाढ़ापन सेट करें।",
+    "धीमी आंच पर 3-4 मिनट तक हल्का उबलने दें। इसे बहुत तेज नहीं उबालना है।",
+    "तड़का पैन में नारियल का तेल गरम करें। राई चटकाएं, फिर कटे छोटे प्याज, सूखी लाल मिर्च और कढ़ी पत्ता डालकर प्याज को सुनहरा कुरकुरा भूनें।",
+    "तड़के को दाल में डालें और तुरंत ढक्कन ढक दें ताकि खुशबू अंदर समा जाए।",
+    "गरमा-गरम चावल पर दाल और ऊपर से देसी घी डालकर पापड़ के साथ आनंद लें।"
+  ],
+  "chef_tips_en": [
+    "Roasting the moong dal before cooking imparts the quintessential nutty Sadya aroma.",
+    "Coconut oil and shallots in the tempering are non-negotiable for true Kerala taste."
+  ],
+  "chef_tips_hi": [
+    "दाल को उबालने से पहले भूनने से इसमें खास सोंधी खुशबू आती है जो सद्या दाल की पहचान है।",
+    "तड़के में नारियल का तेल और छोटे प्याज का उपयोग ही इसे असली केरला स्वाद देता है।"
+  ]
+}

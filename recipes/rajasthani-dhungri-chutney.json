@@ -1,0 +1,98 @@
+{
+  "id": "rajasthani-dhungri-chutney",
+  "title": {
+    "en": "Smoky Rajasthani Dhungri Chutney (Pyaz Lasun Chutney)",
+    "hi": "पारंपरिक राजस्थानी धुंगरी चटनी (स्मोकी प्याज-लहसुन चटनी)"
+  },
+  "title_en": "Smoky Rajasthani Dhungri Chutney (Pyaz Lasun Chutney)",
+  "title_hi": "पारंपरिक राजस्थानी धुंगरी चटनी (स्मोकी प्याज-लहसुन चटनी)",
+  "description": {
+    "en": "A legendary rustic Rajasthani relish prepared with caramelized shallots/onions, garlic, red chillies, and curd, infused with a live-charcoal ghee smoke (dhungar). Guarantees you will eat two extra rotis!",
+    "hi": "पारंपरिक राजस्थानी धुंगरी चटनी। प्याज, लहसुन, साबुत लाल मिर्च और दही को भूनकर जलते कोयले और देसी घी का स्मोकी तड़का (धुंगार) दिया जाता है। इसका तीखा-खट्टा स्वाद खाने का जायका दोगुना कर देता है।"
+  },
+  "description_en": "A legendary rustic Rajasthani relish prepared with caramelized shallots/onions, garlic, red chillies, and curd, infused with a live-charcoal ghee smoke (dhungar). Guarantees you will eat two extra rotis!",
+  "description_hi": "पारंपरिक राजस्थानी धुंगरी चटनी। प्याज, लहसुन, साबुत लाल मिर्च और दही को भूनकर जलते कोयले और देसी घी का स्मोकी तड़का (धुंगार) दिया जाता है। इसका तीखा-खट्टा स्वाद खाने का जायका दोगुना कर देता है।",
+  "category": "Latest Recipe",
+  "isVegetarian": true,
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "prepTime": "5 mins",
+  "prep_time_en": "5 mins",
+  "prep_time_hi": "5 मिनट",
+  "cookTime": "10 mins",
+  "cook_time_en": "10 mins",
+  "cook_time_hi": "10 मिनट",
+  "servings": "4 servings",
+  "servings_en": "4 servings",
+  "servings_hi": "4 सर्विंग्स",
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "youtube_id": "hVxzkaAIiqk",
+  "youtubeId": "hVxzkaAIiqk",
+  "youtube_url": "https://www.youtube.com/watch?v=hVxzkaAIiqk",
+  "author": "HomeCookingShow",
+  "image_url": "/static/images/hVxzkaAIiqk.jpg",
+  "tags": [
+    "Dhungri Chutney",
+    "Rajasthani Chutney",
+    "Smoky Chutney",
+    "Spicy Dip",
+    "Roti Side Dish",
+    "Vegetarian",
+    "HomeCookingShow"
+  ],
+  "ingredients_en": [
+    "2 large Onions (finely chopped)",
+    "12-15 cloves Garlic (crushed or chopped)",
+    "3 tbsp Mustard Oil or Ghee",
+    "1 tsp Cumin Seeds & 1/2 tsp Mustard Seeds",
+    "1/2 tsp Fennel Seeds (Saunf) & pinch of Hing",
+    "1.5 tsp Kashmiri Red Chilli Powder",
+    "1 tsp Coriander Powder & 1/2 tsp Turmeric",
+    "1/2 cup Fresh Thick Curd (whisked)",
+    "Salt to taste",
+    "1 piece Natural Charcoal & 1 tsp Ghee (for Dhungar smoke)"
+  ],
+  "ingredients_hi": [
+    "2 बड़े प्याज (बारीक कटे हुए)",
+    "12-15 कलियां लहसुन (कुटी या बारीक कटी)",
+    "3 बड़े चम्मच सरसों का तेल या घी",
+    "1 छोटा चम्मच जीरा व 1/2 छोटा चम्मच राई",
+    "1/2 छोटा चम्मच सौंफ व चुटकी भर हींग",
+    "1.5 छोटा चम्मच कश्मीरी लाल मिर्च पाउडर",
+    "1 छोटा चम्मच धनिया पाउडर व 1/2 छोटा चम्मच हल्दी",
+    "1/2 कप ताजा गाढ़ा दही (फेंटा हुआ)",
+    "स्वादानुसार नमक",
+    "1 टुकड़ा लकड़ी का कोयला व 1 छोटा चम्मच घी (धुंगार देने हेतु)"
+  ],
+  "instructions_en": [
+    "Heat oil or ghee in a pan. Add cumin seeds, mustard seeds, fennel seeds, and hing until spluttering.",
+    "Add crushed garlic and chopped onions. Sauté on medium flame for 6–8 minutes until golden brown and aromatic.",
+    "Lower heat. Stir in turmeric powder, red chilli powder, coriander powder, and salt. Sauté spices for 1 minute.",
+    "Turn flame to lowest setting. Add whisked curd gradually, stirring continuously to prevent curdling, and cook until oil separates.",
+    "Turn off the heat. Place a small steel bowl in the center of the chutney.",
+    "Heat a piece of natural charcoal directly on open flame until red hot. Place charcoal into the steel bowl.",
+    "Pour 1 tsp ghee over the glowing charcoal. It will release rich aromatic smoke instantly.",
+    "Cover the pan tightly with a lid immediately for 5 minutes to infuse deep smoky dhungar flavor throughout.",
+    "Remove charcoal bowl and stir the smoky chutney. Serve warm with bajra roti, parathas, or dal baati."
+  ],
+  "instructions_hi": [
+    "पैन में तेल या घी गरम करें। जीरा, राई, सौंफ और हींग डालकर चटकाएं।",
+    "कुटा लहसुन और बारीक कटा प्याज डालें। मध्यम आंच पर 6-8 मिनट सुनहरा होने तक भूनें।",
+    "आंच धीमी करें। हल्दी, कश्मीरी लाल मिर्च, धनिया पाउडर और नमक डालकर 1 मिनट भूनें।",
+    "आंच एकदम धीमी रखें, फेंटा हुआ दही धीरे-धीरे डालते हुए लगातार चलाएं ताकि दही फटे नहीं। तेल छूटने तक पकाएं।",
+    "गैस बंद करें। चटनी के बीच में एक छोटी स्टील की कटोरी रखें।",
+    "कोयले के टुकड़े को गैस पर लाल होने तक दहकाएं। दहकता कोयला कटोरी में रखें।",
+    "कोयले पर 1 चम्मच घी डालें, तुरंत गहरा धुआं निकलने लगेगा।",
+    "तुरंत ढक्कन लगाकर 5 मिनट के लिए बंद कर दें ताकि स्मोकी धुआं (धुंगार) पूरी चटनी में समा जाए।",
+    "कटोरी हटाएं, चटनी को मिलाएं और बाजरे की रोटी या पराठे के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "Dhungar (charcoal smoking) is the heart of Rajasthani cuisine, turning humble onions and garlic into a restaurant-worthy delicacy.",
+    "Use fresh curd (not overly sour) for the most balanced creamy relish."
+  ],
+  "chef_tips_hi": [
+    "कोयले का धुंगार ही इस राजस्थानी चटनी की जान है, जिससे असली चूल्हे जैसा सोंधापन मिलता है।",
+    "दही ज्यादा खट्टा न लें ताकि चटनी का स्वाद संतुलित और मखमली रहे।"
+  ]
+}

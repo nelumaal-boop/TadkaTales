@@ -1,0 +1,94 @@
+{
+  "id": "crispy-masala-aloo-sandwich",
+  "title": {
+    "en": "Golden Crispy Masala Aloo Sandwich",
+    "hi": "गोल्डन क्रिस्पी मसाला आलू सैंडविच"
+  },
+  "title_en": "Golden Crispy Masala Aloo Sandwich",
+  "title_hi": "गोल्डन क्रिस्पी मसाला आलू सैंडविच",
+  "description": {
+    "en": "Cafe-style golden crispy toasted potato sandwich with a zesty, spiced potato-onion filling, fresh green chutney, and crunchy buttered crust. The ultimate comfort snack for breakfast or tea time.",
+    "hi": "कैफे स्टाइल क्रिस्पी मसाला आलू सैंडविच। चटपटे उबले आलू, बारीक प्याज, हरी चटनी और बटर के साथ तवे पर कुरकुरा सेका गया सैंडविच। चाय के साथ या बच्चों के टिफिन के लिए परफेक्ट स्नैक।"
+  },
+  "description_en": "Cafe-style golden crispy toasted potato sandwich with a zesty, spiced potato-onion filling, fresh green chutney, and crunchy buttered crust. The ultimate comfort snack for breakfast or tea time.",
+  "description_hi": "कैफे स्टाइल क्रिस्पी मसाला आलू सैंडविच। चटपटे उबले आलू, बारीक प्याज, हरी चटनी और बटर के साथ तवे पर कुरकुरा सेका गया सैंडविच। चाय के साथ या बच्चों के टिफिन के लिए परफेक्ट स्नैक।",
+  "category": "Snacks",
+  "isVegetarian": true,
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "prepTime": "10 mins",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cookTime": "10 mins",
+  "cook_time_en": "10 mins",
+  "cook_time_hi": "10 मिनट",
+  "servings": "4 sandwiches",
+  "servings_en": "4 sandwiches",
+  "servings_hi": "4 सैंडविच",
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "youtube_id": "xGJ5bUOUt9Y",
+  "youtubeId": "xGJ5bUOUt9Y",
+  "youtube_url": "https://www.youtube.com/watch?v=xGJ5bUOUt9Y",
+  "author": "HomeCookingShow",
+  "image_url": "/static/images/xGJ5bUOUt9Y.jpg",
+  "tags": [
+    "Aloo Sandwich",
+    "Potato Sandwich",
+    "Breakfast",
+    "Evening Snacks",
+    "Crispy Toast",
+    "Vegetarian",
+    "HomeCookingShow"
+  ],
+  "ingredients_en": [
+    "8 slices Bread (White, Brown, or Multigrain)",
+    "3 large Potatoes (boiled, peeled, and mashed)",
+    "1 medium Onion & 2 Green Chillies (finely chopped)",
+    "1/2 tsp Turmeric Powder & 1 tsp Chaat Masala",
+    "1/2 tsp Cumin Powder & 1/2 tsp Red Chilli Powder",
+    "1/4 cup Fresh Coriander Leaves (chopped)",
+    "Salt to taste",
+    "Spicy Mint-Coriander Green Chutney",
+    "Salted Butter for toasting"
+  ],
+  "ingredients_hi": [
+    "8 ब्रेड स्लाइस (सफेद या ब्राउन)",
+    "3 बड़े आलू (उबले, छिले और मैश किए हुए)",
+    "1 प्याज व 2 हरी मिर्च (बारीक कटी हुई)",
+    "1/2 छोटा चम्मच हल्दी व 1 छोटा चम्मच चाट मसाला",
+    "1/2 छोटा चम्मच जीरा पाउडर व 1/2 छोटा चम्मच लाल मिर्च",
+    "1/4 कप ताजा हरा धनिया",
+    "स्वादानुसार नमक",
+    "तीखी हरी धनिया-पुदीना चटनी",
+    "टोस्ट करने के लिए मक्खन (बटर)"
+  ],
+  "instructions_en": [
+    "In a bowl, combine mashed potatoes, chopped onions, green chillies, coriander, turmeric, chaat masala, cumin powder, red chilli powder, and salt. Mix thoroughly into a savory filling.",
+    "Spread butter on one side of bread slices and spicy green chutney on the other.",
+    "Evenly spread a generous portion of the spiced potato filling on the chutney side.",
+    "Top with the second slice of bread and press gently.",
+    "Heat a tawa, grill pan, or sandwich maker over medium-low heat. Generously smear butter on the pan.",
+    "Place sandwich and toast slowly for 2–3 minutes, pressing with a spatula until bottom is deeply golden and shatteringly crisp.",
+    "Flip, butter the top, and toast the other side until equally crisp and golden.",
+    "Cut diagonally and serve immediately with tomato ketchup and hot masala chai."
+  ],
+  "instructions_hi": [
+    "एक बाउल में उबले मैश आलू, बारीक प्याज, हरी मिर्च, हरा धनिया, हल्दी, चाट मसाला, जीरा पाउडर, लाल मिर्च और नमक डालकर अच्छी तरह मिला लें।",
+    "ब्रेड स्लाइस पर एक तरफ मक्खन और दूसरी तरफ तीखी हरी चटनी लगाएं।",
+    "आलू के मसाले का भरपूर हिस्सा ब्रेड के ऊपर फैलाएं।",
+    "दूसरी ब्रेड स्लाइस ऊपर रखकर हल्के हाथ से दबाएं।",
+    "तवे पर मक्खन लगाएं और मध्यम-धीमी आंच पर सैंडविच रखें।",
+    "कलछी से दबाते हुए 2-3 मिनट तक कुरकुरा और सुनहरा होने तक सेकें।",
+    "ऊपर मक्खन लगाएं, पलटें और दूसरी तरफ से भी क्रिस्पी होने तक सेकें।",
+    "तिकोना काटें और गरमा-गरम टोमैटो सॉस व चाय के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "Toasting on low heat with real butter guarantees that signature cafe-style crunchy exterior.",
+    "Chaat masala in the aloo stuffing gives an irresistible street-food tang."
+  ],
+  "chef_tips_hi": [
+    "धीमी आंच पर बटर के साथ सेकने से सैंडविच लंबे समय तक एकदम कुरकुरा बना रहता है।",
+    "आलू के मसाले में चाट मसाला जरूर डालें, इससे स्ट्रीट स्टाइल चटपटा स्वाद आता है।"
+  ]
+}

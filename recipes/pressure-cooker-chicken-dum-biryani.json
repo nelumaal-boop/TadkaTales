@@ -1,0 +1,269 @@
+{
+  "id": "pressure-cooker-chicken-dum-biryani",
+  "title_en": "Pressure Cooker Chicken Dum Biryani (One-Pot Bachelor Special)",
+  "title_hi": "प्रेशर कुकर चिकन दम बिरयानी (वन-पॉट बैचलर स्पेशल)",
+  "title": {
+    "en": "Pressure Cooker Chicken Dum Biryani (One-Pot Bachelor Special)",
+    "hi": "प्रेशर कुकर चिकन दम बिरयानी (वन-पॉट बैचलर स्पेशल)"
+  },
+  "description_en": "An effortless, foolproof one-pot Hyderabadi chicken dum biryani prepared in a pressure cooker. Features succulent bone-in chicken marinated in yogurt and aromatic spices, layered directly with soaked long-grain Basmati rice, crispy fried onions (birista), fresh mint, kewra, and pure desi ghee, then steam-cooked to juicy, fragrant perfection in under 35 minutes.",
+  "description_hi": "बिना अलग से चावल उबालने के झंझट के प्रेशर कुकर में बनने वाली बेहद आसान और लाजवाब हैदराबादी चिकन दम बिरयानी। गाढ़े दही, मसालों और पुदीने में मैरीनेटेड रसीला चिकन, जिसके ऊपर बासमती चावल, कुरकुरा तला हुआ बरिस्ता प्याज, केसरिया दूध और देसी घी की परत लगाकर कुकर में दम दिया गया है।",
+  "description": {
+    "en": "An effortless, foolproof one-pot Hyderabadi chicken dum biryani prepared in a pressure cooker. Features succulent bone-in chicken marinated in yogurt and aromatic spices, layered directly with soaked long-grain Basmati rice, crispy fried onions (birista), fresh mint, kewra, and pure desi ghee, then steam-cooked to juicy, fragrant perfection in under 35 minutes.",
+    "hi": "बिना अलग से चावल उबालने के झंझट के प्रेशर कुकर में बनने वाली बेहद आसान और लाजवाब हैदराबादी चिकन दम बिरयानी। गाढ़े दही, मसालों और पुदीने में मैरीनेटेड रसीला चिकन, जिसके ऊपर बासमती चावल, कुरकुरा तला हुआ बरिस्ता प्याज, केसरिया दूध और देसी घी की परत लगाकर कुकर में दम दिया गया है।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Non-Veg",
+  "diet_hi": "मांसाहारी",
+  "isVegetarian": false,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cook_time_en": "25 mins",
+  "cook_time_hi": "25 मिनट",
+  "prepTime": "15 mins",
+  "cookTime": "25 mins",
+  "servings_en": "4 servings (4 लोग)",
+  "servings_hi": "4 सर्विंग्स (4 लोग)",
+  "servings": "4 servings",
+  "youtube_id": "G1Y1VULzR3E",
+  "youtubeId": "G1Y1VULzR3E",
+  "youtube_url": "https://youtu.be/G1Y1VULzR3E",
+  "image_url": "https://img.youtube.com/vi/G1Y1VULzR3E/hqdefault.jpg",
+  "tags": [
+    "chicken biryani",
+    "pressure cooker biryani",
+    "dum biryani",
+    "bharatzkitchen",
+    "one pot biryani",
+    "hyderabadi biryani",
+    "bachelor recipe",
+    "non veg main course"
+  ],
+  "ingredients_en": [
+    "600g Chicken (curry cut, bone-in pieces for rich flavor)",
+    "1.5 cups Aged Long-Grain Basmati Rice (washed and soaked for 25-30 minutes)",
+    "1.5 cups Water (exact ratio for pressure cooker layer)",
+    "1/2 cup Fresh Whisked Curd (Dahi)",
+    "2 tbsp Ginger-Garlic Paste (fresh)",
+    "3 Large Onions, thinly sliced (for golden Birista)",
+    "3 tbsp Cooking Oil and 2 tbsp Pure Desi Ghee",
+    "1/2 tsp Turmeric Powder (Haldi)",
+    "1 tbsp Kashmiri Red Chilli Powder",
+    "1/2 tsp Spicy Red Chilli Powder (adjust to heat)",
+    "1.5 tbsp Biryani Masala Powder (or Shahi Garam Masala)",
+    "1 tsp Cumin Seeds (Jeera)",
+    "1 Bay Leaf (Tejpatta)",
+    "1 Black Cardamom (Badi Elaichi)",
+    "3 Green Cardamoms (Choti Elaichi)",
+    "4-5 Cloves (Laung)",
+    "1 inch Cinnamon Stick (Dalchini)",
+    "1 Star Anise (Chakra Phool)",
+    "3-4 Green Chillies, slit lengthwise",
+    "1/2 cup Fresh Mint Leaves (Pudina), chopped",
+    "1/2 cup Fresh Coriander Leaves (Dhaniya), chopped",
+    "1 tbsp Fresh Lemon Juice",
+    "1.5 tsp Salt for marinade + 1 tsp for rice",
+    "1 tsp Kewra Water or 2 tbsp Warm Saffron Milk (for royal aroma)"
+  ],
+  "ingredients_hi": [
+    "600 ग्राम चिकन (करी कट, हड्डियों वाला पीस)",
+    "1.5 कप पुराना लंबा बासमती चावल (धोकर 25-30 मिनट भिगोया हुआ)",
+    "1.5 कप पानी (कुकर में दम के लिए सटीक अनुपात)",
+    "1/2 कप ताजा गाढ़ा फेंटी हुई दही",
+    "2 बड़े चम्मच ताजा अदरक-लहसुन का पेस्ट",
+    "3 बड़े प्याज (पतले लंबे कटे हुए - बरिस्ता के लिए)",
+    "3 बड़े चम्मच तेल और 2 बड़े चम्मच शुद्ध देसी घी",
+    "1/2 छोटा चम्मच हल्दी पाउडर",
+    "1 बड़ा चम्मच कश्मीरी लाल मिर्च पाउडर",
+    "1/2 छोटा चम्मच तीखी लाल मिर्च पाउडर",
+    "1.5 बड़ा चम्मच बिरयानी मसाला (या शाही गरम मसाला)",
+    "1 छोटा चम्मच जीरा",
+    "1 तेजपत्ता",
+    "1 बड़ी इलायची",
+    "3 हरी इलायची",
+    "4-5 लौंग",
+    "1 इंच दालचीनी का टुकड़ा",
+    "1 चक्रफूल (स्टार अनीस)",
+    "3-4 हरी मिर्च (लंबाई में कटी हुई)",
+    "1/2 कप ताजा पुदीना पत्ता (बारीक कटा)",
+    "1/2 कप ताजा हरा धनिया पत्ता (बारीक कटा)",
+    "1 बड़ा चम्मच नींबू का रस",
+    "1.5 छोटा चम्मच नमक मैरिनेशन के लिए + 1 छोटा चम्मच चावल के लिए",
+    "1 छोटा चम्मच केवड़ा जल या 2 चम्मच गुनगुना केसरिया दूध"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Chicken & Rich Marinade (चिकन व मैरिनेशन)",
+      "category_hi": "चिकन और मैरिनेशन सामग्री",
+      "items": [
+        {
+          "name_en": "Curry Cut Bone-in Chicken",
+          "name_hi": "चिकन पीस",
+          "amount": "600g"
+        },
+        {
+          "name_en": "Whisked Curd (Dahi)",
+          "name_hi": "गाढ़ी फेंटी दही",
+          "amount": "1/2 cup"
+        },
+        {
+          "name_en": "Ginger-Garlic Paste",
+          "name_hi": "अदरक-लहसुन पेस्ट",
+          "amount": "2 tbsp"
+        },
+        {
+          "name_en": "Kashmiri & Red Chilli Powder",
+          "name_hi": "कश्मीरी व लाल मिर्च",
+          "amount": "1.5 tbsp combined"
+        },
+        {
+          "name_en": "Turmeric & Biryani Masala",
+          "name_hi": "हल्दी व बिरयानी मसाला",
+          "amount": "1.5 tbsp"
+        },
+        {
+          "name_en": "Lemon Juice & Salt",
+          "name_hi": "नींबू का रस व नमक",
+          "amount": "1 tbsp juice + 1.5 tsp salt"
+        },
+        {
+          "name_en": "Chopped Mint & Coriander",
+          "name_hi": "पुदीना व हरा धनिया",
+          "amount": "1/4 cup each"
+        }
+      ]
+    },
+    {
+      "category_en": "Aromatic Rice & Whole Spices (बासमती चावल व खड़े मसाले)",
+      "category_hi": "चावल व खड़े मसाले",
+      "items": [
+        {
+          "name_en": "Aged Long-Grain Basmati Rice",
+          "name_hi": "लंबा बासमती चावल",
+          "amount": "1.5 cups (30 मिनट भीगा)"
+        },
+        {
+          "name_en": "Water",
+          "name_hi": "पानी",
+          "amount": "1.5 cups"
+        },
+        {
+          "name_en": "Whole Spices (Tejpatta, Cardamoms, Cinnamon, Cloves, Star Anise)",
+          "name_hi": "खड़े गरम मसाले",
+          "amount": "Whole aromatics"
+        },
+        {
+          "name_en": "Cooking Oil & Desi Ghee",
+          "name_hi": "तेल और देसी घी",
+          "amount": "3 tbsp oil + 2 tbsp ghee"
+        }
+      ]
+    },
+    {
+      "category_en": "Birista & Royal Dum Layering (बरिस्ता व दम सजावट)",
+      "category_hi": "बरिस्ता और दम सजावट",
+      "items": [
+        {
+          "name_en": "Fried Golden Onions (Birista)",
+          "name_hi": "तला हुआ प्याज (बरिस्ता)",
+          "amount": "From 3 large onions"
+        },
+        {
+          "name_en": "Green Chillies",
+          "name_hi": "हरी मिर्च",
+          "amount": "3-4 slit"
+        },
+        {
+          "name_en": "Kewra Water or Saffron Milk",
+          "name_hi": "केवड़ा जल या केसर दूध",
+          "amount": "1 tsp / 2 tbsp"
+        },
+        {
+          "name_en": "Pure Desi Ghee (for drizzle)",
+          "name_hi": "शुद्ध देसी घी",
+          "amount": "1 tbsp (ऊपर से डालने हेतु)"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Marinate Chicken: In a large bowl, mix 600g chicken with 1/2 cup whisked curd, 2 tbsp ginger-garlic paste, 1/2 tsp turmeric powder, 1 tbsp Kashmiri red chilli powder, 1/2 tsp spicy red chilli powder, 1.5 tbsp biryani masala, 1 tbsp lemon juice, 1.5 tsp salt, half of the chopped mint and coriander, and 3 slit green chillies. Mix well and let rest for 20-30 minutes.",
+    "Soak Basmati Rice: Wash 1.5 cups long-grain basmati rice gently 2-3 times until water runs clear. Soak in clean water for 25 to 30 minutes, then drain completely in a colander.",
+    "Fry the Onions (Crispy Birista): In a 5-liter pressure cooker, heat 3 tbsp oil and 1 tbsp ghee on medium-high flame. Add the 3 thinly sliced onions and fry for 7-8 minutes, stirring continuously, until they turn a crisp golden-brown. Scoop out half of the fried onions (birista) and set aside for layering.",
+    "Bloom Spices & Sauté Chicken: In the same cooker with the remaining fried onions and oil, add the whole spices (1 bay leaf, 1 star anise, 1 inch cinnamon, 1 black cardamom, 3 green cardamoms, 4-5 cloves, and 1 tsp cumin seeds). Sauté for 30 seconds. Add the marinated chicken into the cooker.",
+    "Cook Chicken until Oil Separates: Cook the chicken on high-medium flame for 6–8 minutes, stirring occasionally, until the chicken pieces firm up, turn pale, and release their natural juices along with the ghee/oil separating to the top.",
+    "Layering in the Cooker (The One-Pot Dum): Turn the flame to lowest setting. Level the cooked chicken at the bottom of the cooker. Evenly spread the drained, soaked raw basmati rice right over the chicken in a smooth layer.",
+    "Add Water & Royal Aromatics: Gently pour 1.5 cups of hot water from the sides using the back of a spoon so the rice layer is not disturbed. Sprinkle 1 tsp salt over the water. Scatter the reserved fried onions (birista), remaining chopped mint and coriander, 1 tsp kewra water (or saffron milk), and drizzle 1 tbsp pure desi ghee on top.",
+    "The Pressure Cooker Dum Magic: Close the pressure cooker lid tightly with the whistle (weight) on. Cook on medium-high flame for exactly 1 whistle. As soon as the first whistle blows, immediately lower the flame to the absolute minimum and cook on low dum for 3 to 4 minutes. Turn off the heat.",
+    "Rest and Fluff: Let the cooker rest undisturbed until the steam releases completely and naturally (approx. 10-12 minutes). Open the lid. Gently fluff and scoop the biryani from the bottom edges using a flat spatula. Serve steaming hot with chilled mint raita and onion rings!"
+  ],
+  "instructions_hi": [
+    "चिकन मैरीनेट करें: एक बड़े कटोरे में 600 ग्राम चिकन लें। इसमें 1/2 कप फेंटी दही, 2 चम्मच अदरक-लहसुन पेस्ट, 1/2 चम्मच हल्दी, 1 चम्मच कश्मीरी मिर्च, 1/2 चम्मच तीखी मिर्च, 1.5 चम्मच बिरयानी मसाला, 1 चम्मच नींबू रस, 1.5 चम्मच नमक, थोड़ा पुदीना, हरा धनिया और हरी मिर्च डालें। अच्छी तरह मिलाकर 20-30 मिनट रखें।",
+    "चावल भिगोएं: 1.5 कप लंबे बासमती चावल को 2-3 बार हल्के हाथ से धोएं और 25-30 मिनट पानी में भिगो दें। फिर पूरा पानी छलनी में छान लें।",
+    "बरिस्ता (प्याज) तलें: 5 लीटर वाले कुकर में 3 चम्मच तेल और 1 चम्मच देसी घी गरम करें। 3 लंबे पतले कटे प्याज डालकर लगातार चलाते हुए सुनहरा भूरा (बरिस्ता) होने तक तलें। आधा तला प्याज प्लेट में निकाल लें।",
+    "खड़े मसाले व चिकन भूनें: बचे हुए प्याज और तेल में खड़े मसाले (तेजपत्ता, चक्रफूल, दालचीनी, बड़ी व छोटी इलायची, लौंग, जीरा) डालें और 30 सेकंड चटकाएं। अब मैरीनेट किया हुआ चिकन डालें।",
+    "चिकन की भुनाई: तेज-मध्यम आंच पर चिकन को 6-8 मिनट भूनें जब तक कि चिकन का रंग बदल न जाए, वह अपना पानी न छोड़ दे और किनारों से तेल अलग न दिखने लगे।",
+    "कुकर में दम लेयरिंग: आंच एकदम धीमी करें। चिकन को कुकर के तले में बराबर फैला दें। अब छाने हुए भीगे कच्चे बासमती चावल की एकसमान परत चिकन के ऊपर बिछाएं।",
+    "पानी और खुशबूदार परत: चम्मच के पिछले हिस्से से किनारे-किनारे 1.5 कप खौलता गरम पानी डालें ताकि चावल की परत बिखरे नहीं। ऊपर 1 चम्मच नमक, बचा हुआ तला प्याज (बरिस्ता), पुदीना, हरा धनिया, केवड़ा जल (या केसरिया दूध) और 1 चम्मच देसी घी फैलाएं।",
+    "कुकर में परफेक्ट दम: कुकर का ढक्कन सीटी लगाकर अच्छी तरह बंद करें। मध्यम-तेज आंच पर सिर्फ 1 सीटी आने तक पकाएं। जैसे ही पहली सीटी आए, आंच को तुरंत बिल्कुल धीमा (लोएस्ट) कर दें और 3-4 मिनट धीमी आंच पर दम दें। गैस बंद कर दें।",
+    "रेस्ट दें और खोलें: कुकर का प्रेशर अपने आप पूरी तरह निकलने दें (10-12 मिनट)। ढक्कन खोलें और चपटे पलटे से किनारे से नीचे तक ले जाकर चावल को हल्के हाथ से उठाएं। गरमा-गरम रसीली चिकन बिरयानी को ठंडे रायते और सलाद के साथ परोसें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Marinating the Chicken",
+      "title_hi": "चिकन मैरीनेट करना",
+      "instruction_en": "Mix chicken with yogurt, ginger-garlic paste, spices, lemon juice, mint, coriander, and salt. Rest for 20-30 mins.",
+      "instruction_hi": "चिकन को दही, अदरक-लहसुन, बिरयानी मसाला, मिर्च, नींबू, पुदीने और नमक के साथ 25 मिनट मैरीनेट करें।"
+    },
+    {
+      "step": 2,
+      "title_en": "Frying Crispy Birista",
+      "title_hi": "गोल्डन बरिस्ता प्याज तलना",
+      "instruction_en": "In the pressure cooker, fry sliced onions in oil and ghee until golden brown. Reserve half for topping.",
+      "instruction_hi": "कुकर में तेल-घी गरम कर प्याज को सुनहरा कुरकुरा तलें और आधा प्याज सजावट के लिए अलग निकाल लें।"
+    },
+    {
+      "step": 3,
+      "title_en": "Sautéing Chicken with Whole Spices",
+      "title_hi": "खड़े मसालों में चिकन भूनना",
+      "instruction_en": "Sauté whole spices in the remaining oil, add marinated chicken, and cook on high flame for 6-8 mins until oil separates.",
+      "instruction_hi": "खड़े मसाले चटकाएं, चिकन डालें और तेज आंच पर 6-8 मिनट भूनें जब तक तेल अलग न हो जाए।"
+    },
+    {
+      "step": 4,
+      "title_en": "Direct Layering of Soaked Rice",
+      "title_hi": "कच्चे बासमती चावल की लेयर",
+      "instruction_en": "Level chicken at the base. Spread drained soaked raw Basmati rice directly over chicken in an even layer.",
+      "instruction_hi": "चिकन को तले में सेट करें और ऊपर से भीगे बासमती चावल की एकसमान परत बिछाएं।"
+    },
+    {
+      "step": 5,
+      "title_en": "Adding Water, Birista & Kewra",
+      "title_hi": "पानी, बरिस्ता व केवड़ा डालना",
+      "instruction_en": "Gently pour 1.5 cups hot water from the sides. Top with reserved fried onions, mint, coriander, kewra water, and ghee.",
+      "instruction_hi": "किनारे से 1.5 कप गरम पानी डालें। ऊपर से तला प्याज, पुदीना, धनिया, केवड़ा और 1 चम्मच देसी घी डालें।"
+    },
+    {
+      "step": 6,
+      "title_en": "1-Whistle Dum & Natural Release",
+      "title_hi": "1 सीटी दम और प्राकृतिक रिलीज",
+      "instruction_en": "Close lid. Cook on medium for 1 whistle, then lowest flame for 3 mins. Allow natural pressure release, then fluff gently.",
+      "instruction_hi": "मध्यम आंच पर 1 सीटी लगाएं, फिर धीमी आंच पर 3 मिनट दम दें। भाप शांत होने पर खोलें और हल्के हाथ से मिलाएं।"
+    }
+  ],
+  "chef_tips_en": [
+    "The 1 : 1 Water-to-Rice Ratio: Since the marinated chicken already releases plenty of flavorful broth during bhunai, you only need 1.5 cups of hot water for 1.5 cups of soaked Basmati rice. Adding more water will turn the biryani into pulao/khichdi.",
+    "The 1-Whistle Rule: Never overcook biryani in a pressure cooker. Exactly 1 whistle on medium heat followed by 3-4 minutes on the lowest heat gives tender chicken and long, intact, restaurant-quality rice grains.",
+    "Bone-In Chicken is Mandatory: Bone-in cuts (thighs, drumsticks) release rich gelatin and collagen into the bottom gravy, infusing every grain of rice above with deep, authentic meat juices.",
+    "Pouring Water from the Rim: Always pour the hot water gently down the inner edge of the cooker or over the back of a spoon to keep the chicken and rice layers completely intact."
+  ],
+  "chef_tips_hi": [
+    "1:1 पानी का सटीक अनुपात: चिकन मैरीनेशन और भूनते समय पहले से अपना जूस छोड़ता है, इसलिए 1.5 कप भीगे चावल के लिए सिर्फ 1.5 कप खौलता पानी ही डालें। ज्यादा पानी डालने से बिरयानी गीली हो जाएगी।",
+    "सिर्फ 1 सीटी का सख्त नियम: कुकर में मध्यम आंच पर ठीक 1 सीटी आने दें, फिर तुरंत आंच एकदम धीमी कर 3-4 मिनट रखें। इससे चावल खिलता है और चिकन बिल्कुल मक्खन जैसा गलता है।",
+    "हड्डियों वाले चिकन का इस्तेमाल: हड्डियों वाले चिकन (लेग-थाई) से प्राकृतिक रस और स्वाद निकलता है जो नीचे से ऊपर तक चावल के हर एक दाने में खुशबू भर देता है।",
+    "किनारे से पानी डालने की विधि: पानी हमेशा कुकर के किनारे से या चम्मच के पिछले हिस्से से डालें ताकि चिकन और चावल की परत अपनी जगह बनी रहे।"
+  ]
+}

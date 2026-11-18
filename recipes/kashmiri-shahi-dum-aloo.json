@@ -1,0 +1,221 @@
+{
+  "id": "kashmiri-shahi-dum-aloo",
+  "title_en": "Kashmiri Shahi Dum Aloo",
+  "title_hi": "कश्मीरी शाही दम आलू (ढाबा और रेस्टोरेंट सीक्रेट)",
+  "title": {
+    "en": "Kashmiri Shahi Dum Aloo",
+    "hi": "कश्मीरी शाही दम आलू (ढाबा और रेस्टोरेंट सीक्रेट)"
+  },
+  "description_en": "Bharatzkitchen's grand restaurant-style Kashmiri Shahi Dum Aloo. Pricked baby potatoes fried in fragrant mustard oil, simmered low and slow in a velvety cashew, curd, fennel (saunf), and dry ginger (sonth) gravy under sealed steam (dum) until bursting with royal flavors.",
+  "description_hi": "भरतज़किचन का बेहद स्वादिष्ट और शाही कश्मीरी दम आलू। सरसों के तेल में सुनहरे तले और कांटे से गोदे हुए छोटे आलू, जिन्हें काजू, फेंटे हुए दही, सौंफ और सोंठ की रेशमी ग्रेवी में धीमी आंच पर दम देकर पकाया जाता है।",
+  "description": {
+    "en": "Bharatzkitchen's grand restaurant-style Kashmiri Shahi Dum Aloo. Pricked baby potatoes fried in fragrant mustard oil, simmered low and slow in a velvety cashew, curd, fennel (saunf), and dry ginger (sonth) gravy under sealed steam (dum) until bursting with royal flavors.",
+    "hi": "भरतज़किचन का बेहद स्वादिष्ट और शाही कश्मीरी दम आलू। सरसों के तेल में सुनहरे तले और कांटे से गोदे हुए छोटे आलू, जिन्हें काजू, फेंटे हुए दही, सौंफ और सोंठ की रेशमी ग्रेवी में धीमी आंच पर दम देकर पकाया जाता है।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "prep_time_en": "20 mins",
+  "prep_time_hi": "20 मिनट",
+  "cook_time_en": "30 mins",
+  "cook_time_hi": "30 मिनट",
+  "prepTime": "20 mins",
+  "cookTime": "30 mins",
+  "servings_en": "4 Servings",
+  "servings_hi": "4 लोग",
+  "servings": "4 Servings",
+  "youtube_id": "iDzLyyzn_94",
+  "youtubeId": "iDzLyyzn_94",
+  "youtube_url": "https://www.youtube.com/watch?v=iDzLyyzn_94",
+  "image_url": "https://img.youtube.com/vi/iDzLyyzn_94/hqdefault.jpg",
+  "tags": [
+    "dum aloo",
+    "kashmiri dum aloo",
+    "shahi aloo",
+    "bharatzkitchen",
+    "main course",
+    "curry",
+    "party recipe"
+  ],
+  "ingredients_en": [
+    "500g Baby potatoes (boiled until 80% tender, peeled, and pricked all over with a fork)",
+    "3-4 tbsp Mustard oil (sarson ka tel, smoked to remove pungency)",
+    "1 pinch Asafoetida (hing)",
+    "1 Bay leaf (tej patta)",
+    "1 inch Cinnamon stick (dalchini)",
+    "4 Green cardamoms & 1 Black cardamom",
+    "4 Cloves (laung) & 1/2 tsp Black peppercorns",
+    "1 tsp Cumin seeds (jeera)",
+    "2-3 Onions (roughly chopped)",
+    "3 Medium ripe Tomatoes (roughly chopped)",
+    "8-10 Garlic cloves & 2 inches Ginger",
+    "10-12 Cashews (kaju)",
+    "3 Whole dried Kashmiri red chillies",
+    "Small handful of fresh coriander stems",
+    "1/2 cup Fresh curd (dahi, whisked smooth)",
+    "1 tbsp Kashmiri red chilli powder",
+    "1/2 tsp Turmeric powder (haldi)",
+    "1 tbsp Coriander powder (dhania powder)",
+    "1/2 tsp Fennel seed powder (saunf powder - authentic Kashmiri aroma)",
+    "1/2 tsp Dry ginger powder (sonth powder)",
+    "1 tsp Garam masala powder",
+    "2 tbsp Fresh cream or malai",
+    "1 tsp Kasuri methi (crushed)",
+    "Salt to taste",
+    "Fresh coriander leaves and slit green chillies for garnish"
+  ],
+  "ingredients_hi": [
+    "500 ग्राम छोटे आलू / बेबी पोटैटो (80% उबले, छीले और कांटे से अच्छी तरह गोदे हुए)",
+    "3-4 बड़ा चम्मच सरसों का तेल (धुआं निकलने तक गरम किया हुआ)",
+    "1 चुटकी हींग",
+    "1 तेजपत्ता",
+    "1 टुकड़ा दालचीनी",
+    "4 हरी इलायची और 1 बड़ी इलायची",
+    "4 लौंग और 1/2 छोटा चम्मच साबुत काली मिर्च",
+    "1 छोटा चम्मच जीरा",
+    "2-3 प्याज (मोटे कटे हुए)",
+    "3 मध्यम लाल टमाटर (मोटे कटे हुए)",
+    "8-10 लहसुन की कलियां और 2 इंच अदरक",
+    "10-12 काजू",
+    "3 साबुत सूखी कश्मीरी लाल मिर्च",
+    "मुट्ठी भर ताज़ी हरी धनिया के डंठल",
+    "1/2 कप ताज़ा गाढ़ा दही (अच्छी तरह फेंटा हुआ)",
+    "1 बड़ा चम्मच कश्मीरी लाल मिर्च पाउडर",
+    "1/2 छोटा चम्मच हल्दी पाउडर",
+    "1 बड़ा चम्मच धनिया पाउडर",
+    "1/2 छोटा चम्मच सौंफ का पाउडर (कश्मीरी खुशबू के लिए)",
+    "1/2 छोटा चम्मच सोंठ पाउडर (सूखा अदरक पाउडर)",
+    "1 छोटा चम्मच गरम मसाला",
+    "2 बड़ा चम्मच ताज़ी मलाई या फ्रेश क्रीम",
+    "1 छोटा चम्मच कसूरी मेथी (तवे पर भुनी व मसली हुई)",
+    "स्वादानुसार नमक",
+    "बारीक कटा हरा धनिया और चीरी हुई हरी मिर्च (गार्निश के लिए)"
+  ],
+  "ingredients": [
+    {
+      "category": "Baby Potatoes & Frying",
+      "items": [
+        {
+          "en": "500g Baby potatoes (fork-pricked)",
+          "hi": "500 ग्राम छोटे आलू (कांटे से गोदे हुए)"
+        },
+        {
+          "en": "3-4 tbsp Mustard oil",
+          "hi": "3-4 बड़ा चम्मच सरसों का तेल"
+        },
+        {
+          "en": "1 pinch Hing & 1/2 tsp Haldi",
+          "hi": "1 चुटकी हींग और 1/2 छोटा चम्मच हल्दी"
+        }
+      ]
+    },
+    {
+      "category": "Shahi Gravy Base",
+      "items": [
+        {
+          "en": "2-3 Onions, 3 Tomatoes, Ginger & Garlic",
+          "hi": "2-3 प्याज, 3 टमाटर, अदरक और लहसुन"
+        },
+        {
+          "en": "10-12 Cashews & 3 Dried red chillies",
+          "hi": "10-12 काजू और 3 सूखी लाल मिर्च"
+        },
+        {
+          "en": "Handful of coriander stems",
+          "hi": "धनिया के डंठल"
+        }
+      ]
+    },
+    {
+      "category": "Aromatic Spices & Finish",
+      "items": [
+        {
+          "en": "1/2 cup Whisked curd (dahi)",
+          "hi": "1/2 कप फेंटा हुआ दही"
+        },
+        {
+          "en": "1 tbsp Kashmiri chilli & 1 tbsp Coriander powder",
+          "hi": "1 बड़ा चम्मच कश्मीरी मिर्च और धनिया पाउडर"
+        },
+        {
+          "en": "1/2 tsp Saunf powder & 1/2 tsp Sonth powder",
+          "hi": "1/2 छोटा चम्मच सौंफ और सोंठ पाउडर"
+        },
+        {
+          "en": "2 tbsp Fresh cream & 1 tsp Kasuri methi",
+          "hi": "2 बड़ा चम्मच मलाई और कसूरी मेथी"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Step 1 - Parboil & Prick Potatoes: Boil baby potatoes in salted water until 80% tender (knife inserts with slight resistance). Drain and peel. Prick each potato generously from all sides using a fork or toothpick so gravy penetrates right to the core.",
+    "Step 2 - Golden Blistering: In a kadai, heat mustard oil until smoking, then lower heat. Add a pinch of hing and turmeric. Fry the pricked potatoes on medium flame for 6 to 8 minutes until a crisp, blistered golden skin forms. Remove and set aside.",
+    "Step 3 - Boil the Shahi Base: In a pot, add chopped onions, tomatoes, garlic, ginger, cashews, dried red chillies, coriander stems, 1 tsp salt, and 1 cup water. Simmer covered for 10-12 minutes until vegetables are super soft. Cool completely and blend into a silk-smooth paste.",
+    "Step 4 - Bloom Whole Spices: In the leftover mustard oil in the kadai, add bay leaf, cinnamon stick, green cardamoms, black cardamom, cloves, black peppercorns, and cumin seeds. Sauté for 30 seconds until crackling and fragrant.",
+    "Step 5 - Cook the Gravy: Pour in the blended onion-cashew paste. Cook on medium flame for 7-8 minutes until the gravy thickens and oil begins separating from the edges.",
+    "Step 6 - The Kashmiri Curd Tempering: In a bowl, whisk curd with Kashmiri red chilli powder, coriander powder, saunf (fennel) powder, and sonth (dry ginger) powder. Turn the flame to low and pour the spiced curd into the kadai while stirring continuously to prevent curdling. Cook for 3 to 4 minutes until a deep crimson oil surfaces.",
+    "Step 7 - Slow Steam 'Dum': Add the fried golden baby potatoes and 1/2 cup warm water. Stir gently. Cover the kadai with a tight lid (or seal with foil). Cook on low flame (dum) for 10 to 12 minutes so the potatoes drink up the rich aromatic gravy.",
+    "Step 8 - Royal Finish: Finish by stirring in fresh cream/malai, garam masala, crushed kasuri methi, slit green chillies, and fresh coriander. Serve hot with butter naan, missi roti, or jeera pulao."
+  ],
+  "instructions_hi": [
+    "स्टेप 1 - आलू उबालना और गोदना: छोटे आलू को नमक वाले पानी में 80% तक उबालें (पूरी तरह गलने न दें)। छील लें और कांटे (Fork) से चारों तरफ अच्छी तरह गोद लें ताकि ग्रेवी अंदर तक समा सके।",
+    "स्टेप 2 - सरसों के तेल में फ्राई करना: कड़ाही में सरसों का तेल धुआं निकलने तक गरम करें, फिर आंच धीमी करें। हींग और चुटकी भर हल्दी डालें। गोदे हुए आलू डालकर मध्यम आंच पर 6-8 मिनट तक सुनहरा और कुरकुरी परत आने तक तलकर निकाल लें।",
+    "स्टेप 3 - शाही बेस उबालना: एक बर्तन में प्याज, टमाटर, लहसुन, अदरक, काजू, सूखी लाल मिर्च, धनिया के डंठल, 1 छोटा चम्मच नमक और 1 कप पानी डालकर 10-12 मिनट उबालें जब तक सब नरम न हो जाए। ठंडा करके मिक्सी में एकदम बारीक मखमली पेस्ट बना लें।",
+    "स्टेप 4 - खड़े मसाले भूनना: कड़ाही के बचे हुए सरसों के तेल में तेजपत्ता, दालचीनी, हरी-बड़ी इलायची, लौंग, काली मिर्च और जीरा तड़काएं।",
+    "स्टेप 5 - ग्रेवी पकाना: तैयार पिसा हुआ प्याज-काजू पेस्ट डालें। मध्यम आंच पर 7-8 मिनट तक भूनें जब तक ग्रेवी गाढ़ी न हो जाए और किनारों से तेल न छूटने लगे।",
+    "स्टेप 6 - कश्मीरी दही का मसाला: फेंटे हुए दही में कश्मीरी लाल मिर्च, धनिया पाउडर, सौंफ पाउडर और सोंठ पाउडर मिलाएं। आंच बिल्कुल धीमी करें और दही का मिश्रण लगातार चलाते हुए डालें ताकि दही फटे नहीं। 3-4 मिनट भूनें जब तक लाल रोगन ऊपर न आ जाए।",
+    "स्टेप 7 - धीमी आंच पर 'दम' लगाना: तले हुए आलू और 1/2 कप गुनगुना पानी मिलाएं। कड़ाही को टाइट ढक्कन या फॉइल से ढक दें। बिल्कुल धीमी आंच पर 10-12 मिनट 'दम' पर पकने दें ताकि आलू सारा रस सोख लें।",
+    "स्टेप 8 - शाही तड़का व परोसना: अंत में ताज़ी मलाई, गरम मसाला, भुनी कसूरी मेथी, हरी मिर्च और हरा धनिया डालकर मिलाएं। गरमा-गरम कश्मीरी शाही दम आलू को बटर नान, मिस्सी रोटी या जीरा राइस के साथ परोसें।"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": {
+        "en": "Parboil baby potatoes, peel, and prick thoroughly with a fork. Fry in smoking mustard oil until crisp and golden.",
+        "hi": "छोटे आलू को 80% उबालकर छीलें, कांटे से गोदें और सरसों के तेल में कुरकुरा सुनहरा तल लें।"
+      }
+    },
+    {
+      "step": 2,
+      "text": {
+        "en": "Boil onions, tomatoes, cashews, ginger, garlic, and dried red chillies, then blend into a silk-smooth paste.",
+        "hi": "प्याज, टमाटर, काजू, अदरक, लहसुन और सूखी मिर्च को उबालकर मखमली प्यूरी बना लें।"
+      }
+    },
+    {
+      "step": 3,
+      "text": {
+        "en": "Sauté whole spices, add the boiled base paste and cook until oil separates. Whisk curd with saunf, sonth, and spices.",
+        "hi": "खड़े मसाले तड़काएं, प्यूरी भूनें और फिर सौंफ, सोंठ और मसालों से फेंटा हुआ दही मिलाकर रोगन आने तक पकाएं।"
+      }
+    },
+    {
+      "step": 4,
+      "text": {
+        "en": "Add fried potatoes and warm water. Seal tight with a lid and cook on low heat 'dum' for 10-12 minutes.",
+        "hi": "तले आलू और पानी डालें। टाइट ढक्कन लगाकर 10-12 मिनट धीमी आंच पर 'दम' देकर पकाएं।"
+      }
+    },
+    {
+      "step": 5,
+      "text": {
+        "en": "Stir in fresh cream, garam masala, kasuri methi, and fresh coriander. Serve hot with butter naan or pulao.",
+        "hi": "मलाई, गरम मसाला, कसूरी मेथी और हरा धनिया मिलाएं। बटर नान या पुलाव के साथ पेश करें।"
+      }
+    }
+  ],
+  "chef_tips_en": [
+    "Pricking is Non-Negotiable: Potatoes are naturally dense and starchy. Pricking with a fork opens micro-channels so the rich curd-fennel gravy penetrates right into the heart of the potato rather than remaining just on the outer surface.",
+    "Fennel (Saunf) & Ginger (Sonth): The soul of Kashmiri dum aloo lies in freshly ground saunf and sonth. It provides that unmistakable royal floral warmth that differentiates it from regular Punjabi aloo gravies.",
+    "Mustard Oil Smoking: Heat mustard oil until white wisps of smoke appear, then let it cool slightly before frying. This burns off the raw pungent bitterness while infusing authentic northern dhaba smokiness."
+  ],
+  "chef_tips_hi": [
+    "कांटे से गोदने का महत्व: आलू अंदर से ठोस होते हैं। कांटे से अच्छी तरह गोदने से ग्रेवी और नमक आलू के अंदर तक रच-बस जाते हैं, जिससे आलू फीके नहीं लगते।",
+    "सौंफ और सोंठ की सुगंध: कश्मीरी दम आलू की असली जान सौंफ पाउडर और सोंठ (सूखा अदरक) है। यह ग्रेवी को एक खास भीनी खुशबू और शाही स्वाद देता है।",
+    "सरसों के तेल का धुआं निकालना: सरसों के तेल को पहले तेज़ गरम करके धुआं निकाल लें, फिर थोड़ा ठंडा करके तड़का लगाएं। इससे तेल का कच्चापन खत्म हो जाता है और बेहतरीन ढाबा स्वाद आता है।"
+  ]
+}

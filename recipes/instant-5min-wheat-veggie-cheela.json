@@ -1,0 +1,165 @@
+{
+  "id": "instant-5min-wheat-veggie-cheela",
+  "title_en": "Instant 5-Minute Whole Wheat Veggie Cheela",
+  "title_hi": "5 मिनट में गेहूं के आटे और सब्जियों का सुपर टेस्टी नाश्ता (चीला)",
+  "title": {
+    "en": "Instant 5-Minute Whole Wheat Veggie Cheela",
+    "hi": "5 मिनट में गेहूं के आटे और सब्जियों का सुपर टेस्टी नाश्ता (चीला)"
+  },
+  "description_en": "A 5-minute wholesome breakfast and lunchbox recipe by Kitchen Magic by Vanisha. Nutrient-packed whole wheat batter loaded with crunchy onions, tomatoes, carrots, ginger, and aromatic spices, pan-toasted into tender, golden-crisp savory pancakes with minimal oil.",
+  "description_hi": "किचन मैजिक बाय वनिषा की सिर्फ 5 मिनट में तैयार होने वाली सेहतमंद और स्वादिष्ट नाश्ते की रेसिपी। गेहूं के आटे और बारीक कटी ताज़ा सब्जियों (टमाटर, प्याज, गाजर, शिमला मिर्च) से बने सुनहरे, पौष्टिक और बेहद मुलायम चीले जो बच्चों के टिफिन के लिए एकदम परफेक्ट हैं।",
+  "description": {
+    "en": "A 5-minute wholesome breakfast and lunchbox recipe by Kitchen Magic by Vanisha. Nutrient-packed whole wheat batter loaded with crunchy onions, tomatoes, carrots, ginger, and aromatic spices, pan-toasted into tender, golden-crisp savory pancakes with minimal oil.",
+    "hi": "किचन मैजिक बाय वनिषा की सिर्फ 5 मिनट में तैयार होने वाली सेहतमंद और स्वादिष्ट नाश्ते की रेसिपी। गेहूं के आटे और बारीक कटी ताज़ा सब्जियों (टमाटर, प्याज, गाजर, शिमला मिर्च) से बने सुनहरे, पौष्टिक और बेहद मुलायम चीले जो बच्चों के टिफिन के लिए एकदम परफेक्ट हैं।"
+  },
+  "category": "Breakfast",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "5 mins",
+  "prep_time_hi": "5 मिनट",
+  "cook_time_en": "10 mins",
+  "cook_time_hi": "10 मिनट",
+  "prepTime": "5 mins",
+  "cookTime": "10 mins",
+  "servings_en": "3-4 Servings (5-6 Cheelas)",
+  "servings_hi": "3-4 लोग (5-6 चीले)",
+  "servings": "3-4 Servings (5-6 Cheelas)",
+  "youtube_id": "0nJS7rS_Hk4",
+  "youtubeId": "0nJS7rS_Hk4",
+  "youtube_url": "https://www.youtube.com/watch?v=0nJS7rS_Hk4",
+  "image_url": "https://img.youtube.com/vi/0nJS7rS_Hk4/hqdefault.jpg",
+  "tags": [
+    "wheat cheela",
+    "atta nashta",
+    "healthy breakfast",
+    "kitchen magic by vanisha",
+    "kids tiffin",
+    "5 min recipe",
+    "less oil snack"
+  ],
+  "ingredients_en": [
+    "1 cup Whole wheat flour (gehun ka atta)",
+    "2 tbsp Besan (gram flour, for earthy flavor and crispness)",
+    "1 cup Water (adjust as needed for smooth pouring batter)",
+    "1 Medium Onion (finely chopped)",
+    "1 Medium Ripe Tomato (finely diced)",
+    "1 Small Carrot (finely grated)",
+    "1/4 Green Bell Pepper / Capsicum (finely diced)",
+    "1-2 Green chillies (finely minced)",
+    "1 inch Ginger (grated)",
+    "1/4 cup Fresh coriander leaves (finely chopped)",
+    "1 tsp Cumin seeds (jeera)",
+    "1/2 tsp Carom seeds (ajwain, rubbed between palms)",
+    "1/2 tsp Turmeric powder (haldi)",
+    "1 tsp Red chilli flakes or Kashmiri chilli powder",
+    "1/2 tsp Chaat masala or Amchur powder",
+    "1 tsp Salt (or to taste)",
+    "Cooking oil or Desi Ghee for pan roasting"
+  ],
+  "ingredients_hi": [
+    "1 कप गेहूं का आटा",
+    "2 बड़ा चम्मच बेसन (सोंधे स्वाद और कुरकुरेपन के लिए)",
+    "1 कप पानी (घोल तैयार करने अनुसार)",
+    "1 मध्यम प्याज (एकदम बारीक कटा हुआ)",
+    "1 मध्यम लाल टमाटर (बारीक कटा हुआ)",
+    "1 छोटी गाजर (बारीक कद्दूकस की हुई)",
+    "1/4 शिमला मिर्च (बारीक कटी हुई)",
+    "1-2 हरी मिर्च (बारीक कटी हुई)",
+    "1 इंच अदरक (कद्दूकस किया हुआ)",
+    "1/4 कप ताज़ा हरा धनिया (बारीक कटा हुआ)",
+    "1 छोटा चम्मच जीरा",
+    "1/2 छोटा चम्मच अजवायन (हाथ से मसलकर)",
+    "1/2 छोटा चम्मच हल्दी पाउडर",
+    "1 छोटा चम्मच कुटी लाल मिर्च (चिली फ्लेक्स)",
+    "1/2 छोटा चम्मच चाट मसाला या अमचूर",
+    "1 छोटा चम्मच नमक (स्वादानुसार)",
+    "तवे पर सेकने के लिए थोड़ा तेल या देसी घी"
+  ],
+  "ingredients": [
+    {
+      "category": "Whole Wheat Batter",
+      "items": [
+        { "en": "1 cup Whole wheat flour & 2 tbsp Besan", "hi": "1 कप गेहूं आटा और 2 चम्मच बेसन" },
+        { "en": "1 cup Water (smooth pouring consistency)", "hi": "1 कप पानी (चिकना घोल)" },
+        { "en": "Jeera, Ajwain, Haldi, Chilli flakes & Salt", "hi": "जीरा, अजवायन, हल्दी, चिली फ्लेक्स और नमक" }
+      ]
+    },
+    {
+      "category": "Crunchy Fresh Vegetables",
+      "items": [
+        { "en": "Finely diced Onions & Tomatoes", "hi": "बारीक कटा प्याज और टमाटर" },
+        { "en": "Grated Carrots & Capsicum", "hi": "घिसी गाजर और शिमला मिर्च" },
+        { "en": "Minced Green chillies, Ginger & Fresh coriander", "hi": "हरी मिर्च, अदरक और हरा धनिया" },
+        { "en": "1/2 tsp Chaat masala", "hi": "1/2 छोटा चम्मच चाट मसाला" }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Step 1 - Whisk the Batter: In a wide mixing bowl, take 1 cup whole wheat flour and 2 tbsp besan. Add cumin seeds, ajwain, turmeric powder, chilli flakes, chaat masala, and salt. Pour in water in gradual splashes while whisking into a smooth, lump-free batter with medium pouring consistency (similar to dosa or thick crepe batter).",
+    "Step 2 - Fold in Fresh Veggies: Add finely chopped onions, diced tomatoes, grated carrots, bell peppers, minced green chillies, grated ginger, and chopped coriander leaves directly into the batter. Stir thoroughly with a ladle until vegetables are evenly distributed. Let it rest for 3 to 5 minutes.",
+    "Step 3 - Pan Preparation: Heat a flat non-stick or seasoned cast iron tawa over medium flame. Lightly brush with a few drops of cooking oil or ghee.",
+    "Step 4 - Pour & Spread: Pour a generous ladleful of the vegetable batter onto the center of the warm tawa. Using the back of the ladle or gently tilting the pan, spread the batter evenly outward into a neat 6-inch round pancake (cheela). Keep it slightly thicker than a crepe so the veggies stay juicy.",
+    "Step 5 - Cook Covered: Drizzle a few drops of oil around the edges. Cover with a lid and cook on medium flame for 1.5 to 2 minutes. The steam trapped inside cooks the raw wheat through and sets the top surface.",
+    "Step 6 - Flip & Crisp: Remove the lid. When the edges release from the pan and the underside is speckled golden, flip the cheela over. Press gently with a spatula and cook the second side for another 1 to 2 minutes until speckled with crisp golden-brown spots.",
+    "Step 7 - Serve: Slide onto a serving plate. Repeat with remaining batter. Serve piping hot with spicy green coriander chutney, sweet tomato ketchup, pickle, or chilled curd for an energizing 5-minute breakfast."
+  ],
+  "instructions_hi": [
+    "स्टेप 1 - आटे का घोल तैयार करना: एक बड़े बर्तन में 1 कप गेहूं का आटा और 2 बड़ा चम्मच बेसन लें। इसमें जीरा, अजवायन, हल्दी, चिली फ्लेक्स, चाट मसाला और स्वादानुसार नमक डालें। थोड़ा-थोड़ा पानी डालते हुए विस्क से अच्छी तरह फेंटें ताकि एक भी गांठ न रहे और डोसा जैसा चिकना घोल बन जाए।",
+    "स्टेप 2 - सब्जियां मिलाना: अब इस घोल में बारीक कटा प्याज, टमाटर, घिसी गाजर, शिमला मिर्च, हरी मिर्च, अदरक और हरा धनिया डालें। चमचे से अच्छी तरह मिला लें ताकि सब्जियां घोल में एकसमान फैल जाएं। 3-5 मिनट के लिए ढककर रखें।",
+    "स्टेप 3 - तवा गरम करना: तवे को मध्यम आंच पर गरम करें और हल्का सा तेल लगाकर चिकना करें।",
+    "स्टेप 4 - चीला फैलाना: एक बड़ा चमचा भरकर बैटर तवे के बीच में डालें और हल्के हाथों से 6 इंच के गोल चीले की तरह फैलाएं (इसे ज्यादा पतला न करें ताकि सब्जियों का क्रंच बना रहे)।",
+    "स्टेप 5 - ढककर पकाना: किनारों पर थोड़ा तेल या घी टपकाएं। ढक्कन लगाकर मध्यम आंच पर 1.5 से 2 मिनट पकने दें। भाप से आटा अंदर तक अच्छी तरह पक जाता है और ऊपर की परत सूख जाती है।",
+    "स्टेप 6 - पलटकर सेकना: ढक्कन हटाएं। जब किनारे तवे से अलग होने लगें और नीचे सुनहरा रंग आ जाए तो चीले को पलट दें। स्पैटुला से हल्का दबाते हुए दूसरी तरफ भी 1-2 मिनट कुरकुरा होने तक सेकें।",
+    "स्टेप 7 - परोसें: प्लेट में निकालें। गरमा-गरम पौष्टिक गेहूं के चीले को हरी चटनी, टोमैटो केचप या दही के साथ 5 मिनट में तैयार करके नाश्ते या बच्चों के टिफिन में परोसें।"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": {
+        "en": "Whisk whole wheat flour, besan, cumin, ajwain, turmeric, chilli flakes, chaat masala, salt, and water into a smooth batter.",
+        "hi": "गेहूं का आटा, बेसन, जीरा, अजवायन, हल्दी, चिली फ्लेक्स, नमक और पानी मिलाकर चिकना घोल बनाएं।"
+      }
+    },
+    {
+      "step": 2,
+      "text": {
+        "en": "Fold in finely chopped onions, tomatoes, carrots, capsicum, green chillies, ginger, and fresh coriander.",
+        "hi": "घोल में बारीक कटा प्याज, टमाटर, गाजर, शिमला मिर्च, अदरक, मिर्च और हरा धनिया मिलाएं।"
+      }
+    },
+    {
+      "step": 3,
+      "text": {
+        "en": "Pour a ladleful of batter onto a hot greased tawa and spread gently into a 6-inch round savory pancake.",
+        "hi": "गरम चिकने तवे पर चमचे से बैटर डालें और गोल चीले जैसा फैलाएं।"
+      }
+    },
+    {
+      "step": 4,
+      "text": {
+        "en": "Drizzle oil along edges, cover with a lid, and cook on medium flame for 2 mins until top sets and base turns golden.",
+        "hi": "किनारों पर तेल लगाएं, ढक्कन लगाकर 2 मिनट पकाएं जब तक ऊपर की सतह सूख न जाए।"
+      }
+    },
+    {
+      "step": 5,
+      "text": {
+        "en": "Flip and cook the second side for 1-2 minutes until speckled with crisp golden spots. Serve with chutney or ketchup.",
+        "hi": "पलट कर दूसरी तरफ 1-2 मिनट सुनहरा और क्रिस्पी सेकें। चटनी या केचप के साथ परोसें।"
+      }
+    }
+  ],
+  "chef_tips_en": [
+    "Besan for Golden Crispness: While whole wheat flour alone can become slightly chewy, adding 2 tablespoons of besan (gram flour) provides an earthy nutty aroma and guarantees a golden, crispy perimeter.",
+    "Diced Small for Quick Cooking: Finely mince or grate the vegetables so they cook through rapidly during the 2-minute pan-steaming while retaining a juicy, sweet crunch.",
+    "Lid Steaming Retains Moisture: Covering the pan traps internal steam, keeping the vegetable pancakes tender, pliable, and soft for school tiffin boxes."
+  ],
+  "chef_tips_hi": [
+    "बेसन का कमाल: केवल गेहूं के आटे से चीला थोड़ा खिंचावदार हो सकता है। 2 चम्मच बेसन मिलाने से चीले में सोंधापन और किनारों पर एकदम कुरकुरापन आ जाता है।",
+    "सब्जियां बारीक काटें: सब्जियों को जितना बारीक काटेंगे या कद्दूकस करेंगे, वे उतनी ही जल्दी पकेंगी और चीला फैलाते समय टूटेगा नहीं।",
+    "ढककर पकाना: पहले 2 मिनट ढक्कन लगाने से भाप में आटा पूरी तरह पक जाता है और चीला ठंडा होने के बाद भी मुलायम रहता है।"
+  ]
+}

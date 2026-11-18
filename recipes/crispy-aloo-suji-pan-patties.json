@@ -1,0 +1,158 @@
+{
+  "id": "crispy-aloo-suji-pan-patties",
+  "title_en": "Crispy Golden Aloo-Suji Pan Patties",
+  "title_hi": "5 मिनट में 2 चीजों से बना आलू-सूजी का फूला-फूला कुरकुरा नाश्ता",
+  "title": {
+    "en": "Crispy Golden Aloo-Suji Pan Patties",
+    "hi": "5 मिनट में 2 चीजों से बना आलू-सूजी का फूला-फूला कुरकुरा नाश्ता"
+  },
+  "description_en": "A quick, 2-ingredient instant breakfast recipe by Kitchen Magic by Vanisha when you are bored of making daily roti-sabzi. Soft, pillowy semolina and mashed potato round patties, seasoned with aromatic tempering and pan-roasted with minimal oil until puffed and crisp.",
+  "description_hi": "किचन मैजिक बाय वनिषा की रोज़-रोज़ रोटी-सब्जी से बोर होने पर केवल 2 चीज़ों (आलू और सूजी) से बनने वाली झटपट 5 मिनट की नाश्ता रेसिपी। कम तेल में तवे पर सिंकने वाली फूली-फूली, बाहर से क्रिस्पी और अंदर से बेहद नरम मसाला टिक्की।",
+  "description": {
+    "en": "A quick, 2-ingredient instant breakfast recipe by Kitchen Magic by Vanisha when you are bored of making daily roti-sabzi. Soft, pillowy semolina and mashed potato round patties, seasoned with aromatic tempering and pan-roasted with minimal oil until puffed and crisp.",
+    "hi": "किचन मैजिक बाय वनिषा की रोज़-रोज़ रोटी-सब्जी से बोर होने पर केवल 2 चीज़ों (आलू और सूजी) से बनने वाली झटपट 5 मिनट की नाश्ता रेसिपी। कम तेल में तवे पर सिंकने वाली फूली-फूली, बाहर से क्रिस्पी और अंदर से बेहद नरम मसाला टिक्की।"
+  },
+  "category": "Breakfast",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cook_time_en": "10 mins",
+  "cook_time_hi": "10 मिनट",
+  "prepTime": "10 mins",
+  "cookTime": "10 mins",
+  "servings_en": "3-4 Servings (6-8 Patties)",
+  "servings_hi": "3-4 लोग (6-8 पैटीज़)",
+  "servings": "3-4 Servings (6-8 Patties)",
+  "youtube_id": "hP5u2bUHTSQ",
+  "youtubeId": "hP5u2bUHTSQ",
+  "youtube_url": "https://www.youtube.com/watch?v=hP5u2bUHTSQ",
+  "image_url": "https://img.youtube.com/vi/hP5u2bUHTSQ/hqdefault.jpg",
+  "tags": [
+    "aloo suji patties",
+    "quick breakfast",
+    "kitchen magic by vanisha",
+    "healthy breakfast",
+    "less oil snack",
+    "kids tiffin",
+    "easy nasta"
+  ],
+  "ingredients_en": [
+    "3 Medium Potatoes (boiled, peeled, and mashed smooth)",
+    "1 cup Fine Semolina (suji / rava) or Whole wheat flour",
+    "1/4 cup Fresh curd (dahi, for soft spongy texture)",
+    "1 tbsp Cooking oil (for tempering)",
+    "1 tsp Mustard seeds (rai)",
+    "1 tsp Cumin seeds (jeera)",
+    "1 pinch Asafoetida (hing)",
+    "1 inch Ginger (grated) & 2 Green chillies (finely minced)",
+    "1 tsp Red chilli flakes",
+    "1/4 tsp Turmeric powder (haldi)",
+    "1/2 tsp Garam masala powder",
+    "1/2 tsp Chaat masala or Amchur powder",
+    "1 tsp Salt (or to taste)",
+    "1/4 cup Fresh coriander leaves (finely chopped)",
+    "1-2 tbsp Oil or Ghee for shallow pan roasting"
+  ],
+  "ingredients_hi": [
+    "3 मध्यम आलू (उबले, छीले और बिना गांठ के बारीक मैश किए)",
+    "1 कप बारीक सूजी (रवा) या गेहूं का आटा",
+    "1/4 कप ताज़ा दही (सॉफ्टनेस और स्पंज के लिए)",
+    "1 बड़ा चम्मच तेल (तड़के के लिए)",
+    "1 छोटा चम्मच राई / सरसों",
+    "1 छोटा चम्मच जीरा",
+    "1 चुटकी हींग",
+    "1 इंच अदरक (कद्दूकस) और 2 हरी मिर्च (बारीक कटी)",
+    "1 छोटा चम्मच कुटी लाल मिर्च (चिली फ्लेक्स)",
+    "1/4 छोटा चम्मच हल्दी पाउडर",
+    "1/2 छोटा चम्मच गरम मसाला",
+    "1/2 छोटा चम्मच चाट मसाला या अमचूर",
+    "1 छोटा चम्मच नमक (स्वादानुसार)",
+    "1/4 कप ताज़ा हरा धनिया (बारीक कटा हुआ)",
+    "तवे पर सेकने के लिए 1-2 बड़ा चम्मच तेल या देसी घी"
+  ],
+  "ingredients": [
+    {
+      "category": "Spiced Aloo-Suji Dough Base",
+      "items": [
+        { "en": "3 Boiled potatoes (mashed) & 1 cup Suji", "hi": "3 उबले आलू (मैश किए) और 1 कप सूजी" },
+        { "en": "1/4 cup Curd (dahi) & Salt to taste", "hi": "1/4 कप दही और स्वादानुसार नमक" },
+        { "en": "Turmeric, Garam masala & Chaat masala", "hi": "हल्दी, गरम मसाला और चाट मसाला" }
+      ]
+    },
+    {
+      "category": "Aromatic Tempering & Herbs",
+      "items": [
+        { "en": "Mustard seeds, Cumin seeds & Hing", "hi": "राई, जीरा और हींग" },
+        { "en": "Minced Ginger, Green chillies & Chilli flakes", "hi": "अदरक, हरी मिर्च और चिली फ्लेक्स" },
+        { "en": "Finely chopped fresh coriander leaves", "hi": "बारीक कटा ताज़ा हरा धनिया" }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Step 1 - Aromatic Tempering: Heat 1 tbsp oil in a small pan over medium flame. Splutter mustard seeds, cumin seeds, and a pinch of hing. Add grated ginger, minced green chillies, and chilli flakes. Sauté for 30 seconds until fragrant, then turn off heat.",
+    "Step 2 - Knead Potato-Suji Dough: In a mixing bowl, combine the smoothly mashed boiled potatoes, fine semolina (suji), and fresh curd. Pour in the prepared fragrant tempering with all the oil. Add turmeric powder, garam masala, chaat masala, salt, and finely chopped coriander leaves. Mix with your hands until the moisture of the potatoes and curd hydrates the semolina, forming a soft, pliable, non-sticky dough. Rest covered for 5 minutes.",
+    "Step 3 - Shape Round Thick Patties: Grease your palms with a drop of oil. Divide the dough into 6 to 8 equal portions. Roll each portion between your palms into a smooth round ball, then flatten gently between your hands into a 1/2-inch thick, neat round patty (disc shape). Smooth the edges so there are no cracks.",
+    "Step 4 - Pan Roasting on Tawa: Heat a flat non-stick or cast iron pan over medium flame. Drizzle 1 tablespoon of oil or ghee. Gently place the shaped patties onto the pan in a single layer with space between them.",
+    "Step 5 - Golden Crisp Searing: Cook on medium flame for 3 to 4 minutes without moving them until the bottom develops a deep, golden-brown crust. Drizzle a few drops of ghee on top, flip each patty over with a spatula, and cook the second side for another 3 minutes. The patties will puff up slightly with a crisp outer shell and a soft, pillowy potato-bread center.",
+    "Step 6 - Serve: Transfer to a platter. Garnish with a slit green chilli and serve piping hot alongside tangy tomato ketchup or spicy coriander-mint chutney for a hearty 10-minute breakfast or evening tea snack."
+  ],
+  "instructions_hi": [
+    "स्टेप 1 - तड़का तैयार करना: एक छोटे पैन में 1 बड़ा चम्मच तेल गरम करें। राई, जीरा और हींग चटकाएं। कद्दूकस अदरक, कटी हरी मिर्च और चिली फ्लेक्स डालकर 30 सेकंड भूनें। गैस बंद कर दें।",
+    "स्टेप 2 - आलू-सूजी का डो गूंथना: एक बड़े बर्तन में उबले व मैश किए आलू, बारीक सूजी और दही डालें। ऊपर से तैयार खुशबूदार तड़का तेल समेत डाल दें। हल्दी, गरम मसाला, चाट मसाला, नमक और हरा धनिया मिलाएं। हाथों से अच्छी तरह मिलाते हुए नरम और चिकना डो बना लें (आलू की नमी से ही सूजी बंध जाती है, पानी डालने की जरूरत नहीं होती)। 5 मिनट ढककर रखें।",
+    "स्टेप 3 - गोल टिक्की (पैटी) बनाना: हथेलियों पर थोड़ा तेल लगाएं। मिश्रण की 6 से 8 बराबर लोइयां बनाएं। हर लोई को गोल घुमाकर आधा इंच मोटाई की गोल चपटी टिक्की (पैटी) का आकार दें। किनारों को चिकना कर लें।",
+    "स्टेप 4 - तवे पर सेकना: तवे पर 1 बड़ा चम्मच तेल या देसी घी गरम करें। मध्यम आंच पर टिक्कियों को तवे पर रखें।",
+    "स्टेप 5 - कुरकुरा और सुनहरा पकाना: मध्यम आंच पर 3 से 4 मिनट तक एक तरफ से गहरा सुनहरा और क्रिस्पी होने तक सिकने दें। ऊपर थोड़ा घी लगाएं, पलटें और दूसरी तरफ भी 3 मिनट सेकें। टिक्कियां फूलकर बाहर से एकदम कुरकुरी और अंदर से रुई जैसी सॉफ्ट बनेंगी।",
+    "स्टेप 6 - परोसें: प्लेट में निकालें। गरमा-गरम आलू-सूजी के इस कुरकुरे नाश्ते को टोमैटो केचप या पुदीना चटनी के साथ सुबह के नाश्ते में या शाम की चाय के साथ पेश करें।"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": {
+        "en": "Temper mustard, cumin, hing, ginger, green chillies, and chilli flakes in 1 tbsp hot oil.",
+        "hi": "1 चम्मच तेल में राई, जीरा, हींग, अदरक, हरी मिर्च और चिली फ्लेक्स का तड़का लगाएं।"
+      }
+    },
+    {
+      "step": 2,
+      "text": {
+        "en": "Combine mashed potatoes, suji, curd, tempering, turmeric, chaat masala, and coriander into a soft pliable dough. Rest 5 mins.",
+        "hi": "मैश आलू, सूजी, दही, तड़का, मसाले और हरा धनिया मिलाकर नरम डो बनाएं और 5 मिनट रखें।"
+      }
+    },
+    {
+      "step": 3,
+      "text": {
+        "en": "Shape into 6-8 round 1/2-inch thick patties with greased palms, smoothing out the edges.",
+        "hi": "चिकने हाथों से आधा इंच मोटाई की 6-8 गोल चपटी टिक्कियां बनाएं।"
+      }
+    },
+    {
+      "step": 4,
+      "text": {
+        "en": "Pan-roast on medium flame with a little oil/ghee for 3-4 mins per side until puffed, golden, and crusty.",
+        "hi": "मध्यम आंच पर थोड़े तेल में दोनों तरफ से 3-4 मिनट कुरकुरा और सुनहरा होने तक सेकें।"
+      }
+    },
+    {
+      "step": 5,
+      "text": {
+        "en": "Serve piping hot with tomato ketchup and mint chutney for an instant 10-minute breakfast.",
+        "hi": "टोमैटो केचप और हरी चटनी के साथ गरमा-गरम 10 मिनट का स्वादिष्ट नाश्ता परोसें।"
+      }
+    }
+  ],
+  "chef_tips_en": [
+    "No Extra Water Needed: Boiled potatoes contain enough natural moisture to hydrate fine semolina without adding any extra water. This keeps the dough firm enough to shape without turning soggy.",
+    "Curd Tenderizer: Adding 1/4 cup of fresh curd gives the patties a tender, melt-in-the-mouth texture similar to bakery buns while providing a pleasant mild tang.",
+    "Medium Flame Pan Searing: Do not fry on high heat, as semolina requires medium, steady heat to crisp up deeply and develop a golden, cracker-like crust."
+  ],
+  "chef_tips_hi": [
+    "पानी डालने की जरूरत नहीं: उबले आलू में पर्याप्त नमी होती है जो सूजी को आसानी से सोख लेती है। इसलिए अलग से पानी न मिलाएं, वरना डो गीला हो जाएगा।",
+    "दही की सॉफ्टनेस: 1/4 कप दही मिलाने से टिक्कियों के अंदर का टेक्सचर बेकरी ब्रेड जैसा सॉफ्ट और स्पंजी बनता है।",
+    "मध्यम आंच पर सेकना: तेज़ आंच पर सेकने से बाहर से जल्दी लाल हो जाएंगी और अंदर से कच्ची रह सकती हैं; मध्यम आंच पर सेकने से बाहर से एकदम कुरकुरी परत बनती है।"
+  ]
+}

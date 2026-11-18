@@ -1,0 +1,94 @@
+{
+  "id": "andhra-palak-pachadi",
+  "title": {
+    "en": "Authentic Andhra Palak Pachadi (Spinach Chutney)",
+    "hi": "आंध्र स्पेशल पालक पचड़ी (चटपटी पालक चटनी)"
+  },
+  "title_en": "Authentic Andhra Palak Pachadi (Spinach Chutney)",
+  "title_hi": "आंध्र स्पेशल पालक पचड़ी (चटपटी पालक चटनी)",
+  "description": {
+    "en": "Fiery and tangy authentic Andhra-style spinach chutney made with fresh palak, roasted lentils, pungent green chillies, garlic, and tamarind. Sensational mixed with steaming hot rice and a spoonful of desi ghee.",
+    "hi": "आंध्र प्रदेश की मशहूर तीखी और चटपटी पालक पचड़ी। ताजे पालक, भुनी दालों, हरी मिर्च, लहसुन और इमली के साथ तैयार यह चटनी गरमा-गरम चावल और देसी घी के साथ खाने में अत्यंत स्वादिष्ट लगती है।"
+  },
+  "description_en": "Fiery and tangy authentic Andhra-style spinach chutney made with fresh palak, roasted lentils, pungent green chillies, garlic, and tamarind. Sensational mixed with steaming hot rice and a spoonful of desi ghee.",
+  "description_hi": "आंध्र प्रदेश की मशहूर तीखी और चटपटी पालक पचड़ी। ताजे पालक, भुनी दालों, हरी मिर्च, लहसुन और इमली के साथ तैयार यह चटनी गरमा-गरम चावल और देसी घी के साथ खाने में अत्यंत स्वादिष्ट लगती है।",
+  "category": "Latest Recipe",
+  "isVegetarian": true,
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "prepTime": "10 mins",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cookTime": "10 mins",
+  "cook_time_en": "10 mins",
+  "cook_time_hi": "10 मिनट",
+  "servings": "4 servings",
+  "servings_en": "4 servings",
+  "servings_hi": "4 सर्विंग्स",
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "youtube_id": "xbhi-2mcuzc",
+  "youtubeId": "xbhi-2mcuzc",
+  "youtube_url": "https://www.youtube.com/watch?v=xbhi-2mcuzc",
+  "author": "HomeCookingShow",
+  "image_url": "/static/images/xbhi-2mcuzc.jpg",
+  "tags": [
+    "Palak Pachadi",
+    "Andhra Cuisine",
+    "Spinach Chutney",
+    "Side Dish",
+    "Spicy Chutney",
+    "Vegetarian",
+    "HomeCookingShow"
+  ],
+  "ingredients_en": [
+    "1 large bunch Fresh Spinach / Palak (washed and chopped)",
+    "2 tbsp Sesame Oil or Peanut Oil",
+    "1 tbsp Chana Dal & 1 tbsp Urad Dal",
+    "1 tsp Coriander Seeds & 1/2 tsp Cumin Seeds",
+    "8-10 Green Chillies (adjust to spice level)",
+    "5 cloves Garlic",
+    "Small piece of Tamarind (marble-sized)",
+    "1/4 tsp Turmeric Powder",
+    "Salt to taste",
+    "For Tadka: 1 tsp Mustard Seeds, 1 Dry Red Chilli, pinch of Hing, fresh Curry Leaves"
+  ],
+  "ingredients_hi": [
+    "1 बड़ी गड्डी ताजा पालक (धोकर कटी हुई)",
+    "2 बड़े चम्मच तिल का तेल या मूंगफली का तेल",
+    "1 बड़ा चम्मच चना दाल व 1 बड़ा चम्मच उड़द दाल",
+    "1 छोटा चम्मच साबुत धनिया व 1/2 छोटा चम्मच जीरा",
+    "8-10 हरी मिर्च (तीखेपन अनुसार)",
+    "5 कलियां लहसुन",
+    "छोटा टुकड़ा इमली (नींबू के आकार का)",
+    "1/4 छोटा चम्मच हल्दी पाउडर",
+    "स्वादानुसार नमक",
+    "तड़के के लिए: 1 छोटा चम्मच राई, 1 सूखी लाल मिर्च, चुटकी भर हींग, कढ़ी पत्ता"
+  ],
+  "instructions_en": [
+    "Heat 1 tbsp oil in a pan. Roast chana dal, urad dal, coriander seeds, cumin seeds, garlic, and green chillies until golden and aromatic. Transfer to a plate to cool.",
+    "In the same pan, add chopped palak and tamarind piece. Cook on medium heat for 3–4 minutes until spinach wilts completely and excess water evaporates.",
+    "Let the roasted dal mixture and cooked spinach cool down to room temperature.",
+    "In a mixer grinder, first grind the roasted lentils, chillies, garlic, and salt coarsely.",
+    "Add the cooked spinach and tamarind; pulse a few times to get a coarse, thick rustic pachadi texture. Do not add excess water.",
+    "Heat remaining 1 tbsp oil in a tadka pan. Splutter mustard seeds, dried red chilli, hing, and curry leaves.",
+    "Pour hot sizzling tempering over the palak pachadi and mix. Serve with hot steamed rice and ghee."
+  ],
+  "instructions_hi": [
+    "कड़ाही में 1 चम्मच तेल गरम करें। चना दाल, उड़द दाल, साबुत धनिया, जीरा, लहसुन और हरी मिर्च को सुनहरा और खुशबूदार होने तक भूनें। ठंडा होने दें।",
+    "उसी कड़ाही में कटा हुआ पालक और इमली का टुकड़ा डालें। 3-4 मिनट मध्यम आंच पर पकाएं जब तक कि पालक गल न जाए और पानी सूख जाए।",
+    "पालक और भुनी दालों के मिश्रण को पूरी तरह ठंडा होने दें।",
+    "मिक्सर जार में पहले भुनी दालें, मिर्च, लहसुन और नमक डालकर दरदरा पीसें।",
+    "अब उबला हुआ पालक व इमली डालें और 2-3 पल्स देकर दरदरा पीस लें। ज्यादा पानी बिल्कुल न डालें।",
+    "तड़का पैन में 1 चम्मच तेल गरम करें। राई, सूखी लाल मिर्च, हींग और कढ़ी पत्ता चटकाएं।",
+    "गरमा-गरम तड़का पालक पचड़ी के ऊपर डालें। गरमा-गरम भात (चावल) और शुद्ध घी के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "Grinding the pachadi coarsely using pulse mode gives the traditional mortar-pestle stone-ground texture.",
+    "Tamarind balances the earthy iron profile of spinach, providing quintessential Andhra tang."
+  ],
+  "chef_tips_hi": [
+    "पचड़ी को हमेशा दरदरा पीसें, मिक्सी को पल्स पर चलाएं ताकि सिलबट्टे जैसा पारंपरिक टेक्सचर मिले।",
+    "इमली पालक के कसेलेपन को संतुलित करके शानदार खट्टा-तीखा स्वाद देती है।"
+  ]
+}

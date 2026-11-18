@@ -1,0 +1,160 @@
+{
+  "id": "crispy-rice-flour-masala-vada",
+  "title_en": "Instant Crispy Rice Flour Masala Vada",
+  "title_hi": "इडली-डोसा से भी आसान - 10 मिनट में चावल के आटे का कुरकुरा मसाला वड़ा",
+  "title": {
+    "en": "Instant Crispy Rice Flour Masala Vada",
+    "hi": "इडली-डोसा से भी आसान - 10 मिनट में चावल के आटे का कुरकुरा मसाला वड़ा"
+  },
+  "description_en": "An instant, no-fermentation South-Indian style crispy snack by Kitchen Magic by Vanisha when you crave idli or dosa without the long prep. Fragrant rice flour and mashed potatoes kneaded with white sesame, curry leaves, cumin, and spices, fried to a crackly golden crisp.",
+  "description_hi": "किचन मैजिक बाय वनिषा की बिना दाल भिगोए और बिना किसी फर्मेंटेशन के सिर्फ 10 मिनट में बनने वाली सुपर क्रिस्पी नाश्ता रेसिपी। चावल के आटे और आलू के मिश्रण को सफेद तिल, करी पत्ता और खड़े मसालों के साथ गूंधकर बनाए गए कुरकुरे मसाला वड़े।",
+  "description": {
+    "en": "An instant, no-fermentation South-Indian style crispy snack by Kitchen Magic by Vanisha when you are craving idli or dosa without the long prep. Fragrant rice flour and mashed potatoes kneaded with white sesame, curry leaves, cumin, and spices, fried to a crackly golden crisp.",
+    "hi": "किचन मैजिक बाय वनिषा की बिना दाल भिगोए और बिना किसी फर्मेंटेशन के सिर्फ 10 मिनट में बनने वाली सुपर क्रिस्पी नाश्ता रेसिपी। चावल के आटे और आलू के मिश्रण को सफेद तिल, करी पत्ता और खड़े मसालों के साथ गूंधकर बनाए गए कुरकुरे मसाला वड़े।"
+  },
+  "category": "Breakfast",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "5 mins",
+  "prep_time_hi": "5 मिनट",
+  "cook_time_en": "10 mins",
+  "cook_time_hi": "10 मिनट",
+  "prepTime": "5 mins",
+  "cookTime": "10 mins",
+  "servings_en": "3-4 Servings (8-10 Vadas)",
+  "servings_hi": "3-4 लोग (8-10 वड़े)",
+  "servings": "3-4 Servings (8-10 Vadas)",
+  "youtube_id": "oU_RZonA1yE",
+  "youtubeId": "oU_RZonA1yE",
+  "youtube_url": "https://www.youtube.com/watch?v=oU_RZonA1yE",
+  "image_url": "https://img.youtube.com/vi/oU_RZonA1yE/hqdefault.jpg",
+  "tags": [
+    "rice flour snack",
+    "chawal ka nashta",
+    "masala vada",
+    "kitchen magic by vanisha",
+    "crispy breakfast",
+    "instant snacks",
+    "tea time snack"
+  ],
+  "ingredients_en": [
+    "1 cup Rice flour (chawal ka atta)",
+    "2 Medium Potatoes (boiled, peeled, and mashed smooth)",
+    "1 tbsp White sesame seeds (safed til, for nutty crunch)",
+    "1 tsp Cumin seeds (jeera)",
+    "1/2 tsp Carom seeds (ajwain, rubbed between palms)",
+    "1 pinch Asafoetida (hing)",
+    "1 inch Ginger (finely grated) & 2 Green chillies (minced)",
+    "8-10 Fresh curry leaves (finely chopped)",
+    "1/4 cup Fresh coriander leaves (finely chopped)",
+    "1 tsp Red chilli flakes or chilli powder",
+    "1/4 tsp Turmeric powder (haldi)",
+    "1/2 tsp Chaat masala or Amchur powder",
+    "1 tsp Salt (or to taste)",
+    "2-3 tbsp Warm water (only as needed to bring dough together)",
+    "Oil for shallow or deep frying"
+  ],
+  "ingredients_hi": [
+    "1 कप चावल का आटा",
+    "2 मध्यम आलू (उबले, छीले और बिना गांठ के बारीक मैश किए)",
+    "1 बड़ा चम्मच सफेद तिल (कुरकुरे नटी स्वाद के लिए)",
+    "1 छोटा चम्मच जीरा",
+    "1/2 छोटा चम्मच अजवायन (हाथ से मसलकर)",
+    "1 चुटकी हींग",
+    "1 इंच अदरक (कद्दूकस किया) और 2 हरी मिर्च (बारीक कटी)",
+    "8-10 ताज़ा करी पत्ते (बारीक कटे हुए)",
+    "1/4 कप ताज़ा हरा धनिया (बारीक कटा हुआ)",
+    "1 छोटा चम्मच कुटी लाल मिर्च (चिली फ्लेक्स)",
+    "1/4 छोटा चम्मच हल्दी पाउडर",
+    "1/2 छोटा चम्मच चाट मसाला या अमचूर",
+    "1 छोटा चम्मच नमक (स्वादानुसार)",
+    "2-3 बड़ा चम्मच गुनगुना पानी (सिर्फ ज़रूरत अनुसार आटा बांधने के लिए)",
+    "तलने के लिए तेल"
+  ],
+  "ingredients": [
+    {
+      "category": "Rice Flour & Potato Dough",
+      "items": [
+        { "en": "1 cup Rice flour (chawal ka atta)", "hi": "1 कप चावल का आटा" },
+        { "en": "2 Boiled potatoes (smoothly mashed)", "hi": "2 उबले आलू (बारीक मैश किए)" },
+        { "en": "1 tbsp White sesame seeds (safed til)", "hi": "1 बड़ा चम्मच सफेद तिल" },
+        { "en": "Jeera, Ajwain, Hing & Salt", "hi": "जीरा, अजवायन, हींग और नमक" }
+      ]
+    },
+    {
+      "category": "Aromatics & Seasonings",
+      "items": [
+        { "en": "Chopped Curry leaves, Coriander & Green chillies", "hi": "करी पत्ता, हरा धनिया और हरी मिर्च" },
+        { "en": "Grated Ginger, Chilli flakes & Chaat masala", "hi": "अदरक, चिली फ्लेक्स और चाट मसाला" }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Step 1 - Mix Dry Spices & Rice Flour: In a wide mixing bowl, take 1 cup of fine rice flour. Add cumin seeds, ajwain, white sesame seeds, hing, chilli flakes, turmeric powder, chaat masala, and salt. Mix well so the aromatics are evenly distributed.",
+    "Step 2 - Knead with Potatoes: Add the boiled and smoothly mashed potatoes, grated ginger, minced green chillies, chopped curry leaves, and fresh coriander into the flour. Rub and knead with your hands. The natural starch and moisture of the boiled potatoes will bind the rice flour. If needed, sprinkle just 1 to 2 tablespoons of warm water to bring it together into a smooth, pliable, non-sticky dough.",
+    "Step 3 - Shape the Masala Vadas: Grease your hands with a few drops of oil. Divide the dough into 8 to 10 equal lemon-sized balls. Roll each ball smooth, then flatten gently between your palms into a 1/2-inch thick round disc (like a medu vada or tikki). Smooth the edges with your fingers so there are no rough cracks.",
+    "Step 4 - Heat the Oil: Heat cooking oil in a flat pan or kadai over medium flame. The oil should be moderately hot (test with a small piece of dough; it should rise gently with steady bubbles).",
+    "Step 5 - Fry to Crackly Crispness: Slide the shaped vadas into the hot oil in a single layer. Fry on medium flame for 3 to 4 minutes without disturbing until the bottom turns firm and golden. Flip with a spatula and fry the second side for 2 to 3 minutes.",
+    "Step 6 - Golden Finish: Because of the rice flour and sesame seeds, the crust will develop a shatter-crisp, crackly golden exterior while keeping the potato center moist and savory. Drain on paper towels.",
+    "Step 7 - Serve: Serve hot and crunchy with tomato ketchup, fresh coconut chutney, or a piping hot cup of filter coffee or tea."
+  ],
+  "instructions_hi": [
+    "स्टेप 1 - चावल के आटे में मसाले मिलाना: एक बड़े बर्तन में 1 कप चावल का आटा लें। इसमें जीरा, अजवायन, सफेद तिल, हींग, चिली फ्लेक्स, हल्दी पाउडर, चाट मसाला और स्वादानुसार नमक डालकर अच्छी तरह मिला लें।",
+    "स्टेप 2 - आलू के साथ आटा गूंधना: अब इसमें उबले व मैश किए हुए आलू, कद्दूकस अदरक, कटी हरी मिर्च, बारीक कटे करी पत्ते और हरा धनिया डालें। हाथों से अच्छी तरह मसलते हुए गूंधें। आलू की नमी से ही चावल का आटा आसानी से बंध जाता है। ज़रूरत लगे तो केवल 1-2 चम्मच गुनगुना पानी छिड़कें और चिकना, न टूटने वाला डो तैयार कर लें।",
+    "स्टेप 3 - वड़े का आकार देना: हथेलियों पर थोड़ा सा तेल लगाएं। डो की 8 से 10 बराबर लोइयां बनाएं। हर लोई को गोल घुमाकर हथेली से हल्का दबाएं और आधा इंच मोटाई का गोल वड़ा (टिक्की) बना लें। किनारों को उंगलियों से चिकना कर लें।",
+    "स्टेप 4 - तेल गरम करना: कड़ाही या पैन में तेल मध्यम आंच पर गरम करें। तेल मध्यम गरम होना चाहिए (ज्यादा खौलता हुआ नहीं)।",
+    "स्टेप 5 - कुरकुरा तलना: वड़ों को तेल में डालें। मध्यम आंच पर 3 से 4 मिनट तक बिना छेड़े सिकने दें जब तक नीचे से सुनहरे और सख्त न हो जाएं। पलटकर दूसरी तरफ भी 2-3 मिनट सुनहरा होने तक सेकें।",
+    "स्टेप 6 - जादुई क्रंच: चावल के आटे और सफेद तिल की वजह से बाहर की परत बिल्कुल बिस्कुट जैसी कुरकुरी और खस्ता बनेगी और अंदर से आलू एकदम रसीला रहेगा। टिशू पेपर पर निकाल लें।",
+    "स्टेप 7 - परोसें: गरमा-गरम कुरकुरे मसाला वड़ों को टोमैटो केचप या नारियल की चटनी और चाय के साथ 10 मिनट में परोसें।"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": {
+        "en": "Combine rice flour, white sesame seeds, cumin, ajwain, hing, chilli flakes, turmeric, and salt.",
+        "hi": "चावल के आटे में सफेद तिल, जीरा, अजवायन, हींग, चिली फ्लेक्स, हल्दी और नमक मिलाएं।"
+      }
+    },
+    {
+      "step": 2,
+      "text": {
+        "en": "Knead with boiled mashed potatoes, ginger, chillies, curry leaves, and coriander into a smooth pliable dough.",
+        "hi": "उबले मैश आलू, अदरक, हरी मिर्च, करी पत्ता और हरा धनिया डालकर चिकना डो गूंथें।"
+      }
+    },
+    {
+      "step": 3,
+      "text": {
+        "en": "Divide into lemon-sized balls and flatten between greased palms into 1/2-inch thick round discs.",
+        "hi": "नींबू जितनी लोइयां बनाकर चिकनी हथेलियों से आधा इंच मोटी गोल टिक्कियां बनाएं।"
+      }
+    },
+    {
+      "step": 4,
+      "text": {
+        "en": "Shallow or deep fry on medium flame for 3-4 mins per side until golden-brown and crackly crisp.",
+        "hi": "मध्यम तेल में दोनों तरफ से 3-4 मिनट सुनहरा और कुरकुरा होने तक तलें।"
+      }
+    },
+    {
+      "step": 5,
+      "text": {
+        "en": "Drain and serve piping hot with tomato ketchup or coconut chutney.",
+        "hi": "निकालें और टोमैटो केचप या नारियल चटनी के साथ गरमा-गरम परोसें।"
+      }
+    }
+  ],
+  "chef_tips_en": [
+    "Rice Flour Crunch Factor: Rice flour creates a brittle, long-lasting glass-like crunch that does not turn soggy even after cooling, unlike all-purpose flour.",
+    "Potatoes Provide Binder: Rice flour lacks gluten and would normally crack when shaped; boiled potatoes provide natural starch binding so the dough rolls and flattens without splitting.",
+    "White Sesame Aroma: White sesame seeds toast in the oil, embedding fragrant nutty pockets across the surface of every bite."
+  ],
+  "chef_tips_hi": [
+    "चावल के आटे का क्रंच: चावल का आटा वड़े को घंटों तक कुरकुरा बनाए रखता है और ठंडा होने के बाद भी यह नरम या गीला नहीं पड़ता।",
+    "आलू से बाइंडिंग: चावल के आटे में ग्लूटेन नहीं होता जिससे वह बिखर सकता है; उबला आलू उसमें प्राकृतिक बाइंडिंग देता है जिससे वड़े बिना फटे आसानी से बन जाते हैं।",
+    "सफेद तिल का स्वाद: तेल में सिकने पर सफेद तिल भुन जाते हैं और वड़े के ऊपर बेहद खुशबूदार और क्रंची स्वाद देते हैं।"
+  ]
+}

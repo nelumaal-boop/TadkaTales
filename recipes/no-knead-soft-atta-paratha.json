@@ -1,0 +1,153 @@
+{
+  "id": "no-knead-soft-atta-paratha",
+  "title_en": "No-Knead Soft Atta-Suji Liquid Dough Paratha",
+  "title_hi": "ना आटा गूंथना ना बेलना - गेहूं के आटे का सुपर सॉफ्ट लिक्विड पराठा",
+  "title": {
+    "en": "No-Knead Soft Atta-Suji Liquid Dough Paratha",
+    "hi": "ना आटा गूंथना ना बेलना - गेहूं के आटे का सुपर सॉफ्ट लिक्विड पराठा"
+  },
+  "description_en": "A zero-effort, no-knead, no-roll breakfast recipe by Kitchen Magic by Vanisha. Whisk wholesome whole wheat flour and semolina into a pourable liquid dough with mild spices and fresh herbs, pour onto a hot pan, and watch them puff into cloud-soft, golden parathas that stay tender for hours.",
+  "description_hi": "किचन मैजिक बाय वनिषा की बिना आटा गूंथे और बिना बेले बनने वाली सुपर आसान और हेल्दी नाश्ता रेसिपी। गेहूं के आटे और सूजी के घोल को तवे पर डालकर मिनटों में तैयार करें रुई जैसे मुलायम, फूले-फूले और बेहद स्वादिष्ट पराठे जो घंटों तक एकदम सॉफ्ट रहते हैं।",
+  "description": {
+    "en": "A zero-effort, no-knead, no-roll breakfast recipe by Kitchen Magic by Vanisha. Whisk wholesome whole wheat flour and semolina into a pourable liquid dough with mild spices and fresh herbs, pour onto a hot pan, and watch them puff into cloud-soft, golden parathas that stay tender for hours.",
+    "hi": "किचन मैजिक बाय वनिषा की बिना आटा गूंथे और बिना बेले बनने वाली सुपर आसान और हेल्दी नाश्ता रेसिपी। गेहूं के आटे और सूजी के घोल को तवे पर डालकर मिनटों में तैयार करें रुई जैसे मुलायम, फूले-फूले और बेहद स्वादिष्ट पराठे जो घंटों तक एकदम सॉफ्ट रहते हैं।"
+  },
+  "category": "Breakfast",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "5 mins",
+  "prep_time_hi": "5 मिनट",
+  "cook_time_en": "10 mins",
+  "cook_time_hi": "10 मिनट",
+  "prepTime": "5 mins",
+  "cookTime": "10 mins",
+  "servings_en": "3-4 Servings (5-6 Soft Parathas)",
+  "servings_hi": "3-4 लोग (5-6 सॉफ्ट पराठे)",
+  "servings": "3-4 Servings (5-6 Soft Parathas)",
+  "youtube_id": "gFXYCf0bzIg",
+  "youtubeId": "gFXYCf0bzIg",
+  "youtube_url": "https://www.youtube.com/watch?v=gFXYCf0bzIg",
+  "image_url": "https://img.youtube.com/vi/gFXYCf0bzIg/hqdefault.jpg",
+  "tags": [
+    "liquid dough paratha",
+    "no knead paratha",
+    "atta breakfast",
+    "kitchen magic by vanisha",
+    "quick breakfast",
+    "kids tiffin",
+    "soft paratha"
+  ],
+  "ingredients_en": [
+    "1 cup Whole wheat flour (gehun ka atta)",
+    "3 tbsp Fine semolina (sooji / rava, gives structure and prevent stickiness)",
+    "1.5 cups Water (adjust gradually for smooth pouring consistency)",
+    "1 tsp Cooking oil or melted ghee (whisked into batter for tenderness)",
+    "1/2 tsp Cumin seeds (jeera) or carom seeds (ajwain)",
+    "1/2 tsp Red chilli flakes (kuti lal mirch)",
+    "1 pinch Turmeric powder (haldi, for warm golden color)",
+    "1/4 tsp Freshly cracked black pepper",
+    "1/2 tsp Garam masala powder",
+    "1 tsp Salt (or to taste)",
+    "1/4 cup Fresh coriander leaves (finely chopped)",
+    "1 Green chilli (finely minced, optional for kids)",
+    "Ghee or Butter for pan toasting"
+  ],
+  "ingredients_hi": [
+    "1 कप गेहूं का आटा",
+    "3 बड़ा चम्मच बारीक सूजी (रवा, बनावट और हल्केपन के लिए)",
+    "1.5 कप पानी (चिकना धारदार घोल बनाने के लिए)",
+    "1 छोटा चम्मच तेल या पिघला घी (घोल में सॉफ्टनेस के लिए)",
+    "1/2 छोटा चम्मच जीरा या अजवायन",
+    "1/2 छोटा चम्मच कुटी लाल मिर्च (चिली फ्लेक्स)",
+    "1 चुटकी हल्दी पाउडर (सुनहरे रंग के लिए)",
+    "1/4 छोटा चम्मच पिसी काली मिर्च",
+    "1/2 छोटा चम्मच गरम मसाला",
+    "1 छोटा चम्मच नमक (स्वादानुसार)",
+    "1/4 कप ताज़ा हरा धनिया (बारीक कटा हुआ)",
+    "1 हरी मिर्च (बारीक कटी हुई, स्वादानुसार)",
+    "पराठा सेकने के लिए देसी घी या मक्खन"
+  ],
+  "ingredients": [
+    {
+      "category": "Liquid Atta-Suji Batter",
+      "items": [
+        { "en": "1 cup Whole wheat flour & 3 tbsp Suji", "hi": "1 कप गेहूं का आटा और 3 चम्मच सूजी" },
+        { "en": "1.5 cups Water & 1 tsp Oil", "hi": "1.5 कप पानी और 1 चम्मच तेल" },
+        { "en": "Jeera, Haldi, Chilli flakes & Salt", "hi": "जीरा, हल्दी, चिली फ्लेक्स और नमक" },
+        { "en": "Fresh chopped coriander leaves & Green chilli", "hi": "हरा धनिया और बारीक कटी हरी मिर्च" }
+      ]
+    },
+    {
+      "category": "Pan Toasting",
+      "items": [
+        { "en": "Desi Ghee or Butter for brushing", "hi": "सेकने के लिए देसी घी या मक्खन" }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Step 1 - Whisk the Liquid Dough: In a large mixing bowl, combine whole wheat flour, fine semolina (suji), cumin seeds, chilli flakes, turmeric powder, black pepper, garam masala, salt, and 1 tsp oil. Pour in 1.5 cups of water in batches while whisking briskly with a wire whisk. Whisk for 2 minutes into a completely smooth, silky, lump-free pouring batter (slightly thicker than dosa batter, similar to pancake batter).",
+    "Step 2 - Fold in Fresh Herbs: Stir in finely chopped fresh coriander leaves and minced green chilli. Let the batter rest covered for 5 minutes so the semolina absorbs moisture and plumps up.",
+    "Step 3 - Pour on Tawa: Heat a non-stick or cast iron flat tawa on medium flame. Lightly grease with a few drops of oil and wipe off excess with a paper towel. Pour a generous ladleful (approx. 1/3 cup) of batter into the center. Tilt the pan or gently spread with the back of the ladle into a smooth 6-inch round circle.",
+    "Step 4 - Cover to Steam: Cover the pan with a lid and cook on medium flame for 60 to 90 seconds. The steam trapped under the lid cooks the liquid flour through rapidly, causing the top surface to set and turn matte with tiny air bubbles.",
+    "Step 5 - Flip & Toast with Ghee: Remove lid. Brush 1/2 tsp desi ghee or butter on the top surface. Flip the paratha over. The underside will be speckled with golden-brown spots. Press gently with a soft spatula around the circumference—the paratha will puff up softly like a cushion. Cook the second side for 1 minute.",
+    "Step 6 - Serve: Transfer to a plate. Repeat with remaining batter. These liquid dough parathas fold effortlessly without breaking and remain pillow-soft even after cooling. Serve hot with fresh curd, pickle, tea, or your favorite chutney."
+  ],
+  "instructions_hi": [
+    "स्टेप 1 - लिक्विड डो तैयार करना: एक बड़े बाउल में गेहूं का आटा, बारीक सूजी, जीरा, चिली फ्लेक्स, हल्दी, काली मिर्च, गरम मसाला, नमक और 1 छोटा चम्मच तेल लें। अब विस्क (फेंटनी) से चलाते हुए थोड़ा-थोड़ा करके 1.5 कप पानी डालें। 2 मिनट अच्छी तरह फेंटें ताकि एक भी गांठ न रहे और डोसा जैसा चिकना, धारदार गिरने वाला घोल तैयार हो जाए।",
+    "स्टेप 2 - हरा धनिया मिलाना और रेस्ट: बारीक कटा हरा धनिया और हरी मिर्च मिलाएं। 5 मिनट ढककर रखें ताकि सूजी पानी सोख ले और बैटर सेट हो जाए।",
+    "स्टेप 3 - तवे पर फैलाना: तवे को मध्यम आंच पर गरम करें। हल्का सा तेल लगाकर टिशू से पोंछ लें। एक बड़ा चमचा भरकर बैटर तवे के बीच में डालें और चमचे के पिछले हिस्से से या तवे को घुमाकर गोल पराठे का आकार दें।",
+    "स्टेप 4 - ढक्कन लगाकर पकाना: तवे को ढक्कन से ढक दें और मध्यम आंच पर 1 से 1.5 मिनट पकने दें। भाप की वजह से ऊपर की परत जल्दी सूख जाएगी और उसमें छोटे-छोटे बबल्स आ जाएंगे।",
+    "स्टेप 5 - घी लगाकर फुलाना: ढक्कन हटाएं। ऊपर की तरफ थोड़ा सा देसी घी या मक्खन लगाएं और पलट दें। नीचे की तरफ सुंदर सुनहरी चित्ती आ चुकी होगी। स्पैटुला से किनारों को हल्का-हल्का दबाएं—पराठा बिल्कुल गुब्बारे की तरह फूल जाएगा! दूसरी तरफ भी 1 मिनट सेकें।",
+    "स्टेप 6 - परोसें: प्लेट में निकालें। इसी तरह बाकी सारे पराठे तैयार करें। यह पराठे इतने मुलायम बनते हैं कि मुंह में जाते ही घुल जाते हैं और ठंडे होने पर भी रुई जैसे सॉफ्ट रहते हैं। इन्हें दही, अचार, चटनी या सुबह की चाय के साथ परोसें।"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": {
+        "en": "Whisk wheat flour, sooji, cumin, chilli flakes, turmeric, salt, oil, and water into a smooth, silky pouring batter.",
+        "hi": "गेहूं का आटा, सूजी, जीरा, चिली फ्लेक्स, हल्दी, नमक, तेल और पानी मिलाकर चिकना घोल बनाएं।"
+      }
+    },
+    {
+      "step": 2,
+      "text": {
+        "en": "Stir in fresh coriander and green chillies. Rest covered for 5 minutes so semolina hydrates.",
+        "hi": "हरा धनिया और हरी मिर्च मिलाएं और सूजी फूलने के लिए 5 मिनट ढककर रखें।"
+      }
+    },
+    {
+      "step": 3,
+      "text": {
+        "en": "Pour ladleful of batter onto medium-hot greased tawa and spread gently into a round circle.",
+        "hi": "हल्के चिकने तवे पर चमचे से बैटर डालें और गोल पराठे जैसा फैलाएं।"
+      }
+    },
+    {
+      "step": 4,
+      "text": {
+        "en": "Cover with lid for 60-90 seconds until top sets matte with micro air pockets.",
+        "hi": "ढक्कन लगाकर 1 से 1.5 मिनट भाप में पकने दें जब तक ऊपर की सतह सूख न जाए।"
+      }
+    },
+    {
+      "step": 5,
+      "text": {
+        "en": "Brush with ghee, flip, and press edges lightly so it puffs up golden and tender. Serve warm with curd or pickle.",
+        "hi": "घी लगाकर पलटें और स्पैटुला से दबाकर फुलाएं। दही या अचार के साथ गरमा-गरम परोसें।"
+      }
+    }
+  ],
+  "chef_tips_en": [
+    "Suji Prevents Chewy Gumminess: Pure whole wheat flour in liquid batters can sometimes feel pasty or sticky in the center. Adding 3 tablespoons of fine semolina (sooji) breaks the gluten matrix, yielding a soft, velvety, easily digestible crumb.",
+    "Lid Steaming Step: Covering the pan for the first 60 seconds is the secret to fast, even cooking. The steam cooks the raw flour from the top while the base crisps up below.",
+    "Tiffin-Perfect Softness: Traditional parathas often turn tough when packed in school or office lunchboxes. These liquid dough parathas stay damp and pillow-soft all day long."
+  ],
+  "chef_tips_hi": [
+    "सूजी का महत्व: सिर्फ गेहूं के आटे का घोल अंदर से थोड़ा चिपचिपा रह सकता है। 3 चम्मच बारीक सूजी मिलाने से पराठे में खिंचाव नहीं आता और टेक्सचर बिल्कुल हल्का और स्पंजी बनता है।",
+    "ढक्कन लगाना जरूरी: पहले 1 मिनट ढक्कन लगाने से भाप में आटा ऊपर से भी तुरंत पक जाता है और पलटने पर पराठा फटता नहीं है।",
+    "टिफिन के लिए बेस्ट: सामान्य पराठे ठंडे होने पर कड़े हो जाते हैं, लेकिन यह लिक्विड डो पराठे शाम तक रुई जैसे मुलायम बने रहते हैं।"
+  ]
+}

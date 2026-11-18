@@ -1,0 +1,285 @@
+{
+  "id": "healthy-alsi-flaxseed-laddu",
+  "title": {
+    "en": "Winter Immunity Flaxseed Laddus (Alsi ke Pinni Laddu)",
+    "hi": "सर्दियों के सेहतमंद अलसी के लड्डू (बिना चीनी)"
+  },
+  "description": {
+    "en": "Traditional Ayurvedic winter remedy for joint pain, backache, and immunity! Made completely sugar-free with roasted omega-3 rich flax seeds (alsi), oats, makhana, crunchy nuts, organic jaggery, desi ghee, and warming saunth-kali mirch spices.",
+    "hi": "जोड़ों के दर्द, कमर दर्द और सर्दियों की कमजोरी को दूर भगाने वाले सेहतमंद अलसी के लड्डू! बिना सफेद चीनी के—ओमेगा-3 से भरपूर भुनी अलसी, ओट्स, मखाना, मेवे, देसी घी, सोंठ और काली मिर्च के साथ तैयार पौष्टिक पिनियां।"
+  },
+  "category": "Desserts",
+  "isVegetarian": true,
+  "prepTime": "15 mins",
+  "cookTime": "20 mins",
+  "servings": "13-14 laddus",
+  "youtubeId": "bv8GhJsomIQ",
+  "author": "Bharatzkitchen Hindi",
+  "ingredients": [
+    {
+      "category": {
+        "en": "Healthy Seeds & Grain Base",
+        "hi": "अलसी और ओट्स बेस"
+      },
+      "items": [
+        {
+          "en": "Flax Seeds (Alsi) - 250g (dry-roasted till popping, cooled & coarsely ground)",
+          "hi": "अलसी के बीज - 250 ग्राम (चटकने तक भुनी और दरदरी पिसी हुई)"
+        },
+        {
+          "en": "Rolled Oats - 35g (1/4 cup, roasted & ground into flour)",
+          "hi": "रोल्ड ओट्स - 35 ग्राम (1/4 कप, भूनकर पिसा हुआ आटा)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Roasted Nuts & Makhana",
+        "hi": "भुने मेवे और मखाने"
+      },
+      "items": [
+        {
+          "en": "Desi Ghee (for roasting dry fruits) - 1 tbsp",
+          "hi": "देसी घी (मेवे भूनने के लिए) - 1 बड़ा चम्मच"
+        },
+        {
+          "en": "Almonds (Badam) - 40g (1/4 cup)",
+          "hi": "बादाम - 40 ग्राम (1/4 कप)"
+        },
+        {
+          "en": "Cashews (Kaju) - 30g (1/4 cup)",
+          "hi": "काजू - 30 ग्राम (1/4 कप)"
+        },
+        {
+          "en": "Walnuts (Akhrot) - 15g (1/8 cup, rich in brain omega-3)",
+          "hi": "अखरोट - 15 ग्राम (1/8 कप)"
+        },
+        {
+          "en": "Foxnuts (Makhana) - 20g (1/2 cup, roasted crisp & pulsed)",
+          "hi": "मखाना - 20 ग्राम (1/2 कप, कुरकुरा भूनकर दरदरा पिसा)"
+        },
+        {
+          "en": "Desiccated Coconut (Nariyal Burada) - 20g (1/4 cup, lightly toasted)",
+          "hi": "नारियल का बुरादा - 20 ग्राम (1/4 कप, हल्का भुना)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Ayurvedic Warming Spices",
+        "hi": "आयुर्वेदिक गर्माहट देने वाले मसाले"
+      },
+      "items": [
+        {
+          "en": "Dry Ginger Powder (Saunth) - 1/2 tsp (warming for joints)",
+          "hi": "सोंठ पाउडर (अदरक का सोंठ) - 1/2 छोटा चम्मच (जोड़ों की जकड़न दूर करने हेतु)"
+        },
+        {
+          "en": "Black Pepper Powder (Kali Mirch) - 1 tsp (improves nutrient absorption)",
+          "hi": "काली मिर्च पाउडर - 1 छोटा चम्मच (पोषक तत्व सोखने के लिए)"
+        },
+        {
+          "en": "Cinnamon Powder (Dalchini) - 1/2 tsp",
+          "hi": "दालचीनी पाउडर - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Green Cardamom Powder (Elaichi) - 1 tsp (freshly ground)",
+          "hi": "हरी इलायची पाउडर - 1 छोटा चम्मच"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Natural Sweetener & Binding",
+        "hi": "प्राकृतिक मिठास और बाइंडिंग"
+      },
+      "items": [
+        {
+          "en": "Pure Organic Jaggery Powder (Gud Powder) - 200g (refined sugar-free)",
+          "hi": "शुद्ध गुड़ पाउडर - 200 ग्राम (बिना किसी चीनी के)"
+        },
+        {
+          "en": "Pure Desi Cow Ghee (for binding) - 1/2 cup (melted warm)",
+          "hi": "देसी गाय का घी (लड्डू बांधने हेतु) - 1/2 कप (हल्का गुनगुना पिघला हुआ)"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": {
+        "en": "Dry-Roasting & Grinding Flax Seeds (Alsi)",
+        "hi": "अलसी को भूनना और पीसना"
+      },
+      "text": {
+        "en": "Heat a heavy dry kadhai on medium-low flame. Add 250g flax seeds. Roast steadily for 4-5 minutes, stirring continuously as they begin crackling, popping, and releasing an intoxicating nutty fragrance. Do not burn. Transfer onto a wide plate to cool completely. Once cool, pulse in a mixer grinder into a semi-coarse powder (do not over-grind on continuous high speed, or the seeds will release oil and turn pasty).",
+        "hi": "भारी कड़ाही में धीमी-मध्यम आंच पर 250 ग्राम अलसी डालें। लगातार चलाते हुए 4-5 मिनट भूनें जब तक कि दाने चटकने न लगें और सोंधी खुशबू न आने लगे। प्लेट में निकालकर ठंडा करें। मिक्सी में रुक-रुक कर दरदरा पीस लें (लगातार तेज न चलाएं वरना अलसी से तेल निकलकर पेस्ट बन जाएगा)।"
+      }
+    },
+    {
+      "step": 2,
+      "title": {
+        "en": "Roasting Oats for Balance",
+        "hi": "ओट्स को भूनकर पाउडर बनाना"
+      },
+      "text": {
+        "en": "In the same dry pan, toast 35g rolled oats for 2-3 minutes on low flame until crisp and fragrant. Let cool, then grind in the mixer into a fine flour. The oats temper the natural mucilage (gel) of flax seeds and provide a pleasant melt-in-mouth binding.",
+        "hi": "उसी सूखे पैन में 35 ग्राम रोल्ड ओट्स को 2-3 मिनट धीमी आंच पर कुरकुरा होने तक भूनें। ठंडा करके मिक्सी में महीन पीस लें। ओट्स अलसी के चिपचिपेपन को संतुलित करते हैं और लड्डू को मुंह में घुलने वाला टेक्सचर देते हैं।"
+      }
+    },
+    {
+      "step": 3,
+      "title": {
+        "en": "Ghee Roasting Nuts & Foxnuts (Makhana)",
+        "hi": "घी में मेवे और मखाना भूनना"
+      },
+      "text": {
+        "en": "Heat 1 tbsp desi ghee in the pan on low flame. Add almonds, walnuts, and cashews; roast until golden and aromatic, then transfer to a plate. In the remaining ghee, add makhanas and roast until shatteringly crisp when crushed between fingers. In the warm dry pan, toast desiccated coconut on lowest heat for 1 minute until fragrant. Once cooled, pulse the roasted nuts and makhana in the mixer into coarse, crunchy rubble.",
+        "hi": "पैन में 1 चम्मच देसी घी गर्म करें। बादाम, अखरोट और काजू डालकर धीमी आंच पर सुनहरा होने तक भूनकर निकालें। बचे हुए घी में मखाने डालकर कुरकुरे होने तक भूनें। गैस बंद करके पैन में नारियल का बुरादा 1 मिनट हल्का सेकें। ठंडा होने पर मेवे और मखाने को मिक्सी में दरदरा पीस लें।"
+      }
+    },
+    {
+      "step": 4,
+      "title": {
+        "en": "Blending Dry Ingredients & Ayurvedic Spices",
+        "hi": "सूखे मिश्रण और आयुर्वेदिक मसालों को मिलाना"
+      },
+      "text": {
+        "en": "In a large mixing bowl/parat, combine the ground flax seeds, powdered oats, crushed nuts, makhana, and toasted coconut. Sprinkle 1/2 tsp dry ginger powder (saunth), 1 tsp freshly ground black pepper (kali mirch), 1/2 tsp cinnamon powder (dalchini), and 1 tsp cardamom powder. Toss thoroughly with clean hands so the spices disperse evenly.",
+        "hi": "बड़ी परात में पिसी अलसी, ओट्स का आटा, दरदरे मेवे-मखाना और भुना नारियल मिलाएं। अब इसमें 1/2 छोटा चम्मच सोंठ, 1 छोटा चम्मच काली मिर्च पाउडर, 1/2 छोटा चम्मच दालचीनी और 1 छोटा चम्मच इलायची पाउडर डालें। हाथों से सभी चीजों को अच्छी तरह मिला लें।"
+      }
+    },
+    {
+      "step": 5,
+      "title": {
+        "en": "Melting Jaggery in Warm Desi Ghee",
+        "hi": "देसी घी में गुड़ पिघलाना (बिना चाशनी के)"
+      },
+      "text": {
+        "en": "In the kadhai on low flame, melt 1/2 cup pure desi cow ghee. Add 200g organic jaggery powder. Stir gently on low heat just until the jaggery melts completely and forms a warm, glossy liquid emulsion with the ghee. DO NOT boil or bubble into a hard string syrup, or the laddus will set rock-hard.",
+        "hi": "कड़ाही में धीमी आंच पर 1/2 कप देसी गाय का घी पिघलाएं। इसमें 200 ग्राम गुड़ का पाउडर डालें। धीमी आंच पर सिर्फ गुड़ के पिघलने और घी के साथ चिकना घोल बनने तक चलाएं। इसे बिल्कुल भी खौलाएं नहीं और न ही चाशनी बनाएं, वरना लड्डू पत्थर जैसे कड़े हो जाएंगे।"
+      }
+    },
+    {
+      "step": 6,
+      "title": {
+        "en": "Rolling & Shaping Laddus",
+        "hi": "लड्डू बांधना"
+      },
+      "text": {
+        "en": "Immediately pour the warm ghee-jaggery syrup over the dry mixture. Stir briskly with a wooden spoon or spatula until safe to handle. While the mixture is comfortably warm, grease your palms with a drop of ghee, take lemon-sized portions, and press firmly between both palms to shape into 13-14 compact, glossy, round laddus.",
+        "hi": "तुरंत गरम घी-गुड़ के घोल को सूखे मिश्रण पर डालें। चम्मच से अच्छी तरह मिलाएं। जब मिश्रण हाथ लगाने लायक गुनगुना हो, तो हथेलियों पर थोड़ा घी लगाकर नींबू के आकार का मिश्रण लें और दबाते हुए 13-14 गोल, चमकदार लड्डू बांध लें।"
+      }
+    },
+    {
+      "step": 7,
+      "title": {
+        "en": "Cooling & Storage",
+        "hi": "ठंडा करना और सुरक्षित रखना"
+      },
+      "text": {
+        "en": "Allow laddus to cool completely to room temperature on a parchment sheet—they will firm up into a tender, melt-in-mouth bite. Store in a clean airtight glass jar. They stay fresh and potent for up to 2 months at room temperature. Enjoy 1 laddu every morning with a glass of warm milk during the winter months.",
+        "hi": "लड्डुओं को कमरे के तापमान पर पूरी तरह ठंडा होने दें, जिससे वे सेट होकर एकदम खस्ता हो जाएंगे। साफ कांच के एयरटाइट जार में रखें। ये 2 महीने तक बिल्कुल ताजा रहते हैं। सर्दियों में रोजाना सुबह 1 लड्डू गुनगुने दूध के साथ खाएं।"
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Do not boil the jaggery. Just dissolve the jaggery powder in the warm ghee until melted. Boiling creates hard sugar crystals that make laddus unpleasantly stiff.",
+      "hi": "गुड़ को घी में सिर्फ पिघलने तक ही गर्म करें, कभी उबालें या पकाएं नहीं। उबालने से गुड़ कड़ा हो जाता है और लड्डू चबाना मुश्किल हो जाता है।"
+    },
+    {
+      "en": "Flax seeds must be roasted until they pop, but never scorched. Under-roasted flax seeds taste unpleasantly raw and grassy, while burnt seeds turn bitter.",
+      "hi": "अलसी को धीमी आंच पर चटकने तक जरूर भूनें। कच्ची अलसी का स्वाद कसैला होता है और ज्यादा जल जाने पर कड़वाहट आ जाती है।"
+    },
+    {
+      "en": "Black pepper and dry ginger (saunth) are vital functional ingredients: piperine in black pepper enhances the bioavailability of nutrients, while saunth fights joint inflammation.",
+      "hi": "काली मिर्च और सोंठ इस नुस्खे की जान हैं—काली मिर्च पोषक तत्वों को शरीर में सोखने में मदद करती है और सोंठ सर्दियों में जोड़ों के दर्द से राहत देती है।"
+    }
+  ],
+  "title_en": "Winter Immunity Flaxseed Laddus (Alsi ke Pinni Laddu)",
+  "title_hi": "सर्दियों के सेहतमंद अलसी के लड्डू (बिना चीनी)",
+  "description_en": "Traditional Ayurvedic winter remedy for joint pain, backache, and immunity! Made completely sugar-free with roasted omega-3 rich flax seeds (alsi), oats, makhana, crunchy nuts, organic jaggery, desi ghee, and warming saunth-kali mirch spices.",
+  "description_hi": "जोड़ों के दर्द, कमर दर्द और सर्दियों की कमजोरी को दूर भगाने वाले सेहतमंद अलसी के लड्डू! बिना सफेद चीनी के—ओमेगा-3 से भरपूर भुनी अलसी, ओट्स, मखाना, मेवे, देसी घी, सोंठ और काली मिर्च के साथ तैयार पौष्टिक पिनियां।",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 mins",
+  "cook_time_en": "20 mins",
+  "cook_time_hi": "20 mins",
+  "servings_en": "13-14 laddus",
+  "servings_hi": "13-14 laddus",
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "youtube_id": "bv8GhJsomIQ",
+  "youtube_url": "https://www.youtube.com/watch?v=bv8GhJsomIQ",
+  "image_url": "https://img.youtube.com/vi/bv8GhJsomIQ/hqdefault.jpg",
+  "ingredients_en": [
+    "Flax Seeds (Alsi) - 250g (dry-roasted till popping, cooled & coarsely ground)",
+    "Rolled Oats - 35g (1/4 cup, roasted & ground into flour)",
+    "Desi Ghee (for roasting dry fruits) - 1 tbsp",
+    "Almonds (Badam) - 40g (1/4 cup)",
+    "Cashews (Kaju) - 30g (1/4 cup)",
+    "Walnuts (Akhrot) - 15g (1/8 cup, rich in brain omega-3)",
+    "Foxnuts (Makhana) - 20g (1/2 cup, roasted crisp & pulsed)",
+    "Desiccated Coconut (Nariyal Burada) - 20g (1/4 cup, lightly toasted)",
+    "Dry Ginger Powder (Saunth) - 1/2 tsp (warming for joints)",
+    "Black Pepper Powder (Kali Mirch) - 1 tsp (improves nutrient absorption)",
+    "Cinnamon Powder (Dalchini) - 1/2 tsp",
+    "Green Cardamom Powder (Elaichi) - 1 tsp (freshly ground)",
+    "Pure Organic Jaggery Powder (Gud Powder) - 200g (refined sugar-free)",
+    "Pure Desi Cow Ghee (for binding) - 1/2 cup (melted warm)"
+  ],
+  "ingredients_hi": [
+    "अलसी के बीज - 250 ग्राम (चटकने तक भुनी और दरदरी पिसी हुई)",
+    "रोल्ड ओट्स - 35 ग्राम (1/4 कप, भूनकर पिसा हुआ आटा)",
+    "देसी घी (मेवे भूनने के लिए) - 1 बड़ा चम्मच",
+    "बादाम - 40 ग्राम (1/4 कप)",
+    "काजू - 30 ग्राम (1/4 कप)",
+    "अखरोट - 15 ग्राम (1/8 कप)",
+    "मखाना - 20 ग्राम (1/2 कप, कुरकुरा भूनकर दरदरा पिसा)",
+    "नारियल का बुरादा - 20 ग्राम (1/4 कप, हल्का भुना)",
+    "सोंठ पाउडर (अदरक का सोंठ) - 1/2 छोटा चम्मच (जोड़ों की जकड़न दूर करने हेतु)",
+    "काली मिर्च पाउडर - 1 छोटा चम्मच (पोषक तत्व सोखने के लिए)",
+    "दालचीनी पाउडर - 1/2 छोटा चम्मच",
+    "हरी इलायची पाउडर - 1 छोटा चम्मच",
+    "शुद्ध गुड़ पाउडर - 200 ग्राम (बिना किसी चीनी के)",
+    "देसी गाय का घी (लड्डू बांधने हेतु) - 1/2 कप (हल्का गुनगुना पिघला हुआ)"
+  ],
+  "instructions_en": [
+    "Heat a heavy dry kadhai on medium-low flame. Add 250g flax seeds. Roast steadily for 4-5 minutes, stirring continuously as they begin crackling, popping, and releasing an intoxicating nutty fragrance. Do not burn. Transfer onto a wide plate to cool completely. Once cool, pulse in a mixer grinder into a semi-coarse powder (do not over-grind on continuous high speed, or the seeds will release oil and turn pasty).",
+    "In the same dry pan, toast 35g rolled oats for 2-3 minutes on low flame until crisp and fragrant. Let cool, then grind in the mixer into a fine flour. The oats temper the natural mucilage (gel) of flax seeds and provide a pleasant melt-in-mouth binding.",
+    "Heat 1 tbsp desi ghee in the pan on low flame. Add almonds, walnuts, and cashews; roast until golden and aromatic, then transfer to a plate. In the remaining ghee, add makhanas and roast until shatteringly crisp when crushed between fingers. In the warm dry pan, toast desiccated coconut on lowest heat for 1 minute until fragrant. Once cooled, pulse the roasted nuts and makhana in the mixer into coarse, crunchy rubble.",
+    "In a large mixing bowl/parat, combine the ground flax seeds, powdered oats, crushed nuts, makhana, and toasted coconut. Sprinkle 1/2 tsp dry ginger powder (saunth), 1 tsp freshly ground black pepper (kali mirch), 1/2 tsp cinnamon powder (dalchini), and 1 tsp cardamom powder. Toss thoroughly with clean hands so the spices disperse evenly.",
+    "In the kadhai on low flame, melt 1/2 cup pure desi cow ghee. Add 200g organic jaggery powder. Stir gently on low heat just until the jaggery melts completely and forms a warm, glossy liquid emulsion with the ghee. DO NOT boil or bubble into a hard string syrup, or the laddus will set rock-hard.",
+    "Immediately pour the warm ghee-jaggery syrup over the dry mixture. Stir briskly with a wooden spoon or spatula until safe to handle. While the mixture is comfortably warm, grease your palms with a drop of ghee, take lemon-sized portions, and press firmly between both palms to shape into 13-14 compact, glossy, round laddus.",
+    "Allow laddus to cool completely to room temperature on a parchment sheet—they will firm up into a tender, melt-in-mouth bite. Store in a clean airtight glass jar. They stay fresh and potent for up to 2 months at room temperature. Enjoy 1 laddu every morning with a glass of warm milk during the winter months."
+  ],
+  "instructions_hi": [
+    "भारी कड़ाही में धीमी-मध्यम आंच पर 250 ग्राम अलसी डालें। लगातार चलाते हुए 4-5 मिनट भूनें जब तक कि दाने चटकने न लगें और सोंधी खुशबू न आने लगे। प्लेट में निकालकर ठंडा करें। मिक्सी में रुक-रुक कर दरदरा पीस लें (लगातार तेज न चलाएं वरना अलसी से तेल निकलकर पेस्ट बन जाएगा)।",
+    "उसी सूखे पैन में 35 ग्राम रोल्ड ओट्स को 2-3 मिनट धीमी आंच पर कुरकुरा होने तक भूनें। ठंडा करके मिक्सी में महीन पीस लें। ओट्स अलसी के चिपचिपेपन को संतुलित करते हैं और लड्डू को मुंह में घुलने वाला टेक्सचर देते हैं।",
+    "पैन में 1 चम्मच देसी घी गर्म करें। बादाम, अखरोट और काजू डालकर धीमी आंच पर सुनहरा होने तक भूनकर निकालें। बचे हुए घी में मखाने डालकर कुरकुरे होने तक भूनें। गैस बंद करके पैन में नारियल का बुरादा 1 मिनट हल्का सेकें। ठंडा होने पर मेवे और मखाने को मिक्सी में दरदरा पीस लें।",
+    "बड़ी परात में पिसी अलसी, ओट्स का आटा, दरदरे मेवे-मखाना और भुना नारियल मिलाएं। अब इसमें 1/2 छोटा चम्मच सोंठ, 1 छोटा चम्मच काली मिर्च पाउडर, 1/2 छोटा चम्मच दालचीनी और 1 छोटा चम्मच इलायची पाउडर डालें। हाथों से सभी चीजों को अच्छी तरह मिला लें।",
+    "कड़ाही में धीमी आंच पर 1/2 कप देसी गाय का घी पिघलाएं। इसमें 200 ग्राम गुड़ का पाउडर डालें। धीमी आंच पर सिर्फ गुड़ के पिघलने और घी के साथ चिकना घोल बनने तक चलाएं। इसे बिल्कुल भी खौलाएं नहीं और न ही चाशनी बनाएं, वरना लड्डू पत्थर जैसे कड़े हो जाएंगे।",
+    "तुरंत गरम घी-गुड़ के घोल को सूखे मिश्रण पर डालें। चम्मच से अच्छी तरह मिलाएं। जब मिश्रण हाथ लगाने लायक गुनगुना हो, तो हथेलियों पर थोड़ा घी लगाकर नींबू के आकार का मिश्रण लें और दबाते हुए 13-14 गोल, चमकदार लड्डू बांध लें।",
+    "लड्डुओं को कमरे के तापमान पर पूरी तरह ठंडा होने दें, जिससे वे सेट होकर एकदम खस्ता हो जाएंगे। साफ कांच के एयरटाइट जार में रखें। ये 2 महीने तक बिल्कुल ताजा रहते हैं। सर्दियों में रोजाना सुबह 1 लड्डू गुनगुने दूध के साथ खाएं।"
+  ],
+  "chef_tips_en": [
+    "Do not boil the jaggery. Just dissolve the jaggery powder in the warm ghee until melted. Boiling creates hard sugar crystals that make laddus unpleasantly stiff.",
+    "Flax seeds must be roasted until they pop, but never scorched. Under-roasted flax seeds taste unpleasantly raw and grassy, while burnt seeds turn bitter.",
+    "Black pepper and dry ginger (saunth) are vital functional ingredients: piperine in black pepper enhances the bioavailability of nutrients, while saunth fights joint inflammation."
+  ],
+  "chef_tips_hi": [
+    "गुड़ को घी में सिर्फ पिघलने तक ही गर्म करें, कभी उबालें या पकाएं नहीं। उबालने से गुड़ कड़ा हो जाता है और लड्डू चबाना मुश्किल हो जाता है।",
+    "अलसी को धीमी आंच पर चटकने तक जरूर भूनें। कच्ची अलसी का स्वाद कसैला होता है और ज्यादा जल जाने पर कड़वाहट आ जाती है।",
+    "काली मिर्च और सोंठ इस नुस्खे की जान हैं—काली मिर्च पोषक तत्वों को शरीर में सोखने में मदद करती है और सोंठ सर्दियों में जोड़ों के दर्द से राहत देती है।"
+  ],
+  "tags": [
+    "Alsi Laddu",
+    "Flaxseed",
+    "Healthy Dessert",
+    "Winter Special",
+    "Immunity"
+  ]
+}

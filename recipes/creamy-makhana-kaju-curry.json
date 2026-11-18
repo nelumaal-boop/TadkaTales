@@ -1,0 +1,104 @@
+{
+  "id": "creamy-makhana-kaju-curry",
+  "title": {
+    "en": "Royal Creamy Makhana Kaju Curry (Foxnuts & Cashew Gravy)",
+    "hi": "शाही क्रीमी मखाना काजू करी (रेस्टोरेंट स्टाइल)"
+  },
+  "title_en": "Royal Creamy Makhana Kaju Curry (Foxnuts & Cashew Gravy)",
+  "title_hi": "शाही क्रीमी मखाना काजू करी (रेस्टोरेंट स्टाइल)",
+  "description": {
+    "en": "A rich, royal Mughlai-style curry featuring crunchy roasted phool makhana (foxnuts) and whole cashews simmered in a velvety onion, tomato, and cashew nut gravy. Perfect for festive celebrations.",
+    "hi": "शाही और क्रीमी मखाना काजू करी। भुने हुए कुरकुरे फूल मखाने और साबुत काजू को प्याज-टमाटर और काजू की मखमली ग्रेवी में पकाया जाता है। खास मौकों और पार्टियों के लिए परफेक्ट रेसिपी।"
+  },
+  "description_en": "A rich, royal Mughlai-style curry featuring crunchy roasted phool makhana (foxnuts) and whole cashews simmered in a velvety onion, tomato, and cashew nut gravy. Perfect for festive celebrations.",
+  "description_hi": "शाही और क्रीमी मखाना काजू करी। भुने हुए कुरकुरे फूल मखाने और साबुत काजू को प्याज-टमाटर और काजू की मखमली ग्रेवी में पकाया जाता है। खास मौकों और पार्टियों के लिए परफेक्ट रेसिपी।",
+  "category": "Latest Recipe",
+  "isVegetarian": true,
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "prepTime": "10 mins",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cookTime": "20 mins",
+  "cook_time_en": "20 mins",
+  "cook_time_hi": "20 मिनट",
+  "servings": "4 servings",
+  "servings_en": "4 servings",
+  "servings_hi": "4 सर्विंग्स",
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "youtube_id": "jsWNnW7-1yI",
+  "youtubeId": "jsWNnW7-1yI",
+  "youtube_url": "https://www.youtube.com/watch?v=jsWNnW7-1yI",
+  "author": "HomeCookingShow",
+  "image_url": "/static/images/jsWNnW7-1yI.jpg",
+  "tags": [
+    "Makhana Curry",
+    "Kaju Makhana",
+    "Royal Gravy",
+    "Rich Curry",
+    "Festive Dish",
+    "Vegetarian",
+    "HomeCookingShow"
+  ],
+  "ingredients_en": [
+    "1.5 cups Phool Makhana (Foxnuts)",
+    "1/2 cup Whole Cashews (Kaju)",
+    "2 tbsp Ghee + 1 tbsp Oil",
+    "1 tsp Cumin Seeds & 1 Bay Leaf, 2 Cardamoms, 1 Cinnamon",
+    "2 medium Onions (finely chopped)",
+    "1 tbsp Ginger-Garlic Paste",
+    "2 Tomatoes & 10 Cashews (pureed together into smooth paste)",
+    "1/2 tsp Turmeric & 1.5 tsp Kashmiri Chilli Powder",
+    "1 tsp Coriander Powder & 1/2 tsp Garam Masala",
+    "1 tsp Kasuri Methi",
+    "2 tbsp Fresh Cream",
+    "Salt to taste",
+    "1.5 cups Water"
+  ],
+  "ingredients_hi": [
+    "1.5 कप फूल मखाना",
+    "1/2 कप साबुत काजू",
+    "2 बड़े चम्मच देसी घी + 1 बड़ा चम्मच तेल",
+    "1 छोटा चम्मच जीरा, 1 तेजपत्ता, 2 इलायची, 1 दालचीनी",
+    "2 प्याज (बारीक कटे हुए)",
+    "1 बड़ा चम्मच अदरक-लहसुन पेस्ट",
+    "2 टमाटर व 10 काजू (मिक्सी में पीसकर तैयार पेस्ट)",
+    "1/2 छोटा चम्मच हल्दी व 1.5 छोटा चम्मच कश्मीरी लाल मिर्च",
+    "1 छोटा चम्मच धनिया पाउडर व 1/2 छोटा चम्मच गरम मसाला",
+    "1 छोटा चम्मच कसूरी मेथी",
+    "2 बड़े चम्मच ताजी मलाई (क्रीम)",
+    "स्वादानुसार नमक",
+    "1.5 कप पानी"
+  ],
+  "instructions_en": [
+    "Heat 1 tbsp ghee in a pan. Roast cashews until golden and crunchy, remove. In the same pan, roast makhana on low heat for 4–5 minutes until shatteringly crisp. Set aside.",
+    "Heat remaining ghee and oil. Add cumin seeds, bay leaf, cardamom, and cinnamon until fragrant.",
+    "Add chopped onions and sauté over medium flame until golden brown.",
+    "Stir in ginger-garlic paste and sauté for 1 minute. Add the tomato-cashew puree and cook until oil separates.",
+    "Add turmeric, red chilli powder, coriander powder, and salt. Cook the rich masala for 2 minutes.",
+    "Pour in 1.5 cups warm water and bring the velvety gravy to a gentle simmer for 4–5 minutes.",
+    "Stir in fresh cream, crushed kasuri methi, and garam masala.",
+    "Add the roasted cashews and roasted makhana just 2 minutes before serving so the makhana retains its delightful crunch.",
+    "Garnish with coriander leaves and serve with garlic naan, butter roti, or jeera rice."
+  ],
+  "instructions_hi": [
+    "पैन में 1 चम्मच घी गरम करें। काजू को सुनहरा भूनकर निकालें। उसी पैन में मखाने को धीमी आंच पर 4-5 मिनट एकदम कुरकुरा होने तक भूनें।",
+    "कड़ाही में बचा घी और तेल गरम करें। जीरा, तेजपत्ता, इलायची और दालचीनी चटकाएं।",
+    "कटा प्याज डालकर सुनहरा होने तक भूनें।",
+    "अदरक-लहसुन पेस्ट डालकर भूनें, फिर टमाटर और काजू का पेस्ट डालकर तेल अलग होने तक पकाएं।",
+    "हल्दी, कश्मीरी मिर्च, धनिया पाउडर और नमक डालें। मसाले को 2 मिनट अच्छी तरह भूनें।",
+    "1.5 कप गर्म पानी डालें और ग्रेवी को धीमी आंच पर 4-5 मिनट उबलने दें।",
+    "ताजी मलाई, कसूरी मेथी और गरम मसाला मिलाएं।",
+    "परोसने से ठीक 2 मिनट पहले भुने हुए काजू और मखाने डालें ताकि मखाने का कुरकुरापन बना रहे।",
+    "हरा धनिया डालकर गार्निश करें और नान, तंदूरी रोटी या जीरा राइस के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "Always add makhana at the very end of cooking; cooking them too long causes them to become soggy.",
+    "The tomato-cashew paste gives the gravy its signature restaurant-style gloss and richness."
+  ],
+  "chef_tips_hi": [
+    "मखाने को हमेशा परोसने से ठीक पहले ग्रेवी में डालें ताकि उनका क्रंच बना रहे।",
+    "टमाटर के साथ 10 काजू पीसने से ग्रेवी में रेस्टोरेंट जैसी मखमली चमक आती है।"
+  ]
+}

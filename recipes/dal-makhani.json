@@ -1,0 +1,82 @@
+{
+  "id": "dal-makhani",
+  "title_en": "Authentic Restaurant-Style Dal Makhani",
+  "title_hi": "रेस्टोरेंट जैसी स्वादिष्ट दाल मखनी",
+  "description_en": "A rich, creamy, and slow-cooked North Indian lentil delicacy made with whole black gram (urad dal), red kidney beans (rajma), fresh butter, and fragrant spices.",
+  "description_hi": "साबुत उड़द की दाल, राजमा, मक्खन और ताज़ा क्रीम से धीमी आंच पर पकाई गई उत्तर भारत की सबसे लोकप्रिय और मलाईदार दाल मखनी।",
+  "prep_time_en": "15 mins (+ 8 hrs soaking)",
+  "prep_time_hi": "15 मिनट (+ 8 घंटे भिगोना)",
+  "cook_time_en": "45 mins",
+  "cook_time_hi": "45 मिनट",
+  "servings_en": "4-5 servings",
+  "servings_hi": "4-5 लोगों के लिए",
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "category": "Latest Recipe",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "youtube_id": "f5F6K4D_1gY",
+  "youtube_url": "https://www.youtube.com/watch?v=f5F6K4D_1gY",
+  "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?q=80&w=1200&auto=format&fit=crop",
+  "ingredients_en": [
+    "1 cup Whole Black Gram (Sabut Urad Dal), soaked overnight",
+    "1/4 cup Red Kidney Beans (Rajma), soaked overnight",
+    "3 large ripe tomatoes, pureed",
+    "2 tbsp Ginger-Garlic paste",
+    "3 tbsp Butter (Makkhan)",
+    "2 tbsp Cooking Oil or Ghee",
+    "1/2 cup Fresh Cream",
+    "1 tsp Kashmiri Red Chilli Powder",
+    "1/2 tsp Garam Masala Powder",
+    "1 tsp Kasuri Methi (crushed)",
+    "Salt to taste"
+  ],
+  "ingredients_hi": [
+    "1 कप साबुत उड़द दाल (रात भर भिगोई हुई)",
+    "1/4 कप राजमा (रात भर भिगोया हुआ)",
+    "3 बड़े पके टमाटर (प्यूरी बनाए हुए)",
+    "2 बड़े चम्मच अदरक-लहसुन का पेस्ट",
+    "3 बड़े चम्मच मक्खन (बटर)",
+    "2 बड़े चम्मच तेल या देसी घी",
+    "1/2 कप ताज़ी मलाई या क्रीम",
+    "1 छोटा चम्मच कश्मीरी लाल मिर्च पाउडर",
+    "1/2 छोटा चम्मच गरम मसाला पाउडर",
+    "1 छोटा चम्मच भुनी हुई कसूरी मेथी",
+    "स्वादानुसार नमक"
+  ],
+  "instructions_en": [
+    "Wash and pressure cook soaked urad dal and rajma with 4 cups of water and 1 tsp salt for 5-6 whistles on medium flame until tender.",
+    "Mash the cooked lentils slightly with the back of a ladle to give a rich, thick texture.",
+    "In a heavy-bottom kadai or pan, heat 2 tbsp butter and 1 tbsp ghee. Add ginger-garlic paste and saute for 1 minute until fragrant.",
+    "Add the fresh tomato puree and Kashmiri red chilli powder. Cook on medium flame until the oil starts separating from the masala.",
+    "Add the boiled lentils along with their cooking water to the masala. Mix thoroughly.",
+    "Simmer on low flame for 25-30 minutes, stirring occasionally. Add warm water if needed to adjust consistency.",
+    "Stir in remaining butter, fresh cream, garam masala, and crushed kasuri methi. Simmer for another 5 minutes.",
+    "Serve piping hot garnished with a swirl of fresh cream and chopped coriander, paired with butter naan or jeera rice."
+  ],
+  "instructions_hi": [
+    "भीगी हुई उड़द दाल और राजमा को 4 कप पानी और 1 चम्मच नमक के साथ प्रेशर कुकर में 5-6 सीटी आने तक मध्यम आंच पर अच्छी तरह उबाल लें।",
+    "उबली हुई दाल को करछी से हल्का सा मैश कर लें ताकि गाढ़ापन और क्रीमी टेक्सचर मिले।",
+    "एक भारी कड़ाही में 2 चम्मच मक्खन और 1 चम्मच घी गरम करें। अदरक-लहसुन पेस्ट डालकर 1 मिनट तक खुशबू आने तक भूनें।",
+    "टमाटर प्यूरी और कश्मीरी लाल मिर्च पाउडर डालें। मध्यम आंच पर तब तक पकाएं जब तक कि किनारों से तेल न छूटने लगे।",
+    "उबली हुई दाल को उसके पानी के साथ कड़ाही में डालें और अच्छी तरह मिलाएँ।",
+    "धीमी आंच पर दाल को 25-30 मिनट तक पकने दें, बीच-बीच में चलाते रहें। आवश्यकतानुसार गर्म पानी मिला सकते हैं।",
+    "अब बचा हुआ मक्खन, ताज़ी क्रीम, गरम मसाला और भुनी कसूरी मेथी डालकर अच्छी तरह मिलाएँ और 5 मिनट और धीमी आंच पर पकाएँ।",
+    "ऊपर से क्रीम और हरे धनिये से सजाकर गरमा-गरम बटर नान या जीरा राइस के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "Slow cooking is the real secret of restaurant-style Dal Makhani. The longer it simmers, the creamier it tastes.",
+    "Always use Kashmiri red chilli for that bright red natural restaurant color without excessive heat."
+  ],
+  "chef_tips_hi": [
+    "दाल मखनी का असली राज़ धीमी आंच पर देर तक पकाना है। जितना धीमी आंच पर पकेगी, स्वाद उतना ही लाजवाब होगा।",
+    "रेस्टोरेंट जैसा प्राकृतिक लाल रंग पाने के लिए कश्मीरी लाल मिर्च पाउडर का ही इस्तेमाल करें।"
+  ],
+  "tags": [
+    "North Indian",
+    "Curry",
+    "Vegetarian",
+    "Party Special",
+    "Dinner"
+  ]
+}

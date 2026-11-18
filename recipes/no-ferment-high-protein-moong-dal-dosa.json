@@ -1,0 +1,254 @@
+{
+  "id": "no-ferment-high-protein-moong-dal-dosa",
+  "title_en": "No-Ferment High-Protein Moong Dal Dosa with Spicy Kara Chutney",
+  "title_hi": "बिना फरमेंट के क्रिस्पी मूंग दाल डोसा व तीखी लाल चटनी",
+  "title": {
+    "en": "No-Ferment High-Protein Moong Dal Dosa with Spicy Kara Chutney",
+    "hi": "बिना फरमेंट के क्रिस्पी मूंग दाल डोसा व तीखी लाल चटनी"
+  },
+  "description_en": "An instant, 15-minute high-protein healthy breakfast! Made from soaked yellow moong dal ground with ginger, garlic, and chillies without any fermentation. Roasted to paper-thin golden crispiness with crunchy onions and peri peri masala, served with fiery South Indian red kara chutney.",
+  "description_hi": "बिना किसी फरमेंटेशन के सिर्फ 15 मिनट में बनने वाला सुपर क्रिस्पी और हाई-प्रोटीन मूंग दाल डोसा! अदरक, लहसुन और हरी मिर्च के साथ पिसी मूंग दाल से तैयार, ऊपर से बारीक प्याज और पेरी-पेरी मसाले की टॉपिंग और साथ में दक्षिण भारतीय स्टाइल तीखी लाल करा चटनी। वजन घटाने और पौष्टिक नाश्ते के लिए सर्वोत्तम!",
+  "description": {
+    "en": "An instant, 15-minute high-protein healthy breakfast! Made from soaked yellow moong dal ground with ginger, garlic, and chillies without any fermentation. Roasted to paper-thin golden crispiness with crunchy onions and peri peri masala, served with fiery South Indian red kara chutney.",
+    "hi": "बिना किसी फरमेंटेशन के सिर्फ 15 मिनट में बनने वाला सुपर क्रिस्पी और हाई-प्रोटीन मूंग दाल डोसा! अदरक, लहसुन और हरी मिर्च के साथ पिसी मूंग दाल से तैयार, ऊपर से बारीक प्याज और पेरी-पेरी मसाले की टॉपिंग और साथ में दक्षिण भारतीय स्टाइल तीखी लाल करा चटनी। वजन घटाने और पौष्टिक नाश्ते के लिए सर्वोत्तम!"
+  },
+  "category": "Breakfast",
+  "diet": "Vegetarian",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "सरल",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cook_time_en": "15 mins",
+  "cook_time_hi": "15 मिनट",
+  "prepTime": "15 mins",
+  "cookTime": "15 mins",
+  "servings_en": "4 servings (6-8 dosas)",
+  "servings_hi": "4 लोग (6-8 डोसा)",
+  "servings": 4,
+  "youtube_id": "0BTbwYj6GrY",
+  "youtubeId": "0BTbwYj6GrY",
+  "youtube_url": "https://youtu.be/0BTbwYj6GrY",
+  "image_url": "/static/images/0BTbwYj6GrY.jpg",
+  "tags": [
+    "Moong Dal Dosa",
+    "High Protein",
+    "Breakfast",
+    "Weight Loss",
+    "Gluten Free",
+    "No Ferment",
+    "South Indian",
+    "Kabitaskitchen",
+    "Vegetarian"
+  ],
+  "ingredients_en": [
+    "1 cup Yellow Split Moong Dal (Dhuli Moong Dal), soaked for 2-3 hours",
+    "2 inches Fresh Ginger",
+    "10-12 Garlic Cloves",
+    "3 Green Chillies",
+    "1 tsp Salt (to taste)",
+    "Water as needed for smooth pourable batter",
+    "2 tbsp Cooking Oil or Ghee (for roasting crispy dosas)",
+    "1/4 cup Onions, finely chopped",
+    "2 tbsp Fresh Coriander Leaves, finely chopped",
+    "2 tsp Peri Peri Masala (or Idli Podi / Chaat Masala)",
+    "Red Kara Chutney Ingredients:",
+    "2 tbsp Cooking Oil",
+    "1/2 tsp Mustard Seeds & 1/2 tsp Cumin Seeds",
+    "2 tbsp Chana Dal & 1 tbsp Urad Dal",
+    "8-10 Dried Whole Red Chillies",
+    "2 inches Ginger & 12 Garlic Cloves",
+    "1/2 cup Onions, chopped & 2 Ripe Tomatoes, chopped",
+    "Chutney Tadka: 1 tbsp oil, 1/2 tsp mustard seeds, 2 dry red chillies & curry leaves"
+  ],
+  "ingredients_hi": [
+    "1 कप धुली पीली मूंग दाल (2-3 घंटे भीगी हुई)",
+    "2 इंच ताजा अदरक",
+    "10-12 लहसुन की कलियां",
+    "3 हरी मिर्च",
+    "1 छोटा चम्मच नमक (स्वादानुसार)",
+    "घोल बनाने हेतु आवश्यकतानुसार पानी",
+    "2 बड़े चम्मच तेल या घी (डोसा सेकने हेतु)",
+    "1/4 कप प्याज (बारीक कटा)",
+    "2 बड़े चम्मच ताजा हरा धनिया (बारीक कटा)",
+    "2 छोटे चम्मच पेरी पेरी मसाला (या इडली पोड़ी / चाट मसाला)",
+    "लाल करा चटनी सामग्री:",
+    "2 बड़े चम्मच तेल",
+    "1/2 छोटा चम्मच राई व 1/2 छोटा चम्मच जीरा",
+    "2 बड़े चम्मच चना दाल व 1 बड़ा चम्मच उड़द दाल",
+    "8-10 साबुत सूखी लाल मिर्च",
+    "2 इंच अदरक व 12 लहसुन की कलियां",
+    "1/2 कप प्याज व 2 पके टमाटर (कटे हुए)",
+    "चटनी तड़का: 1 बड़ा चम्मच तेल, 1/2 छोटा चम्मच राई, 2 सूखी लाल मिर्च व करी पत्ता"
+  ],
+  "ingredients": [
+    {
+      "category_en": "No-Ferment Moong Dal Batter (बिना फरमेंट वाला मूंग दाल बैटर)",
+      "category_hi": "बिना फरमेंट वाला मूंग दाल बैटर",
+      "items": [
+        {
+          "name_en": "Yellow Moong Dal (Soaked)",
+          "name_hi": "धुली मूंग दाल (भीगी)",
+          "amount": "1 cup"
+        },
+        {
+          "name_en": "Fresh Ginger",
+          "name_hi": "अदरक",
+          "amount": "2 inch"
+        },
+        {
+          "name_en": "Garlic Cloves",
+          "name_hi": "लहसुन कलियां",
+          "amount": "10-12 cloves"
+        },
+        {
+          "name_en": "Green Chillies",
+          "name_hi": "हरी मिर्च",
+          "amount": "3"
+        },
+        {
+          "name_en": "Salt & Water",
+          "name_hi": "नमक व पानी",
+          "amount": "1 tsp salt + as needed"
+        }
+      ]
+    },
+    {
+      "category_en": "Crisp Roasting & Toppings (डोसा सेकना व टॉपिंग)",
+      "category_hi": "डोसा सेकना व टॉपिंग",
+      "items": [
+        {
+          "name_en": "Cooking Oil / Ghee",
+          "name_hi": "तेल या देसी घी",
+          "amount": "2 tbsp"
+        },
+        {
+          "name_en": "Finely Chopped Onion",
+          "name_hi": "बारीक कटा प्याज",
+          "amount": "1/4 cup"
+        },
+        {
+          "name_en": "Fresh Coriander Leaves",
+          "name_hi": "हरा धनिया",
+          "amount": "2 tbsp"
+        },
+        {
+          "name_en": "Peri Peri Masala / Podi",
+          "name_hi": "पेरी पेरी मसाला",
+          "amount": "2 tsp"
+        }
+      ]
+    },
+    {
+      "category_en": "South Indian Red Kara Chutney (तीखी लाल चटनी व तड़का)",
+      "category_hi": "तीखी लाल चटनी व तड़का",
+      "items": [
+        {
+          "name_en": "Chana Dal & Urad Dal",
+          "name_hi": "चना दाल व उड़द दाल",
+          "amount": "2 tbsp + 1 tbsp"
+        },
+        {
+          "name_en": "Dried Whole Red Chillies",
+          "name_hi": "साबुत सूखी लाल मिर्च",
+          "amount": "8-10"
+        },
+        {
+          "name_en": "Ginger, Garlic & Onion",
+          "name_hi": "अदरक, लहसुन व प्याज",
+          "amount": "2 inch ginger + 12 garlic + 1/2 cup onion"
+        },
+        {
+          "name_en": "Ripe Tomatoes & Salt",
+          "name_hi": "पके टमाटर व नमक",
+          "amount": "2 tomatoes + salt"
+        },
+        {
+          "name_en": "Mustard, Chillies & Curry Leaves (Tadka)",
+          "name_hi": "राई, लाल मिर्च व करी पत्ता तड़का",
+          "amount": "1 tbsp oil + spices"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Grind Silky Moong Dal Batter: Drain 1 cup soaked yellow moong dal. Place into a mixer grinder with 2 inches ginger, 10-12 garlic cloves, 3 green chillies, 1 tsp salt, and 1/2 cup water. Grind into a silky-smooth, pourable dosa batter (no fermentation required).",
+    "Sauté Chutney Dal & Spices: Heat 2 tbsp oil in a pan. Add 1/2 tsp mustard seeds, 1/2 tsp cumin seeds, 2 tbsp chana dal, and 1 tbsp urad dal. Sauté over medium heat until the lentils turn golden and nutty. Add 8-10 dried red chillies, 12 garlic cloves, and 2 inches chopped ginger; sauté for 1 minute.",
+    "Add Onions & Tomatoes: Add 1/2 cup chopped onions and sauté until translucent. Add 2 chopped tomatoes and salt. Cook on medium heat for 4-5 minutes until tomatoes turn completely mushy and soft. Remove from heat and allow to cool.",
+    "Blend & Temper Kara Chutney: Transfer the cooled chutney base into a blender. Grind with a splash of water into a rich, spicy red chutney. In a small pan, heat 1 tbsp oil, splutter 1/2 tsp mustard seeds, 2 dry red chillies, and curry leaves. Pour the sizzling tadka over the chutney.",
+    "Pour & Spread Dosa: Heat a non-stick or seasoned cast iron dosa tawa over medium-high heat. Splash a few drops of water to adjust heat and wipe clean. Pour a ladleful of moong dal batter into the center and quickly spread in circular outward swirls into a thin, paper-like dosa.",
+    "Add Oil & Crunchy Toppings: Drizzle 1/2 tsp oil or ghee around the edges and over the surface. Scatter finely chopped onions, fresh coriander, and a pinch of peri peri masala over the top. Press gently with a flat spatula so toppings stick to the batter.",
+    "Roast Crisp & Serve: Cook on medium flame until the bottom turns deeply golden and super crispy, naturally releasing from the tawa. Fold into a roll or triangle and serve piping hot with the fiery South Indian red kara chutney!"
+  ],
+  "instructions_hi": [
+    "मूंग दाल बैटर पीसना: 1 कप भीगी हुई मूंग दाल का पानी निकालें। मिक्सी जार में दाल, 2 इंच अदरक, 10-12 लहसुन की कलियां, 3 हरी मिर्च, 1 छोटा चम्मच नमक और 1/2 कप पानी डालें। एकदम बारीक और चिकना डोसा बैटर पीस लें (किसी फरमेंटेशन की जरूरत नहीं)।",
+    "लाल चटनी की दाल व मसाले भूनना: पैन में 2 बड़े चम्मच तेल गरम करें। राई, जीरा, 2 चम्मच चना दाल और 1 चम्मच उड़द दाल डालें। दाल के सुनहरा होने तक भूनें। 8-10 सूखी लाल मिर्च, 12 लहसुन कलियां और अदरक डालकर 1 मिनट भूनें।",
+    "प्याज व टमाटर पकाना: 1/2 कप कटा प्याज डालकर पारदर्शी होने तक भूनें। फिर 2 कटे पके टमाटर और नमक डालें। 4-5 मिनट मध्यम आंच पर टमाटर के गलने तक पकाएं। गैस बंद करें और ठंडा होने दें।",
+    "चटनी पीसना व तड़का लगाना: ठंडे मिश्रण को मिक्सी में थोड़ा पानी डालकर चिकनी लाल चटनी पीस लें। छोटे पैन में 1 चम्मच तेल गरम करें, राई, सूखी लाल मिर्च और करी पत्ता चटकाकर चटनी पर तड़का लगाएं।",
+    "तवे पर डोसा फैलाना: डोसा तवे को मध्यम-तेज आंच पर गरम करें। थोड़ा पानी छिड़क कर कपड़े से पोंछ लें। एक बड़ा चमचा मूंग दाल बैटर बीच में डालें और गोल घुमाते हुए पतला डोसा फैलाएं।",
+    "तेल व टॉपिंग डालना: किनारों पर और ऊपर 1/2 छोटा चम्मच तेल या घी लगाएं। ऊपर से बारीक कटा प्याज, हरा धनिया और पेरी पेरी मसाला छिड़कें। कलछी से हल्का दबाएं ताकि प्याज चिपक जाए।",
+    "क्रिस्पी सेकना व परोसना: मध्यम आंच पर तब तक सेकें जब तक नीचे से डोसा एकदम सुनहरा और कुरकुरा न हो जाए और तवे के किनारे छोड़ दे। मोड़ें और गरमा-गरम तीखी करा चटनी के साथ तुरंत परोसें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Blend Instant Moong Dal Batter",
+      "title_hi": "बिना फरमेंट मूंग दाल बैटर पीसना",
+      "instruction_en": "Grind soaked yellow moong dal with ginger, garlic, green chillies, salt, and water into a silky pourable batter.",
+      "instruction_hi": "भीगी मूंग दाल को अदरक, लहसुन, हरी मिर्च, नमक और पानी के साथ बारीक चिकना पीस लें।"
+    },
+    {
+      "step": 2,
+      "title_en": "Roast Chutney Lentils & Chillies",
+      "title_hi": "चटनी की दालें व मिर्च भूनना",
+      "instruction_en": "Sauté mustard, cumin, chana dal, urad dal, dried red chillies, ginger, and garlic in oil until golden.",
+      "instruction_hi": "तेल में राई, जीरा, चना दाल, उड़द दाल, सूखी लाल मिर्च, लहसुन और अदरक को सुनहरा भूनें।"
+    },
+    {
+      "step": 3,
+      "title_en": "Cook Onions & Tomatoes",
+      "title_hi": "प्याज व टमाटर पकाना",
+      "instruction_en": "Add chopped onions and ripe tomatoes; cook for 4-5 mins until tomatoes break down completely. Cool.",
+      "instruction_hi": "प्याज और टमाटर डालकर गलने तक पकाएं और ठंडा कर लें।"
+    },
+    {
+      "step": 4,
+      "title_en": "Grind & Temper Red Kara Chutney",
+      "title_hi": "चटनी पीसना व राई-करी पत्ता तड़का",
+      "instruction_en": "Blend chutney smooth with water; pour sizzling mustard seed, dried chilli, and curry leaf tadka on top.",
+      "instruction_hi": "मिश्रण को मिक्सी में पीसें और ऊपर से राई, लाल मिर्च व करी पत्ते का तड़का लगाएं।"
+    },
+    {
+      "step": 5,
+      "title_en": "Pour & Swirl Dosa on Hot Tawa",
+      "title_hi": "तवे पर पतला डोसा फैलाना",
+      "instruction_en": "Wipe heated tawa; pour a ladle of batter and spread circularly into a thin, even crepe.",
+      "instruction_hi": "गरम तवे को पोंछें, बैटर डालें और गोल घुमाते हुए पतला क्रिस्पी डोसा फैलाएं।"
+    },
+    {
+      "step": 6,
+      "title_en": "Add Oil, Crunchy Onions & Peri Peri",
+      "title_hi": "तेल, प्याज व पेरी पेरी मसाला डालना",
+      "instruction_en": "Drizzle oil; sprinkle finely chopped onions, fresh coriander, and peri peri masala, pressing gently.",
+      "instruction_hi": "तेल लगाएं, ऊपर से बारीक प्याज, हरा धनिया और पेरी पेरी मसाला डालकर हल्का दबाएं।"
+    },
+    {
+      "step": 7,
+      "title_en": "Roast Golden Crisp & Serve",
+      "title_hi": "कुरकुरा सेकना व चटनी संग परोसना",
+      "instruction_en": "Roast on medium flame until base turns crisp golden and lifts easily. Serve piping hot with spicy red chutney!",
+      "instruction_hi": "सुनहरा व क्रिस्पी होने तक सेकें और गरमा-गरम तीखी लाल करा चटनी के साथ आनंद लें!"
+    }
+  ],
+  "chef_tips_en": [
+    "Zero Fermentation Magic: Because yellow moong dal has high natural binding proteins and starch, grinding it finely produces restaurant-crisp dosas immediately without any soda or overnight fermentation.",
+    "Regulate Tawa Heat with Water: Splash cold water droplets and wipe the tawa clean before spreading each dosa. An excessively hot pan makes the batter lump onto the ladle, while a lukewarm pan makes it soggy.",
+    "Chana & Urad Dal Secret in Chutney: Roasting whole chana and urad dals with dry red chillies provides the rich nutty body and thick restaurant consistency that keeps the spicy chutney from separating."
+  ],
+  "chef_tips_hi": [
+    "बिना फरमेंटेशन का जादू: मूंग दाल में भरपूर प्रोटीन और प्राकृतिक स्टार्च होता है, जिससे इसे पीसते ही बिना किसी सोडे या खमीर उठाए तुरंत कुरकुरा डोसा बन जाता है।",
+    "तवे का तापमान सही रखना: हर डोसा फैलाने से पहले तवे पर पानी की छींटें मारकर कपड़े से जरूर पोंछें। तवा ज्यादा गरम होगा तो बैटर चमचे से चिपक जाएगा।",
+    "चना व उड़द दाल का कमाल: लाल चटनी में चना और उड़द दाल को भूनकर पीसने से चटनी में बहुत बढ़िया सोंधापन और गाढ़ापन आता है।"
+  ]
+}

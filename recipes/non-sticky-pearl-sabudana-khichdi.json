@@ -1,0 +1,233 @@
+{
+  "id": "non-sticky-pearl-sabudana-khichdi",
+  "title_en": "Non-Sticky Pearl Sabudana Khichdi with Fasting Green Chutney",
+  "title_hi": "खिले-खिले मोतियों जैसी साबूदाना खिचड़ी व व्रत वाली हरी चटनी",
+  "title": {
+    "en": "Non-Sticky Pearl Sabudana Khichdi with Fasting Green Chutney",
+    "hi": "खिले-खिले मोतियों जैसी साबूदाना खिचड़ी व व्रत वाली हरी चटनी"
+  },
+  "description_en": "Master the art of perfectly separated, pearl-like Sabudana Khichdi that never turns mushy or sticky! Flavored with golden potatoes, crunchy fried peanuts, curry leaves, and green chillies, served with a cooling fasting-special peanut yogurt green chutney.",
+  "description_hi": "नवरात्रि व व्रत के लिए एकदम खिले-खिले मोतियों जैसी साबूदाना खिचड़ी की परफेक्ट रेसिपी! बिना चिपचिपेपन के भुनी मूंगफली की कोटिंग, कुरकुरे आलू, कढ़ी पत्ते और हरी मिर्च के तड़के से तैयार, साथ में दही-मूंगफली की चटपटी व्रत वाली हरी चटनी।",
+  "description": {
+    "en": "Master the art of perfectly separated, pearl-like Sabudana Khichdi that never turns mushy or sticky! Flavored with golden potatoes, crunchy fried peanuts, curry leaves, and green chillies, served with a cooling fasting-special peanut yogurt green chutney.",
+    "hi": "नवरात्रि व व्रत के लिए एकदम खिले-खिले मोतियों जैसी साबूदाना खिचड़ी की परफेक्ट रेसिपी! बिना चिपचिपेपन के भुनी मूंगफली की कोटिंग, कुरकुरे आलू, कढ़ी पत्ते और हरी मिर्च के तड़के से तैयार, साथ में दही-मूंगफली की चटपटी व्रत वाली हरी चटनी।"
+  },
+  "category": "Breakfast",
+  "diet": "Vegetarian",
+  "diet_hi": "शाकाहारी (फलाहारी/व्रत स्पेशल)",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "सरल",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cook_time_en": "15 mins",
+  "cook_time_hi": "15 मिनट",
+  "prepTime": "15 mins",
+  "cookTime": "15 mins",
+  "servings_en": "4 servings",
+  "servings_hi": "4 लोग",
+  "servings": 4,
+  "youtube_id": "oHHFafPET90",
+  "youtubeId": "oHHFafPET90",
+  "youtube_url": "https://youtu.be/oHHFafPET90",
+  "image_url": "/static/images/oHHFafPET90.jpg",
+  "tags": [
+    "Sabudana Khichdi",
+    "Vrat Ka Khana",
+    "Navratri Recipe",
+    "Fasting",
+    "Gluten Free",
+    "Breakfast",
+    "Kabitaskitchen",
+    "Vegetarian"
+  ],
+  "ingredients_en": [
+    "1 cup Sago / Tapioca Pearls (Sabudana), soaked for 4-5 hours",
+    "1/4 cup Roasted Peanuts, coarsely crushed (to coat pearls)",
+    "1/4 cup Raw Peanuts, whole (fried for crunch)",
+    "2 medium Potatoes, boiled and diced",
+    "3 tbsp Pure Desi Ghee or Peanut Cooking Oil",
+    "1/2 tsp Cumin Seeds (Jeera)",
+    "12 Fresh Curry Leaves (Kadi Patta)",
+    "2-3 Green Chillies, slit or chopped",
+    "1 tsp Rock Salt (Sendha Namak), to taste",
+    "1 tsp Fresh Lemon Juice",
+    "2 tbsp Fresh Coriander Leaves, chopped",
+    "Vrat Green Chutney Ingredients:",
+    "1/2 cup Fresh Coriander Leaves",
+    "4 tbsp Roasted Peanuts",
+    "3 Green Chillies & 1 inch Ginger",
+    "2 tbsp Fresh Curd (Dahi)",
+    "1 tsp Cumin Seeds",
+    "1 tsp Lemon Juice & Sendha Namak to taste"
+  ],
+  "ingredients_hi": [
+    "1 कप साबूदाना (4-5 घंटे सही पानी में भीगा हुआ)",
+    "1/4 कप भुनी मूंगफली (दरदरी पिसी - साबूदाने पर कोटिंग हेतु)",
+    "1/4 कप साबुत कच्ची मूंगफली (कुरकुरी तलने हेतु)",
+    "2 मध्यम उबले आलू (छोटे क्यूब्स में कटे)",
+    "3 बड़े चम्मच शुद्ध देसी घी या मूंगफली का तेल",
+    "1/2 छोटा चम्मच जीरा",
+    "12 ताजे कढ़ी पत्ते",
+    "2-3 हरी मिर्च (कटी/चीरा लगी)",
+    "1 छोटा चम्मच सेंधा नमक (स्वादानुसार)",
+    "1 छोटा चम्मच नींबू का रस",
+    "2 बड़े चम्मच ताजा हरा धनिया (बारीक कटा)",
+    "व्रत वाली हरी चटनी सामग्री:",
+    "1/2 कप ताजा हरा धनिया",
+    "4 बड़े चम्मच भुनी मूंगफली",
+    "3 हरी मिर्च व 1 इंच अदरक",
+    "2 बड़े चम्मच ताजा दही",
+    "1 छोटा चम्मच जीरा",
+    "1 छोटा चम्मच नींबू का रस व सेंधा नमक"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Sabudana & Peanut Foundation (साबूदाना व मूंगफली)",
+      "category_hi": "साबूदाना व मूंगफली",
+      "items": [
+        {
+          "name_en": "Soaked Sabudana Pearls",
+          "name_hi": "भीगा हुआ साबूदाना",
+          "amount": "1 cup"
+        },
+        {
+          "name_en": "Roasted Peanuts (Coarsely Crushed)",
+          "name_hi": "भुनी मूंगफली का पाउडर",
+          "amount": "1/4 cup"
+        },
+        {
+          "name_en": "Raw Peanuts (Whole)",
+          "name_hi": "साबुत मूंगफली",
+          "amount": "1/4 cup"
+        }
+      ]
+    },
+    {
+      "category_en": "Aromatics & Potato Tadka (तड़का व आलू)",
+      "category_hi": "तड़का व आलू",
+      "items": [
+        {
+          "name_en": "Pure Desi Ghee / Peanut Oil",
+          "name_hi": "देसी घी या तेल",
+          "amount": "3 tbsp"
+        },
+        {
+          "name_en": "Cumin Seeds & Curry Leaves",
+          "name_hi": "जीरा व कढ़ी पत्ता",
+          "amount": "1/2 tsp + 12 leaves"
+        },
+        {
+          "name_en": "Green Chillies & Boiled Potatoes",
+          "name_hi": "हरी मिर्च व उबले आलू",
+          "amount": "3 chillies + 2 potatoes"
+        },
+        {
+          "name_en": "Sendha Namak, Lemon Juice & Coriander",
+          "name_hi": "सेंधा नमक, नींबू रस व धनिया",
+          "amount": "As listed"
+        }
+      ]
+    },
+    {
+      "category_en": "Cooling Fasting Green Chutney (व्रत वाली हरी चटनी)",
+      "category_hi": "व्रत वाली हरी चटनी",
+      "items": [
+        {
+          "name_en": "Fresh Coriander & Peanuts",
+          "name_hi": "हरा धनिया व भुनी मूंगफली",
+          "amount": "1/2 cup + 4 tbsp"
+        },
+        {
+          "name_en": "Green Chillies, Ginger & Curd",
+          "name_hi": "हरी मिर्च, अदरक व दही",
+          "amount": "3 chillies + 1 inch + 2 tbsp"
+        },
+        {
+          "name_en": "Cumin, Lemon Juice & Sendha Namak",
+          "name_hi": "जीरा, नींबू रस व सेंधा नमक",
+          "amount": "1 tsp + 1 tsp + salt"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Rinse and Soak Sabudana: Wash 1 cup sabudana in cold water 2-3 times gently until water runs completely clear to discard cloudy starch. Add clean water just level with the top of the sabudana (do not submerge deeply). Soak for 4-5 hours. Pearls should mash like soft butter between two fingers with zero hard center.",
+    "Coat with Crushed Peanuts: Lightly roast 1/4 cup peanuts and crush into a coarse powder. Toss the crushed peanut powder with the soaked sabudana pearls. (This essential barrier prevents pearls from sticking and clumping together while cooking).",
+    "Fry Whole Peanuts for Crunch: Heat 3 tbsp ghee or peanut oil in a kadai over medium heat. Fry 1/4 cup raw whole peanuts for 2-3 minutes until golden and crunchy. Scoop them out and set aside on a plate.",
+    "Sauté Cumin, Curry Leaves & Potatoes: In the remaining hot ghee, add 1/2 tsp cumin seeds and let them crackle. Add 12 fresh curry leaves and slit green chillies. Add diced boiled potatoes and sauté for 2-3 minutes until golden-crisp on the edges.",
+    "Cook Pearls to Translucent Gloss: Slide the peanut-coated sabudana pearls into the kadai. Season with 1 tsp sendha namak. Gently toss and cook on medium-low flame for 3-4 minutes. The pearls will transform from opaque chalky white to glistening, transparent jewels. Do not overcook.",
+    "Blend Fasting Green Chutney: In a small blender jar, add 1/2 cup coriander leaves, 4 tbsp roasted peanuts, 3 green chillies, 1 inch ginger, 2 tbsp curd, 1 tsp cumin seeds, 1 tsp lemon juice, and sendha namak with 2 tbsp water. Blend into a smooth, refreshing dipping chutney.",
+    "Garnish & Serve Hot: Turn off heat under the khichdi. Stir in the reserved crunchy fried whole peanuts, 1 tsp fresh lemon juice, and chopped fresh coriander leaves. Serve immediately with chilled fasting green chutney!"
+  ],
+  "instructions_hi": [
+    "साबूदाना धोने व भिगोने का सही तरीका: 1 कप साबूदाने को 2-3 बार पानी से हल्के हाथ से धोएं जब तक सफेद पानी निकल न जाए। अब सिर्फ साबूदाने की सतह तक (बराबर लेवल में) पानी डालें (ज्यादा पानी में न डुबोएं)। 4-5 घंटे भीगने दें। उंगलियों से दबाने पर दाना मक्खन जैसा गलना चाहिए।",
+    "मूंगफली के पाउडर की कोटिंग: 1/4 कप भुनी मूंगफली को मिक्सी में दरदरा पीसें। इस पाउडर को भीगे हुए साबूदाने में हल्के हाथ से मिला लें। (यह सीक्रेट टिप साबूदाने के दानों को आपस में चिपकने नहीं देती)।",
+    "साबुत मूंगफली तलना: कड़ाही में 3 बड़े चम्मच घी या मूंगफली का तेल गरम करें। 1/4 कप साबुत मूंगफली डालकर 2-3 मिनट हल्की आंच पर कुरकुरी होने तक तलें और प्लेट में निकाल लें।",
+    "जीरा, कढ़ी पत्ता व आलू भूनना: बचे हुए गरम घी में 1/2 छोटा चम्मच जीरा चटकाएं। 12 कढ़ी पत्ते और चीरा लगी हरी मिर्च डालें। छोटे कटे उबले आलू डालकर 2-3 मिनट सुनहरा होने तक भूनें।",
+    "मोतियों जैसा साबूदाना पकाना: मूंगफली कोट किया हुआ साबूदाना कड़ाही में डालें। स्वादानुसार सेंधा नमक मिलाएं। मध्यम-धीमी आंच पर 3-4 मिनट हल्के हाथ से चलाएं। जैसे ही दाने गरम होंगे, वे सफेद से चमकदार पारदर्शी (translucent) मोतियों जैसे दिखने लगेंगे। ज्यादा देर न पकाएं।",
+    "व्रत की हरी चटनी पीसना: छोटे मिक्सी जार में 1/2 कप हरा धनिया, 4 चम्मच भुनी मूंगफली, 3 हरी मिर्च, 1 इंच अदरक, 2 चम्मच दही, जीरा, नींबू का रस, सेंधा नमक और 2 चम्मच पानी डालकर गाढ़ी व स्वादिष्ट चटनी पीस लें।",
+    "नींबू व धनिए से गार्निश व परोसना: खिचड़ी की गैस बंद करें। तली हुई कुरकुरी साबुत मूंगफली, 1 छोटा चम्मच नींबू का रस और बारीक कटा हरा धनिया मिलाएं। गरमा-गरम साबूदाना खिचड़ी को ठंडी हरी चटनी के साथ व्रत में परोसें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Rinse & Soak to Exact Water Level",
+      "title_hi": "साबूदाना धोना व सही पानी में भिगोना",
+      "instruction_en": "Wash sabudana 3 times to remove starch; soak with water level with the top for 4-5 hours until butter-soft.",
+      "instruction_hi": "साबूदाना धोकर स्टार्च निकालें और बराबर पानी डालकर 4-5 घंटे मक्खन जैसा गलने तक भिगोएं।"
+    },
+    {
+      "step": 2,
+      "title_en": "Coat Pearls with Peanut Powder",
+      "title_hi": "दरदरी मूंगफली पाउडर से कोटिंग",
+      "instruction_en": "Toss coarse roasted peanut powder with soaked sabudana to create a protective non-stick coating.",
+      "instruction_hi": "भीगे साबूदाने पर दरदरा मूंगफली पाउडर मिला दें ताकि पकाते समय दाने आपस में न चिपकें।"
+    },
+    {
+      "step": 3,
+      "title_en": "Fry Whole Peanuts for Crunch",
+      "title_hi": "साबुत मूंगफली कुरकुरी तलना",
+      "instruction_en": "Fry raw peanuts in ghee until golden and crunchy; remove to a plate for final topping.",
+      "instruction_hi": "घी में साबुत मूंगफली को 2-3 मिनट सुनहरा कुरकुरा होने तक तलकर निकाल लें।"
+    },
+    {
+      "step": 4,
+      "title_en": "Sauté Cumin, Curry Leaves & Potatoes",
+      "title_hi": "जीरा, कढ़ी पत्ता व आलू भूनना",
+      "instruction_en": "Splutter cumin, curry leaves, and chillies in ghee; brown diced boiled potatoes for 2-3 minutes.",
+      "instruction_hi": "घी में जीरा, कढ़ी पत्ता और मिर्च चटकाएं, फिर उबले आलू डालकर कुरकुरा होने तक भूनें।"
+    },
+    {
+      "step": 5,
+      "title_en": "Toss Pearls Till Glassy Translucent",
+      "title_hi": "साबूदाने को पारदर्शी मोतियों जैसा पकाना",
+      "instruction_en": "Add coated sabudana and sendha namak; gently cook for 3-4 mins until pearls turn glassy and translucent.",
+      "instruction_hi": "साबूदाना और सेंधा नमक मिलाएं। 3-4 मिनट चलाएं जब तक दाने कांच जैसे पारदर्शी न हो जाएं।"
+    },
+    {
+      "step": 6,
+      "title_en": "Blend Peanut-Yogurt Green Chutney",
+      "title_hi": "व्रत की दही-मूंगफली हरी चटनी बनाना",
+      "instruction_en": "Blend coriander, roasted peanuts, chillies, ginger, curd, cumin, lemon, and sendha namak into creamy dip.",
+      "instruction_hi": "धनिया, मूंगफली, मिर्च, अदरक, दही और नींबू रस को पीसकर गाढ़ी व्रत की चटनी बनाएं।"
+    },
+    {
+      "step": 7,
+      "title_en": "Finish with Lemon, Peanuts & Serve",
+      "title_hi": "नींबू, धनिया व तली मूंगफली डालकर परोसना",
+      "instruction_en": "Stir in fried peanuts, lemon juice, and coriander. Serve hot with chilled fasting green chutney!",
+      "instruction_hi": "तली मूंगफली, नींबू रस और हरा धनिया मिलाएं और ठंडी हरी चटनी के साथ गरमा-गरम परोसें!"
+    }
+  ],
+  "chef_tips_en": [
+    "The Equal-Level Water Rule: Adding too much water during soaking is the primary cause of mushy, clumpy khichdi. Pour water just to the top line of the pearls.",
+    "Crushed Peanut Coating Secret: Tossing coarse peanut powder into soaked pearls before cooking creates a dry shield that absorbs remaining surface moisture, guaranteeing 100% separate grains.",
+    "Cook Only Until Translucent: Remove from heat as soon as pearls turn glassy (about 3-4 minutes). Overheating melts tapioca starch and turns it into sticky chewing gum."
+  ],
+  "chef_tips_hi": [
+    "बराबर लेवल पानी का नियम: भिगोते समय ज्यादा पानी डालना ही साबूदाने के हलवा बनने का मुख्य कारण है। पानी केवल साबूदाने की ऊपरी सतह तक ही रखें।",
+    "मूंगफली पाउडर का सीक्रेट शील्ड: पकने से पहले दरदरी मूंगफली का पाउडर साबूदाने पर लपेटने से हर दाना अलग-अलग रहता है और कड़ाही में नहीं चिपकता।",
+    "सिर्फ 3-4 मिनट ही पकाएं: जैसे ही साबूदाना सफेद से कांच जैसा पारदर्शी दिखे, तुरंत गैस बंद कर दें। ज्यादा पकाने से स्टार्च पिघलकर रबर जैसा चिपचिपा हो जाता है।"
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "id": "dhaba-style-soya-aloo-curry",
+  "title": {
+    "en": "Dhaba-Style Soya Aloo Curry",
+    "hi": "ढाबा स्टाइल आलू सोयाबीन की सब्जी"
+  },
+  "description": {
+    "en": "Authentic North Indian dhaba-style potato and soya chunks curry! Made with Bharatzkitchen's lemon-hot water soak that removes the raw beany odor, pan-roasted soya, hand-crushed potatoes for natural gravy thickness, and finished with a fragrant dash of kewra water.",
+    "hi": "सड़क किनारे ढाबों जैसी गाढ़ी, चटपटी और खुशबूदार आलू सोयाबीन की रसेदार सब्जी! नींबू के पानी में सोया भिगोने की सीक्रेट ट्रिक, हाथ से फोड़े हुए उबले आलू, और अंत में केवड़ा जल का सोंधा ढाबा स्वाद।"
+  },
+  "category": "Latest Recipe",
+  "isVegetarian": true,
+  "prepTime": "15 mins",
+  "cookTime": "25 mins",
+  "servings": "4 servings",
+  "youtubeId": "eASL2cXkAgo",
+  "author": "Bharatzkitchen Hindi",
+  "ingredients": [
+    {
+      "category": {
+        "en": "Soya Soaking & Roasting",
+        "hi": "सोया भिगोना और भूनना"
+      },
+      "items": [
+        {
+          "en": "Soya Chunks (Nutri) - 1 cup",
+          "hi": "सोया चंक्स (सोयाबीन वड़ी) - 1 कप"
+        },
+        {
+          "en": "Fresh Lemon Juice - 1 tsp (neutralizes raw beany smell)",
+          "hi": "नींबू का रस - 1 छोटा चम्मच (सोयाबीन की महक दूर करने के लिए)"
+        },
+        {
+          "en": "Salt for soaking - 1/2 tsp",
+          "hi": "भिगोने के लिए नमक - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Boiling Hot Water - 3 cups",
+          "hi": "खौलता हुआ गर्म पानी - 3 कप"
+        },
+        {
+          "en": "Oil for roasting soya - 1 tbsp",
+          "hi": "सोया भूनने के लिए तेल - 1 बड़ा चम्मच"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Potatoes & Pureed Base",
+        "hi": "आलू और टमाटर-लहसुन पेस्ट"
+      },
+      "items": [
+        {
+          "en": "Boiled Potatoes - 3 medium (hand-crushed into uneven rustic chunks)",
+          "hi": "उबले आलू - 3 मध्यम (हाथ से रफली फोड़े हुए, ग्रेवी गाढ़ी करने हेतु)"
+        },
+        {
+          "en": "Hybrid Tomatoes - 4 medium",
+          "hi": "हाइब्रिड टमाटर - 4 मध्यम"
+        },
+        {
+          "en": "Garlic Cloves - 7 to 8",
+          "hi": "लहसुन की कलियां - 7 से 8"
+        },
+        {
+          "en": "Fresh Ginger - 1.5 inch piece",
+          "hi": "ताजा अदरक - 1.5 इंच"
+        },
+        {
+          "en": "Green Chillies - 2 to 3 (slit)",
+          "hi": "हरी मिर्च - 2 से 3 (चीरा लगी)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Tempering & Spices",
+        "hi": "तड़का और मसाले"
+      },
+      "items": [
+        {
+          "en": "Mustard Oil or Cooking Oil - 3 to 4 tbsp",
+          "hi": "सरसों का तेल या कुकिंग ऑयल - 3 से 4 बड़े चम्मच"
+        },
+        {
+          "en": "Onions - 2 medium (finely chopped)",
+          "hi": "प्याज - 2 मध्यम (बारीक कटे हुए)"
+        },
+        {
+          "en": "Cumin Seeds (Jeera) - 1 tsp",
+          "hi": "जीरा - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Bay Leaves (Tej Patta) - 2",
+          "hi": "तेजपत्ता - 2"
+        },
+        {
+          "en": "Whole Dry Red Chillies - 2",
+          "hi": "साबुत सूखी लाल मिर्च - 2"
+        },
+        {
+          "en": "Coriander Powder (Dhaniya) - 2 tsp",
+          "hi": "धनिया पाउडर - 2 छोटे चम्मच"
+        },
+        {
+          "en": "Red Chilli Powder - 1 tsp",
+          "hi": "लाल मिर्च पाउडर - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Turmeric Powder (Haldi) - 1/2 tsp",
+          "hi": "हल्दी पाउडर - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Roasted Cumin Powder (Bhuna Jeera) - 1/2 tsp",
+          "hi": "भुना जीरा पाउडर - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Salt - 2 tsp (to taste)",
+          "hi": "नमक - 2 छोटे चम्मच (स्वादानुसार)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Dhaba Finishing & Fragrance",
+        "hi": "ढाबा खुशबू और गार्निश"
+      },
+      "items": [
+        {
+          "en": "Garam Masala Powder - 1 tsp",
+          "hi": "गरम मसाला - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Kasuri Methi (crushed) - 1 tsp",
+          "hi": "कसूरी मेथी - 1 छोटा चम्मच (हाथ से मसली)"
+        },
+        {
+          "en": "Kewra Water - 1 tsp (authentic roadside dhaba fragrance)",
+          "hi": "केवड़ा जल - 1 छोटा चम्मच (सड़क किनारे ढाबे वाली खास महक)"
+        },
+        {
+          "en": "Fresh Coriander leaves - 3 tbsp (chopped)",
+          "hi": "ताजा हरा धनिया - 3 चम्मच"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": {
+        "en": "The Lemon-Water Soya Soak Trick",
+        "hi": "नींबू और नमक के पानी में सोया भिगोना"
+      },
+      "text": {
+        "en": "Place 1 cup soya chunks in a deep bowl. Add 1/2 tsp salt and 1 tsp fresh lemon juice, then pour 3 cups of boiling hot water over them. Submerge completely and let rest for 15-20 minutes. The lemon juice chemically strips away the unpleasant raw beany odor of commercial soya, leaving them tender and clean. Drain, wash under cold water, and squeeze firmly to remove all moisture.",
+        "hi": "एक गहरे बर्तन में 1 कप सोया वड़ी लें। इसमें 1/2 छोटा चम्मच नमक, 1 छोटा चम्मच नींबू का रस और 3 कप खौलता हुआ गर्म पानी डालें। 15-20 मिनट भीगने दें। नींबू का रस सोयाबीन की कच्ची महक को पूरी तरह खत्म कर देता है। इसके बाद ठंडे पानी से धोकर दोनों हाथों से अच्छी तरह पानी निचोड़ लें।"
+      }
+    },
+    {
+      "step": 2,
+      "title": {
+        "en": "Pan-Roasting Soya Chunks",
+        "hi": "कड़ाही में सोया वड़ी भूनना"
+      },
+      "text": {
+        "en": "Heat 1 tbsp oil in a kadhai on medium flame. Add the squeezed soya chunks with a pinch of haldi and salt. Sauté for 3-4 minutes until the edges turn golden and lightly crisp. Roasting removes any rubbery texture and helps the chunks soak in the gravy later. Transfer to a plate.",
+        "hi": "कड़ाही में 1 चम्मच तेल गर्म करें। निचोड़ी हुई सोयाबीन वड़ी, चुटकी भर हल्दी और नमक डालें। 3-4 मिनट भूनें जब तक कि किनारे हल्के सुनहरे न हो जाएं। इससे वड़ी का स्पंजीपन खत्म होता है और वह बाद में ग्रेवी को अच्छे से सोखती है। प्लेट में निकाल लें।"
+      }
+    },
+    {
+      "step": 3,
+      "title": {
+        "en": "Pureeing Tomato-Garlic-Ginger Base",
+        "hi": "टमाटर, अदरक और लहसुन का पेस्ट बनाना"
+      },
+      "text": {
+        "en": "In a blender jar, combine 4 chopped hybrid tomatoes, 7-8 garlic cloves, and 1.5 inch ginger. Blend into a smooth, vibrant puree without adding water.",
+        "hi": "मिक्सी में 4 कटे हाइब्रिड टमाटर, 7-8 लहसुन की कलियां और 1.5 इंच अदरक बिना पानी डाले एकदम चिकना पीस लें।"
+      }
+    },
+    {
+      "step": 4,
+      "title": {
+        "en": "Tempering & Caramelizing Onions",
+        "hi": "तड़का लगाना और प्याज को सुनहरा भूनना"
+      },
+      "text": {
+        "en": "In the same kadhai, heat 3-4 tbsp mustard oil until smoking hot. Lower the flame and add cumin seeds, bay leaves, and whole dried red chillies. When they crackle, add 2 finely chopped onions. Sauté on medium flame for 7-8 minutes until rich golden brown.",
+        "hi": "उसी कड़ाही में 3-4 चम्मच सरसों का तेल धुआं उठने तक गर्म करें। आंच धीमी करके जीरा, तेजपत्ता और साबुत सूखी लाल मिर्च डालें। अब 2 बारीक कटे प्याज डालें और मध्यम आंच पर 7-8 मिनट तक सुनहरा भूरा होने तक भूनें।"
+      }
+    },
+    {
+      "step": 5,
+      "title": {
+        "en": "Cooking Tomato Masala till Oil Separates",
+        "hi": "टमाटर और पिसे मसाले भूनना (तेल छूटने तक)"
+      },
+      "text": {
+        "en": "Pour in the pureed tomato-garlic-ginger paste. Add coriander powder, red chilli powder, turmeric powder, roasted cumin powder, and 2 tsp salt. Mix thoroughly and cook on medium-low flame for 6-8 minutes, stirring occasionally, until the tomato paste darkens, reduces, and glossy oil droplets release along the sides.",
+        "hi": "कड़ाही में पिसा हुआ टमाटर पेस्ट डालें। साथ ही धनिया पाउडर, लाल मिर्च पाउडर, हल्दी, भुना जीरा और 2 छोटे चम्मच नमक मिलाएं। मध्यम-धीमी आंच पर 6-8 मिनट भूनें जब तक कि मसाला गहरा लाल न हो जाए और किनारों से तेल न छूटने लगे।"
+      }
+    },
+    {
+      "step": 6,
+      "title": {
+        "en": "Adding Hand-Crushed Potatoes & Soya Chunks",
+        "hi": "हाथ से फोड़े आलू और भुनी सोया वड़ी मिलाना"
+      },
+      "text": {
+        "en": "Take 3 peeled boiled potatoes and crush them unevenly using your hands (do not cut into knife cubes). The craggy potato pieces and natural potato starches will dissolve and naturally thicken the curry into a dhaba-style gravy. Add the crushed potatoes and roasted soya chunks to the masala. Sauté together on medium heat for 2 minutes to coat with spices.",
+        "hi": "3 उबले आलुओं को चाकू से काटने के बजाय हाथ से रफली फोड़ लें। आलू के छोटे-बड़े टुकड़े ग्रेवी को गाढ़ा और ढाबा जैसा टेक्सचर देते हैं। फोड़े हुए आलू और भुनी सोया वड़ी को मसाले में डालें और 2 मिनट तक अच्छी तरह भूनें।"
+      }
+    },
+    {
+      "step": 7,
+      "title": {
+        "en": "Slow Simmering & Dum (10 Minutes)",
+        "hi": "पानी डालकर 10 मिनट धीमी आंच पर पकाना"
+      },
+      "text": {
+        "en": "Pour in 2 to 2.5 cups of warm water. Stir well and bring to a rolling boil. Add 2-3 slit green chillies. Cover with a lid and simmer on lowest flame for 10 minutes. The soya chunks will swell fully, drinking in the spiced tomato broth into their sponge centers.",
+        "hi": "कड़ाही में 2 से 2.5 कप गुनगुना पानी डालें। उबाल आने पर 2-3 चीरा लगी हरी मिर्च डालें। ढक्कन लगाकर सबसे धीमी आंच पर 10 मिनट तक पकने दें। सोयाबीन अंदर तक रसे को सोखकर एकदम जूसी हो जाएगी।"
+      }
+    },
+    {
+      "step": 8,
+      "title": {
+        "en": "Dhaba Finishing with Kewra Water & Serving",
+        "hi": "केवड़ा जल, कसूरी मेथी और परोसना"
+      },
+      "text": {
+        "en": "Uncover the pan. Sprinkle garam masala, crushed kasuri methi, 1 tsp kewra water, and freshly chopped coriander leaves. Stir gently, turn off the flame, and let it sit covered for 3 minutes for the aromas to infuse. Serve hot with steamed rice, phulkas, or hot puris.",
+        "hi": "ढक्कन हटाएं। गरम मसाला, मसली कसूरी मेथी, 1 छोटा चम्मच केवड़ा जल और ताजा हरा धनिया मिलाएं। गैस बंद करें और 3 मिनट ढककर दम पर रखें। गरमा-गरम आलू सोयाबीन की सब्जी को चावल, रोटियों या पूरियों के साथ परोसें।"
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "The lemon juice and hot water soak is the golden rule for soya chunks. It eliminates the raw commercial beany smell that makes many people dislike soya.",
+      "hi": "सोया वड़ी को नींबू और खौलते पानी में भिगोना सबसे असरदार ट्रिक है—यह सोया की कच्ची महक को पूरी तरह गायब कर देता है।"
+    },
+    {
+      "en": "Never cut boiled potatoes with a knife for this curry. Crushing them unevenly with your hands releases free starch that thickens the gravy naturally without any flour or cream.",
+      "hi": "उबले आलू को कभी चाकू से न काटें। हाथ से फोड़ने से आलू का स्टार्च ग्रेवी में घुलकर उसे बिना मलाई या काजू के भी प्राकृतिक रूप से गाढ़ा बना देता है।"
+    },
+    {
+      "en": "A single teaspoon of Kewra water added at the end creates that nostalgic, unmistakable highway dhaba aroma.",
+      "hi": "अंत में 1 छोटा चम्मच केवड़ा जल डालने से बिल्कुल हाईवे के ढाबों और हलवाई जैसी खास खुशबू आती है।"
+    }
+  ],
+  "title_en": "Dhaba-Style Soya Aloo Curry",
+  "title_hi": "ढाबा स्टाइल आलू सोयाबीन की सब्जी",
+  "description_en": "Authentic North Indian dhaba-style potato and soya chunks curry! Made with Bharatzkitchen's lemon-hot water soak that removes the raw beany odor, pan-roasted soya, hand-crushed potatoes for natural gravy thickness, and finished with a fragrant dash of kewra water.",
+  "description_hi": "सड़क किनारे ढाबों जैसी गाढ़ी, चटपटी और खुशबूदार आलू सोयाबीन की रसेदार सब्जी! नींबू के पानी में सोया भिगोने की सीक्रेट ट्रिक, हाथ से फोड़े हुए उबले आलू, और अंत में केवड़ा जल का सोंधा ढाबा स्वाद।",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 mins",
+  "cook_time_en": "25 mins",
+  "cook_time_hi": "25 mins",
+  "servings_en": "4 servings",
+  "servings_hi": "4 servings",
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "youtube_id": "eASL2cXkAgo",
+  "youtube_url": "https://www.youtube.com/watch?v=eASL2cXkAgo",
+  "image_url": "https://img.youtube.com/vi/eASL2cXkAgo/hqdefault.jpg",
+  "ingredients_en": [
+    "Soya Chunks (Nutri) - 1 cup",
+    "Fresh Lemon Juice - 1 tsp (neutralizes raw beany smell)",
+    "Salt for soaking - 1/2 tsp",
+    "Boiling Hot Water - 3 cups",
+    "Oil for roasting soya - 1 tbsp",
+    "Boiled Potatoes - 3 medium (hand-crushed into uneven rustic chunks)",
+    "Hybrid Tomatoes - 4 medium",
+    "Garlic Cloves - 7 to 8",
+    "Fresh Ginger - 1.5 inch piece",
+    "Green Chillies - 2 to 3 (slit)",
+    "Mustard Oil or Cooking Oil - 3 to 4 tbsp",
+    "Onions - 2 medium (finely chopped)",
+    "Cumin Seeds (Jeera) - 1 tsp",
+    "Bay Leaves (Tej Patta) - 2",
+    "Whole Dry Red Chillies - 2",
+    "Coriander Powder (Dhaniya) - 2 tsp",
+    "Red Chilli Powder - 1 tsp",
+    "Turmeric Powder (Haldi) - 1/2 tsp",
+    "Roasted Cumin Powder (Bhuna Jeera) - 1/2 tsp",
+    "Salt - 2 tsp (to taste)",
+    "Garam Masala Powder - 1 tsp",
+    "Kasuri Methi (crushed) - 1 tsp",
+    "Kewra Water - 1 tsp (authentic roadside dhaba fragrance)",
+    "Fresh Coriander leaves - 3 tbsp (chopped)"
+  ],
+  "ingredients_hi": [
+    "सोया चंक्स (सोयाबीन वड़ी) - 1 कप",
+    "नींबू का रस - 1 छोटा चम्मच (सोयाबीन की महक दूर करने के लिए)",
+    "भिगोने के लिए नमक - 1/2 छोटा चम्मच",
+    "खौलता हुआ गर्म पानी - 3 कप",
+    "सोया भूनने के लिए तेल - 1 बड़ा चम्मच",
+    "उबले आलू - 3 मध्यम (हाथ से रफली फोड़े हुए, ग्रेवी गाढ़ी करने हेतु)",
+    "हाइब्रिड टमाटर - 4 मध्यम",
+    "लहसुन की कलियां - 7 से 8",
+    "ताजा अदरक - 1.5 इंच",
+    "हरी मिर्च - 2 से 3 (चीरा लगी)",
+    "सरसों का तेल या कुकिंग ऑयल - 3 से 4 बड़े चम्मच",
+    "प्याज - 2 मध्यम (बारीक कटे हुए)",
+    "जीरा - 1 छोटा चम्मच",
+    "तेजपत्ता - 2",
+    "साबुत सूखी लाल मिर्च - 2",
+    "धनिया पाउडर - 2 छोटे चम्मच",
+    "लाल मिर्च पाउडर - 1 छोटा चम्मच",
+    "हल्दी पाउडर - 1/2 छोटा चम्मच",
+    "भुना जीरा पाउडर - 1/2 छोटा चम्मच",
+    "नमक - 2 छोटे चम्मच (स्वादानुसार)",
+    "गरम मसाला - 1 छोटा चम्मच",
+    "कसूरी मेथी - 1 छोटा चम्मच (हाथ से मसली)",
+    "केवड़ा जल - 1 छोटा चम्मच (सड़क किनारे ढाबे वाली खास महक)",
+    "ताजा हरा धनिया - 3 चम्मच"
+  ],
+  "instructions_en": [
+    "Place 1 cup soya chunks in a deep bowl. Add 1/2 tsp salt and 1 tsp fresh lemon juice, then pour 3 cups of boiling hot water over them. Submerge completely and let rest for 15-20 minutes. The lemon juice chemically strips away the unpleasant raw beany odor of commercial soya, leaving them tender and clean. Drain, wash under cold water, and squeeze firmly to remove all moisture.",
+    "Heat 1 tbsp oil in a kadhai on medium flame. Add the squeezed soya chunks with a pinch of haldi and salt. Sauté for 3-4 minutes until the edges turn golden and lightly crisp. Roasting removes any rubbery texture and helps the chunks soak in the gravy later. Transfer to a plate.",
+    "In a blender jar, combine 4 chopped hybrid tomatoes, 7-8 garlic cloves, and 1.5 inch ginger. Blend into a smooth, vibrant puree without adding water.",
+    "In the same kadhai, heat 3-4 tbsp mustard oil until smoking hot. Lower the flame and add cumin seeds, bay leaves, and whole dried red chillies. When they crackle, add 2 finely chopped onions. Sauté on medium flame for 7-8 minutes until rich golden brown.",
+    "Pour in the pureed tomato-garlic-ginger paste. Add coriander powder, red chilli powder, turmeric powder, roasted cumin powder, and 2 tsp salt. Mix thoroughly and cook on medium-low flame for 6-8 minutes, stirring occasionally, until the tomato paste darkens, reduces, and glossy oil droplets release along the sides.",
+    "Take 3 peeled boiled potatoes and crush them unevenly using your hands (do not cut into knife cubes). The craggy potato pieces and natural potato starches will dissolve and naturally thicken the curry into a dhaba-style gravy. Add the crushed potatoes and roasted soya chunks to the masala. Sauté together on medium heat for 2 minutes to coat with spices.",
+    "Pour in 2 to 2.5 cups of warm water. Stir well and bring to a rolling boil. Add 2-3 slit green chillies. Cover with a lid and simmer on lowest flame for 10 minutes. The soya chunks will swell fully, drinking in the spiced tomato broth into their sponge centers.",
+    "Uncover the pan. Sprinkle garam masala, crushed kasuri methi, 1 tsp kewra water, and freshly chopped coriander leaves. Stir gently, turn off the flame, and let it sit covered for 3 minutes for the aromas to infuse. Serve hot with steamed rice, phulkas, or hot puris."
+  ],
+  "instructions_hi": [
+    "एक गहरे बर्तन में 1 कप सोया वड़ी लें। इसमें 1/2 छोटा चम्मच नमक, 1 छोटा चम्मच नींबू का रस और 3 कप खौलता हुआ गर्म पानी डालें। 15-20 मिनट भीगने दें। नींबू का रस सोयाबीन की कच्ची महक को पूरी तरह खत्म कर देता है। इसके बाद ठंडे पानी से धोकर दोनों हाथों से अच्छी तरह पानी निचोड़ लें।",
+    "कड़ाही में 1 चम्मच तेल गर्म करें। निचोड़ी हुई सोयाबीन वड़ी, चुटकी भर हल्दी और नमक डालें। 3-4 मिनट भूनें जब तक कि किनारे हल्के सुनहरे न हो जाएं। इससे वड़ी का स्पंजीपन खत्म होता है और वह बाद में ग्रेवी को अच्छे से सोखती है। प्लेट में निकाल लें।",
+    "मिक्सी में 4 कटे हाइब्रिड टमाटर, 7-8 लहसुन की कलियां और 1.5 इंच अदरक बिना पानी डाले एकदम चिकना पीस लें।",
+    "उसी कड़ाही में 3-4 चम्मच सरसों का तेल धुआं उठने तक गर्म करें। आंच धीमी करके जीरा, तेजपत्ता और साबुत सूखी लाल मिर्च डालें। अब 2 बारीक कटे प्याज डालें और मध्यम आंच पर 7-8 मिनट तक सुनहरा भूरा होने तक भूनें।",
+    "कड़ाही में पिसा हुआ टमाटर पेस्ट डालें। साथ ही धनिया पाउडर, लाल मिर्च पाउडर, हल्दी, भुना जीरा और 2 छोटे चम्मच नमक मिलाएं। मध्यम-धीमी आंच पर 6-8 मिनट भूनें जब तक कि मसाला गहरा लाल न हो जाए और किनारों से तेल न छूटने लगे।",
+    "3 उबले आलुओं को चाकू से काटने के बजाय हाथ से रफली फोड़ लें। आलू के छोटे-बड़े टुकड़े ग्रेवी को गाढ़ा और ढाबा जैसा टेक्सचर देते हैं। फोड़े हुए आलू और भुनी सोया वड़ी को मसाले में डालें और 2 मिनट तक अच्छी तरह भूनें।",
+    "कड़ाही में 2 से 2.5 कप गुनगुना पानी डालें। उबाल आने पर 2-3 चीरा लगी हरी मिर्च डालें। ढक्कन लगाकर सबसे धीमी आंच पर 10 मिनट तक पकने दें। सोयाबीन अंदर तक रसे को सोखकर एकदम जूसी हो जाएगी।",
+    "ढक्कन हटाएं। गरम मसाला, मसली कसूरी मेथी, 1 छोटा चम्मच केवड़ा जल और ताजा हरा धनिया मिलाएं। गैस बंद करें और 3 मिनट ढककर दम पर रखें। गरमा-गरम आलू सोयाबीन की सब्जी को चावल, रोटियों या पूरियों के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "The lemon juice and hot water soak is the golden rule for soya chunks. It eliminates the raw commercial beany smell that makes many people dislike soya.",
+    "Never cut boiled potatoes with a knife for this curry. Crushing them unevenly with your hands releases free starch that thickens the gravy naturally without any flour or cream.",
+    "A single teaspoon of Kewra water added at the end creates that nostalgic, unmistakable highway dhaba aroma."
+  ],
+  "chef_tips_hi": [
+    "सोया वड़ी को नींबू और खौलते पानी में भिगोना सबसे असरदार ट्रिक है—यह सोया की कच्ची महक को पूरी तरह गायब कर देता है।",
+    "उबले आलू को कभी चाकू से न काटें। हाथ से फोड़ने से आलू का स्टार्च ग्रेवी में घुलकर उसे बिना मलाई या काजू के भी प्राकृतिक रूप से गाढ़ा बना देता है।",
+    "अंत में 1 छोटा चम्मच केवड़ा जल डालने से बिल्कुल हाईवे के ढाबों और हलवाई जैसी खास खुशबू आती है।"
+  ],
+  "tags": [
+    "Soya Aloo",
+    "Dhaba Style",
+    "Homestyle Curry",
+    "Main Course",
+    "Vegetarian"
+  ]
+}

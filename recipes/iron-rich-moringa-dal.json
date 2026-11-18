@@ -1,0 +1,96 @@
+{
+  "id": "iron-rich-moringa-dal",
+  "title": {
+    "en": "Iron-Rich Moringa Dal (Drumstick Leaves with Toor Dal)",
+    "hi": "आयरन से भरपूर मोरिंगा दाल (सहजन के पत्तों वाली दाल)"
+  },
+  "title_en": "Iron-Rich Moringa Dal (Drumstick Leaves with Toor Dal)",
+  "title_hi": "आयरन से भरपूर मोरिंगा दाल (सहजन के पत्तों वाली दाल)",
+  "description": {
+    "en": "Wholesome, comforting, and packed with plant-based iron and nutrients. Hearty Toor Dal cooked with fresh drumstick (moringa) leaves, tomatoes, garlic, and a ghee tempering.",
+    "hi": "आयरन और पोषण से भरपूर स्वादिष्ट मोरिंगा दाल। अरहर (तुवर) दाल के साथ सहजन के पत्तों, टमाटर, लहसुन और घी-हींग के तड़के से तैयार यह दाल सेहत और स्वाद दोनों में अव्वल है।"
+  },
+  "description_en": "Wholesome, comforting, and packed with plant-based iron and nutrients. Hearty Toor Dal cooked with fresh drumstick (moringa) leaves, tomatoes, garlic, and a ghee tempering.",
+  "description_hi": "आयरन और पोषण से भरपूर स्वादिष्ट मोरिंगा दाल। अरहर (तुवर) दाल के साथ सहजन के पत्तों, टमाटर, लहसुन और घी-हींग के तड़के से तैयार यह दाल सेहत और स्वाद दोनों में अव्वल है।",
+  "category": "Latest Recipe",
+  "isVegetarian": true,
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "prepTime": "10 mins",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cookTime": "20 mins",
+  "cook_time_en": "20 mins",
+  "cook_time_hi": "20 मिनट",
+  "servings": "4 servings",
+  "servings_en": "4 servings",
+  "servings_hi": "4 सर्विंग्स",
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "youtube_id": "d_r__IDIEew",
+  "youtubeId": "d_r__IDIEew",
+  "youtube_url": "https://www.youtube.com/watch?v=d_r__IDIEew",
+  "author": "HomeCookingShow",
+  "image_url": "/static/images/d_r__IDIEew.jpg",
+  "tags": [
+    "Moringa Dal",
+    "Drumstick Leaves",
+    "Iron Rich",
+    "Healthy Dal",
+    "Main Course",
+    "Vegetarian",
+    "HomeCookingShow"
+  ],
+  "ingredients_en": [
+    "3/4 cup Toor Dal (Pigeon Peas, rinsed)",
+    "2 cups Fresh Moringa Leaves (cleaned, stalks removed)",
+    "1 medium Onion (chopped)",
+    "2 medium Tomatoes (chopped)",
+    "6 cloves Garlic (crushed)",
+    "2 Green Chillies (slit)",
+    "1/2 tsp Turmeric Powder & 1 tsp Red Chilli Powder",
+    "1 tsp Coriander Powder & 1/2 tsp Cumin Seeds",
+    "2 tbsp Ghee or Oil",
+    "1 tsp Mustard Seeds, pinch of Asafoetida (Hing), Fresh Curry Leaves",
+    "Salt to taste"
+  ],
+  "ingredients_hi": [
+    "3/4 कप अरहर (तुवर) दाल (धोई हुई)",
+    "2 कप ताजे मोरिंगा/सहजन के पत्ते (डंठल रहित)",
+    "1 प्याज (बारीक कटा हुआ)",
+    "2 टमाटर (बारीक कटे हुए)",
+    "6 कलियां लहसुन (कुटी हुई)",
+    "2 हरी मिर्च (चीरा लगी हुई)",
+    "1/2 छोटा चम्मच हल्दी व 1 छोटा चम्मच लाल मिर्च पाउडर",
+    "1 छोटा चम्मच धनिया पाउडर व 1/2 छोटा चम्मच जीरा",
+    "2 बड़े चम्मच देसी घी या तेल",
+    "1 छोटा चम्मच राई, चुटकी भर हींग, कढ़ी पत्ता",
+    "स्वादानुसार नमक"
+  ],
+  "instructions_en": [
+    "In a pressure cooker, add washed toor dal, 2.5 cups water, turmeric, crushed garlic, and green chillies. Cook for 3–4 whistles until soft. Whisk gently.",
+    "Heat ghee or oil in a pan. Splutter mustard seeds, cumin seeds, hing, and curry leaves.",
+    "Add chopped onions and sauté until translucent. Add tomatoes, red chilli powder, and coriander powder; cook until tomatoes turn soft.",
+    "Add cleaned fresh moringa leaves and sauté on medium heat for 2–3 minutes until wilted.",
+    "Pour in the cooked mashed toor dal and add salt. Add warm water to adjust soupiness.",
+    "Simmer the dal gently for 5 minutes so the moringa leaves infuse their earthy goodness into the lentils.",
+    "Serve piping hot with steamed rice, a dollop of ghee, or hot rotis."
+  ],
+  "instructions_hi": [
+    "प्रेशर कुकर में अरहर दाल, 2.5 कप पानी, हल्दी, कुटा लहसुन और हरी मिर्च डालकर 3-4 सीटी लगाएं। दाल को हल्का सा घोट लें।",
+    "कड़ाही में घी या तेल गरम करें। राई, जीरा, हींग और कढ़ी पत्ता डालकर चटकाएं।",
+    "कटा प्याज डालकर हल्का भूनें। फिर टमाटर, लाल मिर्च पाउडर और धनिया पाउडर डालकर टमाटर के गलने तक पकाएं।",
+    "अब ताजे मोरिंगा के पत्ते डालें और 2-3 मिनट तक भूनें जब तक पत्ते सिकुड़ न जाएं।",
+    "उबली हुई दाल और स्वादानुसार नमक डालें। आवश्यकतानुसार थोड़ा गर्म पानी मिलाएं।",
+    "धीमी आंच पर 5 मिनट तक पकने दें ताकि पत्तों का स्वाद दाल में समा जाए।",
+    "गरमा-गरम चावल पर देसी घी डालकर या रोटी के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "Pluck only the delicate small leaves to avoid fibrous bitterness in the dal.",
+    "A touch of ghee in the tempering enhances iron absorption and mellows the greens."
+  ],
+  "chef_tips_hi": [
+    "दाल में केवल कोमल पत्ते ही डालें, मोटे डंठल बिल्कुल निकाल दें।",
+    "देसी घी का तड़का मोरिंगा के स्वाद को निखारता है और पोषक तत्वों को सोखने में मदद करता है।"
+  ]
+}

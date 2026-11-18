@@ -1,0 +1,169 @@
+{
+  "id": "delhi-style-fried-chicken",
+  "title_en": "Old Delhi Style Crispy Fried Chicken",
+  "title_hi": "पुरानी दिल्ली स्टाइल क्रिस्पी फ्राइड चिकन (जामा मस्जिद स्पेशल)",
+  "title": {
+    "en": "Old Delhi Style Crispy Fried Chicken",
+    "hi": "पुरानी दिल्ली स्टाइल क्रिस्पी फ्राइड चिकन (जामा मस्जिद स्पेशल)"
+  },
+  "description_en": "Recreate iconic Old Delhi Jama Masjid style crispy fried chicken by Bharatzkitchen. Features an aromatic two-step tenderizing marinade, a shattered-crisp besan & cornstarch coating, and the restaurant double-fry technique that keeps meat extraordinarily succulent on the bone.",
+  "description_hi": "भरतज़किचन के साथ बनाएं पुरानी दिल्ली जामा मस्जिद जैसा खस्ता, कुरकुरा और बेहद रसीला फ्राइड चिकन। दोहरे मैरिनेशन, बेसन-कॉर्नस्टार्च की क्रंची कोटिंग और डबल-फ्राई तकनीक से चिकन अंदर से जूसी और बाहर से सुपर क्रिस्पी बनता है।",
+  "description": {
+    "en": "Recreate iconic Old Delhi Jama Masjid style crispy fried chicken by Bharatzkitchen. Features an aromatic two-step tenderizing marinade, a shattered-crisp besan & cornstarch coating, and the restaurant double-fry technique that keeps meat extraordinarily succulent on the bone.",
+    "hi": "भरतज़किचन के साथ बनाएं पुरानी दिल्ली जामा मस्जिद जैसा खस्ता, कुरकुरा और बेहद रसीला फ्राइड चिकन। दोहरे मैरिनेशन, बेसन-कॉर्नस्टार्च की क्रंची कोटिंग और डबल-फ्राई तकनीक से चिकन अंदर से जूसी और बाहर से सुपर क्रिस्पी बनता है।"
+  },
+  "category": "Snacks",
+  "diet": "Non-Veg",
+  "diet_hi": "मांसाहारी",
+  "isVegetarian": false,
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "prep_time_en": "20 mins (+30 mins marination)",
+  "prep_time_hi": "20 मिनट (+30 मिनट मैरिनेशन)",
+  "cook_time_en": "20 mins",
+  "cook_time_hi": "20 मिनट",
+  "prepTime": "20 mins",
+  "cookTime": "20 mins",
+  "servings_en": "3-4 Servings",
+  "servings_hi": "3-4 लोग",
+  "servings": "3-4 Servings",
+  "youtube_id": "oc48II_HyEk",
+  "youtubeId": "oc48II_HyEk",
+  "youtube_url": "https://www.youtube.com/watch?v=oc48II_HyEk",
+  "image_url": "https://img.youtube.com/vi/oc48II_HyEk/hqdefault.jpg",
+  "tags": [
+    "chicken fry",
+    "delhi fried chicken",
+    "jama masjid chicken",
+    "bharatzkitchen",
+    "crispy chicken",
+    "non-veg snack",
+    "street food"
+  ],
+  "ingredients_en": [
+    "750g Bone-in Chicken pieces (thighs, drumsticks, and curry cuts with deep slits)",
+    "2 tbsp Fresh Ginger-Garlic paste",
+    "1.5 tbsp Lemon juice or vinegar",
+    "1 tsp Salt (or to taste)",
+    "1.5 tsp Kashmiri red chilli powder (for bright Old Delhi street color)",
+    "1 tsp Spicy red chilli powder / yellow chilli powder",
+    "1 tsp Roasted cumin powder (bhuna jeera)",
+    "1 tsp Coriander powder (dhania powder)",
+    "1/2 tsp Freshly crushed black pepper",
+    "1/2 tsp Garam masala powder",
+    "1 tsp Chaat masala (for authentic street zing)",
+    "1/2 tsp Ajwain (carom seeds, crushed between palms)",
+    "2 tbsp Thick hung curd (dahi)",
+    "1 Egg (whisked, for light airy binding)",
+    "3 tbsp Gram flour (besan, sieved)",
+    "2.5 tbsp Cornstarch / Cornflour (or rice flour, for shattering crunch)",
+    "Oil for deep frying",
+    "Extra Chaat Masala & Lemon wedges for tossing"
+  ],
+  "ingredients_hi": [
+    "750 ग्राम हड्डी वाला चिकन (गहरे कट लगे हुए लेग और थाई पीस)",
+    "2 बड़ा चम्मच ताज़ा अदरक-लहसुन का पेस्ट",
+    "1.5 बड़ा चम्मच नींबू का रस या सिरका",
+    "1 छोटा चम्मच नमक (स्वादानुसार)",
+    "1.5 छोटा चम्मच कश्मीरी लाल मिर्च पाउडर (जामा मस्जिद जैसे गहरे रंग के लिए)",
+    "1 छोटा चम्मच तीखी लाल मिर्च या पीली मिर्च पाउडर",
+    "1 छोटा चम्मच भुना जीरा पाउडर",
+    "1 छोटा चम्मच धनिया पाउडर",
+    "1/2 छोटा चम्मच कुटी हुई काली मिर्च",
+    "1/2 छोटा चम्मच गरम मसाला",
+    "1 छोटा चम्मच चाट मसाला",
+    "1/2 छोटा चम्मच अजवायन (हाथ से मसलकर)",
+    "2 बड़ा चम्मच गाढ़ा छना हुआ दही",
+    "1 अंडा (फेंटा हुआ, क्रिस्पी बाइंडिंग के लिए)",
+    "3 बड़ा चम्मच बेसन (छना हुआ)",
+    "2.5 बड़ा चम्मच कॉर्नस्टार्च या चावल का आटा (अल्ट्रा क्रंच के लिए)",
+    "तलने के लिए तेल",
+    "छिड़कने के लिए अतिरिक्त चाट मसाला और नींबू"
+  ],
+  "ingredients": [
+    {
+      "category": "First Marination (Tenderizer & Flavor Penetration)",
+      "items": [
+        { "en": "750g Bone-in Chicken with deep cuts", "hi": "750 ग्राम चिकन (कट लगे हुए टुकड़े)" },
+        { "en": "2 tbsp Ginger-Garlic paste", "hi": "2 बड़ा चम्मच अदरक-लहसुन पेस्ट" },
+        { "en": "1.5 tbsp Lemon juice & 1 tsp Salt", "hi": "1.5 बड़ा चम्मच नींबू रस और 1 छोटा चम्मच नमक" },
+        { "en": "1 tsp Kashmiri red chilli powder", "hi": "1 छोटा चम्मच कश्मीरी लाल मिर्च" }
+      ]
+    },
+    {
+      "category": "Second Marination & Crisp Batter",
+      "items": [
+        { "en": "2 tbsp Thick curd & 1 whisked Egg", "hi": "2 बड़ा चम्मच गाढ़ा दही और 1 फेंटा अंडा" },
+        { "en": "3 tbsp Besan & 2.5 tbsp Cornstarch", "hi": "3 बड़ा चम्मच बेसन और 2.5 बड़ा चम्मच कॉर्नस्टार्च" },
+        { "en": "1 tsp Roasted cumin & 1 tsp Coriander powder", "hi": "1 छोटा चम्मच भुना जीरा और धनिया पाउडर" },
+        { "en": "1/2 tsp Garam masala & 1/2 tsp Black pepper", "hi": "1/2 छोटा चम्मच गरम मसाला और काली मिर्च" },
+        { "en": "1/2 tsp Ajwain & 1 tsp Chaat masala", "hi": "1/2 छोटा चम्मच अजवायन और चाट मसाला" }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Step 1 - Slit & First Marination: Wash and pat dry chicken pieces thoroughly with paper towels. Make 2 to 3 deep angled incisions across drumsticks and thighs right down to the bone. Rub with ginger-garlic paste, lemon juice, salt, and 1 tsp Kashmiri chilli powder. Set aside for 20 minutes so acid and aromatics tenderize the meat fibers deeply.",
+    "Step 2 - Second Marination (Crisp Coating): To the marinated chicken, add thick curd, whisked egg, roasted cumin, coriander powder, black pepper, garam masala, ajwain, and chaat masala. Mix until chicken is evenly coated.",
+    "Step 3 - Batter Binding: Sprinkle sieved besan and cornstarch over the chicken. Mix with your hands until a light, velvety batter clings tightly to every piece without running off. Let it rest for 15 minutes.",
+    "Step 4 - First Fry (Cook through to the bone): Heat plenty of oil in a heavy deep kadai to medium (approx 160°C). Slide chicken pieces into the oil in batches without crowding. Fry undisturbed for 2 minutes so the coating sets, then fry gently on medium-low heat for 6 to 8 minutes until 80% cooked. The coating should be pale golden. Remove and drain on a wire rack for 5 minutes.",
+    "Step 5 - The Resting Secret: Resting between fries allows inner steam to escape and juices to redistribute, preventing a soggy coating.",
+    "Step 6 - Second Flash Fry (Shattered Crispness): Crank heat to high until oil is shimmering hot (190°C). Drop the rested chicken pieces back into the hot oil. Flash fry for 90 to 120 seconds while tossing. The exterior transforms into a deep golden, blistered, shattered-crisp crust while locking all molten juices inside.",
+    "Step 7 - Toss & Serve: Drain instantly and immediately toss while piping hot with generous chaat masala and a squeeze of fresh lemon. Serve with chilled mint-coriander yogurt chutney and sliced onion rings."
+  ],
+  "instructions_hi": [
+    "स्टेप 1 - पहला मैरिनेशन: चिकन को धोकर टिशू पेपर से अच्छी तरह सुखा लें। लेग और थाई पीस पर चाकू से हड्डी तक 2-3 गहरे कट लगाएं। अब अदरक-लहसुन पेस्ट, नींबू का रस, नमक और 1 छोटा चम्मच कश्मीरी मिर्च डालकर अच्छी तरह रगड़ें। 20 मिनट के लिए रख दें ताकि अंदर तक स्वाद बैठ जाए।",
+    "स्टेप 2 - दूसरा मैरिनेशन: अब चिकन में गाढ़ा दही, फेंटा हुआ अंडा, भुना जीरा, धनिया पाउडर, काली मिर्च, गरम मसाला, अजवायन और चाट मसाला डालें। अच्छी तरह मिलाएं।",
+    "स्टेप 3 - बेसन और कॉर्नस्टार्च कोटिंग: ऊपर से छना हुआ बेसन और कॉर्नस्टार्च डालें। हाथों से तब तक मिलाएं जब तक कि एक पतली, मखमली परत चिकन के हर हिस्से पर अच्छी तरह चिपक न जाए। 15 मिनट सेट होने दें।",
+    "स्टेप 4 - पहला फ्राय (अंदर तक पकाना): कड़ाही में तेल मध्यम गरम करें (लगभग 160°C)। चिकन के टुकड़े एक-एक करके तेल में डालें। 2 मिनट तक बिना हिलाए कोटिंग को सेट होने दें, फिर मध्यम आंच पर 6 से 8 मिनट तक तलें ताकि चिकन 80% अंदर तक पक जाए। बाहर निकालें और जाली पर 5 मिनट आराम करने दें।",
+    "स्टेप 5 - रेस्टिंग का सीक्रेट: पहली फ्राइंग के बाद चिकन को रेस्ट देने से अंदर की भाप निकलती है और चिकन कभी भी सौगी (गीला) नहीं होता।",
+    "स्टेप 6 - दूसरी फ्लैश फ्राय (सुपर क्रिस्पी): अब तेल को तेज़ आंच पर खूब गरम करें (190°C)। रेस्ट किए हुए चिकन को खौलते तेल में डालें और केवल 1.5 से 2 मिनट के लिए तेज़ आंच पर डीप फ्राई करें। बाहर की परत एकदम सुनहरी, खस्ता और कुरकुरी हो जाएगी और अंदर से चिकन सुपर जूसी रहेगा।",
+    "स्टेप 7 - गरमा-गरम परोसें: तुरंत निकालें और ऊपर से ढेर सारा चाट मसाला और नींबू का रस छिड़ककर टॉस करें। पुदीना-दही की हरी चटनी और प्याज के छल्लों के साथ पेश करें।"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": {
+        "en": "Make deep bone-deep cuts into chicken pieces. Rub with ginger-garlic, lemon juice, salt, and Kashmiri chilli. Rest 20 mins.",
+        "hi": "चिकन पर गहरे कट लगाएं। अदरक-लहसुन, नींबू रस, नमक और मिर्च लगाकर 20 मिनट मैरीनेट करें।"
+      }
+    },
+    {
+      "step": 2,
+      "text": {
+        "en": "Mix in curd, egg, spices, besan, and cornstarch until a velvety batter clings evenly to each piece.",
+        "hi": "दही, अंडा, मसाले, बेसन और कॉर्नस्टार्च डालकर अच्छी तरह मिलाएं ताकि मखमली कोटिंग बन जाए।"
+      }
+    },
+    {
+      "step": 3,
+      "text": {
+        "en": "First Fry: Fry in medium oil (160°C) for 7-8 minutes until 80% cooked. Drain and rest for 5 minutes.",
+        "hi": "पहला फ्राय: मध्यम तेल में 7-8 मिनट तलें ताकि चिकन अंदर तक पक जाए। निकाल कर 5 मिनट रेस्ट दें।"
+      }
+    },
+    {
+      "step": 4,
+      "text": {
+        "en": "Second Fry: Flash-fry in smoking hot oil (190°C) for 90 seconds until ultra-crisp, blistered, and golden.",
+        "hi": "दूसरा फ्राय: तेज़ खौलते तेल में 1.5 मिनट तलें ताकि बाहर से क्रंची और अंदर से बेहद रसीला बने।"
+      }
+    },
+    {
+      "step": 5,
+      "text": {
+        "en": "Toss instantly with chaat masala and lemon juice. Serve with mint chutney and onion rings.",
+        "hi": "तुरंत चाट मसाला और नींबू छिड़कें। पुदीने की चटनी और प्याज के लच्छों के साथ परोसें।"
+      }
+    }
+  ],
+  "chef_tips_en": [
+    "The Double-Fry Rule: Frying once at high heat burns the besan crust while leaving raw meat at the bone. Double frying ensures low-heat thorough cooking first, followed by a high-heat flash crisp that dispels surface grease.",
+    "Cornstarch + Besan Ratio: Besan gives authentic Delhi street earthiness and color, while cornstarch creates the brittle, non-soggy crunch that stays crisp for hours.",
+    "Pat Dry Chicken: If raw chicken has water on its surface, the batter will slip off during frying. Always dab completely dry with paper towels before marinating."
+  ],
+  "chef_tips_hi": [
+    "डबल-फ्राई का महत्व: एक बार में तेज़ आंच पर तलने से बाहर का बेसन जल जाता है और हड्डी के पास चिकन कच्चा रह जाता है। पहले धीमी आंच पर पकाएं, फिर तेज़ तेल में सिर्फ 90 सेकंड तलें।",
+    "बेसन और कॉर्नस्टार्च का तालमेल: बेसन से जामा मस्जिद वाला पारंपरिक स्वाद और रंग आता है, और कॉर्नस्टार्च परत को लंबे समय तक कुरकुरा बनाए रखता है।",
+    "चिकन को सुखाना: चिकन पर पानी नहीं होना चाहिए। मैरिनेशन से पहले टिश्यू से अच्छी तरह सुखा लें ताकि मसाला तेल में अलग न हो।"
+  ]
+}

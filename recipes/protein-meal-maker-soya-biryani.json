@@ -1,0 +1,100 @@
+{
+  "id": "protein-meal-maker-soya-biryani",
+  "title": {
+    "en": "Flavorful Soya Chunks Biryani (Meal Maker Biryani)",
+    "hi": "स्वादिष्ट सोया चंक्स बिरयानी (मील मेकर बिरयानी)"
+  },
+  "title_en": "Flavorful Soya Chunks Biryani (Meal Maker Biryani)",
+  "title_hi": "स्वादिष्ट सोया चंक्स बिरयानी (मील मेकर बिरयानी)",
+  "description": {
+    "en": "A fragrant one-pot meal maker biryani loaded with plant protein. Spiced marinated soya chunks layered with long-grain basmati rice, caramelized onions, fresh mint, and whole garam masala.",
+    "hi": "पौष्टिक और प्रोटीन से भरपूर एक बर्तन में बनने वाली सोया चंक्स बिरयानी। मैरीनेट किए हुए सोयाबीन, लंबे दाने वाले बासमती चावल, भूने प्याज और ताजे पुदीने के साथ तैयार दम बिरयानी।"
+  },
+  "description_en": "A fragrant one-pot meal maker biryani loaded with plant protein. Spiced marinated soya chunks layered with long-grain basmati rice, caramelized onions, fresh mint, and whole garam masala.",
+  "description_hi": "पौष्टिक और प्रोटीन से भरपूर एक बर्तन में बनने वाली सोया चंक्स बिरयानी। मैरीनेट किए हुए सोयाबीन, लंबे दाने वाले बासमती चावल, भूने प्याज और ताजे पुदीने के साथ तैयार दम बिरयानी।",
+  "category": "Latest Recipe",
+  "isVegetarian": true,
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "prepTime": "15 mins",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cookTime": "25 mins",
+  "cook_time_en": "25 mins",
+  "cook_time_hi": "25 मिनट",
+  "servings": "4 servings",
+  "servings_en": "4 servings",
+  "servings_hi": "4 सर्विंग्स",
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "youtube_id": "-qfN7tms3Ow",
+  "youtubeId": "-qfN7tms3Ow",
+  "youtube_url": "https://www.youtube.com/watch?v=-qfN7tms3Ow",
+  "author": "HomeCookingShow",
+  "image_url": "/static/images/-qfN7tms3Ow.jpg",
+  "tags": [
+    "Soya Biryani",
+    "Meal Maker",
+    "Lunchbox Recipe",
+    "One Pot Rice",
+    "High Protein",
+    "Vegetarian",
+    "HomeCookingShow"
+  ],
+  "ingredients_en": [
+    "1.5 cups Soya Chunks (boiled and squeezed)",
+    "2 cups Aged Basmati Rice (soaked for 30 minutes)",
+    "1/2 cup Thick Curd (Yogurt)",
+    "2 large Onions (thinly sliced and golden fried)",
+    "2 Tomatoes (chopped)",
+    "1 tbsp Ginger-Garlic Paste",
+    "1/2 cup Mint Leaves & 1/2 cup Coriander Leaves",
+    "Whole Spices: 1 Bay Leaf, 1 Cinnamon, 3 Cardamoms, 4 Cloves, 1 Star Anise",
+    "Spices: 1 tsp Chilli Powder, 1/2 tsp Turmeric, 1 tsp Biryani Masala, 1 tsp Coriander Powder",
+    "3 tbsp Ghee + 2 tbsp Oil",
+    "3.5 cups Water",
+    "Salt to taste"
+  ],
+  "ingredients_hi": [
+    "1.5 कप सोया चंक्स (उबालकर निचोड़े हुए)",
+    "2 कप बासमती चावल (30 मिनट भीगे हुए)",
+    "1/2 कप गाढ़ा दही",
+    "2 बड़े प्याज (पतले कटे और सुनहरे तले हुए)",
+    "2 टमाटर (बारीक कटे हुए)",
+    "1 बड़ा चम्मच अदरक-लहसुन पेस्ट",
+    "1/2 कप पुदीना व 1/2 कप हरा धनिया",
+    "खड़े मसाले: 1 तेजपत्ता, 1 दालचीनी, 3 इलायची, 4 लौंग, 1 चकरी फूल",
+    "मसाले: 1 छोटा चम्मच लाल मिर्च, 1/2 छोटा चम्मच हल्दी, 1 छोटा चम्मच बिरयानी मसाला, 1 छोटा चम्मच धनिया पाउडर",
+    "3 बड़े चम्मच घी + 2 बड़े चम्मच तेल",
+    "3.5 कप पानी",
+    "स्वादानुसार नमक"
+  ],
+  "instructions_en": [
+    "Marinate squeezed soya chunks with curd, turmeric, chilli powder, biryani masala, ginger-garlic paste, and salt for 15 minutes.",
+    "Heat ghee and oil in a heavy cooker or biryani pot. Add whole spices and fry until fragrant.",
+    "Add sliced onions and fry until golden brown. Stir in chopped tomatoes, mint, and coriander leaves until tomatoes turn mushy.",
+    "Add marinated soya chunks and sauté for 4–5 minutes on medium flame until oil begins to release.",
+    "Add soaked and drained basmati rice. Gently toss for 1 minute.",
+    "Pour measured boiling water and adjust salt. Bring to a vigorous boil.",
+    "Cover tightly with lid. Cook on medium flame for 1 whistle, then simmer on very low heat for 5 minutes. Let pressure release naturally.",
+    "Fluff with a fork and serve hot with raita and roasted papad."
+  ],
+  "instructions_hi": [
+    "निचोड़े हुए सोया चंक्स को दही, हल्दी, लाल मिर्च, बिरयानी मसाला, अदरक-लहसुन पेस्ट और नमक के साथ 15 मिनट मैरीनेट करें।",
+    "कुकर या भारी बर्तन में घी और तेल गरम करें। खड़े मसाले डालकर खुशबू आने तक भूनें।",
+    "प्याज डालकर सुनहरा भूनें, फिर टमाटर, पुदीना और धनिया डालकर टमाटर के गलने तक पकाएं।",
+    "मैरीनेट किए हुए सोया चंक्स डालें और 4-5 मिनट तक तेल छूटने तक भूनें।",
+    "भीगा हुआ बासमती चावल डालें और हल्के हाथ से 1 मिनट मिलाएं।",
+    "नापकर उबलता हुआ पानी डालें और नमक जांच लें। अच्छी तरह उबाल आने दें।",
+    "ढक्कन बंद करें। मध्यम आंच पर 1 सीटी आने दें, फिर धीमी आंच पर 5 मिनट दम दें। भाप निकलने दें।",
+    "कांटे से हल्के हाथ से खोलें और ठंडे बूंदी रायते के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "Marinating the soya chunks in spiced yogurt infuses tenderness and deep flavor into the center of each chunk.",
+    "Use boiling water when adding liquid so the rice cooks evenly without turning sticky."
+  ],
+  "chef_tips_hi": [
+    "सोया चंक्स को दही और मसालों में मैरीनेट करने से वे अंदर तक जूसी और फ्लेवरफुल बनते हैं।",
+    "चावल में हमेशा गरम/उबलता पानी ही डालें ताकि दाना खिला-खिला और लंबा बने।"
+  ]
+}

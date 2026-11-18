@@ -1,0 +1,236 @@
+{
+  "id": "perfect-masala-chai",
+  "title": {
+    "en": "The Science of Perfect Masala Chai",
+    "hi": "परफेक्ट कड़क मसाला चाय (असली वैज्ञानिक तरीका)"
+  },
+  "description": {
+    "en": "Why 90% of households make chai wrong! Bharatzkitchen's food science guide to the perfect cup of kadak masala chai: the exact extraction sequence of whole spices, water-to-milk ratio, temperature control, and volatile aromatic finish.",
+    "hi": "चाय बनाने का असली वैज्ञानिक तरीका! पहले खड़े मसालों का काढ़ा, फिर चाय पत्ती और चीनी की भुनाई, और अंत में रूम-टेम्परेचर दूध की मलाईदार बाइंडिंग—जिससे बनेगी बिल्कुल कड़क, खुशबूदार और हलक को सुकून देने वाली मसाला चाय।"
+  },
+  "category": "Breakfast",
+  "isVegetarian": true,
+  "prepTime": "5 mins",
+  "cookTime": "10 mins",
+  "servings": "2 cups",
+  "youtubeId": "zIuQBFFR9ow",
+  "author": "Bharatzkitchen Hindi",
+  "ingredients": [
+    {
+      "category": {
+        "en": "Liquid Base (2:1 Ratio)",
+        "hi": "तरल आधार (2:1 पानी और दूध का अनुपात)"
+      },
+      "items": [
+        {
+          "en": "Fresh Filtered Water - 2 cups",
+          "hi": "ताजा पानी - 2 कप"
+        },
+        {
+          "en": "Whole Milk (Room Temperature or Warm) - 1 cup (do NOT use cold milk)",
+          "hi": "गाढ़ा दूध - 1 कप (कमरे के तापमान पर या हल्का गुनगुना, फ्रिज का ठंडा बिल्कुल नहीं)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Fresh Spices (Extracted First in Water)",
+        "hi": "ताजे खड़े मसाले (पहले पानी में उबलने वाले)"
+      },
+      "items": [
+        {
+          "en": "Fresh Ginger (Adrak) - 1 inch (washed, unpeeled & crushed vigorously in a mortar)",
+          "hi": "ताजा अदरक - 1 इंच (अच्छी तरह कुचला हुआ)"
+        },
+        {
+          "en": "Green Cardamom (Choti Elaichi) - 2 to 3 pods (cracked open, pods & seeds)",
+          "hi": "छोटी इलायची - 2 से 3 (छिलके सहित कुटी हुई)"
+        },
+        {
+          "en": "Cloves (Laung) - 2 to 3",
+          "hi": "लौंग - 2 से 3"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Tea & Sweetener (Decoction Stage)",
+        "hi": "चाय पत्ती और मिठास"
+      },
+      "items": [
+        {
+          "en": "Strong CTC Black Tea Leaves (Chai Patti) - 2 to 2.5 tsp",
+          "hi": "कड़क सीटीसी चाय पत्ती - 2 से 2.5 छोटे चम्मच"
+        },
+        {
+          "en": "Sugar - 2 tsp (or to taste, aids in extraction)",
+          "hi": "चीनी - 2 छोटे चम्मच (स्वादानुसार)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Top Aromatic Finishing Touch",
+        "hi": "अंत में खुशबू का तड़का"
+      },
+      "items": [
+        {
+          "en": "Fresh Cardamom Seed Powder or Cinnamon Powder - a tiny pinch (off-heat finish)",
+          "hi": "इलायची बीज का ताजा पाउडर या दालचीनी - 1 चुटकी (गैस बंद करते समय)"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": {
+        "en": "Stage 1: Extracting Spice Essential Oils in Water",
+        "hi": "चरण 1: पानी में मसालों का सत्व निकालना"
+      },
+      "text": {
+        "en": "In a heavy tea saucepan, add 2 cups of fresh water. Add crushed ginger, cracked cardamom pods, and cloves directly into the water. Bring to a rolling boil and let it boil vigorously on medium-high flame for exactly 2 minutes. The water will turn light amber as the hot water extracts the water-soluble gingerols and essential spice oils before milk fat or tea leaves can coat them.",
+        "hi": "चाय के पैन में 2 कप पानी लें। इसमें कुचला हुआ अदरक, कुटी हुई इलायची और लौंग डालें। तेज आंच पर उबाल आने दें और पूरे 2 मिनट तक खौलने दें। पानी का रंग हल्का सुनहरा हो जाएगा और मसालों का पूरा अर्क पानी में उतर जाएगा।"
+      }
+    },
+    {
+      "step": 2,
+      "title": {
+        "en": "Stage 2: Brewing Tea Leaves & Sugar (The Decoction)",
+        "hi": "चरण 2: चाय पत्ती और चीनी का काढ़ा पकाना"
+      },
+      "text": {
+        "en": "Add 2 to 2.5 teaspoons of strong black tea leaves and 2 teaspoons of sugar into the boiling spiced water. Lower heat to medium and simmer for 3 to 4 minutes. The hot water extracts the dark tannins and caffeine without the interference of milk fat. Adding sugar now slightly raises the boiling point and assists in extracting rich color and body.",
+        "hi": "उबलते हुए मसालेदार पानी में 2 से 2.5 चम्मच कड़क चाय पत्ती और 2 चम्मच चीनी डालें। मध्यम आंच पर 3 से 4 मिनट तक पकने दें। पानी में चाय पत्ती बिना दूध की चिकनाई के अपना गहरा लाल-भूरा रंग और कड़कपन पूरी तरह छोड़ देती है।"
+      }
+    },
+    {
+      "step": 3,
+      "title": {
+        "en": "Stage 3: Adding Room-Temperature Milk (No Thermal Shock)",
+        "hi": "चरण 3: कमरे के तापमान का दूध मिलाना"
+      },
+      "text": {
+        "en": "Pour in 1 cup of room-temperature or slightly warm whole milk. NEVER pour freezing cold milk straight from the refrigerator—cold milk causes thermal shock that halts the extraction process and can cause ginger-infused tea to curdle.",
+        "hi": "अब 1 कप कमरे के तापमान का या हल्का गुनगुना दूध डालें। फ्रिज से निकला एकदम ठंडा दूध कभी न डालें—ठंडे दूध से तापमान अचानक गिर जाता है और अदरक की वजह से दूध फटने का खतरा रहता है।"
+      }
+    },
+    {
+      "step": 4,
+      "title": {
+        "en": "Stage 4: Rolling Simmer & Emulsification",
+        "hi": "चरण 4: उफान और धीमी आंच पर कढ़ाना"
+      },
+      "text": {
+        "en": "Bring the tea back to a boil. As the milk boils and rises, lower the flame and let it simmer gently on medium-low for 2 to 3 minutes. The milk fats and casein proteins bind seamlessly to the tea tannins, transforming harsh bitterness into a smooth, velvety, and creamy brew with deep golden-brown color.",
+        "hi": "चाय को दोबारा उबलने दें। जैसे ही उफान ऊपर आए, आंच धीमी कर दें और 2 से 3 मिनट कढ़ने दें। दूध की मलाई और प्रोटीन चाय के कड़कपन से मिलकर उसे मखमली, गाढ़ा और लाजवाब स्वाद देते हैं।"
+      }
+    },
+    {
+      "step": 5,
+      "title": {
+        "en": "Stage 5: Top-Note Aroma & Straining",
+        "hi": "चरण 5: ताजी खुशबू और छानना"
+      },
+      "text": {
+        "en": "Just 10 seconds before turning off the heat, sprinkle a tiny pinch of freshly ground cardamom seed powder or cinnamon. Prolonged boiling evaporates delicate floral top notes, so adding this right at the end locks in captivating aroma. Turn off heat immediately. Strain through a fine mesh strainer directly into kulhad cups or cutting chai glasses.",
+        "hi": "गैस बंद करने से ठीक 10 सेकंड पहले चुटकी भर ताजा पिसा इलायची पाउडर या दालचीनी छिड़कें। लंबे समय तक खौलाने से इलायची की ऊपरी खुशबू उड़ जाती है, अंत में डालने से वह चाय में कैद रहती है। तुरंत गैस बंद करें और छन्नी से कुल्हड़ या कप में छान लें।"
+      }
+    },
+    {
+      "step": 6,
+      "title": {
+        "en": "Serving",
+        "hi": "परोसना"
+      },
+      "text": {
+        "en": "Serve piping hot with crunchy rusks, crisp namak paare, butter biscuits, or hot vegetable pakoras.",
+        "hi": "गरमा-गरम कड़क मसाला चाय को कुरकुरे रस्क, नमक पारे या गरमा-गरम पकोड़ों के साथ चुस्कियां लेकर आनंद लें।"
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Never boil milk, tea leaves, and spices together from the beginning. Milk fat coats the surface of dry tea leaves and spices, preventing water from extracting their soluble flavor compounds.",
+      "hi": "शुरुआत में कभी दूध, चाय पत्ती और मसालों को एक साथ न उबालें। दूध की चिकनाई चाय पत्ती और मसालों पर परत बना देती है, जिससे उनका स्वाद और रंग नहीं निकल पाता।"
+    },
+    {
+      "en": "Always crush ginger fresh in a mortar rather than grating. Crushing ruptures the juice sacs without shredding fibrous pulp that can make tea cloudy.",
+      "hi": "अदरक को कद्दूकस करने के बजाय खलबत्ते में कूट कर डालें। कूटने से अदरक का रस निकलता है और चाय में रेशे नहीं तैरते।"
+    },
+    {
+      "en": "Adding a tiny pinch of fresh cardamom seed powder at the very last second gives that irresistible fragrant burst you smell in boutique tea stalls.",
+      "hi": "गैस बंद करते समय चुटकी भर ताजा इलायची पाउडर छिड़कना ही चाय को असली मनमोहक महक देने का सबसे बड़ा राज है।"
+    }
+  ],
+  "title_en": "The Science of Perfect Masala Chai",
+  "title_hi": "परफेक्ट कड़क मसाला चाय (असली वैज्ञानिक तरीका)",
+  "description_en": "Why 90% of households make chai wrong! Bharatzkitchen's food science guide to the perfect cup of kadak masala chai: the exact extraction sequence of whole spices, water-to-milk ratio, temperature control, and volatile aromatic finish.",
+  "description_hi": "चाय बनाने का असली वैज्ञानिक तरीका! पहले खड़े मसालों का काढ़ा, फिर चाय पत्ती और चीनी की भुनाई, और अंत में रूम-टेम्परेचर दूध की मलाईदार बाइंडिंग—जिससे बनेगी बिल्कुल कड़क, खुशबूदार और हलक को सुकून देने वाली मसाला चाय।",
+  "prep_time_en": "5 mins",
+  "prep_time_hi": "5 mins",
+  "cook_time_en": "10 mins",
+  "cook_time_hi": "10 mins",
+  "servings_en": "2 cups",
+  "servings_hi": "2 cups",
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "youtube_id": "zIuQBFFR9ow",
+  "youtube_url": "https://www.youtube.com/watch?v=zIuQBFFR9ow",
+  "image_url": "https://img.youtube.com/vi/zIuQBFFR9ow/hqdefault.jpg",
+  "ingredients_en": [
+    "Fresh Filtered Water - 2 cups",
+    "Whole Milk (Room Temperature or Warm) - 1 cup (do NOT use cold milk)",
+    "Fresh Ginger (Adrak) - 1 inch (washed, unpeeled & crushed vigorously in a mortar)",
+    "Green Cardamom (Choti Elaichi) - 2 to 3 pods (cracked open, pods & seeds)",
+    "Cloves (Laung) - 2 to 3",
+    "Strong CTC Black Tea Leaves (Chai Patti) - 2 to 2.5 tsp",
+    "Sugar - 2 tsp (or to taste, aids in extraction)",
+    "Fresh Cardamom Seed Powder or Cinnamon Powder - a tiny pinch (off-heat finish)"
+  ],
+  "ingredients_hi": [
+    "ताजा पानी - 2 कप",
+    "गाढ़ा दूध - 1 कप (कमरे के तापमान पर या हल्का गुनगुना, फ्रिज का ठंडा बिल्कुल नहीं)",
+    "ताजा अदरक - 1 इंच (अच्छी तरह कुचला हुआ)",
+    "छोटी इलायची - 2 से 3 (छिलके सहित कुटी हुई)",
+    "लौंग - 2 से 3",
+    "कड़क सीटीसी चाय पत्ती - 2 से 2.5 छोटे चम्मच",
+    "चीनी - 2 छोटे चम्मच (स्वादानुसार)",
+    "इलायची बीज का ताजा पाउडर या दालचीनी - 1 चुटकी (गैस बंद करते समय)"
+  ],
+  "instructions_en": [
+    "In a heavy tea saucepan, add 2 cups of fresh water. Add crushed ginger, cracked cardamom pods, and cloves directly into the water. Bring to a rolling boil and let it boil vigorously on medium-high flame for exactly 2 minutes. The water will turn light amber as the hot water extracts the water-soluble gingerols and essential spice oils before milk fat or tea leaves can coat them.",
+    "Add 2 to 2.5 teaspoons of strong black tea leaves and 2 teaspoons of sugar into the boiling spiced water. Lower heat to medium and simmer for 3 to 4 minutes. The hot water extracts the dark tannins and caffeine without the interference of milk fat. Adding sugar now slightly raises the boiling point and assists in extracting rich color and body.",
+    "Pour in 1 cup of room-temperature or slightly warm whole milk. NEVER pour freezing cold milk straight from the refrigerator—cold milk causes thermal shock that halts the extraction process and can cause ginger-infused tea to curdle.",
+    "Bring the tea back to a boil. As the milk boils and rises, lower the flame and let it simmer gently on medium-low for 2 to 3 minutes. The milk fats and casein proteins bind seamlessly to the tea tannins, transforming harsh bitterness into a smooth, velvety, and creamy brew with deep golden-brown color.",
+    "Just 10 seconds before turning off the heat, sprinkle a tiny pinch of freshly ground cardamom seed powder or cinnamon. Prolonged boiling evaporates delicate floral top notes, so adding this right at the end locks in captivating aroma. Turn off heat immediately. Strain through a fine mesh strainer directly into kulhad cups or cutting chai glasses.",
+    "Serve piping hot with crunchy rusks, crisp namak paare, butter biscuits, or hot vegetable pakoras."
+  ],
+  "instructions_hi": [
+    "चाय के पैन में 2 कप पानी लें। इसमें कुचला हुआ अदरक, कुटी हुई इलायची और लौंग डालें। तेज आंच पर उबाल आने दें और पूरे 2 मिनट तक खौलने दें। पानी का रंग हल्का सुनहरा हो जाएगा और मसालों का पूरा अर्क पानी में उतर जाएगा।",
+    "उबलते हुए मसालेदार पानी में 2 से 2.5 चम्मच कड़क चाय पत्ती और 2 चम्मच चीनी डालें। मध्यम आंच पर 3 से 4 मिनट तक पकने दें। पानी में चाय पत्ती बिना दूध की चिकनाई के अपना गहरा लाल-भूरा रंग और कड़कपन पूरी तरह छोड़ देती है।",
+    "अब 1 कप कमरे के तापमान का या हल्का गुनगुना दूध डालें। फ्रिज से निकला एकदम ठंडा दूध कभी न डालें—ठंडे दूध से तापमान अचानक गिर जाता है और अदरक की वजह से दूध फटने का खतरा रहता है।",
+    "चाय को दोबारा उबलने दें। जैसे ही उफान ऊपर आए, आंच धीमी कर दें और 2 से 3 मिनट कढ़ने दें। दूध की मलाई और प्रोटीन चाय के कड़कपन से मिलकर उसे मखमली, गाढ़ा और लाजवाब स्वाद देते हैं।",
+    "गैस बंद करने से ठीक 10 सेकंड पहले चुटकी भर ताजा पिसा इलायची पाउडर या दालचीनी छिड़कें। लंबे समय तक खौलाने से इलायची की ऊपरी खुशबू उड़ जाती है, अंत में डालने से वह चाय में कैद रहती है। तुरंत गैस बंद करें और छन्नी से कुल्हड़ या कप में छान लें।",
+    "गरमा-गरम कड़क मसाला चाय को कुरकुरे रस्क, नमक पारे या गरमा-गरम पकोड़ों के साथ चुस्कियां लेकर आनंद लें।"
+  ],
+  "chef_tips_en": [
+    "Never boil milk, tea leaves, and spices together from the beginning. Milk fat coats the surface of dry tea leaves and spices, preventing water from extracting their soluble flavor compounds.",
+    "Always crush ginger fresh in a mortar rather than grating. Crushing ruptures the juice sacs without shredding fibrous pulp that can make tea cloudy.",
+    "Adding a tiny pinch of fresh cardamom seed powder at the very last second gives that irresistible fragrant burst you smell in boutique tea stalls."
+  ],
+  "chef_tips_hi": [
+    "शुरुआत में कभी दूध, चाय पत्ती और मसालों को एक साथ न उबालें। दूध की चिकनाई चाय पत्ती और मसालों पर परत बना देती है, जिससे उनका स्वाद और रंग नहीं निकल पाता।",
+    "अदरक को कद्दूकस करने के बजाय खलबत्ते में कूट कर डालें। कूटने से अदरक का रस निकलता है और चाय में रेशे नहीं तैरते।",
+    "गैस बंद करते समय चुटकी भर ताजा इलायची पाउडर छिड़कना ही चाय को असली मनमोहक महक देने का सबसे बड़ा राज है।"
+  ],
+  "tags": [
+    "Masala Chai",
+    "Indian Tea",
+    "Kadak Chai",
+    "Beverages",
+    "Spiced Tea"
+  ]
+}

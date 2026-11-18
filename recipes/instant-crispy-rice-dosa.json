@@ -1,0 +1,338 @@
+{
+  "id": "instant-crispy-rice-dosa",
+  "title": {
+    "en": "3-Minute Instant Crispy Rice Dosa & Roasted Sesame Chutney",
+    "hi": "3 मिनट में कुरकुरा इंस्टेंट चावल डोसा और तिल-मूंगफली चटनी"
+  },
+  "description": {
+    "en": "No fermentation, no grinding, zero wait time! Ultra-crispy, lacy, and golden rice flour dosa made with Bharatzkitchen's dry suji crunch trick, paired with a nutty, aromatic roasted sesame and peanut chutney.",
+    "hi": "बिना दाल भिगोए, बिना पीसने के झंझट के 3 मिनट में तैयार! जालीदार और बेहद कुरकुरा चावल का डोसा—सूखी सूजी के सीक्रेट क्रंच के साथ, और साथ में खास भुने तिल व मूंगफली की स्वादिष्ट चटनी।"
+  },
+  "category": "Breakfast",
+  "isVegetarian": true,
+  "prepTime": "5 mins",
+  "cookTime": "10 mins",
+  "servings": "3-4 servings (6-8 dosas)",
+  "youtubeId": "Y5AHd8chECY",
+  "author": "Bharatzkitchen Hindi",
+  "ingredients": [
+    {
+      "category": {
+        "en": "Instant Lacy Dosa Batter",
+        "hi": "जालीदार डोसा बैटर"
+      },
+      "items": [
+        {
+          "en": "Rice Flour (Chawal ka Aata) - 1 cup",
+          "hi": "चावल का आटा - 1 कप"
+        },
+        {
+          "en": "Water - 4 cups total (1:4 ratio for watery thin batter)",
+          "hi": "पानी - कुल 4 कप (पतला जालीदार घोल बनाने के लिए)"
+        },
+        {
+          "en": "Semolina (Suji / Rava) - 2 tbsp (added dry for crisp pockets)",
+          "hi": "सूजी - 2 बड़े चम्मच (सूखी मिलाकर क्रंची पॉकेट्स बनाने हेतु)"
+        },
+        {
+          "en": "Cumin Seeds (Jeera) - 1 tsp",
+          "hi": "जीरा - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Black Pepper Powder - 1/2 tsp",
+          "hi": "काली मिर्च पाउडर - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Salt - 1 tsp (to taste)",
+          "hi": "नमक - 1 छोटा चम्मच (स्वादानुसार)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Fresh Veggie Mix-ins",
+        "hi": "बारीक कटी सब्जियां"
+      },
+      "items": [
+        {
+          "en": "Onion - 1 small (very finely chopped)",
+          "hi": "प्याज - 1 छोटा (बारीक कटा)"
+        },
+        {
+          "en": "Carrot - 1/2 small (finely grated)",
+          "hi": "गाजर - 1/2 छोटी (बारीक कद्दूकस की हुई)"
+        },
+        {
+          "en": "Green Chillies - 2 (finely minced)",
+          "hi": "हरी मिर्च - 2 (बारीक कटी)"
+        },
+        {
+          "en": "Curry Leaves - 8 to 10 (finely chopped)",
+          "hi": "करी पत्ता - 8 से 10 (बारीक कटे)"
+        },
+        {
+          "en": "Fresh Coriander leaves - 2 tbsp (chopped)",
+          "hi": "ताजा हरा धनिया - 2 चम्मच"
+        },
+        {
+          "en": "Cooking Oil - for drizzling on the tawa",
+          "hi": "कुकिंग ऑयल - तवे पर डालने के लिए"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Roasted Sesame & Peanut Chutney",
+        "hi": "भुने तिल और मूंगफली की चटनी"
+      },
+      "items": [
+        {
+          "en": "White Sesame Seeds (Safed Til) - 1/4 cup (slow-roasted till nutty)",
+          "hi": "सफेद तिल - 1/4 कप (धीमी आंच पर भुने हुए)"
+        },
+        {
+          "en": "Roasted Peanuts (Moongphali) - 1/4 cup (skins removed)",
+          "hi": "भुनी मूंगफली - 1/4 कप (छिलके उतरे हुए)"
+        },
+        {
+          "en": "Desiccated Coconut (Nariyal Burada) - 2 tbsp",
+          "hi": "नारियल का बुरादा - 2 बड़े चम्मच"
+        },
+        {
+          "en": "Garlic Cloves - 5 to 6",
+          "hi": "लहसुन की कलियां - 5 से 6"
+        },
+        {
+          "en": "Green Chillies - 2 to 3",
+          "hi": "हरी मिर्च - 2 से 3"
+        },
+        {
+          "en": "Salt - 1/2 tsp",
+          "hi": "नमक - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Water - 1/2 to 3/4 cup (for blending)",
+          "hi": "पानी - 1/2 से 3/4 कप (पीसने के लिए)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Chutney Tadka (Tempering)",
+        "hi": "चटनी का तड़का"
+      },
+      "items": [
+        {
+          "en": "Cooking Oil - 1 tsp",
+          "hi": "तेल - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Mustard Seeds (Rai) - 1/2 tsp",
+          "hi": "राई - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Cumin Seeds - 1/2 tsp",
+          "hi": "जीरा - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "White Urad Dal - 1/2 tsp",
+          "hi": "उड़द दाल - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Dry Red Chillies - 1 to 2",
+          "hi": "सूखी लाल मिर्च - 1 से 2"
+        },
+        {
+          "en": "Curry Leaves - 5 to 6",
+          "hi": "करी पत्ता - 5 से 6"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": {
+        "en": "Whisking Smooth Batter Base",
+        "hi": "गुठली-रहित चिकना बैटर तैयार करना"
+      },
+      "text": {
+        "en": "In a mixing bowl, take 1 cup rice flour. Gradually pour in 2 cups of water, whisking vigorously with a wire whisk to dissolve any lumps into a smooth, lump-free suspension. Whisking with just water first prevents uneven clumping.",
+        "hi": "एक बाउल में 1 कप चावल का आटा लें। धीरे-धीरे 2 कप पानी डालते हुए विस्क से अच्छी तरह फेंटें ताकि कोई गुठली न रहे और बिल्कुल चिकना घोल तैयार हो जाए। शुरुआत में बिना मसाले और सब्जी के फेंटने से बैटर एकदम एकसार बनता है।"
+      }
+    },
+    {
+      "step": 2,
+      "title": {
+        "en": "Adding Spices, Aromatics & Thinning",
+        "hi": "मसाले, सब्जियां और अतिरिक्त पानी मिलाना"
+      },
+      "text": {
+        "en": "Add cumin seeds, salt, black pepper, finely chopped onions, grated carrots, green chillies, curry leaves, and fresh coriander. Pour in another 2 cups of water (total 4 cups water). Mix with a deep ladle. The consistency should be completely watery, just like thin buttermilk or skim milk.",
+        "hi": "अब इसमें जीरा, नमक, काली मिर्च, बारीक कटा प्याज, कद्दूकस गाजर, हरी मिर्च, करी पत्ता और हरा धनिया मिलाएं। इसके बाद 2 कप पानी और डालें (कुल 4 कप पानी)। कलछी से मिलाएं। घोल छाछ जैसा एकदम पतला और बहने वाला होना चाहिए।"
+      }
+    },
+    {
+      "step": 3,
+      "title": {
+        "en": "The Dry Suji Crunch Secret",
+        "hi": "सूखी सूजी मिलाने का सीक्रेट क्रंच ट्रिक"
+      },
+      "text": {
+        "en": "Just 2 minutes before making dosas, stir in 2 tablespoons of raw, unsoaked semolina (suji/rava) directly into the watery batter. Because the rice flour is fully hydrated ('wet starch') and the suji is unhydrated ('dry starch'), the suji grains toast in the hot pan into tiny crunchy pockets, creating extraordinary crispiness.",
+        "hi": "डोसा बनाने से ठीक 2 मिनट पहले पतले घोल में 2 बड़े चम्मच कच्ची सूखी सूजी मिला दें। चावल का आटा पहले से पानी पी चुका होता है, जबकि सूखी सूजी गर्म तवे पर जाकर छोटे-छोटे क्रिस्पी पॉकेट्स बना देती है जिससे डोसा बेहद कुरकुरा बनता है।"
+      }
+    },
+    {
+      "step": 4,
+      "title": {
+        "en": "Making the Roasted Sesame Chutney",
+        "hi": "भुने तिल-मूंगफली की चटनी बनाना"
+      },
+      "text": {
+        "en": "Gently dry-roast 1/4 cup white sesame seeds on low heat until lightly golden and fragrant (do not burn). Let cool. In a blender, combine roasted sesame, peanuts, desiccated coconut, garlic, green chillies, salt, and 1/2 cup water. Blend until thick and creamy. Heat 1 tsp oil in a tadka pan, crackle mustard seeds, cumin, urad dal, curry leaves, and dry red chilli, and pour sizzling tempering over the chutney.",
+        "hi": "पैन में धीमी आंच पर 1/4 कप सफेद तिल को सुनहरा होने तक भूनकर ठंडा करें। मिक्सी में तिल, भुनी मूंगफली, नारियल का बुरादा, लहसुन, हरी मिर्च, नमक और पानी डालकर चिकना पीस लें। तड़का पैन में तेल गरम करके राई, जीरा, उड़द दाल, करी पत्ता और सूखी लाल मिर्च तड़काएं और चटनी पर डाल दें।"
+      }
+    },
+    {
+      "step": 5,
+      "title": {
+        "en": "Piping Hot Pan & Outer-Edge Pouring Technique",
+        "hi": "धुआंधार गर्म तवा और किनारों से डालने की तकनीक"
+      },
+      "text": {
+        "en": "Heat a flat non-stick or well-seasoned cast iron tawa until piping hot. Wipe with a drop of oil. Stir the batter from the bottom (as rice flour settles). Take a ladleful and splash it onto the pan starting from the OUTER CIRCUMFERENCE edges inward into the center (never start from the center, or it creates a thick dense middle). Lacy holes will immediately form across the surface.",
+        "hi": "तवे को तेज आंच पर खूब गर्म करें और हल्का सा तेल लगाकर पोंछ लें। बैटर को तली से अच्छी तरह चलाएं (चावल का आटा नीचे बैठ जाता है)। कलछी भरकर बैटर को तवे के बाहरी किनारों से शुरू करते हुए बीच की तरफ फैलाएं (बीच में पहले कभी न डालें वरना डोसा बीच से मोटा रह जाएगा)। तवे पर तुरंत सुंदर जाली बन जाएगी।"
+      }
+    },
+    {
+      "step": 6,
+      "title": {
+        "en": "3-Minute Crisp Searing & Serving",
+        "hi": "3 मिनट में करारा सेकना और परोसना"
+      },
+      "text": {
+        "en": "Drizzle 1/2 tsp oil over the open lacy perforations. Cook on medium-high heat for 2.5 to 3 minutes without touching. As the moisture evaporates, the edges will turn golden brown and naturally release/peel away from the tawa. Fold in half or roll into a cone. Serve immediately piping hot with the nutty sesame peanut chutney.",
+        "hi": "जाली के सुराखों पर आधा चम्मच तेल छिड़कें। मध्यम-तेज आंच पर 2.5 से 3 मिनट बिना छेड़े सिकने दें। जैसे ही पानी उड़ जाएगा, किनारे सुनहरे भूरे होकर तवे से अपने आप अलग होने लगेंगे। मोड़ लें और गरमा-गरम कुरकुरे डोसे को तिल-मूंगफली की चटनी के साथ परोसें।"
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Always pour batter from the outside rim towards the center. Starting from the center makes the middle thick and doughy while the edges crisp prematurely.",
+      "hi": "बैटर हमेशा तवे के बाहरी किनारों से डालना शुरू करें। बीच में पहले डालने से डोसा बीच से मोटा और गीला रह जाता है।"
+    },
+    {
+      "en": "Always stir the batter deeply with the ladle before pouring every single dosa, because heavy rice flour rapidly sinks to the bottom of the bowl.",
+      "hi": "हर डोसा डालने से पहले बैटर को तली से जरूर चलाएं, क्योंकि भारी चावल का आटा बहुत जल्दी बर्तन के तले में बैठ जाता है।"
+    },
+    {
+      "en": "2 tablespoons of raw dry suji stirred in right before cooking is the golden key to preventing a soggy, rubbery rice crepe.",
+      "hi": "बनाने से ठीक पहले 2 चम्मच सूखी सूजी मिलाना डोसे को रबड़ जैसा होने से बचाता है और लंबे समय तक करारा रखता है।"
+    }
+  ],
+  "title_en": "3-Minute Instant Crispy Rice Dosa & Roasted Sesame Chutney",
+  "title_hi": "3 मिनट में कुरकुरा इंस्टेंट चावल डोसा और तिल-मूंगफली चटनी",
+  "description_en": "No fermentation, no grinding, zero wait time! Ultra-crispy, lacy, and golden rice flour dosa made with Bharatzkitchen's dry suji crunch trick, paired with a nutty, aromatic roasted sesame and peanut chutney.",
+  "description_hi": "बिना दाल भिगोए, बिना पीसने के झंझट के 3 मिनट में तैयार! जालीदार और बेहद कुरकुरा चावल का डोसा—सूखी सूजी के सीक्रेट क्रंच के साथ, और साथ में खास भुने तिल व मूंगफली की स्वादिष्ट चटनी।",
+  "prep_time_en": "5 mins",
+  "prep_time_hi": "5 mins",
+  "cook_time_en": "10 mins",
+  "cook_time_hi": "10 mins",
+  "servings_en": "3-4 servings (6-8 dosas)",
+  "servings_hi": "3-4 servings (6-8 dosas)",
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "youtube_id": "Y5AHd8chECY",
+  "youtube_url": "https://www.youtube.com/watch?v=Y5AHd8chECY",
+  "image_url": "https://img.youtube.com/vi/Y5AHd8chECY/hqdefault.jpg",
+  "ingredients_en": [
+    "Rice Flour (Chawal ka Aata) - 1 cup",
+    "Water - 4 cups total (1:4 ratio for watery thin batter)",
+    "Semolina (Suji / Rava) - 2 tbsp (added dry for crisp pockets)",
+    "Cumin Seeds (Jeera) - 1 tsp",
+    "Black Pepper Powder - 1/2 tsp",
+    "Salt - 1 tsp (to taste)",
+    "Onion - 1 small (very finely chopped)",
+    "Carrot - 1/2 small (finely grated)",
+    "Green Chillies - 2 (finely minced)",
+    "Curry Leaves - 8 to 10 (finely chopped)",
+    "Fresh Coriander leaves - 2 tbsp (chopped)",
+    "Cooking Oil - for drizzling on the tawa",
+    "White Sesame Seeds (Safed Til) - 1/4 cup (slow-roasted till nutty)",
+    "Roasted Peanuts (Moongphali) - 1/4 cup (skins removed)",
+    "Desiccated Coconut (Nariyal Burada) - 2 tbsp",
+    "Garlic Cloves - 5 to 6",
+    "Green Chillies - 2 to 3",
+    "Salt - 1/2 tsp",
+    "Water - 1/2 to 3/4 cup (for blending)",
+    "Cooking Oil - 1 tsp",
+    "Mustard Seeds (Rai) - 1/2 tsp",
+    "Cumin Seeds - 1/2 tsp",
+    "White Urad Dal - 1/2 tsp",
+    "Dry Red Chillies - 1 to 2",
+    "Curry Leaves - 5 to 6"
+  ],
+  "ingredients_hi": [
+    "चावल का आटा - 1 कप",
+    "पानी - कुल 4 कप (पतला जालीदार घोल बनाने के लिए)",
+    "सूजी - 2 बड़े चम्मच (सूखी मिलाकर क्रंची पॉकेट्स बनाने हेतु)",
+    "जीरा - 1 छोटा चम्मच",
+    "काली मिर्च पाउडर - 1/2 छोटा चम्मच",
+    "नमक - 1 छोटा चम्मच (स्वादानुसार)",
+    "प्याज - 1 छोटा (बारीक कटा)",
+    "गाजर - 1/2 छोटी (बारीक कद्दूकस की हुई)",
+    "हरी मिर्च - 2 (बारीक कटी)",
+    "करी पत्ता - 8 से 10 (बारीक कटे)",
+    "ताजा हरा धनिया - 2 चम्मच",
+    "कुकिंग ऑयल - तवे पर डालने के लिए",
+    "सफेद तिल - 1/4 कप (धीमी आंच पर भुने हुए)",
+    "भुनी मूंगफली - 1/4 कप (छिलके उतरे हुए)",
+    "नारियल का बुरादा - 2 बड़े चम्मच",
+    "लहसुन की कलियां - 5 से 6",
+    "हरी मिर्च - 2 से 3",
+    "नमक - 1/2 छोटा चम्मच",
+    "पानी - 1/2 से 3/4 कप (पीसने के लिए)",
+    "तेल - 1 छोटा चम्मच",
+    "राई - 1/2 छोटा चम्मच",
+    "जीरा - 1/2 छोटा चम्मच",
+    "उड़द दाल - 1/2 छोटा चम्मच",
+    "सूखी लाल मिर्च - 1 से 2",
+    "करी पत्ता - 5 से 6"
+  ],
+  "instructions_en": [
+    "In a mixing bowl, take 1 cup rice flour. Gradually pour in 2 cups of water, whisking vigorously with a wire whisk to dissolve any lumps into a smooth, lump-free suspension. Whisking with just water first prevents uneven clumping.",
+    "Add cumin seeds, salt, black pepper, finely chopped onions, grated carrots, green chillies, curry leaves, and fresh coriander. Pour in another 2 cups of water (total 4 cups water). Mix with a deep ladle. The consistency should be completely watery, just like thin buttermilk or skim milk.",
+    "Just 2 minutes before making dosas, stir in 2 tablespoons of raw, unsoaked semolina (suji/rava) directly into the watery batter. Because the rice flour is fully hydrated ('wet starch') and the suji is unhydrated ('dry starch'), the suji grains toast in the hot pan into tiny crunchy pockets, creating extraordinary crispiness.",
+    "Gently dry-roast 1/4 cup white sesame seeds on low heat until lightly golden and fragrant (do not burn). Let cool. In a blender, combine roasted sesame, peanuts, desiccated coconut, garlic, green chillies, salt, and 1/2 cup water. Blend until thick and creamy. Heat 1 tsp oil in a tadka pan, crackle mustard seeds, cumin, urad dal, curry leaves, and dry red chilli, and pour sizzling tempering over the chutney.",
+    "Heat a flat non-stick or well-seasoned cast iron tawa until piping hot. Wipe with a drop of oil. Stir the batter from the bottom (as rice flour settles). Take a ladleful and splash it onto the pan starting from the OUTER CIRCUMFERENCE edges inward into the center (never start from the center, or it creates a thick dense middle). Lacy holes will immediately form across the surface.",
+    "Drizzle 1/2 tsp oil over the open lacy perforations. Cook on medium-high heat for 2.5 to 3 minutes without touching. As the moisture evaporates, the edges will turn golden brown and naturally release/peel away from the tawa. Fold in half or roll into a cone. Serve immediately piping hot with the nutty sesame peanut chutney."
+  ],
+  "instructions_hi": [
+    "एक बाउल में 1 कप चावल का आटा लें। धीरे-धीरे 2 कप पानी डालते हुए विस्क से अच्छी तरह फेंटें ताकि कोई गुठली न रहे और बिल्कुल चिकना घोल तैयार हो जाए। शुरुआत में बिना मसाले और सब्जी के फेंटने से बैटर एकदम एकसार बनता है।",
+    "अब इसमें जीरा, नमक, काली मिर्च, बारीक कटा प्याज, कद्दूकस गाजर, हरी मिर्च, करी पत्ता और हरा धनिया मिलाएं। इसके बाद 2 कप पानी और डालें (कुल 4 कप पानी)। कलछी से मिलाएं। घोल छाछ जैसा एकदम पतला और बहने वाला होना चाहिए।",
+    "डोसा बनाने से ठीक 2 मिनट पहले पतले घोल में 2 बड़े चम्मच कच्ची सूखी सूजी मिला दें। चावल का आटा पहले से पानी पी चुका होता है, जबकि सूखी सूजी गर्म तवे पर जाकर छोटे-छोटे क्रिस्पी पॉकेट्स बना देती है जिससे डोसा बेहद कुरकुरा बनता है।",
+    "पैन में धीमी आंच पर 1/4 कप सफेद तिल को सुनहरा होने तक भूनकर ठंडा करें। मिक्सी में तिल, भुनी मूंगफली, नारियल का बुरादा, लहसुन, हरी मिर्च, नमक और पानी डालकर चिकना पीस लें। तड़का पैन में तेल गरम करके राई, जीरा, उड़द दाल, करी पत्ता और सूखी लाल मिर्च तड़काएं और चटनी पर डाल दें।",
+    "तवे को तेज आंच पर खूब गर्म करें और हल्का सा तेल लगाकर पोंछ लें। बैटर को तली से अच्छी तरह चलाएं (चावल का आटा नीचे बैठ जाता है)। कलछी भरकर बैटर को तवे के बाहरी किनारों से शुरू करते हुए बीच की तरफ फैलाएं (बीच में पहले कभी न डालें वरना डोसा बीच से मोटा रह जाएगा)। तवे पर तुरंत सुंदर जाली बन जाएगी।",
+    "जाली के सुराखों पर आधा चम्मच तेल छिड़कें। मध्यम-तेज आंच पर 2.5 से 3 मिनट बिना छेड़े सिकने दें। जैसे ही पानी उड़ जाएगा, किनारे सुनहरे भूरे होकर तवे से अपने आप अलग होने लगेंगे। मोड़ लें और गरमा-गरम कुरकुरे डोसे को तिल-मूंगफली की चटनी के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "Always pour batter from the outside rim towards the center. Starting from the center makes the middle thick and doughy while the edges crisp prematurely.",
+    "Always stir the batter deeply with the ladle before pouring every single dosa, because heavy rice flour rapidly sinks to the bottom of the bowl.",
+    "2 tablespoons of raw dry suji stirred in right before cooking is the golden key to preventing a soggy, rubbery rice crepe."
+  ],
+  "chef_tips_hi": [
+    "बैटर हमेशा तवे के बाहरी किनारों से डालना शुरू करें। बीच में पहले डालने से डोसा बीच से मोटा और गीला रह जाता है।",
+    "हर डोसा डालने से पहले बैटर को तली से जरूर चलाएं, क्योंकि भारी चावल का आटा बहुत जल्दी बर्तन के तले में बैठ जाता है।",
+    "बनाने से ठीक पहले 2 चम्मच सूखी सूजी मिलाना डोसे को रबड़ जैसा होने से बचाता है और लंबे समय तक करारा रखता है।"
+  ],
+  "tags": [
+    "Instant Dosa",
+    "Rice Dosa",
+    "South Indian",
+    "Breakfast",
+    "Vegetarian"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "instant-coconut-dosa",
+  "title": {
+    "en": "Instant Soft & Spongy Coconut Dosa (No Fermentation)",
+    "hi": "झटपट सॉफ्ट नारियल डोसा (बिना खमीर उठाए)"
+  },
+  "title_en": "Instant Soft & Spongy Coconut Dosa (No Fermentation)",
+  "title_hi": "झटपट सॉफ्ट नारियल डोसा (बिना खमीर उठाए)",
+  "description": {
+    "en": "Deliciously pillowy, soft, and spongy South Indian Coconut Dosa made with raw rice, flattened rice (poha), and freshly grated coconut. Requires zero fermentation and cooks in minutes for busy mornings.",
+    "hi": "मुलायम और स्पंजी साउथ इंडियन कोकोनट डोसा। कच्चे चावल, पोहा और ताजे कद्दूकस नारियल से तैयार यह डोसा बिना खमीर उठाए झटपट बन जाता है। सुबह के नाश्ते के लिए बेहतरीन विकल्प।"
+  },
+  "description_en": "Deliciously pillowy, soft, and spongy South Indian Coconut Dosa made with raw rice, flattened rice (poha), and freshly grated coconut. Requires zero fermentation and cooks in minutes for busy mornings.",
+  "description_hi": "मुलायम और स्पंजी साउथ इंडियन कोकोनट डोसा। कच्चे चावल, पोहा और ताजे कद्दूकस नारियल से तैयार यह डोसा बिना खमीर उठाए झटपट बन जाता है। सुबह के नाश्ते के लिए बेहतरीन विकल्प।",
+  "category": "Breakfast",
+  "isVegetarian": true,
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "prepTime": "10 mins",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cookTime": "10 mins",
+  "cook_time_en": "10 mins",
+  "cook_time_hi": "10 मिनट",
+  "servings": "4 servings",
+  "servings_en": "4 servings",
+  "servings_hi": "4 सर्विंग्स",
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "youtube_id": "GQAE9zGA1q8",
+  "youtubeId": "GQAE9zGA1q8",
+  "youtube_url": "https://www.youtube.com/watch?v=GQAE9zGA1q8",
+  "author": "HomeCookingShow",
+  "image_url": "/static/images/GQAE9zGA1q8.jpg",
+  "tags": [
+    "Coconut Dosa",
+    "Instant Dosa",
+    "South Indian",
+    "Breakfast",
+    "No Fermentation",
+    "Vegetarian",
+    "HomeCookingShow"
+  ],
+  "ingredients_en": [
+    "1 cup Raw Rice (Sona Masoori or Idli Rice, soaked for 2 hours)",
+    "1/2 cup Freshly Grated Coconut",
+    "1/2 cup Poha / Flattened Rice (rinsed)",
+    "1/4 tsp Fenugreek Seeds (Methi, soaked with rice)",
+    "1/2 tsp Salt (to taste)",
+    "1 tsp Eno Fruit Salt (or 1/4 tsp Baking Soda)",
+    "Water as needed for smooth batter",
+    "Oil or Ghee for drizzling"
+  ],
+  "ingredients_hi": [
+    "1 कप कच्चा चावल (2 घंटे भीगा हुआ)",
+    "1/2 कप ताजा कद्दूकस किया नारियल",
+    "1/2 कप पोहा (धोया हुआ)",
+    "1/4 छोटा चम्मच मेथी दाना (चावल के साथ भीगा हुआ)",
+    "1/2 छोटा चम्मच नमक (स्वादानुसार)",
+    "1 छोटा चम्मच ईनो फ्रूट साल्ट (या 1/4 छोटा चम्मच बेकिंग सोडा)",
+    "घोल बनाने के लिए आवश्यकतानुसार पानी",
+    "डोसा सेकने के लिए थोड़ा तेल या घी"
+  ],
+  "instructions_en": [
+    "Drain the soaked rice and fenugreek seeds. Add them to a blender jar along with rinsed poha and fresh grated coconut.",
+    "Add water gradually and grind into a completely silky, smooth, lump-free batter of pouring consistency.",
+    "Transfer the batter to a mixing bowl, season with salt, and rest for 10 minutes.",
+    "Just before making dosas, sprinkle Eno fruit salt and gently stir in one direction until batter turns frothy and airy.",
+    "Heat a tawa / griddle over medium heat. Pour a ladleful of batter in the center. Do not spread thinly—let it naturally form a thick pancake.",
+    "Numerous tiny holes will form on the surface. Drizzle a few drops of oil or ghee around the edges, cover with a lid, and steam on medium-low for 1–2 minutes.",
+    "Do not flip; once the top is cooked dry and spongy and the bottom is light golden, slide onto a plate. Serve hot with coconut chutney and sambar."
+  ],
+  "instructions_hi": [
+    "भीगे चावल और मेथी दाने का पानी निथारकर ब्लेंडर में डालें। साथ में धोया हुआ पोहा और कद्दूकस नारियल डालें।",
+    "थोड़ा-थोड़ा पानी डालते हुए एकदम महीन, चिकना और गाढ़ा बैटर पीस लें।",
+    "बैटर को एक बर्तन में निकालें, नमक मिलाएं और 10 मिनट के लिए रख दें।",
+    "डोसा बनाने से ठीक पहले ईनो फ्रूट साल्ट डालें और हल्के हाथ से एक ही दिशा में फेंटें ताकि बैटर में झाग बन जाए।",
+    "मध्यम आंच पर तवा गरम करें। एक करछुल बैटर बीच में डालें। इसे पतला न फैलाएं, अपने आप मोटा फैलने दें।",
+    "सतह पर ढेर सारी छोटी-छोटी जालियां बनने लगेंगी। किनारों पर थोड़ा तेल या घी डालें, ढक्कन से ढककर धीमी आंच पर 1-2 मिनट भाप में पकने दें।",
+    "इसे पलटने की जरूरत नहीं है; जब ऊपरी हिस्सा पक जाए और नीचे से हल्का सुनहरा हो जाए, तो प्लेट में निकालें। नारियल चटनी व सांबर के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "The combination of poha and grated coconut yields an exceptionally cloud-soft texture that stays tender for hours.",
+    "Cook this dosa only on one side covered with a lid to keep the top fluffy and moist."
+  ],
+  "chef_tips_hi": [
+    "पोहा और नारियल का मिश्रण डोसे को रुई जैसा मुलायम बनाता है जो कई घंटों तक नरम रहता है।",
+    "इस डोसे को सिर्फ एक तरफ से ढककर भाप में पकाएं ताकि ऊपरी जालीदार हिस्सा सॉफ्ट रहे।"
+  ]
+}

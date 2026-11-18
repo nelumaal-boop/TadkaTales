@@ -1,0 +1,164 @@
+{
+  "id": "healthy-palak-suji-chilla",
+  "title_en": "Healthy Soft Palak-Suji Chilla & Red Garlic Chutney",
+  "title_hi": "हेल्दी और सुपर सॉफ्ट पालक-सूजी चीला (तीखी लहसुन-टमाटर चटनी के साथ)",
+  "title": {
+    "en": "Healthy Soft Palak-Suji Chilla & Red Garlic Chutney",
+    "hi": "हेल्दी और सुपर सॉफ्ट पालक-सूजी चीला (तीखी लहसुन-टमाटर चटनी के साथ)"
+  },
+  "description_en": "A vibrant, iron-rich instant breakfast recipe by Kitchen Magic by Vanisha. Paper-thin, foldable spinach and semolina crepes paired with a fiery, tangy tomato-garlic chutney that kids and adults love eating every single morning.",
+  "description_hi": "किचन मैजिक बाय वनिषा की बेहद आसान, पौष्टिक और झटपट बनने वाली सुबह के नाश्ते की रेसिपी। ताज़ा पालक और सूजी से बने रुई जैसे मुलायम, मोड़ने वाले हरे चीले, जिन्हें तीखी चटपटी लहसुन-टमाटर की चटनी के साथ परोसा जाता है।",
+  "description": {
+    "en": "A vibrant, iron-rich instant breakfast recipe by Kitchen Magic by Vanisha. Paper-thin, foldable spinach and semolina crepes paired with a fiery, tangy tomato-garlic chutney that kids and adults love eating every single morning.",
+    "hi": "किचन मैजिक बाय वनिषा की बेहद आसान, पौष्टिक और झटपट बनने वाली सुबह के नाश्ते की रेसिपी। ताज़ा पालक और सूजी से बने रुई जैसे मुलायम, मोड़ने वाले हरे चीले, जिन्हें तीखी चटपटी लहसुन-टमाटर की चटनी के साथ परोसा जाता है।"
+  },
+  "category": "Breakfast",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cook_time_en": "15 mins",
+  "cook_time_hi": "15 मिनट",
+  "prepTime": "10 mins",
+  "cookTime": "15 mins",
+  "servings_en": "3-4 Servings (6-8 Chillas)",
+  "servings_hi": "3-4 लोग (6-8 चीले)",
+  "servings": "3-4 Servings (6-8 Chillas)",
+  "youtube_id": "Cfn-ncd-1K8",
+  "youtubeId": "Cfn-ncd-1K8",
+  "youtube_url": "https://www.youtube.com/watch?v=Cfn-ncd-1K8",
+  "image_url": "https://img.youtube.com/vi/Cfn-ncd-1K8/hqdefault.jpg",
+  "tags": [
+    "palak chilla",
+    "breakfast recipe",
+    "spinach crepe",
+    "suji nasta",
+    "kitchen magic by vanisha",
+    "kids tiffin",
+    "healthy food",
+    "quick breakfast"
+  ],
+  "ingredients_en": [
+    "2 cups Fresh tender spinach leaves (palak, washed and drained)",
+    "1 cup Fine Semolina (suji / rava)",
+    "1/4 cup Fresh curd (dahi, for soft texture and mild tang)",
+    "2 tbsp Besan (gram flour, for binding and golden crust)",
+    "2 Green chillies & 1 inch Ginger",
+    "1 tsp Cumin seeds (jeera)",
+    "1/2 tsp Carom seeds (ajwain, rubbed between palms)",
+    "1/2 tsp Chilli flakes (kuti lal mirch)",
+    "1 pinch Asafoetida (hing)",
+    "Salt to taste",
+    "Water as needed (approx 1 cup for batter)",
+    "Oil or Desi Ghee for roasting chillas",
+    "3 Medium Ripe Tomatoes (roughly chopped for chutney)",
+    "8-10 Garlic cloves (peeled)",
+    "3-4 Dried whole red chillies",
+    "1/2 tsp Mustard seeds (rai)",
+    "1 tbsp Oil (for chutney tempering)"
+  ],
+  "ingredients_hi": [
+    "2 कप ताज़ा पालक के पत्ते (धोकर साफ किए हुए)",
+    "1 कप बारीक सूजी (रवा)",
+    "1/4 कप ताज़ा दही (सॉफ्टनेस और हल्के खट्टेपन के लिए)",
+    "2 बड़ा चम्मच बेसन (बाइंडिंग और सुनहरे रंग के लिए)",
+    "2 हरी मिर्च और 1 इंच अदरक",
+    "1 छोटा चम्मच जीरा",
+    "1/2 छोटा चम्मच अजवायन (हाथ से मसलकर)",
+    "1/2 छोटा चम्मच कुटी लाल मिर्च (चिली फ्लेक्स)",
+    "1 चुटकी हींग",
+    "स्वादानुसार नमक",
+    "घोल तैयार करने अनुसार पानी (लगभग 1 कप)",
+    "चीला सेकने के लिए तेल या देसी घी",
+    "3 मध्यम लाल टमाटर (चटनी के लिए)",
+    "8-10 लहसुन की कलियां",
+    "3-4 साबुत सूखी लाल मिर्च",
+    "1/2 छोटा चम्मच राई / सरसों के दाने",
+    "1 बड़ा चम्मच तेल (चटनी तड़के के लिए)"
+  ],
+  "ingredients": [
+    {
+      "category": "Vibrant Green Palak Batter",
+      "items": [
+        { "en": "2 cups Spinach leaves, Ginger & Green chillies", "hi": "2 कप पालक, अदरक और हरी मिर्च" },
+        { "en": "1 cup Suji & 2 tbsp Besan", "hi": "1 कप सूजी और 2 बड़ा चम्मच बेसन" },
+        { "en": "1/4 cup Curd & 1 cup Water", "hi": "1/4 कप दही और 1 कप पानी" },
+        { "en": "Jeera, Ajwain, Chilli flakes & Salt", "hi": "जीरा, अजवायन, चिली फ्लेक्स और नमक" }
+      ]
+    },
+    {
+      "category": "Fiery Red Tomato Garlic Chutney",
+      "items": [
+        { "en": "3 Tomatoes & 8-10 Garlic cloves", "hi": "3 टमाटर और 8-10 लहसुन की कलियां" },
+        { "en": "3-4 Dried whole red chillies & Mustard seeds", "hi": "3-4 सूखी लाल मिर्च और राई" },
+        { "en": "Salt & 1 tbsp Oil", "hi": "नमक और 1 बड़ा चम्मच तेल" }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Step 1 - Blend Spinach Puree: Wash spinach thoroughly. In a blender, add spinach leaves, green chillies, ginger, and 2-3 tablespoons of water. Blend until smooth and vibrant bright green.",
+    "Step 2 - Prepare Suji Batter: In a mixing bowl, combine fine semolina (suji), besan, curd, cumin seeds, ajwain, chilli flakes, hing, and salt. Pour in the blended green spinach puree and mix well. Gradually add water to form a smooth, lump-free pouring batter (similar to dosa or thin pancake batter). Let it rest for 10 minutes so the semolina absorbs moisture.",
+    "Step 3 - Make the Fiery Red Chutney: In a small pan, heat 1 tbsp oil. Splutter mustard seeds and dried red chillies. Add the garlic cloves and roughly chopped tomatoes with salt. Sauté on medium heat for 4-5 minutes until tomatoes turn mushy. Cool slightly and blend into a coarse, spicy dipping chutney.",
+    "Step 4 - Pan Roasting the Chillas: Heat a flat non-stick or cast iron tawa over medium flame. Lightly grease with a few drops of oil and wipe with a tissue paper. Pour a generous ladleful of the bright green batter in the center and swirl outward using the back of the ladle into a thin, even circle.",
+    "Step 5 - Crisp & Fold: Drizzle a few drops of oil or ghee along the edges. Cook on medium flame for 2 minutes until the edges curl up and the bottom turns speckled golden. Flip and cook the second side for 1 minute until tender and pliable.",
+    "Step 6 - Serve: Fold the soft, green crepe into half, then into a neat triangle. Repeat with remaining batter. Serve piping hot with the fiery red tomato-garlic chutney for a wholesome, kid-approved breakfast or tiffin box snack."
+  ],
+  "instructions_hi": [
+    "स्टेप 1 - पालक की प्यूरी बनाना: पालक के पत्तों को धोकर साफ करें। मिक्सी के जार में पालक, हरी मिर्च, अदरक और 2-3 चम्मच पानी डालकर पीस लें और एक गाढ़ी, चमकीली हरी प्यूरी बना लें।",
+    "स्टेप 2 - सूजी-पालक का घोल तैयार करना: एक बाउल में बारीक सूजी, बेसन, दही, जीरा, अजवायन, चिली फ्लेक्स, हींग और नमक डालें। अब इसमें पिसी हुई हरी पालक प्यूरी मिलाएं। थोड़ा-थोड़ा पानी डालकर डोसा जैसा चिकना, धारदार गिरने वाला घोल तैयार करें। 10 मिनट के लिए ढककर रख दें ताकि सूजी फूल जाए।",
+    "स्टेप 3 - तीखी लाल लहसुन-टमाटर चटनी: एक पैन में 1 चम्मच तेल गरम करें। राई और सूखी लाल मिर्च तड़काएं। लहसुन की कलियां और कटे टमाटर नमक के साथ डालें। टमाटर के गलने तक 4-5 मिनट पकाएं। ठंडा करके मिक्सी में पीसकर गाढ़ी तीखी चटनी बना लें।",
+    "स्टेप 4 - तवे पर चीला फैलाना: नॉन-स्टिक या लोहे के तवे को मध्यम आंच पर गरम करें। हल्का तेल लगाकर टिशू से पोंछ लें। एक बड़ा चमचा भरकर हरा बैटर तवे के बीच में डालें और चमचे के पिछले हिस्से से गोल घुमाते हुए पतला फैलाएं।",
+    "स्टेप 5 - कुरकुरा सेकना: किनारों पर थोड़ा तेल या देसी घी टपकाएं। मध्यम आंच पर 2 मिनट सिकने दें जब तक किनारे छूटने न लगें और नीचे सुनहरा रंग न आ जाए। पलटकर दूसरी तरफ भी 1 मिनट सेकें ताकि चीला एकदम सॉफ्ट और मोड़ने लायक बना रहे।",
+    "स्टेप 6 - परोसें: चीले को बीच से मोड़कर त्रिकोणीय (समोसा स्टाइल) आकार दें। गरमा-गरम नरम पालक चीले को तीखी लाल टमाटर-लहसुन चटनी के साथ बच्चों के टिफिन या सुबह के नाश्ते में परोसें।"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": {
+        "en": "Blend fresh spinach with green chillies and ginger into a smooth, vibrant green puree.",
+        "hi": "पालक, हरी मिर्च और अदरक को थोड़े पानी के साथ मिक्सी में पीसकर हरी प्यूरी बनाएं।"
+      }
+    },
+    {
+      "step": 2,
+      "text": {
+        "en": "Mix spinach puree with suji, besan, curd, cumin, ajwain, chilli flakes, and salt into a smooth pouring batter. Rest 10 mins.",
+        "hi": "पालक प्यूरी में सूजी, बेसन, दही, मसाले और पानी मिलाकर घोल बनाएं और 10 मिनट रेस्ट दें।"
+      }
+    },
+    {
+      "step": 3,
+      "text": {
+        "en": "Sauté tomatoes, garlic, dried red chillies, and mustard seeds until soft, then blend into a spicy red chutney.",
+        "hi": "टमाटर, लहसुन, सूखी मिर्च और राई को तेल में भूनकर तीखी लाल चटनी पीस लें।"
+      }
+    },
+    {
+      "step": 4,
+      "text": {
+        "en": "Spread ladleful of batter thinly on hot greased tawa. Drizzle oil and cook on medium flame for 2 mins until golden.",
+        "hi": "गरम तवे पर चमचे से बैटर पतला फैलाएं, तेल लगाएं और 2 मिनट सुनहरा होने तक सेकें।"
+      }
+    },
+    {
+      "step": 5,
+      "text": {
+        "en": "Flip for 1 minute, fold into triangles, and serve warm with the fiery red garlic chutney.",
+        "hi": "पलट कर 1 मिनट सेकें, तिकोन मोड़ें और तीखी लहसुन चटनी के साथ गरमा-गरम परोसें।"
+      }
+    }
+  ],
+  "chef_tips_en": [
+    "Suji + Besan Magic: Suji provides a delicate crispness while 2 tablespoons of besan give binding elasticity, ensuring the thin crepes never tear when spreading on the tawa.",
+    "Raw Spinach Blending: Blending raw spinach directly preserves chlorophyll and vital heat-sensitive vitamins, keeping the color bright emerald green rather than dull olive.",
+    "Medium Flame Cooking: Cook on medium flame so the semolina cooks through and remains pliable enough to roll or fold without turning brittle."
+  ],
+  "chef_tips_hi": [
+    "सूजी और बेसन का तालमेल: सूजी से चीला कुरकुरा बनता है और 2 चम्मच बेसन डालने से चीला तवे पर चिपकता या टूटता नहीं है और आसानी से पलट जाता है।",
+    "कच्चा पालक पीसना: पालक को उबालने के बजाय कच्चा पीसने से उसका प्राकृतिक हरा रंग और पोषक तत्व बरकरार रहते हैं।",
+    "मध्यम आंच पर सेकना: चीले को मध्यम आंच पर सेकें ताकि वह अंदर तक पक जाए और इतना मुलायम रहे कि आसानी से मोड़ा जा सके।"
+  ]
+}

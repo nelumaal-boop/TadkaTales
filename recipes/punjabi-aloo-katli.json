@@ -1,0 +1,310 @@
+{
+  "id": "punjabi-aloo-katli",
+  "title": {
+    "en": "Punjabi Chatpati Masaledar Aloo Katli",
+    "hi": "पंजाबी चटपटी मसालेदार आलू कतली"
+  },
+  "description": {
+    "en": "Crispy on the edges yet tender inside, these Punjabi potato rounds (katliyan) are made with mom's secret rice-flour coating, high-heat pan searing, aromatic hing-jeera tempering, and dry spices toasted off the flame.",
+    "hi": "किनारों से कुरकुरी और अंदर से मखमली! मां के सीक्रेट चावल के आटे की कोटिंग, कड़ाही के किनारों पर हाई-फ्लेम सिकाई, हींग-जीरे के तड़के और गैस बंद करके मिलाए गए चटपटे मसालों वाली लाजवाब आलू कतली।"
+  },
+  "category": "Latest Recipe",
+  "isVegetarian": true,
+  "prepTime": "10 mins",
+  "cookTime": "12 mins",
+  "servings": "3-4 servings",
+  "youtubeId": "IeYydXFWiRM",
+  "author": "Bharatzkitchen Hindi",
+  "ingredients": [
+    {
+      "category": {
+        "en": "Potatoes & Crunch Coating",
+        "hi": "आलू और क्रिस्पी कोटिंग"
+      },
+      "items": [
+        {
+          "en": "Potatoes (regular) - 500g (peeled, sliced into medium-thick rounds)",
+          "hi": "आलू - 500 ग्राम (छिले हुए, मध्यम मोटाई के गोल टुकड़ों में कटे)"
+        },
+        {
+          "en": "Rice Flour (Chawal ka Aata) or Cornstarch - 1 tbsp",
+          "hi": "चावल का आटा या अरारोट - 1 बड़ा चम्मच (हल्की क्रिस्पीनेस के लिए)"
+        },
+        {
+          "en": "Water - for multiple washings to remove excess surface starch",
+          "hi": "पानी - 2 बार धोने के लिए (स्टार्च निकालने हेतु)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Tempering & Pan Seasoning",
+        "hi": "तड़का और कड़ाही सीज़निंग"
+      },
+      "items": [
+        {
+          "en": "Mustard Oil (Sarson ka Tel) - 3 to 4 tbsp",
+          "hi": "सरसों का तेल - 3 से 4 बड़े चम्मच (धुआं उठने तक गर्म)"
+        },
+        {
+          "en": "Cumin Seeds (Jeera) - 1 tsp",
+          "hi": "जीरा - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Asafoetida (Hing) - 1/4 tsp strong",
+          "hi": "हींग - 1/4 छोटा चम्मच"
+        },
+        {
+          "en": "Green Chillies - 4 to 5 (slit lengthwise)",
+          "hi": "हरी मिर्च - 4 से 5 (लंबाई में कटी)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Mid-Cooking Seasonings (80% Done)",
+        "hi": "80% पकने पर डालने वाले मसाले"
+      },
+      "items": [
+        {
+          "en": "Turmeric Powder (Haldi) - 1/2 tsp",
+          "hi": "हल्दी पाउडर - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Salt - 1 tsp (to taste)",
+          "hi": "नमक - 1 छोटा चम्मच (स्वादानुसार)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Finishing Spices (Off-Heat Toasted)",
+        "hi": "गैस बंद करके मिलाने वाले चटपटे मसाले"
+      },
+      "items": [
+        {
+          "en": "Coriander Powder (Dhaniya) - 1 tbsp",
+          "hi": "धनिया पाउडर - 1 बड़ा चम्मच"
+        },
+        {
+          "en": "Chilli Flakes or Coarsely Crushed Red Chilli - 1 tsp",
+          "hi": "कुटी हुई लाल मिर्च या चिली फ्लेक्स - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Black Salt (Kala Namak) - 1/2 tsp",
+          "hi": "काला नमक - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Garam Masala - 1/2 tsp",
+          "hi": "गरम मसाला - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Dried Mint Powder (Pudina Powder) - 1/2 tsp (optional fresh aroma)",
+          "hi": "पुदीना पाउडर - 1/2 छोटा चम्मच (ऐच्छिक)"
+        },
+        {
+          "en": "Amchur Powder or Chaat Masala - 1/2 tsp",
+          "hi": "अमचूर पाउडर या चाट मसाला - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Fresh Coriander leaves - 2 tbsp (finely chopped)",
+          "hi": "ताजा हरा धनिया - 2 चम्मच (बारीक कटा)"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": {
+        "en": "Slicing & Washing Potatoes",
+        "hi": "आलू काटना और स्टार्च धोना"
+      },
+      "text": {
+        "en": "Peel 500g potatoes and slice them into medium-thick circular rounds (katliyan). Avoid making them wafer-thin like chips, or they will break during cooking. Rinse twice in plenty of water to wash off surface starch so they do not turn sticky.",
+        "hi": "500 ग्राम आलुओं को छीलकर चाकू या स्लाइसर से मध्यम मोटाई की गोल कतलियों में काट लें। बहुत पतला न काटें वरना वे पकते समय टूट जाएंगी। कटे हुए आलुओं को दो बार साफ पानी से अच्छी तरह धोएं ताकि अतिरिक्त स्टार्च निकल जाए और वे चिपके नहीं।"
+      }
+    },
+    {
+      "step": 2,
+      "title": {
+        "en": "Draining & Rice Flour Glaze",
+        "hi": "पानी निथारना और चावल के आटे की कोटिंग"
+      },
+      "text": {
+        "en": "Transfer sliced potatoes onto a tilted wire strainer for a few minutes until all surface water drips away completely. Sprinkle 1 tbsp rice flour (or cornstarch) over the drained potatoes and toss thoroughly so a microscopic gel-like film coats every slice.",
+        "hi": "कटे आलुओं को जालीदार छलनी पर तिरछा करके रख दें ताकि सारा पानी निथर जाए। अब इन पर 1 बड़ा चम्मच चावल का आटा (या अरारोट) छिड़कें और अच्छी तरह मिलाएं जिससे हर कतली पर एक पतली सी परत चिपक जाए।"
+      }
+    },
+    {
+      "step": 3,
+      "title": {
+        "en": "Pan Seasoning & Hing-Jeera Tempering",
+        "hi": "कड़ाही सीज़निंग और हींग-जीरे का तड़का"
+      },
+      "text": {
+        "en": "Heat 3-4 tbsp mustard oil in a heavy iron or aluminium kadhai on high flame until smoking hot. Swirl the hot oil all around the inner sides of the kadhai to create an instant non-stick patina. Add hing and cumin seeds, letting them crackle vigorously for 5 seconds.",
+        "hi": "लोहे या भारी एल्युमिनियम की कड़ाही में 3-4 बड़े चम्मच सरसों का तेल धुआं उठने तक गर्म करें। गर्म तेल को कड़ाही के किनारों पर चारों तरफ फैलाएं। अब हींग और जीरा डालें और 5 सेकंड तड़कने दें।"
+      }
+    },
+    {
+      "step": 4,
+      "title": {
+        "en": "High Heat Flash Cooking",
+        "hi": "तेज आंच पर भुनाई और भाप देना"
+      },
+      "text": {
+        "en": "Immediately add all the potato slices. Stir vigorously on high flame for 2 minutes ensuring every single katli is coated in hot oil. Cover immediately with a lid and cook on high heat (do not lower the flame) for 2 minutes to flash-cook the interior with trapped steam.",
+        "hi": "तुरंत सारे आलू कड़ाही में डालें। तेज आंच पर 2 मिनट तक लगातार चलाएं ताकि हर कतली पर तेल की परत चढ़ जाए। अब ढक्कन लगाएं और तेज आंच पर ही 2 मिनट भाप में पकने दें (आंच धीमी बिल्कुल न करें)।"
+      }
+    },
+    {
+      "step": 5,
+      "title": {
+        "en": "Side-Wall Searing Method",
+        "hi": "कड़ाही के किनारों पर चिपकाकर सेकना"
+      },
+      "text": {
+        "en": "Remove lid and gently stir. Using a flat spatula, push and spread the potato slices against the slanted, scorching sides of the kadhai. Leave uncovered on high flame for 2 minutes without disturbing so a crispy golden-brown crust forms on the surface.",
+        "hi": "ढक्कन हटाएं और एक बार चलाएं। अब पलटे की मदद से आलुओं को कड़ाही की गर्म दीवारों पर फैलाकर चिपका दें। बिना ढके तेज आंच पर 2 मिनट सिकने दें जिससे कतलियों पर सुनहरी क्रिस्पी परत बन जाए।"
+      }
+    },
+    {
+      "step": 6,
+      "title": {
+        "en": "Adding Salt & Haldi (80% Done)",
+        "hi": "80% पकने पर नमक और हल्दी मिलाना"
+      },
+      "text": {
+        "en": "Once potatoes are 80% cooked, sprinkle turmeric powder and salt evenly over them. Toss gently to combine, then spread along the sides once more and cook for 2 more minutes on high heat. Lower the flame to minimum, add slit green chillies, and let it crisp up for 1 minute.",
+        "hi": "जब आलू 80% पक जाएं, तब हल्दी और नमक छिड़कें। हल्के हाथ से मिलाएं और फिर से किनारों पर चिपकाकर 2 मिनट तेज आंच पर सेकें। अब आंच धीमी करें, हरी मिर्च डालें और 1 मिनट और करारा होने दें।"
+      }
+    },
+    {
+      "step": 7,
+      "title": {
+        "en": "Off-Heat Spice Toasting",
+        "hi": "गैस बंद करके मसाले मिलाना (सीक्रेट ट्रिक)"
+      },
+      "text": {
+        "en": "Turn off the heat completely! With the pan still scorching hot, add coriander powder, chilli flakes, black salt, garam masala, dried mint powder, and amchur. Toss gently—the residual heat will bloom and toast the raw spices instantly without burning them or turning them bitter.",
+        "hi": "गैस पूरी तरह बंद कर दें! कड़ाही की तेज गर्मी में ही धनिया पाउडर, कुटी लाल मिर्च, काला नमक, गरम मसाला, पुदीना पाउडर और अमचूर डालें। हल्के हाथ से मिलाएं—कड़ाही की बची हुई आंच में मसाले बिना जले एकदम खुशबूदार भुन जाएंगे।"
+      }
+    },
+    {
+      "step": 8,
+      "title": {
+        "en": "Garnish & Serving",
+        "hi": "गार्निश और परोसना"
+      },
+      "text": {
+        "en": "Garnish with freshly chopped coriander leaves. Serve hot straight out of the kadhai alongside steaming puffed puris, laccha parathas, or dal-chawal.",
+        "hi": "ऊपर से ताजा हरा धनिया डालें। गरमा-गरम कड़ाही से निकालकर फूली-फूली पूरियों, लच्छा पराठों या दाल-चावल के साथ परोसें।"
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Never add salt at the beginning. Adding salt early forces potatoes to release moisture, turning them soggy and steamed instead of crispy.",
+      "hi": "शुरुआत में कभी नमक न डालें। नमक पहले डालने से आलू पानी छोड़ देते हैं और कुरकुरे होने के बजाय गीले और टूट जाते हैं।"
+    },
+    {
+      "en": "1 tablespoon of rice flour or cornstarch is the magic secret to creating crispy edges on thin potato slices without needing deep frying.",
+      "hi": "सिर्फ 1 बड़ा चम्मच चावल का आटा या अरारोट कतलियों के किनारों को बिना डीप फ्राई किए जादुई रूप से कुरकुरा बना देता है।"
+    },
+    {
+      "en": "Turning the gas off before adding coriander, amchur, and garam masala prevents delicate ground spices from scorching in the intense high heat.",
+      "hi": "धनिया, अमचूर और गरम मसाला हमेशा गैस बंद करके मिलाएं ताकि कड़ाही की बची गर्मी में मसाले बिना जले पूरी खुशबू छोड़ें।"
+    }
+  ],
+  "title_en": "Punjabi Chatpati Masaledar Aloo Katli",
+  "title_hi": "पंजाबी चटपटी मसालेदार आलू कतली",
+  "description_en": "Crispy on the edges yet tender inside, these Punjabi potato rounds (katliyan) are made with mom's secret rice-flour coating, high-heat pan searing, aromatic hing-jeera tempering, and dry spices toasted off the flame.",
+  "description_hi": "किनारों से कुरकुरी और अंदर से मखमली! मां के सीक्रेट चावल के आटे की कोटिंग, कड़ाही के किनारों पर हाई-फ्लेम सिकाई, हींग-जीरे के तड़के और गैस बंद करके मिलाए गए चटपटे मसालों वाली लाजवाब आलू कतली।",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 mins",
+  "cook_time_en": "12 mins",
+  "cook_time_hi": "12 mins",
+  "servings_en": "3-4 servings",
+  "servings_hi": "3-4 servings",
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "youtube_id": "IeYydXFWiRM",
+  "youtube_url": "https://www.youtube.com/watch?v=IeYydXFWiRM",
+  "image_url": "https://img.youtube.com/vi/IeYydXFWiRM/hqdefault.jpg",
+  "ingredients_en": [
+    "Potatoes (regular) - 500g (peeled, sliced into medium-thick rounds)",
+    "Rice Flour (Chawal ka Aata) or Cornstarch - 1 tbsp",
+    "Water - for multiple washings to remove excess surface starch",
+    "Mustard Oil (Sarson ka Tel) - 3 to 4 tbsp",
+    "Cumin Seeds (Jeera) - 1 tsp",
+    "Asafoetida (Hing) - 1/4 tsp strong",
+    "Green Chillies - 4 to 5 (slit lengthwise)",
+    "Turmeric Powder (Haldi) - 1/2 tsp",
+    "Salt - 1 tsp (to taste)",
+    "Coriander Powder (Dhaniya) - 1 tbsp",
+    "Chilli Flakes or Coarsely Crushed Red Chilli - 1 tsp",
+    "Black Salt (Kala Namak) - 1/2 tsp",
+    "Garam Masala - 1/2 tsp",
+    "Dried Mint Powder (Pudina Powder) - 1/2 tsp (optional fresh aroma)",
+    "Amchur Powder or Chaat Masala - 1/2 tsp",
+    "Fresh Coriander leaves - 2 tbsp (finely chopped)"
+  ],
+  "ingredients_hi": [
+    "आलू - 500 ग्राम (छिले हुए, मध्यम मोटाई के गोल टुकड़ों में कटे)",
+    "चावल का आटा या अरारोट - 1 बड़ा चम्मच (हल्की क्रिस्पीनेस के लिए)",
+    "पानी - 2 बार धोने के लिए (स्टार्च निकालने हेतु)",
+    "सरसों का तेल - 3 से 4 बड़े चम्मच (धुआं उठने तक गर्म)",
+    "जीरा - 1 छोटा चम्मच",
+    "हींग - 1/4 छोटा चम्मच",
+    "हरी मिर्च - 4 से 5 (लंबाई में कटी)",
+    "हल्दी पाउडर - 1/2 छोटा चम्मच",
+    "नमक - 1 छोटा चम्मच (स्वादानुसार)",
+    "धनिया पाउडर - 1 बड़ा चम्मच",
+    "कुटी हुई लाल मिर्च या चिली फ्लेक्स - 1 छोटा चम्मच",
+    "काला नमक - 1/2 छोटा चम्मच",
+    "गरम मसाला - 1/2 छोटा चम्मच",
+    "पुदीना पाउडर - 1/2 छोटा चम्मच (ऐच्छिक)",
+    "अमचूर पाउडर या चाट मसाला - 1/2 छोटा चम्मच",
+    "ताजा हरा धनिया - 2 चम्मच (बारीक कटा)"
+  ],
+  "instructions_en": [
+    "Peel 500g potatoes and slice them into medium-thick circular rounds (katliyan). Avoid making them wafer-thin like chips, or they will break during cooking. Rinse twice in plenty of water to wash off surface starch so they do not turn sticky.",
+    "Transfer sliced potatoes onto a tilted wire strainer for a few minutes until all surface water drips away completely. Sprinkle 1 tbsp rice flour (or cornstarch) over the drained potatoes and toss thoroughly so a microscopic gel-like film coats every slice.",
+    "Heat 3-4 tbsp mustard oil in a heavy iron or aluminium kadhai on high flame until smoking hot. Swirl the hot oil all around the inner sides of the kadhai to create an instant non-stick patina. Add hing and cumin seeds, letting them crackle vigorously for 5 seconds.",
+    "Immediately add all the potato slices. Stir vigorously on high flame for 2 minutes ensuring every single katli is coated in hot oil. Cover immediately with a lid and cook on high heat (do not lower the flame) for 2 minutes to flash-cook the interior with trapped steam.",
+    "Remove lid and gently stir. Using a flat spatula, push and spread the potato slices against the slanted, scorching sides of the kadhai. Leave uncovered on high flame for 2 minutes without disturbing so a crispy golden-brown crust forms on the surface.",
+    "Once potatoes are 80% cooked, sprinkle turmeric powder and salt evenly over them. Toss gently to combine, then spread along the sides once more and cook for 2 more minutes on high heat. Lower the flame to minimum, add slit green chillies, and let it crisp up for 1 minute.",
+    "Turn off the heat completely! With the pan still scorching hot, add coriander powder, chilli flakes, black salt, garam masala, dried mint powder, and amchur. Toss gently—the residual heat will bloom and toast the raw spices instantly without burning them or turning them bitter.",
+    "Garnish with freshly chopped coriander leaves. Serve hot straight out of the kadhai alongside steaming puffed puris, laccha parathas, or dal-chawal."
+  ],
+  "instructions_hi": [
+    "500 ग्राम आलुओं को छीलकर चाकू या स्लाइसर से मध्यम मोटाई की गोल कतलियों में काट लें। बहुत पतला न काटें वरना वे पकते समय टूट जाएंगी। कटे हुए आलुओं को दो बार साफ पानी से अच्छी तरह धोएं ताकि अतिरिक्त स्टार्च निकल जाए और वे चिपके नहीं।",
+    "कटे आलुओं को जालीदार छलनी पर तिरछा करके रख दें ताकि सारा पानी निथर जाए। अब इन पर 1 बड़ा चम्मच चावल का आटा (या अरारोट) छिड़कें और अच्छी तरह मिलाएं जिससे हर कतली पर एक पतली सी परत चिपक जाए।",
+    "लोहे या भारी एल्युमिनियम की कड़ाही में 3-4 बड़े चम्मच सरसों का तेल धुआं उठने तक गर्म करें। गर्म तेल को कड़ाही के किनारों पर चारों तरफ फैलाएं। अब हींग और जीरा डालें और 5 सेकंड तड़कने दें।",
+    "तुरंत सारे आलू कड़ाही में डालें। तेज आंच पर 2 मिनट तक लगातार चलाएं ताकि हर कतली पर तेल की परत चढ़ जाए। अब ढक्कन लगाएं और तेज आंच पर ही 2 मिनट भाप में पकने दें (आंच धीमी बिल्कुल न करें)।",
+    "ढक्कन हटाएं और एक बार चलाएं। अब पलटे की मदद से आलुओं को कड़ाही की गर्म दीवारों पर फैलाकर चिपका दें। बिना ढके तेज आंच पर 2 मिनट सिकने दें जिससे कतलियों पर सुनहरी क्रिस्पी परत बन जाए।",
+    "जब आलू 80% पक जाएं, तब हल्दी और नमक छिड़कें। हल्के हाथ से मिलाएं और फिर से किनारों पर चिपकाकर 2 मिनट तेज आंच पर सेकें। अब आंच धीमी करें, हरी मिर्च डालें और 1 मिनट और करारा होने दें।",
+    "गैस पूरी तरह बंद कर दें! कड़ाही की तेज गर्मी में ही धनिया पाउडर, कुटी लाल मिर्च, काला नमक, गरम मसाला, पुदीना पाउडर और अमचूर डालें। हल्के हाथ से मिलाएं—कड़ाही की बची हुई आंच में मसाले बिना जले एकदम खुशबूदार भुन जाएंगे।",
+    "ऊपर से ताजा हरा धनिया डालें। गरमा-गरम कड़ाही से निकालकर फूली-फूली पूरियों, लच्छा पराठों या दाल-चावल के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "Never add salt at the beginning. Adding salt early forces potatoes to release moisture, turning them soggy and steamed instead of crispy.",
+    "1 tablespoon of rice flour or cornstarch is the magic secret to creating crispy edges on thin potato slices without needing deep frying.",
+    "Turning the gas off before adding coriander, amchur, and garam masala prevents delicate ground spices from scorching in the intense high heat."
+  ],
+  "chef_tips_hi": [
+    "शुरुआत में कभी नमक न डालें। नमक पहले डालने से आलू पानी छोड़ देते हैं और कुरकुरे होने के बजाय गीले और टूट जाते हैं।",
+    "सिर्फ 1 बड़ा चम्मच चावल का आटा या अरारोट कतलियों के किनारों को बिना डीप फ्राई किए जादुई रूप से कुरकुरा बना देता है।",
+    "धनिया, अमचूर और गरम मसाला हमेशा गैस बंद करके मिलाएं ताकि कड़ाही की बची गर्मी में मसाले बिना जले पूरी खुशबू छोड़ें।"
+  ],
+  "tags": [
+    "Aloo Katli",
+    "Quick Sabzi",
+    "Dry Aloo",
+    "Main Course",
+    "Vegetarian"
+  ]
+}

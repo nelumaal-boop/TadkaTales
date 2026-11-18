@@ -1,0 +1,205 @@
+{
+  "id": "chatpati-aloo-shimla-mirch",
+  "title_en": "Chatpati Aloo Shimla Mirch Sukhi Sabzi",
+  "title_hi": "चटपटी आलू शिमला मिर्च की सूखी सब्जी (ढाबा स्टाइल)",
+  "title": {
+    "en": "Chatpati Aloo Shimla Mirch Sukhi Sabzi",
+    "hi": "चटपटी आलू शिमला मिर्च की सूखी सब्जी (ढाबा स्टाइल)"
+  },
+  "description_en": "A vibrant, flavorful everyday dry stir-fry by Veg Food Talks (Rutba Khan). Tender golden potatoes and crunchy green bell peppers tossed in a tangy onion-tomato masala spiced with roasted cumin, amchur, and fragrant kasuri methi.",
+  "description_hi": "वेज फूड टॉक्स (रूतबा खान) की चटपटी और स्वादिष्ट आलू शिमला मिर्च की सूखी सब्जी। सुनहरे सिके आलू और क्रंची हरी शिमला मिर्च, जिन्हें भुने मसालों, अमचूर, कसूरी मेथी और टमाटर के चटपटे तड़के में झटपट पकाया जाता है।",
+  "description": {
+    "en": "A vibrant, flavorful everyday dry stir-fry by Veg Food Talks (Rutba Khan). Tender golden potatoes and crunchy green bell peppers tossed in a tangy onion-tomato masala spiced with roasted cumin, amchur, and fragrant kasuri methi.",
+    "hi": "वेज फूड टॉक्स (रूतबा खान) की चटपटी और स्वादिष्ट आलू शिमला मिर्च की सूखी सब्जी। सुनहरे सिके आलू और क्रंची हरी शिमला मिर्च, जिन्हें भुने मसालों, अमचूर, कसूरी मेथी और टमाटर के चटपटे तड़के में झटपट पकाया जाता है।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cook_time_en": "15 mins",
+  "cook_time_hi": "15 मिनट",
+  "prepTime": "10 mins",
+  "cookTime": "15 mins",
+  "servings_en": "4 Servings",
+  "servings_hi": "4 लोग",
+  "servings": "4 Servings",
+  "youtube_id": "1Air_mJ_FZo",
+  "youtubeId": "1Air_mJ_FZo",
+  "youtube_url": "https://www.youtube.com/watch?v=1Air_mJ_FZo",
+  "image_url": "https://img.youtube.com/vi/1Air_mJ_FZo/hqdefault.jpg",
+  "tags": [
+    "aloo shimla mirch",
+    "capsicum potato",
+    "sukhi sabzi",
+    "veg food talks",
+    "lunch recipe",
+    "tiffin recipe",
+    "easy sabji"
+  ],
+  "ingredients_en": [
+    "3 Medium Potatoes (peeled and cut into 1-inch cubes)",
+    "2 Large Green Bell Peppers / Capsicum (deseeded and cut into matching 1-inch squares)",
+    "2-3 tbsp Mustard oil or vegetable cooking oil",
+    "1 tsp Cumin seeds (jeera)",
+    "1/2 tsp Mustard seeds (rai)",
+    "1 pinch Asafoetida (hing)",
+    "1 Large Onion (finely chopped)",
+    "1 tbsp Ginger-Garlic paste (or finely minced)",
+    "2 Medium Tomatoes (finely chopped or pureed)",
+    "2 Green chillies (slit lengthwise)",
+    "1/2 tsp Turmeric powder (haldi)",
+    "1 tsp Kashmiri red chilli powder",
+    "1.5 tsp Coriander powder (dhania powder)",
+    "1/2 tsp Roasted cumin powder (bhuna jeera)",
+    "3/4 tsp Dry mango powder (amchur) or chaat masala (for that signature chatpata tang)",
+    "1/2 tsp Garam masala powder",
+    "1 tsp Kasuri methi (roasted and crushed)",
+    "Salt to taste",
+    "1/4 cup Fresh coriander leaves (finely chopped)"
+  ],
+  "ingredients_hi": [
+    "3 मध्यम आलू (छीलकर 1 इंच के चौकोर टुकड़ों में कटे हुए)",
+    "2 बड़ी हरी शिमला मिर्च (बीज निकालकर 1 इंच के चौकोर टुकड़ों में कटी हुई)",
+    "2-3 बड़ा चम्मच सरसों का तेल या रिफाइंड तेल",
+    "1 छोटा चम्मच जीरा",
+    "1/2 छोटा चम्मच राई / सरसों",
+    "1 चुटकी हींग",
+    "1 बड़ा प्याज (बारीक कटा हुआ)",
+    "1 बड़ा चम्मच अदरक-लहसुन का पेस्ट",
+    "2 मध्यम लाल टमाटर (बारीक कटे या पिसे हुए)",
+    "2 हरी मिर्च (लंबाई में चीरी हुई)",
+    "1/2 छोटा चम्मच हल्दी पाउडर",
+    "1 छोटा चम्मच कश्मीरी लाल मिर्च पाउडर",
+    "1.5 छोटा चम्मच धनिया पाउडर",
+    "1/2 छोटा चम्मच भुना जीरा पाउडर",
+    "3/4 छोटा चम्मच अमचूर पाउडर या चाट मसाला (चटपटे स्वाद के लिए)",
+    "1/2 छोटा चम्मच गरम मसाला",
+    "1 छोटा चम्मच कसूरी मेथी (तवे पर भुनी व मसली हुई)",
+    "स्वादानुसार नमक",
+    "1/4 कप ताज़ा हरा धनिया (बारीक कटा हुआ)"
+  ],
+  "ingredients": [
+    {
+      "category": "Main Vegetables",
+      "items": [
+        {
+          "en": "3 Potatoes (cubed) & 2 Capsicum (cubed)",
+          "hi": "3 आलू (कटे हुए) और 2 शिमला मिर्च (चौकोर कटी)"
+        },
+        {
+          "en": "2-3 tbsp Mustard oil",
+          "hi": "2-3 बड़ा चम्मच सरसों का तेल"
+        }
+      ]
+    },
+    {
+      "category": "Chatpata Onion-Tomato Masala",
+      "items": [
+        {
+          "en": "1 Onion & 1 tbsp Ginger-garlic paste",
+          "hi": "1 प्याज और 1 बड़ा चम्मच अदरक-लहसुन पेस्ट"
+        },
+        {
+          "en": "2 Tomatoes & 2 Slit green chillies",
+          "hi": "2 टमाटर और 2 हरी मिर्च"
+        },
+        {
+          "en": "Jeera, Mustard seeds & Hing",
+          "hi": "जीरा, राई और हींग"
+        },
+        {
+          "en": "Turmeric, Kashmiri chilli, Coriander & Roasted cumin",
+          "hi": "हल्दी, कश्मीरी मिर्च, धनिया और भुना जीरा"
+        }
+      ]
+    },
+    {
+      "category": "Finishing Touch",
+      "items": [
+        {
+          "en": "3/4 tsp Amchur powder (signature tang)",
+          "hi": "3/4 छोटा चम्मच अमचूर पाउडर (खट्टा स्वाद)"
+        },
+        {
+          "en": "1 tsp Kasuri methi & 1/2 tsp Garam masala",
+          "hi": "1 छोटा चम्मच कसूरी मेथी और गरम मसाला"
+        },
+        {
+          "en": "Fresh coriander leaves",
+          "hi": "बारीक कटा ताज़ा हरा धनिया"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Step 1 - Shallow Fry Potatoes: Heat 2 tablespoons of mustard oil in a heavy kadai until smoking, then lower heat. Add the cubed potatoes with a pinch of turmeric and salt. Sauté on medium flame for 5 to 6 minutes, stirring occasionally, until the potatoes develop a golden-crisp crust and are 80% cooked through. Remove onto a plate.",
+    "Step 2 - Temper Spices: In the same kadai with remaining oil, add cumin seeds, mustard seeds, and a pinch of hing. Let them splutter for 20 seconds.",
+    "Step 3 - Sauté Onions & Aromatics: Add the finely chopped onions and cook on medium flame for 4 to 5 minutes until soft and translucent golden. Add the ginger-garlic paste and slit green chillies. Sauté for 1 minute until fragrant.",
+    "Step 4 - Cook Tomato Masala: Add finely chopped or pureed tomatoes. Stir in turmeric powder, Kashmiri red chilli powder, coriander powder, roasted cumin powder, and 1 tsp salt. Cook on medium heat for 4 to 5 minutes, stirring regularly, until the tomatoes soften completely and oil begins releasing from the masala.",
+    "Step 5 - Toss Potatoes & Capsicum: Add the semi-cooked golden potatoes and raw capsicum cubes directly into the bhuna masala. Stir gently to lacquer every vegetable piece in the savory spice coating.",
+    "Step 6 - Quick Steam (Preserve Capsicum Crunch): Cover the kadai with a lid and cook on low flame for just 3 to 4 minutes. Crucial Tip: Never overcook capsicum; it should become tender-crisp while retaining its vibrant green color and fresh snap.",
+    "Step 7 - The Chatpata Finish: Remove lid. Sprinkle dry mango powder (amchur), garam masala, and roasted crushed kasuri methi. Toss on high heat for 1 minute to evaporate any surface moisture and infuse smokiness.",
+    "Step 8 - Serve: Scatter fresh coriander leaves. Serve hot with warm rotis, parathas, poori, or as a flavorful side dish with dal-chawal."
+  ],
+  "instructions_hi": [
+    "स्टेप 1 - आलू को पहले फ्राई करना: कड़ाही में 2 बड़ा चम्मच सरसों का तेल धुआं निकलने तक गरम करें, फिर आंच धीमी करें। कटे आलू, चुटकी भर हल्दी और थोड़ा नमक डालें। मध्यम आंच पर 5-6 मिनट भूनें जब तक कि आलू 80% गल न जाएं और उन पर सुनहरी परत न आ जाए। प्लेट में निकाल लें।",
+    "स्टेप 2 - तड़का लगाना: उसी कड़ाही के तेल में जीरा, राई और हींग डालकर 20 सेकंड चटकाएं।",
+    "स्टेप 3 - प्याज और अदरक-लहसुन भूनना: बारीक कटा प्याज डालें और मध्यम आंच पर 4-5 मिनट हल्का सुनहरा होने तक भूनें। अदरक-लहसुन का पेस्ट और चीरी हुई हरी मिर्च डालकर 1 मिनट खुशबू आने तक भूनें।",
+    "स्टेप 4 - टमाटर और मसालों की भुनाई: कटे टमाटर, हल्दी, कश्मीरी लाल मिर्च, धनिया पाउडर, भुना जीरा और स्वादानुसार नमक डालें। मध्यम आंच पर 4-5 मिनट भूनें जब तक टमाटर गल न जाएं और मसाले से तेल अलग न दिखने लगे।",
+    "स्टेप 5 - आलू और शिमला मिर्च मिलाना: अब फ्राई किए हुए आलू और चौकोर कटी शिमला मिर्च को मसाले में डालें। हल्के हाथों से चलाएं ताकि सारा मसाला सब्जियों पर अच्छी तरह लिपट जाए।",
+    "स्टेप 6 - धीमी आंच पर ढककर पकाना: ढक्कन लगाकर बिल्कुल धीमी आंच पर सिर्फ 3-4 मिनट पकने दें। खास टिप: शिमला मिर्च को ज्यादा नहीं गलाना चाहिए; वह हल्की पकी और क्रंची (कुरकुरी) रहनी चाहिए ताकि उसका चमकीला हरा रंग बरकरार रहे।",
+    "स्टेप 7 - चटपटा तड़का: ढक्कन हटाएं। अमचूर पाउडर, गरम मसाला और भुनी कसूरी मेथी डालें। तेज़ आंच पर 1 मिनट टॉस करें ताकि अतिरिक्त नमी सूख जाए और सोंधापन आ जाए।",
+    "स्टेप 8 - परोसें: ऊपर से ताज़ा हरा धनिया छिड़कें। गरमा-गरम चटपटी आलू शिमला मिर्च की सूखी सब्जी को फुल्के, पराठे या दाल-चावल के साथ लंच या टिफिन में परोसें।"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": {
+        "en": "Pan-sauté cubed potatoes with turmeric and salt in mustard oil for 5-6 mins until 80% tender and golden.",
+        "hi": "आलू को सरसों के तेल में हल्दी-नमक के साथ 5-6 मिनट 80% गलने तक हल्का फ्राई करें।"
+      }
+    },
+    {
+      "step": 2,
+      "text": {
+        "en": "Temper jeera, mustard, and hing; sauté onions, ginger-garlic paste, and tomatoes with powdered spices until oil releases.",
+        "hi": "जीरा, राई तड़काएं। प्याज, अदरक-लहसुन, टमाटर और मसालों को तेल छूटने तक भूनें।"
+      }
+    },
+    {
+      "step": 3,
+      "text": {
+        "en": "Add the fried potatoes and capsicum cubes to the masala. Toss until evenly coated.",
+        "hi": "फ्राई किए आलू और चौकोर शिमला मिर्च डालकर मसाले में अच्छी तरह मिलाएं।"
+      }
+    },
+    {
+      "step": 4,
+      "text": {
+        "en": "Cover and cook on low heat for 3-4 mins so capsicum softens while retaining its crisp snap and bright color.",
+        "hi": "ढककर धीमी आंच पर 3-4 मिनट पकाएं ताकि शिमला मिर्च का क्रंच और हरा रंग बना रहे।"
+      }
+    },
+    {
+      "step": 5,
+      "text": {
+        "en": "Finish with amchur powder, garam masala, kasuri methi, and fresh coriander. Serve hot.",
+        "hi": "अमचूर, गरम मसाला, कसूरी मेथी और हरा धनिया डालकर गरमा-गरम परोसें।"
+      }
+    }
+  ],
+  "chef_tips_en": [
+    "Pre-Cooking Potatoes is Essential: Potatoes take 12 minutes to cook, while capsicum turns mushy in just 4 minutes. Sautéing potatoes to 80% doneness first ensures the capsicum stays delightfully crunchy, vibrant green, and full of fresh aroma.",
+    "Amchur for Chatpata Finish: Adding dry mango powder (amchur) or chaat masala at the very end provides that unmistakable zesty roadside dhaba punch.",
+    "Mustard Oil Smokiness: Mustard oil pairs exceptionally well with capsicum, imparting an earthy northern Indian profile that regular refined oil cannot match."
+  ],
+  "chef_tips_hi": [
+    "आलू को पहले पकाना जरूरी: आलू पकने में समय लेते हैं जबकि शिमला मिर्च 3 मिनट में गल जाती है। आलू को पहले 80% सेक लेने से शिमला मिर्च गलती नहीं है और एकदम क्रंची व हरी बनी रहती है।",
+    "अमचूर का जादू: अंत में अमचूर पाउडर या चाट मसाला डालने से सब्जी में वही तीखा-चटपटा ढाबा स्वाद आता है।",
+    "सरसों का तेल: शिमला मिर्च की सब्जी सरसों के तेल में बनाने से उसका असली सोंधा और पारंपरिक स्वाद निकलकर आता है।"
+  ]
+}

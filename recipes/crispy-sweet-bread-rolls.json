@@ -1,0 +1,88 @@
+{
+  "id": "crispy-sweet-bread-rolls",
+  "title": {
+    "en": "Crispy Sweet Bread Rolls (5-Minute Quick Treat)",
+    "hi": "क्रिस्पी स्वीट ब्रेड रोल्स (5 मिनट का मीठा स्नैक)"
+  },
+  "title_en": "Crispy Sweet Bread Rolls (5-Minute Quick Treat)",
+  "title_hi": "क्रिस्पी स्वीट ब्रेड रोल्स (5 मिनट का मीठा स्नैक)",
+  "description": {
+    "en": "A lightning-fast sweet snack made with bread slices filled with toasted coconut, nuts, and condensed milk/sugar, rolled and shallow-fried in ghee until golden, crispy, and caramelised.",
+    "hi": "मात्र 5 मिनट में तैयार होने वाला मीठा स्नैक। ब्रेड के अंदर भुने नारियल, मेवे और मिठास की स्टफिंग भरकर देसी घी में कुरकुरा सेका जाता है। बच्चों और अचानक आए मेहमानों के लिए बेहतरीन ट्रीट।"
+  },
+  "description_en": "A lightning-fast sweet snack made with bread slices filled with toasted coconut, nuts, and condensed milk/sugar, rolled and shallow-fried in ghee until golden, crispy, and caramelised.",
+  "description_hi": "मात्र 5 मिनट में तैयार होने वाला मीठा स्नैक। ब्रेड के अंदर भुने नारियल, मेवे और मिठास की स्टफिंग भरकर देसी घी में कुरकुरा सेका जाता है। बच्चों और अचानक आए मेहमानों के लिए बेहतरीन ट्रीट।",
+  "category": "Dessert",
+  "isVegetarian": true,
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "prepTime": "5 mins",
+  "prep_time_en": "5 mins",
+  "prep_time_hi": "5 मिनट",
+  "cookTime": "5 mins",
+  "cook_time_en": "5 mins",
+  "cook_time_hi": "5 मिनट",
+  "servings": "4 rolls",
+  "servings_en": "4 rolls",
+  "servings_hi": "4 रोल्स",
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "youtube_id": "59mTtf3wT8E",
+  "youtubeId": "59mTtf3wT8E",
+  "youtube_url": "https://www.youtube.com/watch?v=59mTtf3wT8E",
+  "author": "HomeCookingShow",
+  "image_url": "/static/images/59mTtf3wT8E.jpg",
+  "tags": [
+    "Sweet Bread Rolls",
+    "Quick Dessert",
+    "Evening Treat",
+    "Kid Friendly",
+    "Sweet Snack",
+    "Vegetarian",
+    "HomeCookingShow"
+  ],
+  "ingredients_en": [
+    "6 slices Fresh White Bread (crusts trimmed)",
+    "1/2 cup Grated Coconut (fresh or desiccated)",
+    "3 tbsp Condensed Milk or Jaggery/Sugar",
+    "2 tbsp Finely chopped Almonds & Cashews",
+    "1/4 tsp Cardamom Powder",
+    "3 tbsp Desi Ghee for pan roasting",
+    "2 tbsp Milk (for sealing edges)"
+  ],
+  "ingredients_hi": [
+    "6 ताजी सफेद ब्रेड स्लाइस (किनारे कटे हुए)",
+    "1/2 कप कद्दूकस नारियल",
+    "3 बड़े चम्मच कंडेंस्ड मिल्क या पिसी चीनी/गुड़",
+    "2 बड़े चम्मच बारीक कटे काजू-बादाम",
+    "1/4 छोटा चम्मच इलायची पाउडर",
+    "सेकने के लिए 3 बड़े चम्मच देसी घी",
+    "किनारे सील करने के लिए 2 चम्मच दूध"
+  ],
+  "instructions_en": [
+    "In a bowl, mix grated coconut, condensed milk (or sugar), chopped nuts, and cardamom powder to make the sweet filling.",
+    "Trim the crusts of bread slices. Using a rolling pin, gently flatten each slice thin.",
+    "Brush the edges of the flattened bread with a little milk.",
+    "Place 1.5 tbsp of the sweet filling along one edge. Roll up tightly into a log, pinching edges to seal securely.",
+    "Heat ghee in a pan over medium-low heat.",
+    "Place bread rolls seam-side down first. Shallow fry turning frequently for 3–4 minutes until evenly golden and shatteringly crisp on all sides.",
+    "Serve warm dusted lightly with powdered sugar or cardamom."
+  ],
+  "instructions_hi": [
+    "एक बाउल में कद्दूकस नारियल, कंडेंस्ड मिल्क (या चीनी), कटे मेवे और इलायची पाउडर मिलाकर मीठी स्टफिंग बनाएं।",
+    "ब्रेड के किनारे काट लें। बेलन की मदद से ब्रेड स्लाइस को पतला बेल लें।",
+    "ब्रेड के किनारों पर हल्का सा दूध लगाएं।",
+    "एक किनारे पर 1.5 चम्मच मीठी स्टफिंग रखें। कसकर रोल बनाएं और किनारों को दबाकर सील कर दें।",
+    "तवे पर देसी घी गरम करें।",
+    "रोल को पहले जोड़ (seam) की तरफ से रखें। धीमी-मध्यम आंच पर पलटते हुए 3-4 मिनट तक चारों तरफ से सुनहरा और कुरकुरा होने तक सेकें।",
+    "गरमा-गरम क्रिस्पी रोल्स सर्व करें।"
+  ],
+  "chef_tips_en": [
+    "Rolling the bread flat compresses the crumbs so it absorbs very little ghee during toasting.",
+    "Keep heat gentle to allow the sugar inside to caramelize without burning the bread."
+  ],
+  "chef_tips_hi": [
+    "ब्रेड को बेलन से पतला बेल लेने से वह घी कम सोखती है और ज्यादा कुरकुरी बनती है।",
+    "धीमी आंच पर सेकें ताकि ब्रेड जले नहीं और अंदर से चीनी अच्छे से कैरेमल हो जाए।"
+  ]
+}

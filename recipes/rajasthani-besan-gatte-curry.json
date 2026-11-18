@@ -1,0 +1,212 @@
+{
+  "id": "rajasthani-besan-gatte-curry",
+  "title_en": "Authentic Rajasthani Besan Gatte Ki Sabzi",
+  "title_hi": "मुंह में घुल जाने वाले राजस्थानी बेसन गट्टे की सब्जी",
+  "title": {
+    "en": "Authentic Rajasthani Besan Gatte Ki Sabzi",
+    "hi": "मुंह में घुल जाने वाले राजस्थानी बेसन गट्टे की सब्जी"
+  },
+  "description_en": "Master the art of traditional Marwari Besan Gatte ki Sabzi with Bharatzkitchen. Features foolproof tips for ultra-tender, melt-in-mouth spiced gram flour dumplings simmered in a silky, aromatic yogurt-based gravy using reserved gatta broth.",
+  "description_hi": "भरतज़किचन की प्रामाणिक रेसिपी से बनाएं मुंह में घुल जाने वाले एकदम नरम राजस्थानी बेसन गट्टे की सब्जी। जानिए परफेक्ट मोयन का अनुपात, गट्टे में बबल्स आने तक उबालने की तकनीक और गट्टे के उबले पानी से बनी खास शाही दही की तरी।",
+  "description": {
+    "en": "Master the art of traditional Marwari Besan Gatte ki Sabzi with Bharatzkitchen. Features foolproof tips for ultra-tender, melt-in-mouth spiced gram flour dumplings simmered in a silky, aromatic yogurt-based gravy using reserved gatta broth.",
+    "hi": "भरतज़किचन की प्रामाणिक रेसिपी से बनाएं मुंह में घुल जाने वाले एकदम नरम राजस्थानी बेसन गट्टे की सब्जी। जानिए परफेक्ट मोयन का अनुपात, गट्टे में बबल्स आने तक उबालने की तकनीक और गट्टे के उबले पानी से बनी खास शाही दही की तरी।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cook_time_en": "25 mins",
+  "cook_time_hi": "25 मिनट",
+  "prepTime": "15 mins",
+  "cookTime": "25 mins",
+  "servings_en": "4 Servings",
+  "servings_hi": "4 लोग",
+  "servings": "4 Servings",
+  "youtube_id": "lbNnFX5WvL4",
+  "youtubeId": "lbNnFX5WvL4",
+  "youtube_url": "https://www.youtube.com/watch?v=lbNnFX5WvL4",
+  "image_url": "https://img.youtube.com/vi/lbNnFX5WvL4/hqdefault.jpg",
+  "tags": [
+    "gatta curry",
+    "gatte ki sabzi",
+    "besan recipe",
+    "rajasthani food",
+    "marwari curry",
+    "bharatzkitchen",
+    "main course"
+  ],
+  "ingredients_en": [
+    "1.5 cups Fine gram flour (besan)",
+    "2 tbsp Desi ghee or oil (the 'moyan' fat for soft texture)",
+    "2 tbsp Fresh whisked curd (dahi, for tender dough)",
+    "1/2 tsp Carom seeds (ajwain, rubbed between palms)",
+    "1 tsp Coriander seeds (coarsely crushed)",
+    "1/2 tsp Fennel seeds (saunf, coarsely crushed)",
+    "1/2 tsp Turmeric powder (haldi)",
+    "1 tsp Kashmiri red chilli powder",
+    "1 pinch Asafoetida (hing)",
+    "1/2 tsp Salt (for gatta dough)",
+    "1-2 tbsp Warm water (only as needed to bind into semi-soft dough)",
+    "1 cup Thick fresh curd (dahi, for gravy base)",
+    "1 tsp Cumin seeds (jeera)",
+    "1 Bay leaf (tej patta) & 2 Cloves",
+    "1 inch Ginger & 5-6 Garlic cloves (finely minced or pasted)",
+    "1 Medium Onion (very finely chopped)",
+    "1 tbsp Coriander powder",
+    "1/2 tsp Roasted cumin powder",
+    "1/2 tsp Garam masala powder",
+    "1 tsp Kasuri methi (roasted & crushed)",
+    "2-3 tbsp Mustard oil or Ghee (for gravy tempering)",
+    "Fresh coriander leaves for garnish"
+  ],
+  "ingredients_hi": [
+    "1.5 कप बारीक बेसन",
+    "2 बड़ा चम्मच देसी घी या तेल (सॉफ्ट गट्टे के लिए सही मोयन)",
+    "2 बड़ा चम्मच ताज़ा फेंटा हुआ दही (नरम आटे के लिए)",
+    "1/2 छोटा चम्मच अजवायन (हाथ से मसलकर)",
+    "1 छोटा चम्मच साबुत धनिया (दरदरा कूटा हुआ)",
+    "1/2 छोटा चम्मच सौंफ (दरदरी कूटी हुई)",
+    "1/2 छोटा चम्मच हल्दी पाउडर",
+    "1 छोटा चम्मच कश्मीरी लाल मिर्च पाउडर",
+    "1 चुटकी हींग",
+    "1/2 छोटा चम्मच नमक (गट्टे के आटे के लिए)",
+    "1-2 बड़ा चम्मच गुनगुना पानी (सिर्फ ज़रूरत अनुसार नरम आटा बांधने के लिए)",
+    "1 कप ताज़ा गाढ़ा दही (ग्रेवी के लिए)",
+    "1 छोटा चम्मच जीरा",
+    "1 तेजपत्ता और 2 लौंग",
+    "1 इंच अदरक और 5-6 लहसुन की कलियां (बारीक कटी या पेस्ट)",
+    "1 मध्यम प्याज (एकदम बारीक कटा हुआ)",
+    "1 बड़ा चम्मच धनिया पाउडर",
+    "1/2 छोटा चम्मच भुना जीरा पाउडर",
+    "1/2 छोटा चम्मच गरम मसाला",
+    "1 छोटा चम्मच कसूरी मेथी (तवे पर भुनी व मसली हुई)",
+    "2-3 बड़ा चम्मच सरसों का तेल या देसी घी (तड़के के लिए)",
+    "बारीक कटा हरा धनिया (गार्निश के लिए)"
+  ],
+  "ingredients": [
+    {
+      "category": "Soft Melt-in-Mouth Gatta Dough",
+      "items": [
+        {
+          "en": "1.5 cups Besan (gram flour)",
+          "hi": "1.5 कप बारीक बेसन"
+        },
+        {
+          "en": "2 tbsp Ghee (moyan) & 2 tbsp Curd",
+          "hi": "2 बड़ा चम्मच घी (मोयन) और 2 बड़ा चम्मच दही"
+        },
+        {
+          "en": "1/2 tsp Ajwain, 1 tsp Crushed coriander & 1/2 tsp Saunf",
+          "hi": "1/2 छोटा चम्मच अजवायन, 1 छोटा चम्मच कुटा धनिया और सौंफ"
+        },
+        {
+          "en": "1/2 tsp Turmeric, 1/2 tsp Chilli & 1 pinch Hing",
+          "hi": "1/2 छोटा चम्मच हल्दी, लाल मिर्च और हींग"
+        }
+      ]
+    },
+    {
+      "category": "Marwari Spiced Curd Gravy Base",
+      "items": [
+        {
+          "en": "1 cup Whisked fresh curd (dahi)",
+          "hi": "1 कप फेंटा हुआ ताज़ा दही"
+        },
+        {
+          "en": "1 tbsp Coriander powder, 1 tsp Kashmiri chilli & 1/2 tsp Haldi",
+          "hi": "1 बड़ा चम्मच धनिया पाउडर, 1 छोटा चम्मच कश्मीरी मिर्च और हल्दी"
+        },
+        {
+          "en": "1 finely chopped Onion, Ginger & Garlic paste",
+          "hi": "1 बारीक कटा प्याज, अदरक-लहसुन पेस्ट"
+        },
+        {
+          "en": "1 Bay leaf, 1 tsp Jeera & 2 Cloves",
+          "hi": "1 तेजपत्ता, 1 छोटा चम्मच जीरा और 2 लौंग"
+        },
+        {
+          "en": "Reserved Gatta boiling broth (for silky consistency)",
+          "hi": "गट्टे का उबला हुआ पानी (रेशमी तरी के लिए)"
+        },
+        {
+          "en": "1 tsp Kasuri methi & 1/2 tsp Garam masala",
+          "hi": "1 छोटा चम्मच कसूरी मेथी और गरम मसाला"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Step 1 - The Soft Moyan Dough: In a bowl, sieve besan. Add crushed coriander seeds, saunf, ajwain, turmeric, red chilli powder, hing, and salt. Add 2 tbsp melted ghee and 2 tbsp fresh curd. Rub thoroughly with your fingertips until the mixture feels like wet sand. Add just 1 to 2 tablespoons of warm water gradually to knead a soft, supple, non-sticky dough. Rest covered for 10 minutes.",
+    "Step 2 - Shape Cylindrical Logs: Divide dough into 4-5 equal portions. Roll each portion on a board with oiled palms into smooth, finger-thick cylindrical ropes (about 1/2-inch thick and 6 inches long).",
+    "Step 3 - The Boiling Clue: Bring 4 cups of water to a vigorous rolling boil in a wide saucepan. Gently slide the gatta logs into the boiling water. Boil uncovered on medium-high flame for 10 to 12 minutes. Visual Indicator: When cooked through, the gattas float to the surface and tiny white blisters/bubbles appear on their surface. Turn off heat.",
+    "Step 4 - Cut & Reserve Broth: Lift the cooked gattas out onto a plate and let cool for 5 minutes. Cut into 1/2-inch bite-sized rounds. DO NOT discard the boiling water; this nutrient and starch-rich broth creates the body of your gravy.",
+    "Step 5 - Whisk Spiced Yogurt: In a bowl, whisk 1 cup fresh curd with coriander powder, Kashmiri red chilli powder, turmeric, roasted cumin powder, and 1/2 tsp salt until completely smooth without any lumps.",
+    "Step 6 - Tempering the Gravy: Heat 2-3 tbsp mustard oil or ghee in a kadai. Add cumin seeds, bay leaf, cloves, and a pinch of hing. Sauté the minced garlic and ginger for 1 minute until fragrant, then add finely chopped onions and cook on medium flame until light golden-brown.",
+    "Step 7 - Simmering the Curd: Lower the flame completely. Slowly pour in the whisked spiced curd while stirring vigorously and continuously in one direction until the mixture comes to a boil. This prevents the yogurt from curdling or separating. Cook on medium-low for 5 minutes until oil floats on the surface (rogan).",
+    "Step 8 - Dum & Infusion: Pour in 1.5 cups of the reserved warm gatta broth to adjust the gravy consistency. Bring to a simmer, then gently slide in the sliced gattas. Cover and simmer gently on low flame for 6-8 minutes so the gattas absorb the tangy, spiced gravy and turn silky soft.",
+    "Step 9 - Garnish & Serve: Crush roasted kasuri methi over the curry, sprinkle garam masala, and stir in fresh coriander leaves. Serve hot with steamed rice, phulkas, or bajra roti."
+  ],
+  "instructions_hi": [
+    "स्टेप 1 - गट्टे का मोयन वाला आटा: एक परात में बेसन छानें। इसमें दरदरा कुटा धनिया, सौंफ, अजवायन, हल्दी, लाल मिर्च, हींग और नमक डालें। अब 2 बड़ा चम्मच पिघला देसी घी और 2 बड़ा चम्मच ताज़ा दही मिलाएं। उंगलियों से अच्छी तरह मसलें ताकि मोयन हर कण में मिल जाए। केवल 1-2 चम्मच गुनगुना पानी डालकर नरम और चिकना आटा गूंथ लें। 10 मिनट ढककर रखें।",
+    "स्टेप 2 - रोल बनाना: आटे की 4-5 लोइयां बनाएं और हथेलियों पर थोड़ा तेल लगाकर उंगली जितनी मोटाई के चिकने लंबे रोल (सिलेंडर) बना लें।",
+    "स्टेप 3 - उबलने का सीक्रेट संकेत: एक चौड़े बर्तन में 4 कप पानी खूब तेज़ उबालें। खौलते पानी में गट्टे के रोल डालें। मध्यम-तेज़ आंच पर 10-12 मिनट उबलने दें। सही पकने का संकेत: गट्टे पानी की सतह पर तैरने लगेंगे और उनकी त्वचा पर छोटे-छोटे सफेद दाने (बबल्स) उभर आएंगे।",
+    "स्टेप 4 - गट्टे काटना और पानी बचाना: गट्टे को बाहर निकालकर 5 मिनट ठंडा करें और 1/2 इंच के गोल टुकड़ों में काट लें। गट्टे का उबला हुआ पानी बिल्कुल न फेंकें; यही पानी तरी को प्राकृतिक गाढ़ापन और असली स्वाद देगा।",
+    "स्टेप 5 - मसालेदार दही फेंटना: एक कटोरी में 1 कप ताज़ा दही लें। इसमें धनिया पाउडर, कश्मीरी लाल मिर्च, हल्दी, भुना जीरा और थोड़ा नमक डालकर चिकना होने तक फेंट लें।",
+    "स्टेप 6 - तड़का लगाना: कड़ाही में सरसों का तेल या घी गरम करें। जीरा, तेजपत्ता, लौंग और हींग चटकाएं। अदरक-लहसुन पेस्ट डालकर 1 मिनट भूनें, फिर बारीक कटा प्याज डालकर सुनहरा होने तक सेकें।",
+    "स्टेप 7 - दही को पकाना: आंच बिल्कुल धीमी करें। फेंटा हुआ दही का मिश्रण डालें और लगातार एक ही दिशा में चलाते रहें जब तक उबाल न आ जाए (ताकि दही फटे नहीं)। धीमी आंच पर 5 मिनट पकाएं जब तक ऊपर लाल तरी (रोगन) न तैरने लगे।",
+    "स्टेप 8 - गट्टे डालकर खदकाना: तरी में 1.5 कप गट्टे का बचा हुआ गुनगुना पानी डालें। उबाल आने पर कटे हुए गट्टे डाल दें। ढक्कन लगाकर धीमी आंच पर 6-8 मिनट पकने दें ताकि गट्टे सारी तरी पीकर एकदम नरम हो जाएं।",
+    "स्टेप 9 - परोसें: ऊपर से भुनी कसूरी मेथी, गरम मसाला और ताज़ा हरा धनिया डालें। गरमा-गरम गट्टे की सब्जी को फुल्के, बाजरे की रोटी या चावल के साथ परोसें।"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": {
+        "en": "Knead besan with ghee moyan, curd, crushed saunf, coriander, and spices into a soft pliable dough. Rest 10 mins.",
+        "hi": "बेसन में घी, दही, सौंफ, धनिया और मसाले मिलाकर नरम आटा गूंथें और 10 मिनट रेस्ट दें।"
+      }
+    },
+    {
+      "step": 2,
+      "text": {
+        "en": "Roll into finger-thick ropes and boil in rolling hot water for 10-12 mins until they float with surface blisters.",
+        "hi": "रोल बनाकर खौलते पानी में 10-12 मिनट उबालें जब तक ऊपर तैरने न लगें और दाने न उभर आएं।"
+      }
+    },
+    {
+      "step": 3,
+      "text": {
+        "en": "Slice gattas into rounds and reserve the boiling broth. Whisk curd with turmeric, chilli, and coriander powder.",
+        "hi": "गट्टे काटें और उबला पानी बचा कर रखें। दही में सभी मसाले डालकर अच्छी तरह फेंटें।"
+      }
+    },
+    {
+      "step": 4,
+      "text": {
+        "en": "Sauté whole spices, ginger, garlic, and onions. Pour in spiced curd on low heat, stirring constantly until oil separates.",
+        "hi": "प्याज और अदरक-लहसुन भूनें। धीमी आंच पर लगातार चलाते हुए दही डालें और रोगन आने तक पकाएं।"
+      }
+    },
+    {
+      "step": 5,
+      "text": {
+        "en": "Add reserved broth and sliced gattas. Simmer covered for 6-8 mins. Finish with kasuri methi and coriander.",
+        "hi": "बचा हुआ पानी और गट्टे मिलाएं। ढककर 6-8 मिनट पकाएं और कसूरी मेथी व धनिए से सजाएं।"
+      }
+    }
+  ],
+  "chef_tips_en": [
+    "The Double-Moyan Technique: Adding both ghee and fresh curd to the dry besan guarantees ultra-tender, melt-in-the-mouth gattas that never turn dense, rubbery, or hard.",
+    "Rolling Boil is Crucial: Always slide gatta ropes into vigorously boiling water. If added to lukewarm water, the besan will dissolve and break apart.",
+    "Starch-Rich Broth: The water left after boiling the gattas contains cooked besan starch. Using this broth to thin the yogurt curry gives a rich, velvety restaurant body naturally."
+  ],
+  "chef_tips_hi": [
+    "डबल-मोयन का राज: बेसन में घी और ताज़ा दही दोनों मिलाने से गट्टे इतने नरम बनते हैं कि मुंह में जाते ही घुल जाते हैं और कभी भी सख्त या रबर जैसे नहीं होते।",
+    "खौलते पानी में डालना: गट्टे हमेशा तेज़ उबलते पानी में ही डालें। अगर पानी हल्का गरम होगा तो गट्टे पानी में घुल जाएंगे।",
+    "गट्टे का पानी इस्तेमाल करें: गट्टे उबालने के बाद बचे पानी में बेसन का अर्क होता है। उसी पानी से तरी बनाने पर ग्रेवी प्राकृतिक रूप से गाढ़ी और बेहद स्वादिष्ट बनती है।"
+  ]
+}

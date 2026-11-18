@@ -1,0 +1,208 @@
+{
+  "id": "danedar-besan-mohanthal-barfi",
+  "title_en": "Halwai-Style Danedar Besan Barfi / Mohanthal",
+  "title_hi": "हलवाई जैसी दानेदार मोहनथाल / बेसन की बर्फी",
+  "title": {
+    "en": "Halwai-Style Danedar Besan Barfi / Mohanthal",
+    "hi": "हलवाई जैसी दानेदार मोहनथाल / बेसन की बर्फी"
+  },
+  "description_en": "Rich, aromatic, melt-in-the-mouth traditional Indian sweet made from gram flour (besan) slow-roasted in pure desi ghee, given an authentic granular texture through the time-honored 'Dhabo' technique, and combined with 1-string saffron-cardamom sugar syrup. Topped with crunchy slivered almonds and pistachios.",
+  "description_hi": "मुंह में घुल जाने वाली पारंपरिक और दानेदार बेसन की बर्फी (मोहनथाल)। शुद्ध देसी घी में धीमी आंच पर भुना हुआ बेसन, पारंपरिक 'धाबो' विधि से तैयार जालीदार दाने, केसर और इलायची की महक वाली एक तार की चाशनी, और ऊपर से बादाम-पिस्ते की भरपूर सजावट।",
+  "description": {
+    "en": "Rich, aromatic, melt-in-the-mouth traditional Indian sweet made from gram flour (besan) slow-roasted in pure desi ghee, given an authentic granular texture through the time-honored 'Dhabo' technique, and combined with 1-string saffron-cardamom sugar syrup. Topped with crunchy slivered almonds and pistachios.",
+    "hi": "मुंह में घुल जाने वाली पारंपरिक और दानेदार बेसन की बर्फी (मोहनथाल)। शुद्ध देसी घी में धीमी आंच पर भुना हुआ बेसन, पारंपरिक 'धाबो' विधि से तैयार जालीदार दाने, केसर और इलायची की महक वाली एक तार की चाशनी, और ऊपर से बादाम-पिस्ते की भरपूर सजावट।"
+  },
+  "category": "Dessert",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cook_time_en": "30 mins",
+  "cook_time_hi": "30 मिनट",
+  "prepTime": "15 mins",
+  "cookTime": "30 mins",
+  "servings_en": "20-25 pieces (20-25 बर्फी)",
+  "servings_hi": "20-25 बर्फी (लगभग 25 टुकड़े)",
+  "servings": "20-25 pieces",
+  "youtube_id": "yQJ1DAV8qog",
+  "youtubeId": "yQJ1DAV8qog",
+  "youtube_url": "https://youtu.be/yQJ1DAV8qog",
+  "image_url": "https://img.youtube.com/vi/yQJ1DAV8qog/maxresdefault.jpg",
+  "tags": [
+    "mohanthal",
+    "besan barfi",
+    "mithai",
+    "diwali sweets",
+    "raksha bandhan sweets",
+    "kabitas kitchen",
+    "halwai recipe",
+    "indian desserts",
+    "traditional sweets"
+  ],
+  "ingredients_en": [
+    "2 cups Besan (Gram Flour, approx. 250g)",
+    "3/4 cup Pure Desi Ghee (Clarified Butter)",
+    "1 cup Sugar (Chini)",
+    "1/2 cup Water (for sugar syrup)",
+    "1/4 cup Milk (divided: 2 tbsp for dhabo, remainder for roasting)",
+    "2 pinches Saffron Strands (Kesar)",
+    "1/2 tsp Green Cardamom Powder (Elaichi Powder)",
+    "4 tbsp Chopped Dry Fruits (Almonds & Pistachios / Badam-Pista slivers)"
+  ],
+  "ingredients_hi": [
+    "2 कप बेसन (चने का आटा, लगभग 250 ग्राम)",
+    "3/4 कप शुद्ध देसी घी",
+    "1 कप चीनी",
+    "1/2 कप पानी (चाशनी बनाने के लिए)",
+    "1/4 कप दूध (2 चम्मच धाबो देने के लिए, बाकी भूनते समय झाग लाने के लिए)",
+    "2 चुटकी केसर के धागे",
+    "1/2 छोटा चम्मच हरी इलायची पाउडर",
+    "4 बड़े चम्मच बारीक कटे मेवे (बादाम और पिस्ता कतरन)"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Main Grain & Fat (मुख्य सामग्री)",
+      "category_hi": "मुख्य सामग्री (बेसन व घी)",
+      "items": [
+        {
+          "name_en": "Besan (Gram Flour)",
+          "name_hi": "बेसन",
+          "amount": "2 cups (2 कप)"
+        },
+        {
+          "name_en": "Pure Desi Ghee",
+          "name_hi": "शुद्ध देसी घी",
+          "amount": "3/4 cup (3/4 कप)"
+        }
+      ]
+    },
+    {
+      "category_en": "Dhabo Process (धाबो विधि - दानेदार टेक्सचर के लिए)",
+      "category_hi": "धाबो विधि सामग्री",
+      "items": [
+        {
+          "name_en": "Warm Milk",
+          "name_hi": "हल्का गुनगुना दूध",
+          "amount": "2 tbsp (धाबो के लिए) + 2 tbsp (भूनते समय)"
+        },
+        {
+          "name_en": "Melted Desi Ghee",
+          "name_hi": "पिघला देसी घी",
+          "amount": "2 tbsp (धाबो में मिलाने के लिए)"
+        }
+      ]
+    },
+    {
+      "category_en": "Sugar Syrup & Aromatics (चाशनी व सुगंध)",
+      "category_hi": "चाशनी और सुगंधित मसाले",
+      "items": [
+        {
+          "name_en": "Sugar",
+          "name_hi": "चीनी",
+          "amount": "1 cup (1 कप)"
+        },
+        {
+          "name_en": "Water",
+          "name_hi": "पानी",
+          "amount": "1/2 cup (1/2 कप)"
+        },
+        {
+          "name_en": "Saffron Strands (Kesar)",
+          "name_hi": "केसर के धागे",
+          "amount": "2 pinches (2 चुटकी)"
+        },
+        {
+          "name_en": "Green Cardamom Powder",
+          "name_hi": "इलायची पाउडर",
+          "amount": "1/2 tsp (1/2 छोटा चम्मच)"
+        },
+        {
+          "name_en": "Sliced Almonds & Pistachios",
+          "name_hi": "कटे हुए बादाम और पिस्ता",
+          "amount": "4 tbsp (4 बड़े चम्मच)"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "The 'Dhabo' Method (Creating Granular Texture): In a large mixing bowl, take 2 cups of besan. Add 2 tbsp melted desi ghee and 2 tbsp warm milk. Rub the mixture vigorously between both palms for 3-4 minutes until it resembles coarse, crumbly breadcrumbs.",
+    "Sieving the Besan: Pass this crumbly besan mixture through a medium-coarse sieve or wheat strainer. Rub with your hands to break any big lumps so you get evenly sized, granular (danedar) besan.",
+    "Slow Roasting in Ghee: Heat 3/4 cup desi ghee in a heavy-bottomed kadhai on low-medium flame. Add the sieved danedar besan. Stir continuously on low heat for 15–20 minutes.",
+    "Watching the Aroma & Color: The besan will initially absorb all the ghee and feel heavy, but as it roasts, it will loosen, release ghee, turn a beautiful golden-caramel color, and fill the kitchen with a nutty aroma.",
+    "Halwai Milk Splash Trick: Pour the remaining 2 tbsp of milk into the hot roasted besan while stirring vigorously. The mixture will froth up dramatically, puffing up the grains and ensuring an ultra-soft, melt-in-mouth grainy texture. Stir until the froth settles and turn off heat.",
+    "Making the 1-String Chashni: In another pan, mix 1 cup sugar and 1/2 cup water. Add saffron strands and cardamom powder. Boil on medium flame for 5–6 minutes until a single continuous thread (1-tar chashni) forms when tested between your fingers.",
+    "Combining Syrup and Roasted Besan: Pour the hot saffron sugar syrup into the warm roasted besan kadhai. Keep the flame low and stir continuously for 2–3 minutes until the mixture absorbs the syrup, leaves the sides of the pan, and comes together smoothly.",
+    "Setting and Garnishing: Pour the warm mixture immediately into a ghee-greased baking pan or tray. Smooth the surface evenly with the back of a spoon. Generously scatter chopped almonds and pistachios on top, pressing them gently with a spatula.",
+    "Resting and Slicing: Let it cool down and set at room temperature for 2 to 3 hours (or 1 hour in the fridge). Once firmly set, cut into clean square or diamond barfi pieces using a sharp knife."
+  ],
+  "instructions_hi": [
+    "धाबो देने की विधि (दानेदार टेक्सचर के लिए): एक बड़े बर्तन में 2 कप बेसन लें। इसमें 2 चम्मच पिघला घी और 2 चम्मच गुनगुना दूध डालें। दोनों हथेलियों के बीच अच्छी तरह 3-4 मिनट तक रगड़ें (धाबो दें) ताकि सारा बेसन दानेदार हो जाए।",
+    "बेसन छानना: इस दानेदार बेसन को मोटी छलनी (गेहूं छानने वाली) से छान लें। बड़ी गांठों को हाथ से मसलकर निकालें ताकि एकसमान बारीक दाने मिलें।",
+    "घी में धीमी आंच पर भूनना: भारी तले की कड़ाही में 3/4 कप देसी घी गरम करें। छना हुआ दानेदार बेसन डालें और धीमी आंच पर लगातार चलाते हुए 15-20 मिनट तक भूनें।",
+    "रंग और खुशबू: शुरुआत में बेसन भारी लगेगा, लेकिन जैसे-जैसे भुनेगा, यह घी छोड़ने लगेगा और हल्का हो जाएगा। जब इसका रंग बादामी-सुनहरा हो जाए और सौंधी खुशबू आने लगे।",
+    "हलवाई की सीक्रेट ट्रिक (दूध का छींटा): आंच धीमी रखें और इसमें 2 चम्मच दूध डालें और तेजी से चलाएं। दूध डलते ही कड़ाही में झाग बनेगा जिससे बेसन के दाने एकदम खिल जाएंगे। झाग शांत होने पर गैस बंद कर दें।",
+    "एक तार की चाशनी बनाना: दूसरे पैन में 1 कप चीनी और 1/2 कप पानी डालें। इसमें केसर के धागे और इलायची पाउडर मिलाएं। मध्यम आंच पर 5-6 मिनट उबालें जब तक कि उंगलियों के बीच 1 पूरा तार (1-तार चाशनी) न बनने लगे।",
+    "चाशनी और बेसन मिलाना: तैयार गरम चाशनी को भुने हुए बेसन में डालें। धीमी आंच पर 2-3 मिनट लगातार चलाएं जब तक कि मिश्रण चाशनी को सोखकर कड़ाही के किनारे न छोड़ने लगे।",
+    "ट्रे में सेट करना और सजावट: घी से चिकनी की गई ट्रे या थाली में तुरंत यह मिश्रण डालें और चम्मच से बराबर फैलाएं। ऊपर से बारीक कटे बादाम और पिस्ता डालकर चम्मच से हल्का दबा दें।",
+    "काटना और परोसना: इसे कमरे के तापमान पर 2-3 घंटे (या फ्रिज में 1 घंटा) सेट होने दें। अच्छी तरह जमने के बाद चाकू से मनचाहे चौकोर या डायमंड बर्फी के टुकड़ों में काट लें।"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Dhabo Technique (Granulation)",
+      "title_hi": "धाबो विधि (दाने बनाना)",
+      "instruction_en": "Rub 2 cups besan with 2 tbsp melted ghee and 2 tbsp warm milk between your palms for 3-4 minutes to form coarse crumbles.",
+      "instruction_hi": "2 कप बेसन में 2 चम्मच घी और 2 चम्मच दूध मिलाकर दोनों हथेलियों से 3-4 मिनट तक रगड़ें ताकि दाने बन जाएं।"
+    },
+    {
+      "step": 2,
+      "title_en": "Sieving the Granules",
+      "title_hi": "दानेदार बेसन छानना",
+      "instruction_en": "Pass the crumbled mixture through a coarse wheat strainer, pressing out lumps to achieve an even granular texture.",
+      "instruction_hi": "मोटी छलनी से छानकर गांठों को हाथ से फोड़ लें ताकि एकसमान दानेदार बेसन तैयार हो।"
+    },
+    {
+      "step": 3,
+      "title_en": "Slow Roasting in Ghee",
+      "title_hi": "धीमी आंच पर बेसन भूनना",
+      "instruction_en": "Roast the sieved besan in 3/4 cup melted desi ghee on low flame for 15-20 minutes until fragrant, loose, and golden-brown.",
+      "instruction_hi": "कड़ाही में 3/4 कप घी में बेसन को धीमी आंच पर 15-20 मिनट तक भूनें जब तक घी न छूटने लगे और सुनहरा रंग न आ जाए।"
+    },
+    {
+      "step": 4,
+      "title_en": "Frothing with Milk Splash",
+      "title_hi": "दूध का छींटा और झाग",
+      "instruction_en": "Pour 2 tbsp milk into the hot roasted besan. It will froth vigorously and make the grains super light and tender.",
+      "instruction_hi": "गरम बेसन में 2 चम्मच दूध डालें और तेजी से चलाएं। झाग बनने से बेसन के दाने खिलकर नरम हो जाएंगे।"
+    },
+    {
+      "step": 5,
+      "title_en": "1-String Sugar Syrup",
+      "title_hi": "एक तार की केसरिया चाशनी",
+      "instruction_en": "Boil 1 cup sugar, 1/2 cup water, saffron, and cardamom powder until a clear 1-string consistency forms between two fingers.",
+      "instruction_hi": "चीनी, पानी, केसर और इलायची को 5 मिनट उबालकर 1 तार की चाशनी तैयार करें।"
+    },
+    {
+      "step": 6,
+      "title_en": "Mixing, Setting & Garnishing",
+      "title_hi": "मिलाना, जमाना और सजावट",
+      "instruction_en": "Mix syrup into roasted besan on low heat until cohesive. Pour into a greased tray, top with sliced almonds & pistachios, let set, and cut into barfi.",
+      "instruction_hi": "चाशनी को बेसन में मिलाकर गाढ़ा करें। घी लगी थाली में फैलाएं, बादाम-पिस्ते से सजाएं और सेट होने पर मनचाहे पीस काट लें।"
+    }
+  ],
+  "chef_tips_en": [
+    "The Secret of Dhabo: Rubbing ghee and milk into raw besan (dhabo dena) is the single most important halwai secret for achieving that signature granular, melt-in-the-mouth Mohanthal texture rather than a sticky paste.",
+    "Stringency of Chashni: Ensure the sugar syrup reaches exactly 1 string (1-tar). If it is too thin, the barfi will remain loose like halwa; if it reaches 2 strings, the barfi will turn brittle and hard.",
+    "Roast on Patient Low Heat: Besan roasts best slowly. If rushed on high heat, it will develop a dark burnt exterior while remaining raw and bitter inside.",
+    "Storage: Stored at room temperature in a clean airtight container, Mohanthal stays perfectly fresh and fragrant for up to 3 weeks."
+  ],
+  "chef_tips_hi": [
+    "धाबो देने का महत्व: कच्चे बेसन में घी और दूध मिलाकर हाथों से रगड़ना (धाबो) ही हलवाई स्टाइल दानेदार टेक्सचर की असली चाबी है, जिससे बर्फी दांतों में नहीं चिपकती।",
+    "चाशनी का सही तार: चाशनी ठीक 1 तार की होनी चाहिए। अगर चाशनी पतली रही तो बर्फी जमेगी नहीं और हलवे जैसी ढीली रहेगी; ज्यादा गाढ़ी होने पर बर्फी सख्त हो जाएगी।",
+    "धीमी आंच पर भूनने का धैर्य: बेसन को हमेशा धीमी आंच पर ही भूनें। तेज आंच पर बेसन जल्दी काला पड़ जाएगा और अंदर से कच्चा और कड़वा रह जाएगा।",
+    "शेल्फ लाइफ: एयर-टाइट डिब्बे में रखकर यह बर्फी कमरे के सामान्य तापमान पर 3 हफ्तों तक बिल्कुल ताजी और स्वादिष्ट बनी रहती है।"
+  ]
+}

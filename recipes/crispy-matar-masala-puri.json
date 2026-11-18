@@ -1,0 +1,306 @@
+{
+  "id": "crispy-matar-masala-puri",
+  "title": {
+    "en": "Crispy Fluffy Matar Masala Puri",
+    "hi": "खस्ता फूली-फूली मटर मसाला पूरी"
+  },
+  "description": {
+    "en": "Balloons like a bhatura with zero tearing! Whole wheat puris stuffed edge-to-edge with spiced fresh green peas, made with Bharatzkitchen's steam-softened peas trick, besan binder, and a pliable dough technique that guarantees 100% puffed puris.",
+    "hi": "बिना फटे फुटबॉल जैसी फूलने वाली गेहूं के आटे और ताजे हरे मटर की मसालेदार पूरी! मटर को स्टीम करके नरम करने की सीक्रेट ट्रिक, बेसन की बाइंडिंग और लचीले आटे की तकनीक से हर पूरी बनेगी बाहर से खस्ता और अंदर से मखमली।"
+  },
+  "category": "Breakfast",
+  "isVegetarian": true,
+  "prepTime": "20 mins",
+  "cookTime": "15 mins",
+  "servings": "4 servings (12-14 puris)",
+  "youtubeId": "igjJqHYBQdk",
+  "author": "Bharatzkitchen Hindi",
+  "ingredients": [
+    {
+      "category": {
+        "en": "Spiced Green Peas Stuffing",
+        "hi": "मसालेदार मटर की स्टफिंग"
+      },
+      "items": [
+        {
+          "en": "Fresh Green Peas (Taaze Matar) - 1.5 cups (coarsely minced)",
+          "hi": "ताजे हरे मटर - 1.5 कप (चॉपर में दरदरे पिसे हुए)"
+        },
+        {
+          "en": "Fresh Ginger - 1 inch & Green Chillies - 3 to 4 (finely minced first)",
+          "hi": "अदरक - 1 इंच और हरी मिर्च - 3 से 4 (पहले बारीक कटी)"
+        },
+        {
+          "en": "Cooking Oil - 1 tbsp",
+          "hi": "तेल - 1 बड़ा चम्मच"
+        },
+        {
+          "en": "Asafoetida (Hing) - 1/4 tsp",
+          "hi": "हींग - 1/4 छोटा चम्मच"
+        },
+        {
+          "en": "Whole Coriander Seeds (Crushed) - 1 tsp",
+          "hi": "साबुत धनिया (दरदरा कुटा) - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Cumin Seeds (Jeera) - 1/2 tsp & Fennel Seeds (Saunf) - 1/2 tsp",
+          "hi": "जीरा - 1/2 छोटा चम्मच और सौंफ - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Water - 1/4 cup (to steam-soften the peas)",
+          "hi": "पानी - 1/4 कप (मटर को भाप में पकाने के लिए)"
+        },
+        {
+          "en": "Gram Flour (Besan) - 2 tbsp (absorbs moisture and binds)",
+          "hi": "बेसन - 2 बड़े चम्मच (नमी सोखने और बाइंडिंग हेतु)"
+        },
+        {
+          "en": "Kasuri Methi - 1 tsp & Carom Seeds (Ajwain) - 1/4 tsp",
+          "hi": "कसूरी मेथी - 1 छोटा चम्मच और अजवाइन - 1/4 छोटा चम्मच"
+        },
+        {
+          "en": "Coriander Powder - 1 tsp & Garam Masala - 1/2 tsp",
+          "hi": "धनिया पाउडर - 1 छोटा चम्मच और गरम मसाला - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Salt - 1 tsp",
+          "hi": "नमक - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Fresh Coriander leaves - 2 tbsp (chopped)",
+          "hi": "ताजा हरा धनिया - 2 चम्मच"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Soft Pliable Puri Dough",
+        "hi": "पूरी का लचीला आटा"
+      },
+      "items": [
+        {
+          "en": "Whole Wheat Flour (Gehun ka Aata) - 2 cups",
+          "hi": "गेहूं का आटा - 2 कप"
+        },
+        {
+          "en": "Fine Semolina (Suji / Rava) - 2 tbsp (for crispness, do not add more)",
+          "hi": "बारीक सूजी - 2 बड़े चम्मच (खस्तापन के लिए)"
+        },
+        {
+          "en": "Cooking Oil (Moin) - 1 to 2 tbsp",
+          "hi": "तेल (मोयन) - 1 से 2 बड़े चम्मच"
+        },
+        {
+          "en": "Salt - 1 tsp",
+          "hi": "नमक - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Water - approx. 3/4 to 1 cup (for soft, pliable dough like chapati)",
+          "hi": "पानी - लगभग 3/4 से 1 कप (रोटी जैसा नरम-लचीला आटा गूंधने हेतु)"
+        },
+        {
+          "en": "Oil - for rolling and deep frying",
+          "hi": "तेल - बेलने और तलने के लिए"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": {
+        "en": "Mincing Aromatics & Fresh Peas",
+        "hi": "अदरक, मिर्च और मटर को दरदरा पीसना"
+      },
+      "text": {
+        "en": "In a chopper, first pulse 1 inch ginger and 3-4 green chillies until very finely minced (if ginger remains in chunks, it will tear the puri dough during rolling). Add 1.5 cups fresh green peas and pulse briefly into fine granular crumbs. Do not add water or make a smooth paste.",
+        "hi": "चॉपर में पहले 1 इंच अदरक और 3-4 हरी मिर्च को एकदम बारीक पीस लें (अदरक का मोटा टुकड़ा पूरी को फाड़ सकता है)। अब 1.5 कप ताजे हरे मटर डालें और दरदरा पीस लें। पानी बिल्कुल न डालें और न ही बारीक पेस्ट बनाएं।"
+      }
+    },
+    {
+      "step": 2,
+      "title": {
+        "en": "Tempering & The Steam-Soften Secret",
+        "hi": "मसाला भूनना और मटर को भाप में पकाना (सीक्रेट ट्रिक)"
+      },
+      "text": {
+        "en": "Heat 1 tbsp oil in a kadhai. Add hing, crushed coriander seeds, cumin, and fennel seeds. Sauté for 10 seconds, then add the minced peas and 1 tsp salt. Sauté for 1 minute, then add 1/4 cup water. Cover with a lid and cook on medium flame for 2-3 minutes. This critical step softens the pea cell walls so they bend and flatten easily when rolled, preventing tears.",
+        "hi": "कड़ाही में 1 चम्मच तेल गर्म करें। हींग, कुटा धनिया, जीरा और सौंफ तड़काएं। अब पिसे मटर और 1 चम्मच नमक डालकर 1 मिनट भूनें। 1/4 कप पानी डालकर ढक्कन लगाएं और 2-3 मिनट भाप में पकने दें। इससे मटर के दाने नरम हो जाते हैं और बेलते समय पूरी फटती नहीं है।"
+      }
+    },
+    {
+      "step": 3,
+      "title": {
+        "en": "Adding Besan & Finishing Stuffing",
+        "hi": "बेसन डालकर बाइंडिंग तैयार करना"
+      },
+      "text": {
+        "en": "Uncover the pan. Add kasuri methi, ajwain, coriander powder, and garam masala. Stir in 2 tbsp gram flour (besan) and fresh coriander leaves. Sauté on medium flame for 1-2 minutes until besan cooks and absorbs any remaining moisture, forming a cohesive, non-sticky stuffing. Spread on a plate to cool completely.",
+        "hi": "ढक्कन हटाएं। कसूरी मेथी, अजवाइन, धनिया पाउडर और गरम मसाला मिलाएं। अब 2 चम्मच बेसन और हरा धनिया डालें। 1-2 मिनट चलाएं—बेसन सारी नमी सोखकर मसाले को एकसार और सूखा बना देगा। प्लेट में निकालकर पूरी तरह ठंडा होने दें।"
+      }
+    },
+    {
+      "step": 4,
+      "title": {
+        "en": "Kneading Soft Pliable Dough (Not Stiff)",
+        "hi": "रोटी जैसा नरम-लचीला आटा गूंधना"
+      },
+      "text": {
+        "en": "In a bowl, mix 2 cups wheat flour, 2 tbsp suji, 1 tsp salt, and 1.5 tbsp oil. Unlike plain puris which need a stiff dough, stuffed puris REQUIRE a soft, pliable dough (like chapati dough) to stretch around the filling without tearing. Gradually add water and knead for 3-4 minutes until smooth and elastic. Smear a drop of oil on top, cover, and rest for 15-20 minutes.",
+        "hi": "परात में 2 कप गेहूं का आटा, 2 चम्मच सूजी, नमक और 1.5 चम्मच तेल मिलाएं। सादी पूरी के उलट, भरी हुई पूरी के लिए रोटी जैसा नरम और लचीला आटा चाहिए ताकि वह स्टफिंग के ऊपर आसानी से फैल सके। थोड़ा-थोड़ा पानी डालकर 3-4 मिनट गूंधें। हल्का तेल लगाकर 15-20 मिनट ढककर रख दें।"
+      }
+    },
+    {
+      "step": 5,
+      "title": {
+        "en": "Stuffing & The Flawless Seal Technique",
+        "hi": "पेड़े में मसाला भरना और सील करना"
+      },
+      "text": {
+        "en": "Pinch a lemon-sized dough ball. Flatten the edges with your fingers, leaving the center slightly thicker. Place 1 tablespoon of cooled stuffing in the center. Pull up the edges and pleat together like a paratha, pressing firmly to seal the dough while it is naturally tacky (do NOT touch with oil before sealing, or edges will open in the hot oil!).",
+        "hi": "नींबू बराबर लोई लें। उंगलियों से किनारों को पतला करें और बीच को थोड़ा मोटा रखें। बीच में 1 बड़ा चम्मच ठंडा मटर का मसाला रखें। किनारों को ऊपर खींचकर पराठे की तरह समेटें और अच्छी तरह चिपकाकर सील करें (सील करने से पहले लोई पर तेल न लगाएं वरना किनारे तेल में खुल जाएंगे)।"
+      }
+    },
+    {
+      "step": 6,
+      "title": {
+        "en": "Kachori Flattening & Rolling Thin",
+        "hi": "हथेली से फैलाना और पतला बेलना"
+      },
+      "text": {
+        "en": "Gently press the stuffed peda between your palms like a kachori to distribute the green peas evenly all the way to the rim. Dab a drop of oil onto your rolling board and rolling pin. Roll gently and evenly into a thin circular puri. The vibrant green peas will be visible beneath the dough, yet it will remain intact without a single crack.",
+        "hi": "भरी हुई लोई को कचौड़ी की तरह हथेलियों के बीच दबाकर बड़ा करें ताकि मटर किनारों तक एक समान फैल जाए। चकले और बेलन पर हल्का तेल लगाएं और हल्के हाथ से सामान्य पूरी जितना पतला बेल लें। हरे मटर बाहर दिखेंगे लेकिन पूरी बिल्कुल नहीं फटेगी।"
+      }
+    },
+    {
+      "step": 7,
+      "title": {
+        "en": "Hot Oil Frying & Balloon Puff",
+        "hi": "गरम तेल में तलना और फुटबॉल जैसी फुलाना"
+      },
+      "text": {
+        "en": "Heat plenty of oil in a kadhai until very hot. Slide in the rolled puri and lower heat to medium. Gently press down on the surface of the puri with a slotted spoon—within seconds, it will balloon up into a round sphere like a football! Flip and fry for 30-40 seconds until both sides turn crisp and golden brown. Drain on paper towels.",
+        "hi": "कड़ाही में तेल अच्छा गर्म करें। पूरी डालें और आंच मध्यम कर दें। कलछी से पूरी को तेल में हल्का सा दबाएं—कुछ ही सेकंड में पूरी फुटबॉल की तरह पूरी फूल जाएगी! पलटकर दोनों तरफ से सुनहरी और कुरकुरी होने तक तलें और निकाल लें।"
+      }
+    },
+    {
+      "step": 8,
+      "title": {
+        "en": "Serving",
+        "hi": "परोसना"
+      },
+      "text": {
+        "en": "Serve piping hot straight from the kadhai alongside spicy hing-aloo sabzi, boondi raita, or sweet mango pickle and hot masala chai.",
+        "hi": "गरमा-गरम मटर पूरी को चटपटी हींग-आलू की सब्जी, बूंदी रायता, आम के अचार और गरमा-गरम मसाला चाय के साथ परोसें।"
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Always steam the minced raw peas with 1/4 cup water for 2-3 minutes. This softens their hard outer skins so they flatten smoothly during rolling instead of puncturing the dough.",
+      "hi": "कच्चे मटर को 1/4 कप पानी के साथ 2-3 मिनट भाप में जरूर पकाएं। इससे मटर के छिलके नरम हो जाते हैं और बेलते समय वे पूरी को चीरकर बाहर नहीं निकलते।"
+    },
+    {
+      "en": "Do not knead a tight/stiff dough for stuffed puris. A soft, elastic dough stretches without tearing and seals permanently around the stuffing.",
+      "hi": "भरी हुई पूरी के लिए कभी सख्त आटा न गूंधें। रोटी जैसा नरम और लचीला आटा बेलने पर आसानी से खिंचता है और फटने से रोकता है।"
+    },
+    {
+      "en": "Never coat the dough in oil before sealing the stuffing. Oil on the joints prevents gluten strands from bonding, causing the puri to pop open in hot frying oil.",
+      "hi": "मसाला भरते समय लोई पर कभी तेल न लगाएं। तेल लगने से आटा आपस में चिपक नहीं पाता और गरम तेल में पूरी खुल जाती है।"
+    }
+  ],
+  "title_en": "Crispy Fluffy Matar Masala Puri",
+  "title_hi": "खस्ता फूली-फूली मटर मसाला पूरी",
+  "description_en": "Balloons like a bhatura with zero tearing! Whole wheat puris stuffed edge-to-edge with spiced fresh green peas, made with Bharatzkitchen's steam-softened peas trick, besan binder, and a pliable dough technique that guarantees 100% puffed puris.",
+  "description_hi": "बिना फटे फुटबॉल जैसी फूलने वाली गेहूं के आटे और ताजे हरे मटर की मसालेदार पूरी! मटर को स्टीम करके नरम करने की सीक्रेट ट्रिक, बेसन की बाइंडिंग और लचीले आटे की तकनीक से हर पूरी बनेगी बाहर से खस्ता और अंदर से मखमली।",
+  "prep_time_en": "20 mins",
+  "prep_time_hi": "20 mins",
+  "cook_time_en": "15 mins",
+  "cook_time_hi": "15 mins",
+  "servings_en": "4 servings (12-14 puris)",
+  "servings_hi": "4 servings (12-14 puris)",
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "youtube_id": "igjJqHYBQdk",
+  "youtube_url": "https://www.youtube.com/watch?v=igjJqHYBQdk",
+  "image_url": "https://img.youtube.com/vi/igjJqHYBQdk/hqdefault.jpg",
+  "ingredients_en": [
+    "Fresh Green Peas (Taaze Matar) - 1.5 cups (coarsely minced)",
+    "Fresh Ginger - 1 inch & Green Chillies - 3 to 4 (finely minced first)",
+    "Cooking Oil - 1 tbsp",
+    "Asafoetida (Hing) - 1/4 tsp",
+    "Whole Coriander Seeds (Crushed) - 1 tsp",
+    "Cumin Seeds (Jeera) - 1/2 tsp & Fennel Seeds (Saunf) - 1/2 tsp",
+    "Water - 1/4 cup (to steam-soften the peas)",
+    "Gram Flour (Besan) - 2 tbsp (absorbs moisture and binds)",
+    "Kasuri Methi - 1 tsp & Carom Seeds (Ajwain) - 1/4 tsp",
+    "Coriander Powder - 1 tsp & Garam Masala - 1/2 tsp",
+    "Salt - 1 tsp",
+    "Fresh Coriander leaves - 2 tbsp (chopped)",
+    "Whole Wheat Flour (Gehun ka Aata) - 2 cups",
+    "Fine Semolina (Suji / Rava) - 2 tbsp (for crispness, do not add more)",
+    "Cooking Oil (Moin) - 1 to 2 tbsp",
+    "Salt - 1 tsp",
+    "Water - approx. 3/4 to 1 cup (for soft, pliable dough like chapati)",
+    "Oil - for rolling and deep frying"
+  ],
+  "ingredients_hi": [
+    "ताजे हरे मटर - 1.5 कप (चॉपर में दरदरे पिसे हुए)",
+    "अदरक - 1 इंच और हरी मिर्च - 3 से 4 (पहले बारीक कटी)",
+    "तेल - 1 बड़ा चम्मच",
+    "हींग - 1/4 छोटा चम्मच",
+    "साबुत धनिया (दरदरा कुटा) - 1 छोटा चम्मच",
+    "जीरा - 1/2 छोटा चम्मच और सौंफ - 1/2 छोटा चम्मच",
+    "पानी - 1/4 कप (मटर को भाप में पकाने के लिए)",
+    "बेसन - 2 बड़े चम्मच (नमी सोखने और बाइंडिंग हेतु)",
+    "कसूरी मेथी - 1 छोटा चम्मच और अजवाइन - 1/4 छोटा चम्मच",
+    "धनिया पाउडर - 1 छोटा चम्मच और गरम मसाला - 1/2 छोटा चम्मच",
+    "नमक - 1 छोटा चम्मच",
+    "ताजा हरा धनिया - 2 चम्मच",
+    "गेहूं का आटा - 2 कप",
+    "बारीक सूजी - 2 बड़े चम्मच (खस्तापन के लिए)",
+    "तेल (मोयन) - 1 से 2 बड़े चम्मच",
+    "नमक - 1 छोटा चम्मच",
+    "पानी - लगभग 3/4 से 1 कप (रोटी जैसा नरम-लचीला आटा गूंधने हेतु)",
+    "तेल - बेलने और तलने के लिए"
+  ],
+  "instructions_en": [
+    "In a chopper, first pulse 1 inch ginger and 3-4 green chillies until very finely minced (if ginger remains in chunks, it will tear the puri dough during rolling). Add 1.5 cups fresh green peas and pulse briefly into fine granular crumbs. Do not add water or make a smooth paste.",
+    "Heat 1 tbsp oil in a kadhai. Add hing, crushed coriander seeds, cumin, and fennel seeds. Sauté for 10 seconds, then add the minced peas and 1 tsp salt. Sauté for 1 minute, then add 1/4 cup water. Cover with a lid and cook on medium flame for 2-3 minutes. This critical step softens the pea cell walls so they bend and flatten easily when rolled, preventing tears.",
+    "Uncover the pan. Add kasuri methi, ajwain, coriander powder, and garam masala. Stir in 2 tbsp gram flour (besan) and fresh coriander leaves. Sauté on medium flame for 1-2 minutes until besan cooks and absorbs any remaining moisture, forming a cohesive, non-sticky stuffing. Spread on a plate to cool completely.",
+    "In a bowl, mix 2 cups wheat flour, 2 tbsp suji, 1 tsp salt, and 1.5 tbsp oil. Unlike plain puris which need a stiff dough, stuffed puris REQUIRE a soft, pliable dough (like chapati dough) to stretch around the filling without tearing. Gradually add water and knead for 3-4 minutes until smooth and elastic. Smear a drop of oil on top, cover, and rest for 15-20 minutes.",
+    "Pinch a lemon-sized dough ball. Flatten the edges with your fingers, leaving the center slightly thicker. Place 1 tablespoon of cooled stuffing in the center. Pull up the edges and pleat together like a paratha, pressing firmly to seal the dough while it is naturally tacky (do NOT touch with oil before sealing, or edges will open in the hot oil!).",
+    "Gently press the stuffed peda between your palms like a kachori to distribute the green peas evenly all the way to the rim. Dab a drop of oil onto your rolling board and rolling pin. Roll gently and evenly into a thin circular puri. The vibrant green peas will be visible beneath the dough, yet it will remain intact without a single crack.",
+    "Heat plenty of oil in a kadhai until very hot. Slide in the rolled puri and lower heat to medium. Gently press down on the surface of the puri with a slotted spoon—within seconds, it will balloon up into a round sphere like a football! Flip and fry for 30-40 seconds until both sides turn crisp and golden brown. Drain on paper towels.",
+    "Serve piping hot straight from the kadhai alongside spicy hing-aloo sabzi, boondi raita, or sweet mango pickle and hot masala chai."
+  ],
+  "instructions_hi": [
+    "चॉपर में पहले 1 इंच अदरक और 3-4 हरी मिर्च को एकदम बारीक पीस लें (अदरक का मोटा टुकड़ा पूरी को फाड़ सकता है)। अब 1.5 कप ताजे हरे मटर डालें और दरदरा पीस लें। पानी बिल्कुल न डालें और न ही बारीक पेस्ट बनाएं।",
+    "कड़ाही में 1 चम्मच तेल गर्म करें। हींग, कुटा धनिया, जीरा और सौंफ तड़काएं। अब पिसे मटर और 1 चम्मच नमक डालकर 1 मिनट भूनें। 1/4 कप पानी डालकर ढक्कन लगाएं और 2-3 मिनट भाप में पकने दें। इससे मटर के दाने नरम हो जाते हैं और बेलते समय पूरी फटती नहीं है।",
+    "ढक्कन हटाएं। कसूरी मेथी, अजवाइन, धनिया पाउडर और गरम मसाला मिलाएं। अब 2 चम्मच बेसन और हरा धनिया डालें। 1-2 मिनट चलाएं—बेसन सारी नमी सोखकर मसाले को एकसार और सूखा बना देगा। प्लेट में निकालकर पूरी तरह ठंडा होने दें।",
+    "परात में 2 कप गेहूं का आटा, 2 चम्मच सूजी, नमक और 1.5 चम्मच तेल मिलाएं। सादी पूरी के उलट, भरी हुई पूरी के लिए रोटी जैसा नरम और लचीला आटा चाहिए ताकि वह स्टफिंग के ऊपर आसानी से फैल सके। थोड़ा-थोड़ा पानी डालकर 3-4 मिनट गूंधें। हल्का तेल लगाकर 15-20 मिनट ढककर रख दें।",
+    "नींबू बराबर लोई लें। उंगलियों से किनारों को पतला करें और बीच को थोड़ा मोटा रखें। बीच में 1 बड़ा चम्मच ठंडा मटर का मसाला रखें। किनारों को ऊपर खींचकर पराठे की तरह समेटें और अच्छी तरह चिपकाकर सील करें (सील करने से पहले लोई पर तेल न लगाएं वरना किनारे तेल में खुल जाएंगे)।",
+    "भरी हुई लोई को कचौड़ी की तरह हथेलियों के बीच दबाकर बड़ा करें ताकि मटर किनारों तक एक समान फैल जाए। चकले और बेलन पर हल्का तेल लगाएं और हल्के हाथ से सामान्य पूरी जितना पतला बेल लें। हरे मटर बाहर दिखेंगे लेकिन पूरी बिल्कुल नहीं फटेगी।",
+    "कड़ाही में तेल अच्छा गर्म करें। पूरी डालें और आंच मध्यम कर दें। कलछी से पूरी को तेल में हल्का सा दबाएं—कुछ ही सेकंड में पूरी फुटबॉल की तरह पूरी फूल जाएगी! पलटकर दोनों तरफ से सुनहरी और कुरकुरी होने तक तलें और निकाल लें।",
+    "गरमा-गरम मटर पूरी को चटपटी हींग-आलू की सब्जी, बूंदी रायता, आम के अचार और गरमा-गरम मसाला चाय के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "Always steam the minced raw peas with 1/4 cup water for 2-3 minutes. This softens their hard outer skins so they flatten smoothly during rolling instead of puncturing the dough.",
+    "Do not knead a tight/stiff dough for stuffed puris. A soft, elastic dough stretches without tearing and seals permanently around the stuffing.",
+    "Never coat the dough in oil before sealing the stuffing. Oil on the joints prevents gluten strands from bonding, causing the puri to pop open in hot frying oil."
+  ],
+  "chef_tips_hi": [
+    "कच्चे मटर को 1/4 कप पानी के साथ 2-3 मिनट भाप में जरूर पकाएं। इससे मटर के छिलके नरम हो जाते हैं और बेलते समय वे पूरी को चीरकर बाहर नहीं निकलते।",
+    "भरी हुई पूरी के लिए कभी सख्त आटा न गूंधें। रोटी जैसा नरम और लचीला आटा बेलने पर आसानी से खिंचता है और फटने से रोकता है।",
+    "मसाला भरते समय लोई पर कभी तेल न लगाएं। तेल लगने से आटा आपस में चिपक नहीं पाता और गरम तेल में पूरी खुल जाती है।"
+  ],
+  "tags": [
+    "Matar Puri",
+    "Crispy Puri",
+    "Breakfast",
+    "Snacks",
+    "Vegetarian"
+  ]
+}

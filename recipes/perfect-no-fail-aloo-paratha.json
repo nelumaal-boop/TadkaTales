@@ -1,0 +1,170 @@
+{
+  "id": "perfect-no-fail-aloo-paratha",
+  "title_en": "Perfect No-Fail Aloo Paratha (Dhaba Style)",
+  "title_hi": "परफेक्ट नो-फेल ढाबा स्टाइल आलू पराठा (सीक्रेट ट्रिक)",
+  "title": {
+    "en": "Perfect No-Fail Aloo Paratha (Dhaba Style)",
+    "hi": "परफेक्ट नो-फेल ढाबा स्टाइल आलू पराठा (सीक्रेट ट्रिक)"
+  },
+  "description_en": "Learn Bharatzkitchen's ultimate secrets to making ballooning, crack-free Punjabi Aloo Parathas. Perfectly matched soft dough consistency, zero-lump spiced potato filling, and expert gentle rolling techniques ensure stuffing reaches every single corner without ever bursting.",
+  "description_hi": "भरतज़किचन की सीक्रेट ट्रिक्स से बनाएं एकदम ढाबा स्टाइल, गुब्बारे जैसे फूले-फूले और बिना फटे आलू के पराठे। जानिए आटे और आलू के टेक्सचर का परफेक्ट तालमेल, बिना गांठ वाली चटपटी स्टफिंग और बेलने की आसान तकनीक ताकि भरावन पराठे के हर कोने तक पहुंचे।",
+  "description": {
+    "en": "Learn Bharatzkitchen's ultimate secrets to making ballooning, crack-free Punjabi Aloo Parathas. Perfectly matched soft dough consistency, zero-lump spiced potato filling, and expert gentle rolling techniques ensure stuffing reaches every single corner without ever bursting.",
+    "hi": "भरतज़किचन की सीक्रेट ट्रिक्स से बनाएं एकदम ढाबा स्टाइल, गुब्बारे जैसे फूले-फूले और बिना फटे आलू के पराठे। जानिए आटे और आलू के टेक्सचर का परफेक्ट तालमेल, बिना गांठ वाली चटपटी स्टफिंग और बेलने की आसान तकनीक ताकि भरावन पराठे के हर कोने तक पहुंचे।"
+  },
+  "category": "Breakfast",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cook_time_en": "15 mins",
+  "cook_time_hi": "15 मिनट",
+  "prepTime": "15 mins",
+  "cookTime": "15 mins",
+  "servings_en": "4-5 Parathas",
+  "servings_hi": "4-5 पराठे",
+  "servings": "4-5 Parathas",
+  "youtube_id": "9veUXkyqme0",
+  "youtubeId": "9veUXkyqme0",
+  "youtube_url": "https://www.youtube.com/watch?v=9veUXkyqme0",
+  "image_url": "https://img.youtube.com/vi/9veUXkyqme0/hqdefault.jpg",
+  "tags": [
+    "aloo paratha",
+    "stuffed paratha",
+    "breakfast",
+    "dhaba style",
+    "bharatzkitchen",
+    "punjabi food",
+    "no fail"
+  ],
+  "ingredients_en": [
+    "2 cups Whole wheat flour (Gehun ka atta)",
+    "Water as needed for soft dough (around 3/4 to 1 cup)",
+    "1/2 tsp Salt (for dough)",
+    "1 tsp Desi ghee or oil (for kneading and resting)",
+    "4 Medium Potatoes (boiled, cooled completely, and finely grated/mashed)",
+    "1-2 Green chillies (finely chopped)",
+    "1 inch Ginger (finely grated)",
+    "1/4 cup Fresh coriander leaves (finely chopped)",
+    "1 tsp Coriander seeds (coarsely crushed / dardara)",
+    "1/2 tsp Roasted cumin powder (bhuna jeera)",
+    "1/2 tsp Carom seeds (ajwain, rubbed between palms)",
+    "1/2 tsp Red chilli powder / Kashmiri mirch",
+    "1/2 tsp Garam masala powder",
+    "3/4 tsp Dry mango powder (amchur) or chaat masala",
+    "1/2 tsp Black salt (kala namak) + Regular salt to taste",
+    "Desi Ghee or Homemade White Butter (makhan) for pan roasting and serving"
+  ],
+  "ingredients_hi": [
+    "2 कप गेहूं का आटा",
+    "नरम आटा गूंथने के लिए पानी (लगभग 3/4 से 1 कप)",
+    "1/2 छोटा चम्मच नमक (आटे के लिए)",
+    "1 छोटा चम्मच देसी घी या तेल (चिकनाई और रेस्ट के लिए)",
+    "4 मध्यम आलू (उबले, पूरी तरह ठंडे और कद्दूकस / बिना गांठ के मैश किए)",
+    "1-2 हरी मिर्च (बारीक कटी हुई)",
+    "1 इंच अदरक (बारीक घिसा हुआ)",
+    "1/4 कप ताज़ा हरा धनिया (बारीक कटा हुआ)",
+    "1 छोटा चम्मच साबुत धनिया (ओखली में दरदरा कूटा हुआ)",
+    "1/2 छोटा चम्मच भुना जीरा पाउडर",
+    "1/2 छोटा चम्मच अजवायन (हथेलियों से मसलकर डाली हुई)",
+    "1/2 छोटा चम्मच लाल मिर्च पाउडर / कश्मीरी मिर्च",
+    "1/2 छोटा चम्मच गरम मसाला",
+    "3/4 छोटा चम्मच अमचूर पाउडर या चाट मसाला",
+    "1/2 छोटा चम्मच काला नमक + स्वादानुसार सादा नमक",
+    "देसी घी या घर का सफेद मक्खन (सेंकने और परोसने के लिए)"
+  ],
+  "ingredients": [
+    {
+      "category": "Soft Dough",
+      "items": [
+        { "en": "2 cups Whole wheat flour", "hi": "2 कप गेहूं का आटा" },
+        { "en": "Water as required (soft consistency)", "hi": "नरम आटा गूंथने अनुसार पानी" },
+        { "en": "1/2 tsp Salt & 1 tsp Ghee", "hi": "1/2 छोटा चम्मच नमक और 1 छोटा चम्मच घी" }
+      ]
+    },
+    {
+      "category": "Zero-Lump Spiced Aloo Filling",
+      "items": [
+        { "en": "4 Medium Boiled Potatoes (completely cooled & finely grated)", "hi": "4 उबले आलू (पूरी तरह ठंडे और कद्दूकस किए)" },
+        { "en": "1-2 Green chillies & 1 inch Ginger (minced)", "hi": "1-2 हरी मिर्च और 1 इंच अदरक बारीक कटे" },
+        { "en": "1/4 cup Fresh coriander leaves", "hi": "1/4 कप हरा धनिया" },
+        { "en": "1 tsp Crushed coriander seeds & 1/2 tsp Ajwain", "hi": "1 छोटा चम्मच दरदरा धनिया और 1/2 छोटा चम्मच अजवायन" },
+        { "en": "1/2 tsp Roasted cumin & 1/2 tsp Garam masala", "hi": "1/2 छोटा चम्मच भुना जीरा और गरम मसाला" },
+        { "en": "3/4 tsp Amchur powder & 1/2 tsp Black salt", "hi": "3/4 छोटा चम्मच अमचूर पाउडर और काला नमक" },
+        { "en": "Regular salt to taste", "hi": "स्वादानुसार सादा नमक" }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Golden Secret 1 - The Soft Dough: In a wide mixing bowl, combine wheat flour, salt, and water gradually. Knead into a very soft, pliable, and relaxed dough (not stiff). The dough's softness must mirror the softness of the mashed potato filling. Smear 1/2 tsp ghee on top, cover with a damp cloth, and rest for 15-20 minutes to develop elastic gluten.",
+    "Golden Secret 2 - Cool & Grate Potatoes: Ensure boiled potatoes are chilled or completely room temperature before grating. Hot or warm potatoes release moisture and turn soggy. Grate them finely so there are zero hard potato chunks or lumps that could puncture the dough when rolling.",
+    "Flavorful Stuffing: In the grated potatoes, add finely chopped green chillies, grated ginger, fresh coriander, crushed coriander seeds, ajwain, roasted cumin powder, red chilli powder, garam masala, amchur powder, black salt, and regular salt. Mix gently with light fingers without over-kneading into a paste.",
+    "Forming the Envelope (Katori): Divide dough and stuffing into equal portions. Take a dough ball, dust with dry flour, and roll out only the edges thin while keeping the center thicker (forming a shallow cup/katori).",
+    "Generous Stuffing & Sealing: Place a generous ball of aloo mixture (equal in volume to the dough ball) in the center. Use your right thumb to press the filling inward while drawing the dough edges upward with your left fingers. Gather all pleats at the top, pinch tightly to seal, and gently flatten with your palm.",
+    "Gentle Rolling: Dust lightly with dry flour. First, gently press across the ball with your fingers to evenly distribute the potato filling from center to edges. Then, using light, even strokes with the rolling pin, roll gently outward from center to circumference. Do not apply heavy downward pressure.",
+    "Ballooning Tawa Roasting: Heat a heavy iron or non-stick tawa on medium-high. Place the rolled paratha onto the hot tawa. Once tiny bubbles appear (about 30-40 seconds), flip it over. Cook the second side until light golden brown speckles appear.",
+    "Crisp with Desi Ghee: Brush generous desi ghee or butter on both sides. Press gently around the edges with a spatula—the paratha will puff up like a round balloon! Cook until crisp and richly golden-brown on both sides.",
+    "Serving: Serve piping hot slathered with homemade white butter (makhan), chilled dahi (curd), fresh mint chutney, and spicy mango pickle."
+  ],
+  "instructions_hi": [
+    "पहला सीक्रेट - नरम आटा: एक परात में गेहूं का आटा, नमक और थोड़ा-थोड़ा पानी डालकर बहुत ही नरम और लचीला आटा गूंथें। आटे का टेक्सचर उतना ही सॉफ्ट होना चाहिए जितना आलू का मसाला। ऊपर से थोड़ा घी लगाकर 15-20 मिनट ढककर रेस्ट करने दें ताकि ग्लूटेन एक्टिवेट हो सके।",
+    "दूसरा सीक्रेट - पूरी तरह ठंडे आलू: उबले हुए आलू को पूरी तरह ठंडा होने के बाद ही कद्दूकस करें। गरम आलू में भाप और नमी होती है जिससे भरावन गीला हो जाता है। कद्दूकस करने से आलू में एक भी गांठ या टुकड़ा नहीं बचता जो बेलते समय पराठे को फाड़ सके।",
+    "चटपटी स्टफिंग तैयार करें: घिसे हुए आलू में हरी मिर्च, अदरक, हरा धनिया, दरदरा कुटा धनिया, अजवायन, भुना जीरा, लाल मिर्च, गरम मसाला, अमचूर पाउडर, काला नमक और स्वादानुसार सादा नमक मिलाएं। हल्के हाथों से मिलाएं, ज्यादा मसलकर पेस्ट न बनाएं।",
+    "कटोरीनुमा लोई बनाएं: आटे की लोई तोड़ें और सूखे आटे में लपेटें। बेलन या अंगूठों की मदद से किनारों को पतला और बीच के हिस्से को थोड़ा मोटा रखते हुए कटोरी का आकार दें।",
+    "भरने और सील करने की ट्रिक: जितनी बड़ी आटे की लोई है, उतना ही बड़ा आलू का मसाला बीच में रखें। अंगूठे से आलू को अंदर दबाते जाएं और किनारों को ऊपर खींचते हुए एक जगह इकट्ठा कर लें। अतिरिक्त आटा दबा दें और हथेली से चपटा करें।",
+    "हल्के हाथों से बेलना: सूखा आटा छिड़कें। पहले उंगलियों से हल्के-हल्के दबाकर आलू को किनारों तक फैला लें। फिर हल्के हाथों से बेलन को बीच से किनारों की तरफ घुमाते हुए बेलें। ज्यादा दबाव न डालें।",
+    "तवे पर सेंकना: तवे को मध्यम-तेज़ आंच पर गरम करें। पराठा डालें। 30-40 सेकंड में जब हल्के बबल्स दिखें तो पलट दें। दूसरी तरफ भी चित्ती आने तक सिकने दें।",
+    "गुब्बारे जैसा फुलाना: दोनों तरफ अच्छी मात्रा में देसी घी लगाएं। किनारों को स्पैटुला से हल्का दबाएं—पराठा बिल्कुल गुब्बारे की तरह फूल जाएगा! दोनों तरफ से कुरकुरा और सुनहरा होने तक सेकें।",
+    "परोसें: गरमा-गरम पराठे पर ताजा सफेद मक्खन रखें और ठंडे दही, पुदीना चटनी व आम के अचार के साथ परोसें।"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": {
+        "en": "Knead a very soft, pliable whole wheat dough (same softness as the potato mash). Rest 15-20 mins.",
+        "hi": "गेहूं का बहुत नरम और लचीला आटा गूंथें और 15-20 मिनट ढककर रेस्ट करने दें।"
+      }
+    },
+    {
+      "step": 2,
+      "text": {
+        "en": "Finely grate completely cooled boiled potatoes. Mix in green chillies, ginger, coriander, and freshly roasted spices.",
+        "hi": "ठंडे उबले आलू कद्दूकस करें। इसमें हरी मिर्च, अदरक, हरा धनिया और सभी मसाले मिलाएं।"
+      }
+    },
+    {
+      "step": 3,
+      "text": {
+        "en": "Roll dough edges thin keeping the center thick. Place equal quantity of filling, pleat, and seal tightly.",
+        "hi": "लोई को किनारों से पतला बेलें, बीच में आलू भरकर किनारों को जोड़कर अच्छी तरह सील करें।"
+      }
+    },
+    {
+      "step": 4,
+      "text": {
+        "en": "Flatten with fingers first to spread stuffing evenly, then roll gently from center outwards with light pressure.",
+        "hi": "उंगलियों से दबाकर मसाला फैलाएं, फिर हल्के हाथों से बीच से किनारों की तरफ बेलें।"
+      }
+    },
+    {
+      "step": 5,
+      "text": {
+        "en": "Cook on hot tawa, flip, brush with desi ghee, and press edges so it balloons up crisp and golden.",
+        "hi": "गरम तवे पर दोनों तरफ सेकें, घी लगाकर किनारों को दबाएं ताकि गुब्बारे जैसा फूल जाए।"
+      }
+    }
+  ],
+  "chef_tips_en": [
+    "Matching Dough Consistency: 90% of parathas tear because the dough is stiffer than the potato filling. If the dough is firm and resists the rolling pin, the softer filling will burst right through the seams.",
+    "Never Use Warm Potatoes: Always boil potatoes in advance and let them cool completely (or refrigerate for 30 minutes). Warm potatoes release steam and moisture inside the dough, instantly tearing the bread.",
+    "Zero-Lump Grating: Using a box grater instead of a hand masher completely eliminates hard chunks, ensuring smooth, effortless rolling all the way to the outer crust."
+  ],
+  "chef_tips_hi": [
+    "आटे और आलू का तालमेल: पराठा फटने का सबसे बड़ा कारण सख्त आटा होता है। आटा उतना ही नरम होना चाहिए जितना आलू का मसाला, ताकि दोनों एक साथ आसानी से फैल सकें।",
+    "गर्म आलू कभी न भरें: आलू को हमेशा पहले से उबालकर पूरी तरह ठंडा होने दें। गर्म आलू से भाप निकलती है जिससे आटा गीला होकर फट जाता है।",
+    "कद्दूकस का इस्तेमाल: आलू को मैश करने के बजाय बारीक कद्दूकस करें। इससे एक भी गांठ नहीं रहती और बेलते समय पराठा कहीं से भी नहीं फटता।"
+  ]
+}

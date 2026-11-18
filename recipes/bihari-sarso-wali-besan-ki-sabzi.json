@@ -1,0 +1,269 @@
+{
+  "id": "bihari-sarso-wali-besan-ki-sabzi",
+  "title_en": "Bihari Sarson Wali Besan Ki Sabzi (Vegetarian Fish Curry Style)",
+  "title_hi": "बिहारी सरसों वाली बेसन की सब्ज़ी (शाकाहारी मछली करी स्टाइल)",
+  "title": {
+    "en": "Bihari Sarson Wali Besan Ki Sabzi (Vegetarian Fish Curry Style)",
+    "hi": "बिहारी सरसों वाली बेसन की सब्ज़ी (शाकाहारी मछली करी स्टाइल)"
+  },
+  "description_en": "A beloved rural Bihari delicacy often known as 'Shakahari Machhli' (Vegetarian Fish Curry). Thin besan rolls (patod/cheela) are sliced into bite-sized diamond pieces and simmered in an intensely aromatic, pungent yellow-mustard, garlic, and ripe tomato curry cooked in smoking mustard oil.",
+  "description_hi": "पारंपरिक बिहारी और मिथिला की प्रसिद्ध 'शाकाहारी मछली' बेसन की सब्जी। तवे पर पतले बेसन के चीले बनाकर रोल किए जाते हैं और कतली के आकार में काटकर, पीली सरसों, लहसुन, टमाटर और मेथी के तड़के वाली तीखी-चटपटी सरसों के तेल की ग्रेवी में पकाया जाता है।",
+  "description": {
+    "en": "A beloved rural Bihari delicacy often known as 'Shakahari Machhli' (Vegetarian Fish Curry). Thin besan rolls (patod/cheela) are sliced into bite-sized diamond pieces and simmered in an intensely aromatic, pungent yellow-mustard, garlic, and ripe tomato curry cooked in smoking mustard oil.",
+    "hi": "पारंपरिक बिहारी और मिथिला की प्रसिद्ध 'शाकाहारी मछली' बेसन की सब्जी। तवे पर पतले बेसन के चीले बनाकर रोल किए जाते हैं और कतली के आकार में काटकर, पीली सरसों, लहसुन, टमाटर और मेथी के तड़के वाली तीखी-चटपटी सरसों के तेल की ग्रेवी में पकाया जाता है।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cook_time_en": "25 mins",
+  "cook_time_hi": "25 मिनट",
+  "prepTime": "15 mins",
+  "cookTime": "25 mins",
+  "servings_en": "5-6 servings (5-6 लोग)",
+  "servings_hi": "5-6 सर्विंग्स (5-6 लोग)",
+  "servings": "5-6 servings",
+  "youtube_id": "3XetzZAHfC4",
+  "youtubeId": "3XetzZAHfC4",
+  "youtube_url": "https://youtu.be/3XetzZAHfC4",
+  "image_url": "https://img.youtube.com/vi/3XetzZAHfC4/maxresdefault.jpg",
+  "tags": [
+    "besan ki sabzi",
+    "sarso wali besan",
+    "bihari food",
+    "shakahari machhli",
+    "kabitas kitchen",
+    "mustard curry",
+    "mithila cuisine",
+    "traditional indian curry"
+  ],
+  "ingredients_en": [
+    "1.5 cups Gram Flour (Besan)",
+    "1 cup Water (for smooth pourable batter)",
+    "8 Garlic Cloves, finely minced or crushed",
+    "3 Green Chillies, finely chopped",
+    "1/3 tsp Turmeric Powder (Haldi, for batter)",
+    "Salt to taste (for batter)",
+    "2 tbsp Fresh Coriander Leaves, chopped",
+    "2 tbsp Oil (for cooking besan rolls/cheelas)",
+    "4 tbsp Yellow/Black Big Mustard Seeds (Sarson ke daane), soaked in water for 15 mins",
+    "25g Garlic Cloves (approx. 15-20 cloves - authentic Bihari flavor)",
+    "1 tbsp Cumin Seeds (Jeera)",
+    "1/2 tbsp Whole Coriander Seeds (Sabut Dhaniya)",
+    "2 inch Fresh Ginger (Adrak)",
+    "3-4 Green Chillies (for mustard paste)",
+    "1/4 cup Pure Mustard Oil (Sarson ka Tel - mandatory for authentic pungency)",
+    "1/2 tsp Fenugreek Seeds (Methi Dana) or Panchphoran (for tempering)",
+    "3 Medium Ripe Tomatoes, finely chopped or grated",
+    "2 Green Chillies, slit lengthwise",
+    "1/2 tsp Turmeric Powder (for gravy)",
+    "1 tsp Kashmiri Red Chilli Powder",
+    "1.5 tsp Salt (or to taste)",
+    "2 cups Water (for curry gravy)",
+    "2 tbsp Fresh Coriander Leaves, chopped"
+  ],
+  "ingredients_hi": [
+    "1.5 कप बेसन (चने का आटा)",
+    "1 कप पानी (चिकना पतला घोल बनाने के लिए)",
+    "8 लहसुन की कलियां (बारीक कुटी हुई)",
+    "3 हरी मिर्च (बारीक कटी हुई)",
+    "1/3 छोटा चम्मच हल्दी पाउडर (घोल के लिए)",
+    "स्वादानुसार नमक (घोल के लिए)",
+    "2 बड़े चम्मच ताजा हरा धनिया (बारीक कटा)",
+    "2 बड़े चम्मच तेल (चीले सेकने के लिए)",
+    "4 बड़े चम्मच पीली या काली सरसों (15 मिनट पानी में भीगी हुई)",
+    "25 ग्राम लहसुन (लगभग 18-20 कलियां - असली बिहारी स्वाद हेतु)",
+    "1 बड़ा चम्मच जीरा",
+    "1/2 बड़ा चम्मच साबुत धनिया",
+    "2 इंच ताजा अदरक",
+    "3-4 हरी मिर्च (सरसों मसाले के लिए)",
+    "1/4 कप शुद्ध सरसों का तेल",
+    "1/2 छोटा चम्मच मेथी दाना (तड़के के लिए)",
+    "3 मध्यम पके टमाटर (बारीक कटे या कद्दूकस)",
+    "2 हरी मिर्च (चीरा लगाई हुई)",
+    "1/2 छोटा चम्मच हल्दी पाउडर (ग्रेवी के लिए)",
+    "1 छोटा चम्मच कश्मीरी लाल मिर्च पाउडर",
+    "1.5 छोटा चम्मच नमक (स्वादानुसार)",
+    "2 कप पानी (ग्रेवी के लिए)",
+    "2 बड़े चम्मच ताजा हरा धनिया (बारीक कटा)"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Besan Roll / Cheela Prep (बेसन कतली सामग्री)",
+      "category_hi": "बेसन चीला/रोल सामग्री",
+      "items": [
+        {
+          "name_en": "Gram Flour (Besan)",
+          "name_hi": "बेसन",
+          "amount": "1.5 cups"
+        },
+        {
+          "name_en": "Water",
+          "name_hi": "पानी",
+          "amount": "1 cup"
+        },
+        {
+          "name_en": "Crushed Garlic & Green Chillies",
+          "name_hi": "कुटा लहसुन व हरी मिर्च",
+          "amount": "8 cloves + 3 chillies"
+        },
+        {
+          "name_en": "Turmeric, Salt & Coriander",
+          "name_hi": "हल्दी, नमक व हरा धनिया",
+          "amount": "1/3 tsp haldi + salt + 2 tbsp coriander"
+        },
+        {
+          "name_en": "Oil",
+          "name_hi": "तेल",
+          "amount": "2 tbsp (चीला सेकने हेतु)"
+        }
+      ]
+    },
+    {
+      "category_en": "Bihari Mustard-Garlic Spice Paste (सरसों-लहसुन मसाला पेस्ट)",
+      "category_hi": "सरसों-लहसुन मसाला पेस्ट",
+      "items": [
+        {
+          "name_en": "Mustard Seeds (Sarson)",
+          "name_hi": "पीली/काली सरसों",
+          "amount": "4 tbsp (भीगी हुई)"
+        },
+        {
+          "name_en": "Fresh Garlic Cloves",
+          "name_hi": "लहसुन",
+          "amount": "25g (18-20 कलियां)"
+        },
+        {
+          "name_en": "Cumin Seeds (Jeera)",
+          "name_hi": "जीरा",
+          "amount": "1 tbsp"
+        },
+        {
+          "name_en": "Coriander Seeds (Dhaniya)",
+          "name_hi": "साबुत धनिया",
+          "amount": "1/2 tbsp"
+        },
+        {
+          "name_en": "Ginger & Green Chillies",
+          "name_hi": "अदरक व हरी मिर्च",
+          "amount": "2 inch ginger + 3-4 chillies"
+        }
+      ]
+    },
+    {
+      "category_en": "Mustard Oil Curry Gravy (सरसों तेल व ग्रेवी)",
+      "category_hi": "तड़का व टमाटर ग्रेवी",
+      "items": [
+        {
+          "name_en": "Pure Mustard Oil",
+          "name_hi": "शुद्ध सरसों का तेल",
+          "amount": "1/4 cup"
+        },
+        {
+          "name_en": "Fenugreek Seeds (Methi Dana)",
+          "name_hi": "मेथी दाना",
+          "amount": "1/2 tsp"
+        },
+        {
+          "name_en": "Ripe Tomatoes",
+          "name_hi": "पके टमाटर",
+          "amount": "3 medium (chopped)"
+        },
+        {
+          "name_en": "Turmeric & Kashmiri Chilli",
+          "name_hi": "हल्दी व कश्मीरी मिर्च",
+          "amount": "1/2 tsp + 1 tsp"
+        },
+        {
+          "name_en": "Water & Fresh Coriander",
+          "name_hi": "पानी व हरा धनिया",
+          "amount": "2 cups water + 2 tbsp coriander"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Grind the Bihari Mustard-Garlic Paste: In a small grinder jar, add 4 tbsp soaked mustard seeds, 25g garlic cloves, 1 tbsp cumin seeds, 1/2 tbsp coriander seeds, 2 inches ginger, 3-4 green chillies, and 1/2 tsp turmeric powder. Add 3-4 tablespoons of water and grind into a silky, ultra-fine yellow paste. (Fine grinding is crucial so the mustard seeds do not taste bitter).",
+    "Make the Besan Roll Batter: In a bowl, whisk together 1.5 cups besan, 8 crushed garlic cloves, 3 finely chopped green chillies, 1/3 tsp turmeric powder, salt to taste, 2 tbsp chopped coriander, and 1 cup water into a smooth, thin, pourable batter.",
+    "Cook and Roll Cheelas: Heat a tawa or non-stick griddle on medium flame and brush lightly with oil. Pour a ladleful of batter and spread into a thin round crepe. Cook for 1.5 to 2 minutes until firm and lightly golden on the bottom. While still hot and pliable on the tawa, tightly roll it up like a cigar. Cook on the seam for 30 seconds to seal. Repeat for all batter.",
+    "Slice into Diamond Katlis: Transfer the warm besan rolls to a cutting board. Cut diagonally into 1-inch thick diamond-shaped pieces (resembling fish fillets). Set aside.",
+    "Smoke Mustard Oil & Temper: In a wide kadhai, heat 1/4 cup pure mustard oil on high flame until it starts smoking. Turn heat to medium-low. Add 1/2 tsp fenugreek seeds (methi dana) and let them turn aromatic and dark brown (do not burn).",
+    "Fry the Mustard Paste: Add the prepared fine mustard-garlic paste into the hot oil along with 1 tsp Kashmiri red chilli powder. Sauté on low-medium flame for 5–7 minutes, splashing 2 tbsp of water occasionally, until the pungent raw aroma mellows, the masala turns golden-brown, and mustard oil separates generously from the edges.",
+    "Add Tomatoes & Cook: Add the 3 finely chopped ripe tomatoes, 2 slit green chillies, and 1.5 tsp salt. Cook for 4-5 minutes until the tomatoes melt down into a pulpy jammy consistency and oil releases once again.",
+    "Simmer Gravy: Pour in 2 cups of hot water. Stir well and bring the curry to a rolling boil on medium-high flame for 3–4 minutes until the gravy thickens slightly.",
+    "Drop Besan Katlis & Finish: Gently slide in all the sliced besan roll pieces into the boiling gravy. Simmer on low flame for just 3 to 4 minutes so the porous besan rolls drink up the tangy, garlicky mustard sauce without breaking apart.",
+    "Garnish & Serve: Turn off heat, garnish with fresh chopped coriander leaves, and let rest covered for 5 minutes. Serve piping hot with steamed basmati or parboiled rice for an unforgettable authentic Bihari feast!"
+  ],
+  "instructions_hi": [
+    "सरसों-लहसुन का बारीक मसाला पीसें: मिक्सी के छोटे जार में 4 चम्मच भीगी सरसों, 25 ग्राम लहसुन, 1 चम्मच जीरा, 1/2 चम्मच साबुत धनिया, 2 इंच अदरक, 3-4 हरी मिर्च और 1/2 चम्मच हल्दी डालें। 3-4 चम्मच पानी डालकर एकदम महीन और चिकना पेस्ट पीस लें (मसाला बारीक पीसना जरूरी है ताकि सरसों कड़वी न लगे)।",
+    "बेसन चीले का घोल बनाएं: एक बर्तन में 1.5 कप बेसन, 8 कुटी लहसुन की कलियां, 3 कटी हरी मिर्च, 1/3 चम्मच हल्दी, स्वादानुसार नमक, 2 चम्मच हरा धनिया और 1 कप पानी डालकर बिना गांठ वाला पतला घोल तैयार करें।",
+    "चीले सेंकें और रोल बनाएं: तवे पर हल्का सा तेल लगाएं। एक चमचा बैटर डालकर पतला चीला फैलाएं। मध्यम आंच पर 1.5 से 2 मिनट पकने दें। जब ऊपर से सूख जाए, तो तवे पर ही गरम-गरम चीले को टाइट रोल कर लें। जोड़ की तरफ से 30 सेकंड सेकें ताकि रोल खुले नहीं। इसी तरह सारे रोल बना लें।",
+    "कतली के आकार में काटें: तैयार रोल्स को कटिंग बोर्ड पर रखें और चाकू से 1-इंच के तिरछे (मछली के टुकड़ों जैसे) टुकड़ों में काट लें।",
+    "सरसों तेल में मेथी का तड़का: कड़ाही में 1/4 कप सरसों का तेल धुआं उठने तक गरम करें। आंच मध्यम करें और 1/2 चम्मच मेथी दाना डालकर भूरा होने तक चटकाएं।",
+    "सरसों मसाला भूनें: पिसा हुआ सरसों-लहसुन पेस्ट और 1 चम्मच कश्मीरी लाल मिर्च डालें। धीमी-मध्यम आंच पर 5-7 मिनट तक 1-2 चम्मच पानी छिड़कते हुए भूनें जब तक कि सरसों का कच्चापन खत्म न हो जाए और तेल अलग न छूटने लगे।",
+    "टमाटर डालकर पकाएं: अब 3 बारीक कटे टमाटर, 2 हरी मिर्च और 1.5 चम्मच नमक डालें। 4-5 मिनट भूनें जब तक टमाटर पूरी तरह गलकर तेल न छोड़ दें।",
+    "पानी डालकर ग्रेवी खौलाएं: 2 कप गरम पानी डालें और तेज आंच पर 3-4 मिनट तक उबलने दें ताकि ग्रेवी में अच्छा गाढ़ापन और रंग आ जाए।",
+    "बेसन कतली डालें और पकाएं: ग्रेवी उबलते ही इसमें बेसन के कटे हुए टुकड़े डालें। धीमी आंच पर सिर्फ 3-4 मिनट तक पकने दें ताकि बेसन के टुकड़े सारी ग्रेवी अंदर तक सोख लें और टूटे नहीं।",
+    "परोसें: गैस बंद करें, ऊपर से बारीक कटा हरा धनिया डालें और 5 मिनट ढककर रखें। इसे गरमा-गरम उबले हुए चावल के साथ परोसें। यह पारंपरिक बिहारी स्वाद का सबसे बड़ा उदाहरण है!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Silky Mustard-Garlic Paste",
+      "title_hi": "सरसों-लहसुन पेस्ट पीसना",
+      "instruction_en": "Grind soaked mustard seeds, garlic, cumin, coriander seeds, ginger, chillies, and turmeric with water into a fine paste.",
+      "instruction_hi": "भीगी सरसों, 25g लहसुन, जीरा, साबुत धनिया, अदरक और हरी मिर्च को एकदम बारीक चिकना पीस लें।"
+    },
+    {
+      "step": 2,
+      "title_en": "Cooking & Rolling Besan Cheelas",
+      "title_hi": "बेसन चीला बनाकर रोल करना",
+      "instruction_en": "Whisk besan with water, garlic, chillies, and turmeric. Cook thin crepes on a tawa and roll them up tightly while warm.",
+      "instruction_hi": "बेसन, कुटा लहसुन, मिर्च और पानी का घोल बनाकर तवे पर चीला फैलाएं और गरम में ही टाइट रोल कर लें।"
+    },
+    {
+      "step": 3,
+      "title_en": "Cutting Diamond Fillets",
+      "title_hi": "तिरछी कतली काटना",
+      "instruction_en": "Slice the cooked besan rolls diagonally into 1-inch fish-fillet-shaped pieces.",
+      "instruction_hi": "बेसन रोल्स को चाकू से 1 इंच के तिरछे टुकड़ों (मछली कतली जैसे) में काट लें।"
+    },
+    {
+      "step": 4,
+      "title_en": "Tempering in Smoking Mustard Oil",
+      "title_hi": "सरसों तेल में मेथी तड़का",
+      "instruction_en": "Heat mustard oil to smoking point; crackle fenugreek seeds (methi dana) until fragrant and dark brown.",
+      "instruction_hi": "कड़ाही में सरसों का तेल धुआं निकलने तक गरम करें और मेथी दाना डालकर चटकाएं।"
+    },
+    {
+      "step": 5,
+      "title_en": "Braising Paste with Tomatoes",
+      "title_hi": "सरसों मसाला व टमाटर भूनना",
+      "instruction_en": "Sauté the mustard-garlic paste and Kashmiri chilli on low heat until oil separates, then cook chopped tomatoes till pulpy.",
+      "instruction_hi": "सरसों पेस्ट को तेल छूटने तक भूनें, फिर टमाटर और नमक डालकर अच्छी तरह गलने तक पकाएं।"
+    },
+    {
+      "step": 6,
+      "title_en": "Simmering with Besan Katlis",
+      "title_hi": "पानी व कतली डालकर पकाना",
+      "instruction_en": "Add 2 cups water, boil gravy, drop in besan katlis, simmer for 3-4 minutes to absorb, and finish with fresh coriander.",
+      "instruction_hi": "पानी डालकर ग्रेवी उबालें, बेसन के टुकड़े डालें, 3 मिनट धीमी आंच पर पकाएं और हरा धनिया डालकर परोसें।"
+    }
+  ],
+  "chef_tips_en": [
+    "Why Yellow Mustard (Peeli Sarson): Yellow mustard seeds have a sweeter, fruitier, and less astringent pungency compared to purely black mustard seeds. Soaking them for 15 minutes before grinding guarantees a silky paste without bitterness.",
+    "Generous Garlic Proportion: Authentic Bihari sarson curry demands plenty of garlic (at least 20-25g). The sweet allicin in garlic balances the sharp mustard pungency and builds a luscious umami foundation.",
+    "Rolling While Warm: Always roll the besan cheela while it is still warm and flexible on the tawa. If you let it cool completely flat, it will crack and break when you try to roll it.",
+    "Brief Simmering: Once the besan pieces are dropped into the boiling gravy, simmer for only 3 to 4 minutes. Over-cooking will cause the delicate porous besan rolls to dissolve into the curry."
+  ],
+  "chef_tips_hi": [
+    "पीली सरसों का उपयोग: काली सरसों की तुलना में पीली सरसों कम कड़वी और ज्यादा सोंधी होती है। इसे 15 मिनट पानी में भिगोकर पीसने से मसाला बिल्कुल कड़वा नहीं बनता और ग्रेवी का रंग भी शानदार पीला-लाल आता है।",
+    "लहसुन की भरपूर मात्रा: बिहारी सरसों वाली ग्रेवी में लहसुन (20-25 ग्राम) दिल खोलकर डाला जाता है। लहसुन की मिठास सरसों के तीखेपन को संतुलित करके मछली करी जैसा लाजवाब स्वाद देती है।",
+    "गरम चीले को तुरंत रोल करना: चीले को तवे पर पकते ही गरम-गरम रोल कर लें। ठंडा होने के बाद रोल करने की कोशिश करेंगे तो चीला टूट जाएगा।",
+    "कतली डालने के बाद ज्यादा न उबालें: ग्रेवी में बेसन के टुकड़े डालने के बाद सिर्फ 3-4 मिनट ही धीमी आंच पर पकाएं। ज्यादा देर उबालने से बेसन के टुकड़े ग्रेवी में घुलकर हलवा बन सकते हैं।"
+  ]
+}

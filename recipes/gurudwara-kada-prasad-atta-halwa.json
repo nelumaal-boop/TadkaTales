@@ -1,0 +1,183 @@
+{
+  "id": "gurudwara-kada-prasad-atta-halwa",
+  "title_en": "Authentic Gurudwara Style Kada Prasad (Atta Halwa)",
+  "title_hi": "गुरुद्वारा स्टाइल कड़ा प्रसाद (परफेक्ट आटे का हलवा)",
+  "title": {
+    "en": "Authentic Gurudwara Style Kada Prasad (Atta Halwa)",
+    "hi": "गुरुद्वारा स्टाइल कड़ा प्रसाद (परफेक्ट आटे का हलवा)"
+  },
+  "description_en": "The sacred, soul-warming Punjabi Kada Prasad made with the timeless 1:1:1:3 golden ratio of whole wheat flour, pure desi ghee, sugar, and warm water. Rich, velvety, glossy, and melts instantly on the tongue.",
+  "description_hi": "सच्चे गुरुद्वारा स्टाइल कड़ा प्रसाद (आटे का हलवा) की परफेक्ट विधि। गेहूं का आटा, शुद्ध देसी घी, चीनी और पानी के 1:1:1:3 गोल्डन अनुपात के साथ, जो मुंह में जाते ही मक्खन की तरह घुल जाए।",
+  "description": {
+    "en": "The sacred, soul-warming Punjabi Kada Prasad made with the timeless 1:1:1:3 golden ratio of whole wheat flour, pure desi ghee, sugar, and warm water. Rich, velvety, glossy, and melts instantly on the tongue.",
+    "hi": "सच्चे गुरुद्वारा स्टाइल कड़ा प्रसाद (आटे का हलवा) की परफेक्ट विधि। गेहूं का आटा, शुद्ध देसी घी, चीनी और पानी के 1:1:1:3 गोल्डन अनुपात के साथ, जो मुंह में जाते ही मक्खन की तरह घुल जाए।"
+  },
+  "category": "Desserts",
+  "diet": "Vegetarian",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "सरल",
+  "prep_time_en": "5 mins",
+  "prep_time_hi": "5 मिनट",
+  "cook_time_en": "20 mins",
+  "cook_time_hi": "20 मिनट",
+  "prepTime": "5 mins",
+  "cookTime": "20 mins",
+  "servings_en": "4-5 servings",
+  "servings_hi": "4-5 लोग",
+  "servings": 4,
+  "youtube_id": "t4vtKsFwG7s",
+  "youtubeId": "t4vtKsFwG7s",
+  "youtube_url": "https://youtu.be/t4vtKsFwG7s",
+  "image_url": "/static/images/t4vtKsFwG7s.jpg",
+  "tags": [
+    "Atta Halwa",
+    "Kada Prasad",
+    "Halwa",
+    "Desserts",
+    "Indian Sweets",
+    "Bharatzkitchen",
+    "Prasad",
+    "Vegetarian"
+  ],
+  "ingredients_en": [
+    "1 cup Whole Wheat Flour (Atta / Kanak da Atta) - 200g",
+    "1 cup Pure Desi Ghee - 200g",
+    "1 cup Granulated Sugar - 200g",
+    "3 cups Water (for smooth warm syrup) - 600ml",
+    "1/4 tsp Green Cardamom Powder (Elaichi) - optional",
+    "1-2 tbsp Sliced Almonds and Cashews (optional for garnish)"
+  ],
+  "ingredients_hi": [
+    "1 कप गेहूं का आटा (कनक का आटा) - 200 ग्राम",
+    "1 कप शुद्ध देसी घी - 200 ग्राम",
+    "1 कप चीनी - 200 ग्राम",
+    "3 कप पानी (घोल हेतु) - 600 मिली",
+    "1/4 छोटा चम्मच इलायची पाउडर (वैकल्पिक)",
+    "1-2 बड़े चम्मच काजू-बादाम कतरन (सजावट हेतु, वैकल्पिक)"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Golden Ratio Halwa Base (1:1:1:3 गोल्डन अनुपात सामग्री)",
+      "category_hi": "1:1:1:3 गोल्डन अनुपात सामग्री",
+      "items": [
+        {
+          "name_en": "Whole Wheat Flour (Atta)",
+          "name_hi": "गेहूं का आटा",
+          "amount": "1 cup (200g)"
+        },
+        {
+          "name_en": "Pure Desi Ghee",
+          "name_hi": "शुद्ध देसी घी",
+          "amount": "1 cup (200g)"
+        },
+        {
+          "name_en": "Granulated Sugar",
+          "name_hi": "चीनी",
+          "amount": "1 cup (200g)"
+        },
+        {
+          "name_en": "Water",
+          "name_hi": "पानी",
+          "amount": "3 cups (600ml)"
+        }
+      ]
+    },
+    {
+      "category_en": "Aromatics and Garnishing (सुगंध व मेवे)",
+      "category_hi": "सुगंध व मेवे",
+      "items": [
+        {
+          "name_en": "Cardamom Powder",
+          "name_hi": "इलायची पाउडर",
+          "amount": "1/4 tsp (optional)"
+        },
+        {
+          "name_en": "Sliced Almonds and Cashews",
+          "name_hi": "काजू व बादाम कतरन",
+          "amount": "1-2 tbsp (optional)"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Prepare Warm Sugar Water: In a saucepan, combine 1 cup granulated sugar and 3 cups water. Place over medium heat and stir until the sugar is completely dissolved. Turn off the heat once it reaches a gentle simmer (do not boil into a sticky string syrup). Keep it warm.",
+    "Melt Pure Desi Ghee: Heat 1 cup of pure desi ghee in a heavy-bottomed kadai or pan over low-medium flame until thoroughly melted and warm.",
+    "Add Flour & Begin Roasting: Add 1 cup of whole wheat flour (atta) to the melted ghee. Stir continuously with a spatula to blend the flour evenly into the ghee with zero lumps.",
+    "Roast Patiently on Low Flame: Roast the mixture on low to medium-low flame. The flour will become light, airy, and frothy. Continue stirring patiently for 10-12 minutes until it transforms into a deep rich amber/biscuit-brown color and fills the kitchen with a roasted nutty aroma.",
+    "Pour Warm Sugar Water: Lower the heat. Carefully pour the warm sugar water in a steady stream into the roasted flour mixture with one hand while continuously whisking or stirring vigorously with the other. (It will bubble vigorously; stir fast to prevent lumps).",
+    "Stir & Thicken into Velvety Halwa: Keep stirring over medium flame as the wheat flour quickly absorbs the hot liquid. Within 2 to 3 minutes, the mixture will thicken into a glossy, velvety halwa.",
+    "Release of Ghee & Serve Hot: Continue stirring for another 1-2 minutes until the halwa effortlessly leaves the sides and base of the kadai, leaving a glistening coat of aromatic ghee on the surface. Turn off the heat and serve steaming hot in true Gurudwara Kada Prasad tradition!"
+  ],
+  "instructions_hi": [
+    "मीठा पानी तैयार करना: एक पैन में 1 कप चीनी और 3 कप पानी मिलाएं। मध्यम आंच पर रखें और चीनी घुलने तक चलाएं। जब पानी हल्का गर्म हो जाए तो गैस बंद कर दें (एक या दो तार की चाशनी नहीं बनानी है)। इसे गुनगुना रखें।",
+    "देसी घी गरम करना: एक भारी तले की कड़ाही में 1 कप शुद्ध देसी घी डालकर धीमी-मध्यम आंच पर पिघलाएं।",
+    "आटा डालकर भुनाई शुरू करना: पिघले हुए घी में 1 कप गेहूं का आटा डालें। कलछी से लगातार चलाते हुए आटे को घी में अच्छे से मिला लें ताकि कोई गांठ न रहे।",
+    "धीमी आंच पर रंग आने तक भूनना: धीमी आंच पर लगातार चलाते हुए 10-12 मिनट भूनें। आटा हल्का होकर झागदार होने लगेगा। जब इसका रंग गहरा बादामी/बिस्कुट जैसा भूरा हो जाए और सोंधी खुशबू आने लगे, तब तक भूनें।",
+    "गरम मीठा पानी मिलाना: आंच एकदम धीमी करें। एक हाथ से गरम चीनी का पानी धीरे-धीरे डालें और दूसरे हाथ से कलछी को तेजी से लगातार चलाएं। (पानी डालते समय छींटे आ सकते हैं, लगातार चलाते रहें ताकि गांठ न बने)।",
+    "गाढ़ा होने तक पकाना: मध्यम आंच पर लगातार चलाते रहें। आटा तुरंत पानी सोख लेगा और 2-3 मिनट में हलवा एकदम चिकना और गाढ़ा होने लगेगा।",
+    "घी अलग होने तक सेकना व परोसना: 1-2 मिनट और पकाएं जब तक कि हलवा कड़ाही के किनारों को पूरी तरह छोड़ न दे और चमकदार घी की परत ऊपर न आ जाए। गैस बंद करें और गरमा-गरम कड़ा प्रसाद का आनंद लें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Prepare Warm Sugar Syrup",
+      "title_hi": "गुनगुना मीठा पानी बनाना",
+      "instruction_en": "Dissolve 1 cup sugar in 3 cups water over heat until just clear and warm (no string consistency needed).",
+      "instruction_hi": "3 कप पानी में 1 कप चीनी डालकर हल्का गर्म करें जब तक चीनी पूरी तरह घुल न जाए।"
+    },
+    {
+      "step": 2,
+      "title_en": "Melt Pure Desi Ghee",
+      "title_hi": "देसी घी पिघलाना",
+      "instruction_en": "Melt 1 cup pure desi ghee in a heavy-bottomed kadai over low-medium flame.",
+      "instruction_hi": "भारी तले की कड़ाही में 1 कप देसी घी डालकर मध्यम आंच पर पिघला लें।"
+    },
+    {
+      "step": 3,
+      "title_en": "Stir in Atta Without Lumps",
+      "title_hi": "आटा घी में मिलाना",
+      "instruction_en": "Add 1 cup wheat flour into melted ghee and mix thoroughly until completely smooth.",
+      "instruction_hi": "घी में 1 कप गेहूं का आटा डालें और अच्छी तरह चलाकर गांठ रहित मिला लें।"
+    },
+    {
+      "step": 4,
+      "title_en": "Roast to Deep Amber Hue",
+      "title_hi": "धीमी आंच पर बादामी भूनना",
+      "instruction_en": "Roast on low flame for 10-12 minutes until frothy, aromatic, and rich biscuit-brown in color.",
+      "instruction_hi": "धीमी आंच पर 10-12 मिनट लगातार भूनें जब तक गहरा बादामी रंग और महक न आ जाए।"
+    },
+    {
+      "step": 5,
+      "title_en": "Pour Warm Syrup Steadily",
+      "title_hi": "लगातार चलाते हुए मीठा पानी डालना",
+      "instruction_en": "Slowly pour warm sugar water while whisking continuously to prevent lumps from forming.",
+      "instruction_hi": "गरम मीठा पानी धीरे-धीरे डालें और कलछी को लगातार तेजी से चलाएं ताकि गुठली न पड़े।"
+    },
+    {
+      "step": 6,
+      "title_en": "Cook Till Thick & Velvety",
+      "title_hi": "हलवा गाढ़ा व मखमली होना",
+      "instruction_en": "Cook on medium heat for 2-3 minutes as the flour rapidly drinks the liquid into a silky pudding.",
+      "instruction_hi": "मध्यम आंच पर 2-3 मिनट पकाएं, आटा पूरा पानी सोखकर एकदम मखमली हो जाएगा।"
+    },
+    {
+      "step": 7,
+      "title_en": "Ghee Release & Sacred Serve",
+      "title_hi": "किनारों से घी छूटना व परोसना",
+      "instruction_en": "Continue stirring until halwa pulls away cleanly from the kadai with glossy ghee. Serve piping hot!",
+      "instruction_hi": "जब हलवा कड़ाही छोड़ दे और घी चमकने लगे तब गैस बंद करें और गरमा-गरम परोसें!"
+    }
+  ],
+  "chef_tips_en": [
+    "The 1:1:1:3 Golden Rule: Equal proportions of Atta, Ghee, and Sugar (1 cup each) with 3 cups of water is the ironclad ratio for authentic Gurudwara Kada Prasad texture.",
+    "Pre-Dissolve Sugar in Water: Never add raw granulated sugar straight into roasting flour, which causes hardening and uneven texture. Dissolving it in warm water creates smooth, lump-free perfection.",
+    "Low-Flame Patience: Roasting atta on high heat burns the exterior and leaves an astringent raw flour aftertaste. Gentle low-heat roasting until light and frothy is the single biggest secret."
+  ],
+  "chef_tips_hi": [
+    "1:1:1:3 का स्वर्णिम अनुपात: आटा, घी और चीनी बराबर मात्रा (1 कप प्रत्येक) और 3 कप पानी—यह अनुपात कड़ा प्रसाद को मुंह में घुल जाने वाली मखमली बनावट देता है।",
+    "चीनी को पानी में घोलना: भुनते हुए आटे में सीधे सूखी चीनी न डालें। चीनी को पहले पानी में घोलकर गरम डालने से हलवे में कोई गांठ नहीं बनती और वह बेहद चिकना बनता है।",
+    "धीमी आंच पर भुनाई का राज: तेज आंच पर आटा जल्दी काला पड़ जाता है और अंदर से कच्चा रह जाता है। धीमी आंच पर झाग आने और गहरा बादामी रंग आने तक भूनना ही असली स्वाद की कुंजी है।"
+  ]
+}

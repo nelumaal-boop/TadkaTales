@@ -1,0 +1,264 @@
+{
+  "id": "desi-bihari-egg-curry",
+  "title_en": "Desi Bihari Style Egg Curry (Champaran Ahuna Style)",
+  "title_hi": "देसी बिहारी स्टाइल अंडा करी (चंपारण अहुना स्टाइल)",
+  "title": {
+    "en": "Desi Bihari Style Egg Curry (Champaran Ahuna Style)",
+    "hi": "देसी बिहारी स्टाइल अंडा करी (चंपारण अहुना स्टाइल)"
+  },
+  "description_en": "An authentic, rustic Bihari-style Egg Curry inspired by Champaran handi flavors. Golden-crusted boiled eggs simmered in a luscious gravy of slow-caramelized onions, whole garlic bulbs (lahsun ki gaanth), and freshly pounded spices in pure, pungent mustard oil. Deeply aromatic, rich, and unforgettable with steamed rice.",
+  "description_hi": "चंपारण अहुना के पारंपरिक स्वाद वाली बेहद लजीज देसी बिहारी अंडा करी। सरसों के तेल, हल्दी और मिर्च में सुनहरे तले हुए उबले अंडे, जिन्हें धीमी आंच पर पिघले हुए प्याज, 2-3 साबुत लहसुन की गांठों और खड़े मसालों की गाढ़ी, सोंधी और चटपटी ग्रेवी में पकाया गया है।",
+  "description": {
+    "en": "An authentic, rustic Bihari-style Egg Curry inspired by Champaran handi flavors. Golden-crusted boiled eggs simmered in a luscious gravy of slow-caramelized onions, whole garlic bulbs (lahsun ki gaanth), and freshly pounded spices in pure, pungent mustard oil. Deeply aromatic, rich, and unforgettable with steamed rice.",
+    "hi": "चंपारण अहुना के पारंपरिक स्वाद वाली बेहद लजीज देसी बिहारी अंडा करी। सरसों के तेल, हल्दी और मिर्च में सुनहरे तले हुए उबले अंडे, जिन्हें धीमी आंच पर पिघले हुए प्याज, 2-3 साबुत लहसुन की गांठों और खड़े मसालों की गाढ़ी, सोंधी और चटपटी ग्रेवी में पकाया गया है।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Non-Veg",
+  "diet_hi": "मांसाहारी (अंडा)",
+  "isVegetarian": false,
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cook_time_en": "35 mins",
+  "cook_time_hi": "35 मिनट",
+  "prepTime": "10 mins",
+  "cookTime": "35 mins",
+  "servings_en": "4-5 servings (4-5 लोग)",
+  "servings_hi": "4-5 सर्विंग्स (4-5 लोग)",
+  "servings": "4-5 servings",
+  "youtube_id": "JNRzQ2owjQk",
+  "youtubeId": "JNRzQ2owjQk",
+  "youtube_url": "https://youtu.be/JNRzQ2owjQk",
+  "image_url": "https://img.youtube.com/vi/JNRzQ2owjQk/maxresdefault.jpg",
+  "tags": [
+    "egg curry",
+    "bihari egg curry",
+    "champaran style",
+    "bharatzkitchen",
+    "anda curry",
+    "mustard oil curry",
+    "whole garlic curry",
+    "desi style",
+    "non veg main course"
+  ],
+  "ingredients_en": [
+    "10 Large Eggs, hard-boiled and peeled",
+    "1/2 cup Pure Mustard Oil (Sarson ka Tel - essential for authentic Bihari flavor)",
+    "1/2 tsp Salt (for searing eggs)",
+    "1/2 tsp Turmeric Powder (Haldi, for searing eggs)",
+    "1/2 tsp Kashmiri Red Chilli Powder (for searing eggs)",
+    "7 Large Onions, thinly sliced",
+    "2-3 Whole Garlic Pods / Bulbs (cleaned and root trimmed, unpeeled)",
+    "16-18 Garlic Cloves, coarsely crushed or minced",
+    "1.5 inch Fresh Ginger, crushed",
+    "3 Fresh Green Chillies, slit",
+    "1 tsp Whole Black Peppercorns (Sabut Kali Mirch)",
+    "1 inch Cinnamon Stick (Dalchini)",
+    "3 Dried Whole Red Chillies (Sabut Lal Mirch)",
+    "2 Bay Leaves (Tejpatta)",
+    "2 Black Cardamoms (Badi Elaichi)",
+    "6 Green Cardamoms (Choti Elaichi)",
+    "6 Cloves (Laung)",
+    "1 tsp Cumin Seeds (Jeera)",
+    "1/2 tsp Turmeric Powder (Haldi, for gravy)",
+    "1 tsp Spicy Red Chilli Powder",
+    "1 tsp Coriander Powder (Dhaniya Powder)",
+    "1 tbsp Chicken Masala (or Meat Masala - aromatic vegetarian blend)",
+    "1 tsp Garam Masala Powder",
+    "1.5 tsp Salt (or to taste)",
+    "1.5 to 2 cups Hot Water (for gravy consistency)",
+    "2 tbsp Fresh Coriander Leaves, chopped"
+  ],
+  "ingredients_hi": [
+    "10 बड़े उबले अंडे (छिले और कांटे से हल्के प्रिक किए हुए)",
+    "1/2 कप शुद्ध सरसों का तेल (असली बिहारी सोंधेपन के लिए)",
+    "1/2 छोटा चम्मच नमक (अंडा तलने के लिए)",
+    "1/2 छोटा चम्मच हल्दी पाउडर (अंडा तलने के लिए)",
+    "1/2 छोटा चम्मच कश्मीरी लाल मिर्च पाउडर (अंडा तलने के लिए)",
+    "7 बड़े प्याज (पतले लंबे कटे हुए)",
+    "2-3 साबुत लहसुन की गांठें (धोकर डंठल साफ की हुई, बिना छिली)",
+    "16-18 लहसुन की कलियां (दरदरी कुटी हुई)",
+    "1.5 इंच अदरक (दरदरा कुटा हुआ)",
+    "3 हरी मिर्च (बीच से चीरा लगाई हुई)",
+    "1 छोटा चम्मच साबुत काली मिर्च",
+    "1 इंच दालचीनी का टुकड़ा",
+    "3 सूखी साबुत लाल मिर्च",
+    "2 तेजपत्ता",
+    "2 बड़ी इलायची (काली इलायची)",
+    "6 छोटी हरी इलायची",
+    "6 लौंग",
+    "1 छोटा चम्मच जीरा",
+    "1/2 छोटा चम्मच हल्दी पाउडर (ग्रेवी के लिए)",
+    "1 छोटा चम्मच तीखी लाल मिर्च पाउडर",
+    "1 छोटा चम्मच धनिया पाउडर",
+    "1 बड़ा चम्मच चिकन मसाला (या मीट मसाला)",
+    "1 छोटा चम्मच गरम मसाला पाउडर",
+    "1.5 छोटा चम्मच नमक (स्वादानुसार)",
+    "1.5 से 2 कप खौलता गरम पानी (ग्रेवी के लिए)",
+    "2 बड़े चम्मच ताजा हरा धनिया (बारीक कटा)"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Eggs & Searing (अंडे व फ्राई मसाला)",
+      "category_hi": "उबले अंडे व फ्राई मसाला",
+      "items": [
+        {
+          "name_en": "Hard-Boiled Eggs",
+          "name_hi": "उबले अंडे",
+          "amount": "10 eggs (प्रिक किए हुए)"
+        },
+        {
+          "name_en": "Mustard Oil",
+          "name_hi": "शुद्ध सरसों का तेल",
+          "amount": "1/2 cup (विभाजित)"
+        },
+        {
+          "name_en": "Turmeric, Chilli & Salt",
+          "name_hi": "हल्दी, कश्मीरी मिर्च व नमक",
+          "amount": "1/2 tsp each (अंडे तलने हेतु)"
+        }
+      ]
+    },
+    {
+      "category_en": "Bihari Whole Aromatics & Garlic (साबुत खड़े मसाले व लहसुन गांठ)",
+      "category_hi": "खड़े मसाले व साबुत लहसुन",
+      "items": [
+        {
+          "name_en": "Whole Garlic Pods / Bulbs",
+          "name_hi": "साबुत लहसुन की गांठें",
+          "amount": "2 to 3 whole bulbs"
+        },
+        {
+          "name_en": "Sliced Onions",
+          "name_hi": "पतले कटे प्याज",
+          "amount": "7 large"
+        },
+        {
+          "name_en": "Whole Spices (Tejpatta, Cardamoms, Cinnamon, Cloves, Black Pepper, Dry Chillies, Jeera)",
+          "name_hi": "तेजपत्ता, इलायची, दालचीनी, लौंग, काली मिर्च, सूखी मिर्च, जीरा",
+          "amount": "Whole spices"
+        },
+        {
+          "name_en": "Crushed Ginger & Garlic Cloves",
+          "name_hi": "कुटा अदरक व लहसुन",
+          "amount": "1.5 inch ginger + 18 cloves"
+        },
+        {
+          "name_en": "Green Chillies",
+          "name_hi": "हरी मिर्च",
+          "amount": "3 slit"
+        }
+      ]
+    },
+    {
+      "category_en": "Ground Spices & Gravy (पिसे मसाले व ग्रेवी)",
+      "category_hi": "पिसे मसाले व ग्रेवी",
+      "items": [
+        {
+          "name_en": "Chicken Masala / Meat Masala",
+          "name_hi": "चिकन मसाला / मीट मसाला",
+          "amount": "1 tbsp"
+        },
+        {
+          "name_en": "Spicy Red Chilli & Turmeric",
+          "name_hi": "लाल मिर्च व हल्दी",
+          "amount": "1 tsp + 1/2 tsp"
+        },
+        {
+          "name_en": "Coriander & Garam Masala",
+          "name_hi": "धनिया व गरम मसाला",
+          "amount": "1 tsp each"
+        },
+        {
+          "name_en": "Salt & Hot Water",
+          "name_hi": "नमक व गरम पानी",
+          "amount": "To taste + 1.5-2 cups"
+        },
+        {
+          "name_en": "Fresh Coriander",
+          "name_hi": "ताजा हरा धनिया",
+          "amount": "2 tbsp"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Prep and Sear the Eggs: Hard-boil 10 eggs, peel, and prick each egg 5-6 times with a fork or toothpick (this prevents bursting in hot oil and allows gravy absorption). Heat 3 tbsp mustard oil in a heavy-bottomed kadhai or handi until smoking, then lower flame slightly. Add 1/2 tsp salt, 1/2 tsp turmeric powder, and 1/2 tsp Kashmiri red chilli powder. Drop in the boiled eggs and shallow-fry on medium heat for 3-4 minutes, tossing continuously until a blistered, golden-red crispy outer crust forms. Remove eggs and set aside.",
+    "Bloom Whole Spices in Mustard Oil: In the same kadhai with remaining mustard oil (total 1/2 cup), add 1 tsp cumin seeds, 2 bay leaves, 3 dried red chillies, 1 inch cinnamon stick, 1 tsp whole black peppercorns, 2 black cardamoms, 6 green cardamoms, and 6 cloves. Sauté for 30 seconds until crackling and aromatic.",
+    "Add Onions & Whole Garlic Pods: Add the 7 thinly sliced onions, 2-3 whole cleaned garlic pods (bulbs), 3 slit green chillies, and 1 tsp salt. Mix thoroughly to coat the onions in the spiced mustard oil.",
+    "Slow Caramelize & Melt Onions (The Champaran Trick): Cover the pan with a lid and cook on low-medium flame for 12–15 minutes, stirring every 3-4 minutes. The onions will sweat, release moisture, turn translucent, and gradually melt into a deep golden-brown, jammy base alongside the whole garlic pods softening inside.",
+    "Add Crushed Ginger-Garlic & Ground Spices: Add the crushed 16-18 garlic cloves and 1.5 inches crushed ginger. Sauté for 2 minutes until raw aroma goes away. Add 1/2 tsp turmeric powder, 1 tsp spicy red chilli powder, 1 tsp coriander powder, and 1 tbsp chicken masala. Sauté on low flame for 3–4 minutes, sprinkling 2-3 tablespoons of hot water to prevent the spices from scorching.",
+    "Cook Gravy until Mustard Oil Separates: Continue cooking until the onion-masala breaks down completely and shimmering droplets of golden mustard oil separate generously from the sides of the pan.",
+    "Add Water & Simmer: Pour in 1.5 to 2 cups of boiling hot water. Stir well, cover, and let the gravy simmer on medium-low heat for 6–8 minutes until the gravy thickens and turns deeply flavorful.",
+    "Drop Eggs & Finish: Gently lower the fried crispy eggs into the simmering gravy. Sprinkle 1 tsp garam masala. Simmer on low flame for 4–5 minutes so the eggs absorb the spicy, garlicky onion juices.",
+    "Rest & Garnish: Turn off heat, garnish with chopped coriander leaves, and let the curry rest covered for 5 minutes. Serve piping hot with steamed rice or phulkas, squeezing the soft, sweet roasted garlic cloves directly over your plate!"
+  ],
+  "instructions_hi": [
+    "अंडे तैयार करें और तलें: 10 अंडों को उबालकर छील लें और कांटे (फोर्क) से 5-6 जगह छेद कर लें। कड़ाही में 3 चम्मच सरसों का तेल धुआं निकलने तक गरम करें। आंच धीमी कर 1/2 चम्मच नमक, 1/2 चम्मच हल्दी और 1/2 चम्मच कश्मीरी लाल मिर्च डालें। उबले अंडे डालकर 3-4 मिनट मध्यम आंच पर लगातार चलाते हुए तलें जब तक कि अंडों पर लाल-सुनहरी कुरकुरी परत न आ जाए। अंडे निकालकर अलग रख लें।",
+    "सरसों के तेल में खड़े मसाले भूनें: उसी कड़ाही में बाकी बचा सरसों का तेल (कुल 1/2 कप) गरम करें। इसमें 1 चम्मच जीरा, 2 तेजपत्ता, 3 सूखी लाल मिर्च, 1 दालचीनी, 1 चम्मच काली मिर्च, 2 बड़ी इलायची, 6 छोटी इलायची और 6 लौंग डालें। 30 सेकंड चटकाएं।",
+    "प्याज और साबुत लहसुन की गांठें डालें: 7 पतले लंबे कटे प्याज, 2-3 साबुत साफ की हुई लहसुन की गांठें, 3 हरी मिर्च और 1 छोटा चम्मच नमक डालें। अच्छी तरह चलाएं।",
+    "प्याज और लहसुन गलाना (चंपारण स्टाइल): कड़ाही को ढक्कन से ढक दें और धीमी-मध्यम आंच पर 12-15 मिनट तक पकाएं, बीच-बीच में हर 3-4 मिनट में चलाते रहें। प्याज अपना पानी छोड़ेगा, गलेगा और साबुत लहसुन की गांठों के साथ कैरामेलाइज होकर एकदम गाढ़ा हो जाएगा।",
+    "कुटा अदरक-लहसुन व सूखे मसाले: अब 16-18 कुटी लहसुन की कलियां और 1.5 इंच कुटा अदरक डालें। 2 मिनट भूनें। फिर हल्दी, लाल मिर्च, धनिया पाउडर और 1 बड़ा चम्मच चिकन मसाला डालें। 2-3 चम्मच गरम पानी छिड़कते हुए 3-4 मिनट तक धीमी आंच पर भूनें ताकि मसाले जलें नहीं।",
+    "तेल छूटने तक भुनाई: मसाले को तब तक भूनें जब तक कि प्याज पूरी तरह गल न जाए और कड़ाही के किनारों से सरसों का तेल अलग न छूटने लगे।",
+    "गरम पानी डालकर पकाना: 1.5 से 2 कप खौलता हुआ गरम पानी डालें। ढककर मध्यम-धीमी आंच पर 6-8 मिनट तक उबलने दें ताकि ग्रेवी गाढ़ी और एकसार हो जाए।",
+    "अंडे मिलाएं और दम दें: तले हुए अंडे ग्रेवी में डालें और 1 चम्मच गरम मसाला छिड़कें। धीमी आंच पर 4-5 मिनट पकने दें ताकि अंडों के अंदर तक ग्रेवी का तीखा सोंधा स्वाद समा जाए।",
+    "परोसें: गैस बंद करें, ऊपर से हरा धनिया डालें और 5 मिनट ढककर रखें। गरमा-गरम सादे उबले चावल के साथ परोसें। थाली में साबुत लहसुन को दबाकर उसके मक्खन जैसे मीठे पल्प को चावल में मिलाकर खाने का आनंद लें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Pricking & Searing Eggs",
+      "title_hi": "अंडे प्रिक कर तेल में तलना",
+      "instruction_en": "Prick 10 boiled eggs. Sear in smoking mustard oil with turmeric, chilli powder, and salt until blistered and golden.",
+      "instruction_hi": "उबले अंडों में छेद करें और सरसों के तेल में हल्दी, मिर्च और नमक के साथ सुनहरी पपड़ी आने तक तलें।"
+    },
+    {
+      "step": 2,
+      "title_en": "Tempering Whole Bihari Spices",
+      "title_hi": "खड़े मसालों का तड़का",
+      "instruction_en": "In remaining mustard oil, crackle cumin seeds, bay leaves, dry chillies, peppercorns, cardamoms, cinnamon, and cloves.",
+      "instruction_hi": "सरसों के तेल में जीरा, तेजपत्ता, सूखी मिर्च, काली मिर्च, इलायची, लौंग और दालचीनी चटकाएं।"
+    },
+    {
+      "step": 3,
+      "title_en": "Slow-Melting Onions & Whole Garlic",
+      "title_hi": "प्याज व साबुत लहसुन गलाना",
+      "instruction_en": "Add 7 sliced onions, 2-3 whole garlic bulbs, green chillies, and salt. Cover and braise on low for 12-15 minutes until jammy.",
+      "instruction_hi": "7 कटे प्याज, 2-3 साबुत लहसुन की गांठें और नमक डालकर ढककर 15 मिनट धीमी आंच पर प्याज गलने तक पकाएं।"
+    },
+    {
+      "step": 4,
+      "title_en": "Sautéing Pounded Ginger-Garlic & Spices",
+      "title_hi": "कुटा अदरक-लहसुन व मसाले भूनना",
+      "instruction_en": "Stir in crushed garlic and ginger, followed by chicken masala, turmeric, chilli, and coriander powder until oil separates.",
+      "instruction_hi": "कुटा अदरक-लहसुन और चिकन मसाला, हल्दी, मिर्च, धनिया डालकर तेल छूटने तक अच्छी तरह भूनें।"
+    },
+    {
+      "step": 5,
+      "title_en": "Simmering Rich Onion Gravy",
+      "title_hi": "गरम पानी डालकर ग्रेवी पकाना",
+      "instruction_en": "Pour 1.5 to 2 cups boiling hot water. Simmer covered on medium-low flame for 6-8 minutes until thick.",
+      "instruction_hi": "खौलता गरम पानी डालें और ढककर 6-8 मिनट धीमी आंच पर गाढ़ी ग्रेवी बनने तक पकाएं।"
+    },
+    {
+      "step": 6,
+      "title_en": "Dropping Eggs & Resting",
+      "title_hi": "अंडे मिलाना, पकाना और सजावट",
+      "instruction_en": "Fold in fried eggs and garam masala; simmer for 4 minutes. Garnish with fresh coriander and rest for 5 minutes.",
+      "instruction_hi": "तले अंडे और गरम मसाला डालकर 4 मिनट पकाएं। हरा धनिया डालें और 5 मिनट रेस्ट देकर चावल के साथ परोसें।"
+    }
+  ],
+  "chef_tips_en": [
+    "The Whole Garlic Bulbs (Champaran Trademark): Placing 2-3 whole, intact garlic bulbs in the slow-braising onions is the iconic signature of Bihari and Champaran meat/egg curries. As it cooks for 35 minutes, the raw pungent sulfur breaks down into a sweet, creamy, caramelized paste that is squeezed directly over hot rice.",
+    "No Tomato Required: Authentic Bihari village-style egg curry uses zero tomatoes. The entire body, sweetness, and thickness of the gravy come from the slow breakdown and caramelization of 7 sliced onions with whole spices.",
+    "Pricking Eggs Prevents Bursts: Pricking hard-boiled eggs with a fork before frying allows trapped steam to escape and creates micro-pores for the spiced mustard oil and gravy to penetrate deeply into the egg white.",
+    "Mustard Oil is Non-Negotiable: To get true Bihari rural authenticity, mustard oil heated to smoking point and then slightly cooled is mandatory. It provides an earthy pungency that neutral oils cannot replicate."
+  ],
+  "chef_tips_hi": [
+    "साबुत लहसुन की गांठ (चंपारण की पहचान): प्याज में 2-3 साबुत लहसुन की गांठें डालकर पकाना बिहारी व चंपारण अहुना करी की असली जान है। 35 मिनट में लहसुन का तीखापन खत्म होकर मक्खन जैसी मीठी और मखमली मलाई बन जाती है जिसे चावल पर निचोड़कर खाया जाता है।",
+    "बिना टमाटर की गाढ़ी ग्रेवी: पारंपरिक बिहारी अंडा करी में टमाटर बिल्कुल नहीं डलता। ग्रेवी का पूरा गाढ़ापन, सोंधापन और मिठास 7 कटे प्याज को खड़े मसालों के साथ धीमी आंच पर गलाने से आती है।",
+    "अंडे प्रिक करने का महत्व: उबले अंडों में कांटे से छेद जरूर करें। इससे अंडे गरम तेल में फटते नहीं हैं और तलते समय व ग्रेवी में पकते समय मसाला अंडे के अंदर तक समा जाता है।",
+    "सरसों का तेल ही इस्तेमाल करें: असली बिहारी स्वाद के लिए शुद्ध सरसों का तेल ही अनिवार्य है। इसे धुआं निकलने तक गरम करें और फिर खड़े मसाले डालें, जिससे इसका तीखापन संतुलित हो जाए।"
+  ]
+}

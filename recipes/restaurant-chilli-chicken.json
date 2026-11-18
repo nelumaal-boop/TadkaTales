@@ -1,0 +1,214 @@
+{
+  "id": "restaurant-chilli-chicken",
+  "title_en": "Restaurant Style Indo-Chinese Chilli Chicken",
+  "title_hi": "रेस्टोरेंट स्टाइल चिली चिकन (होटल जैसी क्रिस्पी और जूसी सीक्रेट ट्रिक)",
+  "title": {
+    "en": "Restaurant Style Indo-Chinese Chilli Chicken",
+    "hi": "रेस्टोरेंट स्टाइल चिली चिकन (होटल जैसी क्रिस्पी और जूसी सीक्रेट ट्रिक)"
+  },
+  "description_en": "Recreate authentic restaurant-style Indo-Chinese Chilli Chicken at home with Bharatzkitchen. Features ultra-juicy, tender chicken bites with a crisp cornstarch shell, flash-tossed in a smoky high-heat wok with crunchy bell peppers, fiery chillies, garlic, and a glossy sweet-tangy-umami glaze.",
+  "description_hi": "भरतज़किचन की सीक्रेट रेसिपी से घर पर बनाएं बिल्कुल होटल जैसा जूसी और क्रिस्पी चिली चिकन। जानिए चिकन को अंदर से सुपर सॉफ्ट रखने का मैरिनेशन, तेज़ आंच पर शिमला मिर्च और प्याज का क्रंची तड़का और डार्क सोया-चिली सॉस की चमकदार लटपटी कोटिंग।",
+  "description": {
+    "en": "Recreate authentic restaurant-style Indo-Chinese Chilli Chicken at home with Bharatzkitchen. Features ultra-juicy, tender chicken bites with a crisp cornstarch shell, flash-tossed in a smoky high-heat wok with crunchy bell peppers, fiery chillies, garlic, and a glossy sweet-tangy-umami glaze.",
+    "hi": "भरतज़किचन की सीक्रेट रेसिपी से घर पर बनाएं बिल्कुल होटल जैसा जूसी और क्रिस्पी चिली चिकन। जानिए चिकन को अंदर से सुपर सॉफ्ट रखने का मैरिनेशन, तेज़ आंच पर शिमला मिर्च और प्याज का क्रंची तड़का और डार्क सोया-चिली सॉस की चमकदार लटपटी कोटिंग।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Non-Veg",
+  "diet_hi": "मांसाहारी",
+  "isVegetarian": false,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cook_time_en": "15 mins",
+  "cook_time_hi": "15 मिनट",
+  "prepTime": "15 mins",
+  "cookTime": "15 mins",
+  "servings_en": "3-4 Servings",
+  "servings_hi": "3-4 लोग",
+  "servings": "3-4 Servings",
+  "youtube_id": "-FB0Mu7RHiQ",
+  "youtubeId": "-FB0Mu7RHiQ",
+  "youtube_url": "https://www.youtube.com/watch?v=-FB0Mu7RHiQ",
+  "image_url": "https://img.youtube.com/vi/-FB0Mu7RHiQ/hqdefault.jpg",
+  "tags": [
+    "chilli chicken",
+    "indo chinese",
+    "chicken starter",
+    "bharatzkitchen",
+    "spicy chicken",
+    "restaurant style",
+    "wok tossed"
+  ],
+  "ingredients_en": [
+    "500g Boneless Chicken (thigh or breast cut into 1-inch bite-sized cubes)",
+    "1 tbsp Ginger-Garlic paste",
+    "1 tsp Dark Soy Sauce (for deep seasoning into meat)",
+    "1 tsp White Vinegar",
+    "1/2 tsp Freshly crushed black pepper",
+    "1/2 tsp Kashmiri red chilli powder",
+    "1/2 tsp Salt (keep light as sauces contain sodium)",
+    "1 Egg white (or 1 small whole egg, beaten)",
+    "3 tbsp Cornstarch / Cornflour",
+    "1.5 tbsp All-purpose flour (maida)",
+    "Oil for deep frying",
+    "2 tbsp Cooking oil (for wok tossing)",
+    "2 tbsp Fresh Garlic (very finely minced)",
+    "1 tbsp Fresh Ginger (very finely minced)",
+    "3-4 Green chillies (slit lengthwise or sliced diagonally)",
+    "1 Large Onion (cut into 1-inch cubes and petals separated)",
+    "1 Large Green Bell Pepper / Capsicum (cut into 1-inch cubes)",
+    "2 tbsp Dark Soy Sauce",
+    "2 tbsp Red Chilli Sauce (or Schezwan sauce)",
+    "1 tbsp Green Chilli Sauce",
+    "1.5 tbsp Tomato Ketchup (the restaurant balancer for sweet-tangy gloss)",
+    "1 tsp White Vinegar",
+    "1/2 tsp Crushed black pepper & 1/2 tsp Sugar",
+    "1 tsp Cornstarch mixed in 3 tbsp water (cornstarch slurry)",
+    "1/4 cup Spring onion greens (finely chopped for garnish)"
+  ],
+  "ingredients_hi": [
+    "500 ग्राम बोनलेस चिकन (1 इंच के टुकड़ों में कटा हुआ)",
+    "1 बड़ा चम्मच अदरक-लहसुन का पेस्ट",
+    "1 छोटा चम्मच डार्क सोया सॉस (चिकन के अंदर तक स्वाद के लिए)",
+    "1 छोटा चम्मच सफेद सिरका (विनेगर)",
+    "1/2 छोटा चम्मच कुटी हुई ताज़ी काली मिर्च",
+    "1/2 छोटा चम्मच कश्मीरी लाल मिर्च पाउडर",
+    "1/2 छोटा चम्मच नमक (सॉसेज में भी नमक होता है)",
+    "1 अंडे की सफेदी (या 1 छोटा फेंटा हुआ अंडा)",
+    "3 बड़ा चम्मच कॉर्नस्टार्च / कॉर्नफ्लोर",
+    "1.5 बड़ा चम्मच मैदा",
+    "तलने के लिए तेल",
+    "2 बड़ा चम्मच तेल (वॉक में तड़के के लिए)",
+    "2 बड़ा चम्मच ताज़ा लहसुन (एकदम बारीक कटा हुआ)",
+    "1 बड़ा चम्मच अदरक (बारीक कटा हुआ)",
+    "3-4 हरी मिर्च (लंबाई में कटी हुई)",
+    "1 बड़ा प्याज (चौकोर टुकड़ों में कटा और पंखुड़ियां अलग की हुई)",
+    "1 बड़ी शिमला मिर्च (चौकोर टुकड़ों में कटी हुई)",
+    "2 बड़ा चम्मच डार्क सोया सॉस",
+    "2 बड़ा चम्मच रेड चिली सॉस या शेजवान सॉस",
+    "1 बड़ा चम्मच ग्रीन चिली सॉस",
+    "1.5 बड़ा चम्मच टोमैटो केचप (खट्टे-मीठे संतुलन और चमक के लिए)",
+    "1 छोटा चम्मच सफेद सिरका",
+    "1/2 छोटा चम्मच काली मिर्च और 1/2 छोटा चम्मच चीनी",
+    "1 छोटा चम्मच कॉर्नस्टार्च + 3 बड़ा चम्मच पानी (घोल)",
+    "1/4 कप हरा प्याज (स्प्रिंग अनियन, गार्निश के लिए)"
+  ],
+  "ingredients": [
+    {
+      "category": "Juicy Chicken Marinade & Crisp Batter",
+      "items": [
+        {
+          "en": "500g Boneless chicken cubes",
+          "hi": "500 ग्राम बोनलेस चिकन"
+        },
+        {
+          "en": "1 tbsp Ginger-garlic, 1 tsp Soy sauce & 1 tsp Vinegar",
+          "hi": "1 बड़ा चम्मच अदरक-लहसुन, 1 चम्मच सोया सॉस और सिरका"
+        },
+        {
+          "en": "1 Egg white, Salt, Pepper & Kashmiri chilli",
+          "hi": "1 अंडे की सफेदी, नमक, काली मिर्च और कश्मीरी मिर्च"
+        },
+        {
+          "en": "3 tbsp Cornstarch & 1.5 tbsp Maida",
+          "hi": "3 बड़ा चम्मच कॉर्नस्टार्च और 1.5 बड़ा चम्मच मैदा"
+        }
+      ]
+    },
+    {
+      "category": "Smoky Wok Sauce & Aromatics",
+      "items": [
+        {
+          "en": "2 tbsp Minced garlic & 1 tbsp Minced ginger",
+          "hi": "2 बड़ा चम्मच बारीक लहसुन और 1 बड़ा चम्मच अदरक"
+        },
+        {
+          "en": "3-4 Slit green chillies",
+          "hi": "3-4 हरी मिर्च"
+        },
+        {
+          "en": "Cubed Onions & Green Bell Peppers",
+          "hi": "चौकोर कटे प्याज और शिमला मिर्च"
+        },
+        {
+          "en": "Dark Soy sauce, Red chilli sauce, Green chilli sauce & Ketchup",
+          "hi": "डार्क सोया, रेड चिली, ग्रीन चिली सॉस और केचप"
+        },
+        {
+          "en": "Cornstarch slurry & Spring onion greens",
+          "hi": "कॉर्नस्टार्च घोल और हरा प्याज"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Step 1 - Seasoning Marinade: In a mixing bowl, toss the boneless chicken cubes with ginger-garlic paste, 1 tsp dark soy sauce, 1 tsp vinegar, black pepper, Kashmiri chilli, and 1/2 tsp salt. Adding soy sauce and vinegar into the marinade tenderizes the chicken and ensures the meat is richly seasoned to the bone rather than bland on the inside. Let it rest for 15 minutes.",
+    "Step 2 - Crisp Coating: Add the egg white, 3 tbsp cornstarch, and 1.5 tbsp maida to the chicken. Mix thoroughly with your fingers until a light, velvety batter clings tightly to each chicken piece without feeling doughy.",
+    "Step 3 - Flash Frying: Heat oil in a kadai on medium-high heat. Slide chicken pieces in one by one so they don't stick together. Fry for 4 to 5 minutes on medium heat until golden, crisp on the outside, and piping hot and juicy within. Do not overcook or the breast meat will dry out. Drain on paper towels.",
+    "Step 4 - High-Heat Wok Searing: Heat 2 tbsp oil in a wide wok or kadai until smoking hot. Add the minced garlic, ginger, and slit green chillies. Stir-fry furiously on high flame for 30 seconds until blistered and intensely aromatic (do not brown).",
+    "Step 5 - Crunchy Veggies: Toss in the cubed onions and capsicum. Stir-fry on the highest flame for just 60 to 90 seconds. Keep the veggies crisp and crunchy with a smoky char—never let them turn soft or watery.",
+    "Step 6 - Sauce Emulsion: Pour in the dark soy sauce, red chilli sauce, green chilli sauce, tomato ketchup, vinegar, sugar, and crushed black pepper. Stir rapidly for 30 seconds until the sauce bubbles vigorously.",
+    "Step 7 - Glossy Glaze: Pour in the cornstarch slurry (1 tsp cornstarch mixed in 3 tbsp water). Stir quickly as the sauce thickens into a glossy, clingy glaze.",
+    "Step 8 - Toss & Coat: Immediately tip in the crispy fried chicken pieces. Toss furiously on high flame for 45 to 60 seconds so every piece is lacquered in the sticky, fiery sauce while retaining its crisp bite.",
+    "Step 9 - Garnish & Serve: Scatter a generous handful of finely chopped spring onion greens. Serve smoking hot as an irresistible starter or with egg fried rice and hakka noodles."
+  ],
+  "instructions_hi": [
+    "स्टेप 1 - जूसी मैरिनेशन: बोनलेस चिकन के टुकड़ों में अदरक-लहसुन पेस्ट, 1 छोटा चम्मच डार्क सोया सॉस, 1 छोटा चम्मच सिरका, काली मिर्च, कश्मीरी मिर्च और 1/2 छोटा चम्मच नमक मिलाएं। सोया सॉस और सिरके से चिकन अंदर तक नमकीन और बेहद जूसी बनता है। 15 मिनट रखें।",
+    "स्टेप 2 - क्रिस्पी कोटिंग: अब इसमें अंडे की सफेदी, 3 बड़ा चम्मच कॉर्नस्टार्च और 1.5 बड़ा चम्मच मैदा डालें। अच्छी तरह मिलाएं ताकि हर पीस पर पतली मखमली कोटिंग चिपक जाए।",
+    "स्टेप 3 - चिकन फ्राई करना: कड़ाही में तेल मध्यम-तेज़ गरम करें। एक-एक करके चिकन के टुकड़े डालें। मध्यम आंच पर 4 से 5 मिनट तक सुनहरा और कुरकुरा होने तक तलें। ज्यादा न सेकें वरना चिकन अंदर से सूख जाएगा। टिशू पेपर पर निकाल लें।",
+    "स्टेप 4 - वॉक में तेज़ आंच का तड़का: एक बड़ी कड़ाही या वॉक में 2 बड़ा चम्मच तेल खूब तेज़ गरम करें। बारीक कटा लहसुन, अदरक और हरी मिर्च डालें। तेज़ आंच पर सिर्फ 30 सेकंड भूनें जब तक बढ़िया खुशबू न आने लगे।",
+    "स्टेप 5 - क्रंची सब्जियां: अब चौकोर कटे प्याज और शिमला मिर्च डालें। तेज़ आंच पर 1 से 1.5 मिनट तक लगातार चलाते हुए भूनें ताकि सब्जियों का क्रंच बना रहे (उन्हें गलाना नहीं है)।",
+    "स्टेप 6 - सॉस मिलाना: डार्क सोया सॉस, रेड चिली सॉस, ग्रीन चिली सॉस, टोमैटो केचप, सिरका, चीनी और कुटी काली मिर्च डालें। 30 सेकंड चलाएं जब तक सॉस में उबाल न आ जाए।",
+    "स्टेप 7 - चमकदार कोटिंग: कॉर्नस्टार्च का घोल डालें और तेज़ी से चलाएं। कुछ ही सेकंड में सॉस गाढ़ी और एकदम चमकदार (ग्लॉसी) हो जाएगी।",
+    "स्टेप 8 - चिकन को टॉस करना: तुरंत तला हुआ क्रिस्पी चिकन डालें और तेज़ आंच पर सिर्फ 1 मिनट तेज़ी से उछालते हुए टॉस करें ताकि हर पीस पर तीखी-चटपटी सॉस की परत चढ़ जाए और चिकन कुरकुरा भी रहे।",
+    "स्टेप 9 - गरमा-गरम परोसें: ऊपर से बारीक कटा हरा प्याज (स्प्रिंग अनियन) छिड़कें। गरमा-गरम चिली चिकन को स्टार्टर के रूप में या वेज फ्राइड राइस व हक्का नूडल्स के साथ परोसें।"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": {
+        "en": "Marinate chicken cubes with ginger-garlic, soy sauce, vinegar, black pepper, and salt for 15 mins for deep juiciness.",
+        "hi": "चिकन में अदरक-लहसुन, सोया सॉस, सिरका, काली मिर्च और नमक मिलाकर 15 मिनट मैरीनेट करें।"
+      }
+    },
+    {
+      "step": 2,
+      "text": {
+        "en": "Mix in egg white, cornstarch, and maida. Deep fry on medium heat for 4-5 mins until crisp, golden, and tender.",
+        "hi": "अंडे की सफेदी, कॉर्नस्टार्च और मैदा मिलाकर मध्यम तेल में 4-5 मिनट कुरकुरा और जूसी होने तक तलें।"
+      }
+    },
+    {
+      "step": 3,
+      "text": {
+        "en": "Stir-fry minced garlic, ginger, green chillies, diced onions, and capsicum on screaming high wok heat for 90 seconds.",
+        "hi": "तेज़ आंच पर लहसुन, अदरक, हरी मिर्च, प्याज और शिमला मिर्च को 90 सेकंड तक क्रंची भूनें।"
+      }
+    },
+    {
+      "step": 4,
+      "text": {
+        "en": "Add dark soy sauce, chilli sauce, ketchup, vinegar, and cornstarch slurry to create a glossy bubbling glaze.",
+        "hi": "सोया सॉस, चिली सॉस, केचप, सिरका और कॉर्नस्टार्च घोल डालकर चमकदार सॉस तैयार करें।"
+      }
+    },
+    {
+      "step": 5,
+      "text": {
+        "en": "Toss in the crispy chicken on high heat for 60 seconds. Garnish with fresh spring onion greens and serve.",
+        "hi": "तला चिकन डालकर तेज़ आंच पर 1 मिनट टॉस करें। हरा प्याज छिड़ककर गरमा-गरम पेश करें।"
+      }
+    }
+  ],
+  "chef_tips_en": [
+    "Soy & Vinegar in Marinade: Most home cooks only season with salt and pepper, which leaves the chicken bland inside. Adding dark soy sauce and vinegar directly into the raw chicken breaks down tough muscle fibers and ensures every bite is juicy and flavorful.",
+    "Egg White + Cornstarch Crust: Egg white provides an airy, light crispness that holds sauces without turning soggy, while cornstarch ensures an instant shatter-crunch exterior.",
+    "Screaming High Heat (Flame Wok): Vegetables must never be cooked on low heat. High-heat stir frying preserves the crisp crunch of onions and bell peppers and infuses that signature restaurant smoky wok-hei."
+  ],
+  "chef_tips_hi": [
+    "मैरिनेशन में सोया और सिरका: सिर्फ नमक डालने से चिकन अंदर से फीका लगता है। डार्क सोया सॉस और सिरका डालने से चिकन के रेशे नरम हो जाते हैं और अंदर तक भरपूर स्वाद भर जाता है।",
+    "अंडे की सफेदी और कॉर्नस्टार्च: अंडे की सफेदी चिकन को हल्का और फूला हुआ क्रिस्प देती है जिससे सॉस में मिलने के बाद भी चिकन ज्यादा देर तक कुरकुरा रहता है।",
+    "तेज़ आंच पर भूनना: सब्जियों को हमेशा तेज़ आंच पर सिर्फ 1-2 मिनट ही टॉस करें ताकि शिमला मिर्च और प्याज का कुरकुरापन (क्रंच) बना रहे।"
+  ]
+}

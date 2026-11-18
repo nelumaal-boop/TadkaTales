@@ -1,0 +1,212 @@
+{
+  "id": "dhaba-soya-kala-chana-masala",
+  "title_en": "Dhaba-Style Soya Kala Chana Masala (Rich Black Chickpea Curry)",
+  "title_hi": "ढाबा स्टाइल सोया काला चना मसाला (हाई-प्रोटीन रसेदार करी)",
+  "title": {
+    "en": "Dhaba-Style Soya Kala Chana Masala (Rich Black Chickpea Curry)",
+    "hi": "ढाबा स्टाइल सोया काला चना मसाला (हाई-प्रोटीन रसेदार करी)"
+  },
+  "description_en": "3.9M views! A high-protein North Indian dhaba specialty pairing nutrient-dense black chickpeas (kala chana) and juicy soya chunks in a smoky mustard-oil onion-tomato gravy with a whole garlic bulb.",
+  "description_hi": "39 लाख लोगों की पसंदीदा ढाबा स्टाइल रेसिपी! काले चने और सोयाबीन की बड़ियों का पौष्टिक संगम। सरसों के तेल में साबुत लहसुन की गांठ और भुने मसालों के साथ पकी हुई लाजवाब गाढ़ी तरी वाली सब्जी।",
+  "description": {
+    "en": "3.9M views! A high-protein North Indian dhaba specialty pairing nutrient-dense black chickpeas (kala chana) and juicy soya chunks in a smoky mustard-oil onion-tomato gravy with a whole garlic bulb.",
+    "hi": "39 लाख लोगों की पसंदीदा ढाबा स्टाइल रेसिपी! काले चने और सोयाबीन की बड़ियों का पौष्टिक संगम। सरसों के तेल में साबुत लहसुन की गांठ और भुने मसालों के साथ पकी हुई लाजवाब गाढ़ी तरी वाली सब्जी।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Vegetarian",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "सरल",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cook_time_en": "30 mins",
+  "cook_time_hi": "30 मिनट",
+  "prepTime": "15 mins",
+  "cookTime": "30 mins",
+  "servings_en": "5 servings",
+  "servings_hi": "5 लोग",
+  "servings": 5,
+  "youtube_id": "rqFHk7cPZ9s",
+  "youtubeId": "rqFHk7cPZ9s",
+  "youtube_url": "https://youtu.be/rqFHk7cPZ9s",
+  "image_url": "/static/images/rqFHk7cPZ9s.jpg",
+  "tags": [
+    "Kala Chana",
+    "Soya Chunks",
+    "Curry",
+    "Dhaba Style",
+    "High Protein",
+    "Main Course",
+    "Bharatzkitchen",
+    "Vegetarian"
+  ],
+  "ingredients_en": [
+    "200g Black Chickpeas (Kala Chana), soaked overnight",
+    "50g Soya Chunks (boiled & seasoned with garam masala & salt)",
+    "1/4 cup Pure Mustard Oil",
+    "1 whole Garlic Bulb (washed & trimmed, authentic dhaba style)",
+    "12-14 Garlic Cloves & 1 inch Ginger, pounded",
+    "3 large Onions, finely chopped",
+    "1 large Tomato, pureed or chopped",
+    "6 Green Chillies, slit",
+    "1 tsp Cumin Seeds, 3 Cloves, 1 Black Cardamom, 1 Bay Leaf",
+    "1/2 tsp Turmeric, 1 tsp Hot Chilli Powder, 1 tsp Kashmiri Chilli Powder",
+    "2 tsp Coriander Powder, 1/2 tsp Roasted Cumin Powder, 2 tsp Kitchen King Masala",
+    "1.5 cups Water & 1 tsp Salt",
+    "Fresh Coriander Leaves for garnish"
+  ],
+  "ingredients_hi": [
+    "200 ग्राम काले चने (रातभर भीगे हुए)",
+    "50 ग्राम सोया चंक्स (उबले व गरम मसाले-नमक में लिपटे)",
+    "1/4 कप सरसों का तेल",
+    "1 साबुत लहसुन की गांठ (ढाबा स्टाइल)",
+    "12-14 लहसुन की कलियां व 1 इंच अदरक (कुटा हुआ)",
+    "3 बड़े प्याज (बारीक कटे)",
+    "1 बड़ा टमाटर (प्यूरी)",
+    "6 हरी मिर्च (चीरा लगी)",
+    "1 छोटा चम्मच जीरा, 3 लौंग, 1 बड़ी इलायची, 1 तेज पत्ता",
+    "हल्दी, तीखी लाल मिर्च, कश्मीरी मिर्च व धनिया पाउडर",
+    "किचन किंग मसाला व भुना जीरा पाउडर",
+    "1.5 कप पानी, नमक व हरा धनिया"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Protein Produce (चने व सोया)",
+      "category_hi": "चने व सोया",
+      "items": [
+        {
+          "name_en": "Soaked Kala Chana",
+          "name_hi": "भीगे काले चने",
+          "amount": "200g"
+        },
+        {
+          "name_en": "Seasoned Soya Chunks",
+          "name_hi": "सोया चंक्स",
+          "amount": "50g"
+        }
+      ]
+    },
+    {
+      "category_en": "Mustard Oil & Aromatics (तड़का व साबुत लहसुन)",
+      "category_hi": "तड़का व साबुत लहसुन",
+      "items": [
+        {
+          "name_en": "Mustard Oil",
+          "name_hi": "सरसों का तेल",
+          "amount": "1/4 cup"
+        },
+        {
+          "name_en": "Whole Garlic Bulb & Cloves",
+          "name_hi": "साबुत लहसुन गांठ व कलियां",
+          "amount": "1 bulb + 14 cloves"
+        },
+        {
+          "name_en": "Whole Spices (Cardamom, Cumin, Cloves, Bay Leaf)",
+          "name_hi": "खड़े मसाले",
+          "amount": "As listed"
+        },
+        {
+          "name_en": "Onions & Tomato Puree",
+          "name_hi": "प्याज व टमाटर",
+          "amount": "3 onions + 1 tomato"
+        }
+      ]
+    },
+    {
+      "category_en": "Dhaba Spices & Gravy (मसाले व तरी)",
+      "category_hi": "मसाले व तरी",
+      "items": [
+        {
+          "name_en": "Kitchen King, Coriander & Chillies",
+          "name_hi": "किचन किंग, धनिया व मिर्च",
+          "amount": "2 tsp + 2 tsp + 2 tsp"
+        },
+        {
+          "name_en": "Water, Salt & Fresh Coriander",
+          "name_hi": "पानी, नमक व हरा धनिया",
+          "amount": "1.5 cups + salt + garnish"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Boil Soya with Spices: Boil 50g soya chunks with 1 tsp salt and 1/2 tsp garam masala. Squeeze out excess water and set aside.",
+    "Heat Mustard Oil to Smoke: Heat 1/4 cup mustard oil in a pressure cooker until smoking hot, then reduce heat. Splutter cumin seeds, bay leaf, cloves, and black cardamom.",
+    "Brown Onions & Add Whole Garlic: Add chopped onions and sauté until golden brown. Drop in the cleaned whole garlic bulb and pounded ginger-garlic; sauté for 2 minutes.",
+    "Add Tomatoes & Spices: Add tomato puree, turmeric, red chilli powders, coriander powder, cumin powder, kitchen king masala, and salt. Cook until oil floats on top.",
+    "Add Kala Chana & Soya: Add soaked black chickpeas and seasoned soya chunks. Roast in the masala for 3-4 minutes to absorb deep flavors.",
+    "Pressure Cook: Pour in 1.5 cups water. Seal cooker and cook on medium flame for 5-6 whistles until chana is tender.",
+    "Rest & Garnish: Allow pressure to drop naturally. Open lid, mash a few chana with a spoon to thicken gravy, garnish with coriander and serve hot with parathas or rice!"
+  ],
+  "instructions_hi": [
+    "सोया उबालना: 50 ग्राम सोयाबीन को नमक और गरम मसाले के पानी में उबालकर निचोड़ लें।",
+    "सरसों तेल में खड़े मसाले: कुकर में 1/4 कप सरसों का तेल धुआं उठने तक गरम करें। जीरा, तेज पत्ता, लौंग और बड़ी इलायची चटकाएं।",
+    "प्याज व साबुत लहसुन भूनना: प्याज को सुनहरा भूनें। कुटा अदरक-लहसुन और पूरी साबुत लहसुन की गांठ डालकर 2 मिनट भूनें।",
+    "टमाटर व मसाले: टमाटर प्यूरी और सभी सूखे मसाले (हल्दी, मिर्च, धनिया, किचन किंग) डालकर तेल छोड़ने तक भूनें।",
+    "चना व सोया की भुनाई: भीगे काले चने और सोया चंक्स डालकर मसाले में 3-4 मिनट भूनें।",
+    "5-6 सीटी लगाना: 1.5 कप पानी डालें। ढक्कन बंद करके मध्यम आंच पर 5-6 सीटी लगाएं ताकि चने एकदम सॉफ्ट हो जाएं।",
+    "गार्निश व सर्विंग: भाप निकलने दें। कलछी से थोड़े चने मैश करके ग्रेवी गाढ़ी करें, हरा धनिया डालें और गरमा-गरम पराठे या चावल संग परोसें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Boil & Season Soya",
+      "title_hi": "सोया उबालना",
+      "instruction_en": "Boil soya chunks with salt and garam masala; squeeze out water.",
+      "instruction_hi": "सोया चंक्स को नमक और गरम मसाले में उबालकर निचोड़ लें।"
+    },
+    {
+      "step": 2,
+      "title_en": "Smoke Mustard Oil & Whole Spices",
+      "title_hi": "सरसों तेल में खड़े मसाले",
+      "instruction_en": "Heat mustard oil to smoke point; bloom cumin, cloves, cardamom, and bay leaf.",
+      "instruction_hi": "सरसों तेल गरम करके जीरा और खड़े मसाले चटकाएं।"
+    },
+    {
+      "step": 3,
+      "title_en": "Brown Onions with Whole Garlic Bulb",
+      "title_hi": "प्याज व साबुत लहसुन गांठ भूनना",
+      "instruction_en": "Sauté onions until deep golden; drop in the whole garlic bulb and minced aromatics.",
+      "instruction_hi": "प्याज को सुनहरा भूनें और साबुत लहसुन गांठ डालकर 2 मिनट चलाएं।"
+    },
+    {
+      "step": 4,
+      "title_en": "Bhunao Tomato & Kitchen King Masala",
+      "title_hi": "टमाटर व किचन किंग मसाला भूनना",
+      "instruction_en": "Add tomato puree, turmeric, coriander, chillies, and kitchen king masala until oil releases.",
+      "instruction_hi": "टमाटर प्यूरी और मसाले डालकर तेल अलग होने तक अच्छी तरह भूनें।"
+    },
+    {
+      "step": 5,
+      "title_en": "Sauté Chana & Soya in Gravy",
+      "title_hi": "चना व सोया की मसाले में भुनाई",
+      "instruction_en": "Toss soaked kala chana and soya into roasted masala for 3-4 minutes.",
+      "instruction_hi": "काले चने और सोया चंक्स डालकर 3-4 मिनट अच्छी तरह भूनें।"
+    },
+    {
+      "step": 6,
+      "title_en": "Pressure Cook 5-6 Whistles",
+      "title_hi": "कुकर में 5-6 सीटी लगाना",
+      "instruction_en": "Add 1.5 cups water, seal lid, and cook for 5-6 whistles until chana is melt-in-mouth soft.",
+      "instruction_hi": "1.5 कप पानी डालकर 5-6 सीटी लगाएं ताकि चने पूरी तरह गल जाएं।"
+    },
+    {
+      "step": 7,
+      "title_en": "Mash for Body & Garnish",
+      "title_hi": "ग्रेवी गाढ़ी करना व परोसना",
+      "instruction_en": "Mash a few chickpeas to thicken gravy, top with fresh coriander, and serve hot!",
+      "instruction_hi": "थोड़े चने दबाकर ग्रेवी गाढ़ी करें और धनिया डालकर गरमा-गरम परोसें!"
+    }
+  ],
+  "chef_tips_en": [
+    "Whole Garlic Bulb Trick: Dropping a cleaned whole garlic bulb into the gravy is an authentic Punjabi dhaba secret; it cooks into sweet, melting garlic cream.",
+    "Kitchen King Masala Punch: 2 tsp Kitchen King masala provides the complex spiced undertone that differentiates dhaba kala chana from regular home curries.",
+    "Mustard Oil Smoke Point: Always heat mustard oil to its smoking point before adding spices to eliminate raw pungency and unlock smoky flavor."
+  ],
+  "chef_tips_hi": [
+    "साबुत लहसुन की गांठ: पूरी लहसुन की गांठ डालने से वह ग्रेवी में पककर मक्खन जैसी मीठी हो जाती है, जो असली ढाबे की पहचान है।",
+    "किचन किंग मसाले का कमाल: 2 छोटे चम्मच किचन किंग मसाला इस करी को हलवाई और ढाबा जैसा गहरा स्वाद देता है।",
+    "सरसों तेल का धुआं निकालना: सरसों के तेल को धुआं उठने तक गरम करके ठंडा करने से उसका कच्चापन निकल जाता है और सोंधी महक आती है।"
+  ]
+}

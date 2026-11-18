@@ -1,0 +1,274 @@
+{
+  "id": "high-protein-masoor-dal-tadka",
+  "title_en": "High-Protein Whole Masoor Dal Tadka (Dhaba Style Akkha Masoor)",
+  "title_hi": "हाई प्रोटीन साबुत मसूर दाल तड़का (ढाबा स्टाइल अख्खा मसूर)",
+  "title": {
+    "en": "High-Protein Whole Masoor Dal Tadka (Dhaba Style Akkha Masoor)",
+    "hi": "हाई प्रोटीन साबुत मसूर दाल तड़का (ढाबा स्टाइल अख्खा मसूर)"
+  },
+  "description_en": "Nutritious, hearty, and aromatic brown lentils (sabut kali masoor dal) pressure-cooked with whole spices and whole garlic cloves until velvety, then simmered in a luscious 2-tablespoon desi ghee tadka of onions, ripe tomatoes, ginger, green chillies, and Kashmiri red chilli. A healthy, low-carb, protein-packed Indian comfort meal.",
+  "description_hi": "पौष्टिक, गाढ़ी और ढाबा स्टाइल खुशबूदार साबुत काली मसूर दाल, जिसे खड़े मसालों और साबुत लहसुन की कलियों के साथ कुकर में एकदम मखमली पकाया गया है। फिर सिर्फ 2 चम्मच देसी घी, जीरा, हींग, प्याज, टमाटर और कश्मीरी लाल मिर्च के शानदार तड़के में पकाया गया है। कम घी में भरपूर प्रोटीन से भरपूर परफेक्ट मील।",
+  "description": {
+    "en": "Nutritious, hearty, and aromatic brown lentils (sabut kali masoor dal) pressure-cooked with whole spices and whole garlic cloves until velvety, then simmered in a luscious 2-tablespoon desi ghee tadka of onions, ripe tomatoes, ginger, green chillies, and Kashmiri red chilli. A healthy, low-carb, protein-packed Indian comfort meal.",
+    "hi": "पौष्टिक, गाढ़ी और ढाबा स्टाइल खुशबूदार साबुत काली मसूर दाल, जिसे खड़े मसालों और साबुत लहसुन की कलियों के साथ कुकर में एकदम मखमली पकाया गया है। फिर सिर्फ 2 चम्मच देसी घी, जीरा, हींग, प्याज, टमाटर और कश्मीरी लाल मिर्च के शानदार तड़के में पकाया गया है। कम घी में भरपूर प्रोटीन से भरपूर परफेक्ट मील।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cook_time_en": "25 mins",
+  "cook_time_hi": "25 मिनट",
+  "prepTime": "10 mins",
+  "cookTime": "25 mins",
+  "servings_en": "4-5 servings",
+  "servings_hi": "4-5 सर्विंग्स (4-5 लोग)",
+  "servings": "4-5 servings",
+  "youtube_id": "lPI-sodBzg8",
+  "youtubeId": "lPI-sodBzg8",
+  "youtube_url": "https://youtu.be/lPI-sodBzg8",
+  "image_url": "https://img.youtube.com/vi/lPI-sodBzg8/maxresdefault.jpg",
+  "tags": [
+    "masoor dal",
+    "dal tadka",
+    "high protein",
+    "low carb",
+    "sabut masoor",
+    "akkha masoor",
+    "kabitas kitchen",
+    "healthy dinner",
+    "dhaba style dal"
+  ],
+  "ingredients_en": [
+    "1 cup Whole Masoor Dal (Brown / Black Lentils / Sabut Kali Masoor), washed and rinsed",
+    "12-13 Whole Garlic Cloves (peeled)",
+    "1 Bay Leaf (Tejpatta)",
+    "1 Black Cardamom (Badi Elaichi)",
+    "1 inch Cinnamon Stick (Dalchini)",
+    "4-5 Whole Cloves (Laung)",
+    "1/2 tsp Turmeric Powder (Haldi)",
+    "1 tsp Salt (for pressure cooking)",
+    "5 to 6 cups Water (for boiling)",
+    "2 tbsp Pure Desi Ghee",
+    "1 tsp Cumin Seeds (Jeera)",
+    "1/4 tsp Asafoetida (Hing)",
+    "1 tbsp Finely Chopped Ginger (Adrak)",
+    "1 tbsp Finely Chopped Garlic (Lehsun)",
+    "2 Fresh Green Chillies, slit or chopped",
+    "2 Medium Onions, finely chopped",
+    "2 Medium Tomatoes, finely chopped",
+    "1 tsp Kashmiri Red Chilli Powder",
+    "Salt to taste (for the masala)",
+    "1/4 cup Fresh Coriander Leaves, chopped"
+  ],
+  "ingredients_hi": [
+    "1 कप साबुत मसूर दाल (काली/ब्राउन मसूर), अच्छी तरह धोई हुई",
+    "12-13 साबुत लहसुन की कलियां (छिली हुई)",
+    "1 तेजपत्ता",
+    "1 बड़ी इलायची (काली इलायची)",
+    "1 इंच दालचीनी का टुकड़ा",
+    "4-5 लौंग",
+    "1/2 छोटा चम्मच हल्दी पाउडर",
+    "1 छोटा चम्मच नमक (दाल उबालते समय)",
+    "5 से 6 कप पानी (दाल पकाने के लिए)",
+    "2 बड़े चम्मच शुद्ध देसी घी",
+    "1 छोटा चम्मच जीरा",
+    "1/4 छोटा चम्मच हींग",
+    "1 बड़ा चम्मच बारीक कटा अदरक",
+    "1 बड़ा चम्मच बारीक कटा लहसुन",
+    "2 हरी मिर्च (बारीक कटी या चीरा लगाई हुई)",
+    "2 मध्यम प्याज (बारीक कटे हुए)",
+    "2 मध्यम टमाटर (बारीक कटे हुए)",
+    "1 छोटा चम्मच कश्मीरी लाल मिर्च पाउडर",
+    "स्वादानुसार नमक (मसाले के लिए)",
+    "1/4 कप ताजा हरा धनिया (बारीक कटा हुआ)"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Pressure Cooking Dal & Aromatics (दाल उबालने की सामग्री)",
+      "category_hi": "कुकर में दाल उबालने की सामग्री",
+      "items": [
+        {
+          "name_en": "Whole Masoor Dal (Brown Lentils)",
+          "name_hi": "साबुत मसूर दाल",
+          "amount": "1 cup (धोकर साफ की हुई)"
+        },
+        {
+          "name_en": "Whole Garlic Cloves",
+          "name_hi": "साबुत लहसुन की कलियां",
+          "amount": "12-13 cloves"
+        },
+        {
+          "name_en": "Bay Leaf (Tejpatta)",
+          "name_hi": "तेजपत्ता",
+          "amount": "1 leaf"
+        },
+        {
+          "name_en": "Black Cardamom (Badi Elaichi)",
+          "name_hi": "बड़ी इलायची",
+          "amount": "1 pod"
+        },
+        {
+          "name_en": "Cinnamon Stick (Dalchini)",
+          "name_hi": "दालचीनी",
+          "amount": "1 inch"
+        },
+        {
+          "name_en": "Cloves (Laung)",
+          "name_hi": "लौंग",
+          "amount": "4-5"
+        },
+        {
+          "name_en": "Turmeric Powder",
+          "name_hi": "हल्दी पाउडर",
+          "amount": "1/2 tsp"
+        },
+        {
+          "name_en": "Salt",
+          "name_hi": "नमक",
+          "amount": "1 tsp"
+        },
+        {
+          "name_en": "Water",
+          "name_hi": "पानी",
+          "amount": "5 to 6 cups"
+        }
+      ]
+    },
+    {
+      "category_en": "Ghee Tadka & Masala (देसी घी तड़का व मसाला)",
+      "category_hi": "तड़का और ग्रेवी मसाला",
+      "items": [
+        {
+          "name_en": "Pure Desi Ghee",
+          "name_hi": "शुद्ध देसी घी",
+          "amount": "2 tbsp"
+        },
+        {
+          "name_en": "Cumin Seeds (Jeera)",
+          "name_hi": "जीरा",
+          "amount": "1 tsp"
+        },
+        {
+          "name_en": "Asafoetida (Hing)",
+          "name_hi": "हींग",
+          "amount": "1/4 tsp"
+        },
+        {
+          "name_en": "Chopped Ginger",
+          "name_hi": "बारीक कटा अदरक",
+          "amount": "1 tbsp"
+        },
+        {
+          "name_en": "Chopped Garlic",
+          "name_hi": "बारीक कटा लहसुन",
+          "amount": "1 tbsp"
+        },
+        {
+          "name_en": "Green Chillies",
+          "name_hi": "हरी मिर्च",
+          "amount": "2"
+        },
+        {
+          "name_en": "Onions",
+          "name_hi": "बारीक कटे प्याज",
+          "amount": "2 medium"
+        },
+        {
+          "name_en": "Tomatoes",
+          "name_hi": "बारीक कटे टमाटर",
+          "amount": "2 medium"
+        },
+        {
+          "name_en": "Kashmiri Red Chilli Powder",
+          "name_hi": "कश्मीरी लाल मिर्च",
+          "amount": "1 tsp"
+        },
+        {
+          "name_en": "Fresh Coriander Leaves",
+          "name_hi": "ताजा हरा धनिया",
+          "amount": "1/4 cup"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Rinse the Lentils: Thoroughly rinse 1 cup whole masoor dal under running water 2–3 times until the water runs clear. Optionally soak for 15-20 minutes to reduce cooking time.",
+    "Pressure Cook with Whole Spices & Garlic: Transfer the rinsed lentils to a pressure cooker. Add 5 to 6 cups of water, 12-13 whole garlic cloves, 1 bay leaf, 1 black cardamom, 1 inch cinnamon stick, 4-5 cloves, 1/2 tsp turmeric powder, and 1 tsp salt.",
+    "Cook until Tender: Close the pressure cooker lid and cook on medium flame for 4 to 5 whistles (or 5-6 whistles if unsoaked). Allow the pressure to release naturally. Open the lid—the dal should be thoroughly soft, and the whole garlic cloves will have melted into the broth.",
+    "Prepare the Desi Ghee Tadka: In a wide kadhai or deep pan, heat 2 tbsp desi ghee on medium heat. Add 1 tsp cumin seeds and 1/4 tsp hing. Let them splutter and release their aroma.",
+    "Sauté Aromatics & Onions: Add 1 tbsp finely chopped ginger, 1 tbsp minced garlic, and 2 chopped green chillies. Sauté for 30 seconds until fragrant. Add the finely chopped onions and sauté for 4-5 minutes until they turn light golden-brown.",
+    "Cook the Tomato Base: Add the 2 finely chopped tomatoes, 1 tsp Kashmiri red chilli powder, and a light pinch of salt. Cook on medium-low flame for 3-4 minutes until the tomatoes turn completely soft, pulpy, and ghee begins to separate from the edges.",
+    "Combine Dal and Simmer: Pour the cooked whole masoor dal along with its aromatic broth into the simmering onion-tomato masala. Stir well and bring to a gentle boil. Mash a few lentils against the side of the pan with your ladle to achieve a naturally creamy, rich dhaba-style consistency.",
+    "Simmer & Garnish: Reduce heat to low and simmer for 5–7 minutes so the flavours meld together beautifully. Turn off the flame, garnish with 1/4 cup fresh chopped coriander leaves, and serve steaming hot with jeera rice, steamed basmati, or hot rotis!"
+  ],
+  "instructions_hi": [
+    "दाल धोएं: 1 कप साबुत मसूर दाल को 2-3 बार साफ पानी से अच्छी तरह धो लें। चाहें तो 15-20 मिनट के लिए भिगो दें ताकि दाल जल्दी पके।",
+    "कुकर में खड़े मसाले व लहसुन के साथ उबालें: धुली दाल को प्रेशर कुकर में डालें। इसमें 5-6 कप पानी, 12-13 छिली साबुत लहसुन की कलियां, 1 तेजपत्ता, 1 बड़ी इलायची, 1 दालचीनी, 4-5 लौंग, 1/2 चम्मच हल्दी और 1 चम्मच नमक डालें।",
+    "दाल पकाएं: कुकर का ढक्कन बंद कर मध्यम आंच पर 4 से 5 सीटी आने तक पकाएं। प्रेशर अपने आप निकलने दें। ढक्कन खोलें—दाल पूरी तरह गल चुकी होगी और साबुत लहसुन रस में पूरी तरह घुल चुका होगा।",
+    "देसी घी का तड़का लगाएं: एक कड़ाही में 2 चम्मच देसी घी गरम करें। इसमें 1 चम्मच जीरा और 1/4 चम्मच हींग डालकर चटकाएं।",
+    "अदरक-लहसुन और प्याज भूनें: 1 बड़ा चम्मच बारीक कटा अदरक, 1 बड़ा चम्मच कटा लहसुन और 2 कटी हरी मिर्च डालकर 30 सेकंड भूनें। अब बारीक कटे प्याज डालें और सुनहरा होने तक 4-5 मिनट भूनें।",
+    "टमाटर मसाला पकाएं: अब 2 कटे टमाटर, 1 चम्मच कश्मीरी लाल मिर्च पाउडर और हल्का सा नमक डालें। धीमी आंच पर 3-4 मिनट तक भूनें जब तक टमाटर गलकर नरम न हो जाएं और घी अलग न दिखने लगे।",
+    "दाल मिलाएं और पकाएं: उबली हुई दाल को पूरे खुशबूदार पानी समेत टमाटर-प्याज वाले मसाले में पलट दें। अच्छी तरह मिलाएं और कलछी से थोड़ी सी दाल को कड़ाही के किनारे दबाकर मैश करें ताकि दाल में गाढ़ापन आए।",
+    "धीमी आंच पर पकाएं और परोसें: दाल को धीमी आंच पर 5-7 मिनट तक उबलने दें ताकि सारे मसालों का स्वाद दाल में समा जाए। गैस बंद करें, ऊपर से हरा धनिया डालें और गरमा-गरम जीरा राइस या रोटी के साथ परोसें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Washing the Lentils",
+      "title_hi": "दाल धोना व भिगोना",
+      "instruction_en": "Rinse 1 cup whole masoor dal 2-3 times in running water. Soaking for 15-20 minutes helps cook evenly.",
+      "instruction_hi": "साबुत मसूर दाल को 2-3 बार पानी से अच्छी तरह धो लें और चाहें तो 15 मिनट भिगो दें।"
+    },
+    {
+      "step": 2,
+      "title_en": "Pressure Cooking with Whole Garlic",
+      "title_hi": "साबुत लहसुन व मसालों के साथ उबालना",
+      "instruction_en": "Cook dal in pressure cooker with 5-6 cups water, 12-13 whole garlic cloves, bay leaf, cardamom, cloves, cinnamon, turmeric, and salt for 4-5 whistles.",
+      "instruction_hi": "कुकर में दाल, पानी, 12-13 साबुत लहसुन, खड़े मसाले, हल्दी और नमक डालकर 4-5 सीटी आने तक पकाएं।"
+    },
+    {
+      "step": 3,
+      "title_en": "Tempering in Desi Ghee",
+      "title_hi": "देसी घी में तड़का",
+      "instruction_en": "Heat 2 tbsp ghee in a kadhai. Sizzle 1 tsp cumin seeds and 1/4 tsp hing until fragrant.",
+      "instruction_hi": "कड़ाही में 2 चम्मच देसी घी गरम करें और जीरा व हींग डालकर चटकाएं।"
+    },
+    {
+      "step": 4,
+      "title_en": "Sautéing Onions, Ginger & Chillies",
+      "title_hi": "प्याज व अदरक-लहसुन भूनना",
+      "instruction_en": "Add chopped ginger, garlic, and green chillies, followed by finely chopped onions. Sauté until golden.",
+      "instruction_hi": "अदरक, लहसुन, हरी मिर्च और बारीक कटे प्याज डालकर सुनहरा होने तक भूनें।"
+    },
+    {
+      "step": 5,
+      "title_en": "Making the Tomato Masala",
+      "title_hi": "टमाटर और कश्मीरी मिर्च पकाना",
+      "instruction_en": "Add chopped tomatoes, Kashmiri red chilli powder, and salt. Cook until tomatoes are mushy and ghee separates.",
+      "instruction_hi": "कटे टमाटर, कश्मीरी लाल मिर्च और नमक डालकर टमाटर के गलने तक भूनें।"
+    },
+    {
+      "step": 6,
+      "title_en": "Simmering, Mashing & Garnishing",
+      "title_hi": "दाल मिलाना, पकाना और सजावट",
+      "instruction_en": "Pour in boiled dal, lightly mash a few spoonfuls for creaminess, simmer for 5-7 minutes, and finish with fresh coriander.",
+      "instruction_hi": "उबली दाल कड़ाही में डालें, थोड़ी दाल मैश करें, 5-7 मिनट धीमी आंच पर पकाएं और हरा धनिया डालकर परोसें।"
+    }
+  ],
+  "chef_tips_en": [
+    "The Whole Garlic Secret: Boiling 12-13 whole garlic cloves with the dal is the hallmark secret of this recipe. The garlic softens into butter-like sweetness and melts into the broth, lending a rich garlicky body without being pungent or overpowering.",
+    "Creamy Without Cream: Mashing a ladle-full of cooked lentils against the side of the pan thickens the dal naturally and creates a luscious, creamy dhaba-style texture without needing heavy cream or butter.",
+    "Water Proportion: Sabut masoor absorbs water as it rests. Using 5 to 6 cups of water guarantees a smooth, pourable, restaurant-style consistency that stays moist even when reheated.",
+    "High Protein & Low Calorie: With just 2 tablespoons of ghee used for the entire 4-5 serving pot, this dish delivers maximum satiety and dietary fiber with high protein and low net carbs."
+  ],
+  "chef_tips_hi": [
+    "साबुत लहसुन का जादुई नुस्खा: दाल उबालते समय 12-13 साबुत लहसुन की कलियां डालना इस रेसिपी का सबसे बड़ा सीक्रेट है। लहसुन उबलकर मक्खन की तरह पिघल जाता है और दाल को बिना किसी तीखेपन के लाजवाब सोंधापन देता है।",
+    "बिना मलाई के ढाबा स्टाइल गाढ़ापन: दाल मिलाने के बाद कलछी से थोड़ी सी दाल को कड़ाही के किनारे दबाकर मैश कर दें। इससे दाल बिना क्रीम या मलाई के भी अपने आप गाढ़ी और मखमली बन जाती है।",
+    "पानी का सही अनुपात: साबुत मसूर दाल ठंडी होने पर गाढ़ी होती है। इसलिए 5-6 कप पानी में उबालें ताकि दाल न ज्यादा पतली रहे और न ही सूखकर जम जाए।",
+    "वजन घटाने व हाई प्रोटीन के लिए उत्तम: पूरी दाल में सिर्फ 2 चम्मच देसी घी का उपयोग किया गया है। यह प्रोटीन और फाइबर से भरपूर है जो वजन घटाने और स्वस्थ जीवनशैली के लिए सर्वश्रेष्ठ है।"
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "id": "dhaba-chicken-bhuna-masala",
+  "title": {
+    "en": "Dhaba-Style Chicken Bhuna Masala",
+    "hi": "ढाबा स्टाइल चिकन भुना मसाला"
+  },
+  "description": {
+    "en": "Tender bone-in chicken slow-roasted in deeply caramelized onions, fresh tomatoes, aromatic whole spices, and Bharatzkitchen's secret besan-saunf spice paste that coats every single piece with thick, smoky, glossy masala.",
+    "hi": "मुंह में घुल जाने वाला रसीला चिकन, जिसे धीमी आंच पर भुने हुए सुनहरे प्याज, ताजे टमाटर, खड़े मसालों और बेसन-सौंफ के खास मसाले के साथ तब तक भुना जाता है जब तक गाढ़ा, चमकदार और खुशबूदार रोगन न छूट जाए।"
+  },
+  "category": "Latest Recipe",
+  "isVegetarian": false,
+  "prepTime": "20 mins",
+  "cookTime": "35 mins",
+  "servings": "4-5 servings",
+  "youtubeId": "7NUUBUmjO7I",
+  "author": "Bharatzkitchen Hindi",
+  "ingredients": [
+    {
+      "category": {
+        "en": "Chicken & Tenderizing Marination",
+        "hi": "चिकन और मैरिनेशन"
+      },
+      "items": [
+        {
+          "en": "Chicken (Curry Cut, Bone-in) - 800g (washed & drained)",
+          "hi": "चिकन (करी कट, हड्डी सहित) - 800 ग्राम (धोकर पानी निथारा हुआ)"
+        },
+        {
+          "en": "Ginger-Garlic Paste - 1 tbsp",
+          "hi": "अदरक-लहसुन पेस्ट - 1 बड़ा चम्मच"
+        },
+        {
+          "en": "Lemon Juice - 1 whole fresh lemon (tenderizes chicken fibers)",
+          "hi": "नींबू का रस - 1 पूरा नींबू (चिकन को अंदर तक नरम करने हेतु)"
+        },
+        {
+          "en": "Red Chilli Powder - 1 tsp",
+          "hi": "लाल मिर्च पाउडर - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Turmeric Powder (Haldi) - 1/2 tsp",
+          "hi": "हल्दी पाउडर - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Roasted Cumin Powder (Bhuna Jeera) - 1/2 tsp",
+          "hi": "भुना जीरा पाउडर - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Salt - 1 tsp",
+          "hi": "नमक - 1 छोटा चम्मच"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Whole Spices & Tempering (Khada Masala)",
+        "hi": "खड़े मसाले और तड़का"
+      },
+      "items": [
+        {
+          "en": "Mustard Oil (Sarson ka Tel) - 2 large ladles (approx. 5 tbsp, smoking hot)",
+          "hi": "सरसों का तेल - 2 बड़ी कलछी (लगभग 5 बड़े चम्मच, धुआं उठने तक गर्म)"
+        },
+        {
+          "en": "Cumin Seeds (Jeera) - 1 tsp",
+          "hi": "जीरा - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Cloves (Laung) - 4",
+          "hi": "लौंग - 4"
+        },
+        {
+          "en": "Green Cardamoms (Choti Elaichi) - 4",
+          "hi": "छोटी इलायची - 4"
+        },
+        {
+          "en": "Black Cardamom (Badi Elaichi) - 1",
+          "hi": "बड़ी इलायची - 1"
+        },
+        {
+          "en": "Black Peppercorns (Kali Mirch) - 10 to 12",
+          "hi": "काली मिर्च - 10 से 12 दाने"
+        },
+        {
+          "en": "Whole Dry Red Chillies - 3",
+          "hi": "साबुत सूखी लाल मिर्च - 3"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Secret Clinging Bhuna Spice Blend",
+        "hi": "सीक्रेट भुना मसाला पेस्ट (बेसन व सौंफ)"
+      },
+      "items": [
+        {
+          "en": "Gram Flour (Besan) - 2 tsp (roasts into gravy for thick clinging body)",
+          "hi": "बेसन - 2 छोटे चम्मच (ग्रेवी को गाढ़ा और चिकन से चिपकाने हेतु)"
+        },
+        {
+          "en": "Fennel Powder (Saunf Powder) - 1 tsp (dhaba aroma)",
+          "hi": "सौंफ पाउडर - 1 छोटा चम्मच (ढाबा जैसी सोंधी खुशबू)"
+        },
+        {
+          "en": "Coriander Powder (Dhaniya) - 3 tsp",
+          "hi": "धनिया पाउडर - 3 छोटे चम्मच"
+        },
+        {
+          "en": "Kashmiri Red Chilli Powder - 2 tsp (rich red color)",
+          "hi": "कश्मीरी लाल मिर्च पाउडर - 2 छोटे चम्मच"
+        },
+        {
+          "en": "Spicy Red Chilli Powder - 1 tsp",
+          "hi": "तीखी लाल मिर्च - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Water - 3 to 4 tbsp (to hydrate spice paste)",
+          "hi": "पानी - 3 से 4 चम्मच (मसाला घोलने के लिए)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Aromatics, Gravy & Finishing",
+        "hi": "प्याज, टमाटर और खुशबूदार मसाले"
+      },
+      "items": [
+        {
+          "en": "Onions - 3 medium (thinly sliced or finely chopped)",
+          "hi": "प्याज - 3 मध्यम (बारीक कटे या लच्छेदार)"
+        },
+        {
+          "en": "Tomatoes - 6 to 7 medium (finely chopped or pureed)",
+          "hi": "टमाटर - 6 से 7 मध्यम (बारीक कटे या प्यूरी किए हुए)"
+        },
+        {
+          "en": "Ginger-Garlic Paste - 1 tbsp (for gravy)",
+          "hi": "अदरक-लहसुन पेस्ट - 1 बड़ा चम्मच"
+        },
+        {
+          "en": "Turmeric Powder - 1/2 tsp",
+          "hi": "हल्दी पाउडर - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Green Chillies - 3 to 4 (slit lengthwise)",
+          "hi": "हरी मिर्च - 3 से 4 (चीरा लगी)"
+        },
+        {
+          "en": "Fresh Ginger - 1.5 inch (cut into fine juliennes)",
+          "hi": "ताजा अदरक - 1.5 इंच (लंबे बारीक लच्छे)"
+        },
+        {
+          "en": "Garam Masala Powder - 1 tsp",
+          "hi": "गरम मसाला - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Kasuri Methi (crushed) - 1 tbsp",
+          "hi": "कसूरी मेथी - 1 बड़ा चम्मच (हाथ से मसली हुई)"
+        },
+        {
+          "en": "Fresh Coriander leaves - 3 tbsp (finely chopped)",
+          "hi": "ताजा हरा धनिया - 3 चम्मच"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": {
+        "en": "Marinating the Chicken",
+        "hi": "चिकन को मैरिनेट करना"
+      },
+      "text": {
+        "en": "In a large bowl, place 800g bone-in chicken pieces. Add 1 tbsp ginger-garlic paste, 1 tsp red chilli powder, 1/2 tsp turmeric, 1/2 tsp roasted cumin powder, 1 tsp salt, and the juice of 1 whole lemon. Mix thoroughly with your hands, massage the marinade into the meat cuts, and let it rest for 20 minutes. The lemon acid begins breaking down tough fibers so the chicken remains juicy during intense roasting.",
+        "hi": "बड़े बर्तन में 800 ग्राम चिकन लें। इसमें 1 चम्मच अदरक-लहसुन पेस्ट, 1 चम्मच लाल मिर्च, 1/2 चम्मच हल्दी, 1/2 चम्मच भुना जीरा, 1 चम्मच नमक और 1 पूरे नींबू का रस डालें। हाथों से अच्छी तरह मिलाकर 20 मिनट के लिए रख दें। नींबू का रस चिकन को अंदर तक रसीला और नरम बनाता है।"
+      }
+    },
+    {
+      "step": 2,
+      "title": {
+        "en": "Preparing the Secret Bhuna Spice Paste",
+        "hi": "सीक्रेट भुना मसाला पेस्ट तैयार करना"
+      },
+      "text": {
+        "en": "In a small bowl, combine 2 tsp gram flour (besan), 1 tsp saunf powder, 3 tsp coriander powder, 2 tsp Kashmiri chilli powder, and 1 tsp regular chilli powder. Stir in 3-4 tbsp of water to form a smooth paste. Soaking ground spices in water prevents them from burning in hot oil while allowing the besan to hydrate.",
+        "hi": "एक छोटी कटोरी में 2 चम्मच बेसन, 1 चम्मच सौंफ पाउडर, 3 चम्मच धनिया पाउडर, 2 चम्मच कश्मीरी मिर्च और 1 चम्मच लाल मिर्च मिलाएं। इसमें 3-4 चम्मच पानी डालकर पेस्ट बना लें। पानी में घोलने से सूखे मसाले गरम तेल में जलते नहीं हैं और बेसन फूल जाता है।"
+      }
+    },
+    {
+      "step": 3,
+      "title": {
+        "en": "Tempering & Deep Onion Caramelization",
+        "hi": "खड़े मसालों का तड़का और प्याज भूनना"
+      },
+      "text": {
+        "en": "Heat 2 ladles (5 tbsp) mustard oil in a heavy-bottomed kadhai or handi until smoking hot, then turn off flame briefly to temper the heat. Turn flame to medium and add cumin seeds, cloves, green cardamoms, black cardamom, peppercorns, and dried red chillies. Sauté for 10 seconds, then add 3 sliced onions and 1 tsp salt. Fry patiently on medium flame for 8-10 minutes until deeply golden brown and caramelized.",
+        "hi": "भारी कड़ाही में 2 कलछी सरसों का तेल धुआं उठने तक गर्म करें, फिर आंच मध्यम करें। जीरा, लौंग, छोटी व बड़ी इलायची, काली मिर्च और साबुत सूखी लाल मिर्च तड़काएं। अब 3 कटे प्याज और 1 छोटा चम्मच नमक डालें। मध्यम आंच पर 8-10 मिनट तक प्याज को गहरा सुनहरा भूरा होने तक भूनें।"
+      }
+    },
+    {
+      "step": 4,
+      "title": {
+        "en": "Roasting Aromatics & The Besan-Spice Paste",
+        "hi": "अदरक-लहसुन और बेसन मसाला पेस्ट भूनना"
+      },
+      "text": {
+        "en": "Stir in 1 tbsp ginger-garlic paste and 1/2 tsp turmeric powder into the caramelized onions. Sauté for 1-2 minutes until the raw smell vanishes. Pour in the prepared besan-saunf spice paste. Sauté continuously on medium-low heat for 2-3 minutes. The besan will toast in the onion oil, turning nutty and releasing glossy droplets of red oil.",
+        "hi": "भुने प्याज में 1 चम्मच अदरक-लहसुन पेस्ट और 1/2 चम्मच हल्दी डालें। 1-2 मिनट भूनें। अब तैयार किया गया बेसन-सौंफ का मसाला पेस्ट डालें। धीमी आंच पर 2-3 मिनट लगातार चलाते हुए भूनें। बेसन तेल में अच्छी तरह भुन जाएगा और कड़ाही से खुशबूदार तेल अलग होने लगेगा।"
+      }
+    },
+    {
+      "step": 5,
+      "title": {
+        "en": "High-Heat Chicken Bhunai",
+        "hi": "तेज आंच पर चिकन की भुनाई"
+      },
+      "text": {
+        "en": "Add all the marinated chicken pieces (along with any collected marinade juices) into the smoking-hot masala. Increase flame to high. Sear and roast the chicken vigorously for 6-8 minutes, tossing continually so the spiced onion-besan paste clings tightly to the meat as the surface sears and juices lock inside.",
+        "hi": "मैरिनेट किया हुआ पूरा चिकन कड़ाही में डालें। आंच तेज करें। चिकन को तेज आंच पर 6-8 मिनट तक लगातार चलाते हुए भूनें ताकि मसालेदार बेसन की परत चिकन के टुकड़ों पर लिपट जाए और चिकन की ऊपरी सतह अच्छी तरह सिक जाए।"
+      }
+    },
+    {
+      "step": 6,
+      "title": {
+        "en": "Slow Simmering with Tomatoes (Self-Juice Cooking)",
+        "hi": "टमाटर के साथ धीमी आंच पर पकाना"
+      },
+      "text": {
+        "en": "Add 6-7 finely chopped or pureed tomatoes and 1 tsp salt. Stir well to combine. Cover the kadhai with a tight lid, lower the flame to minimum, and let it cook undisturbed for 15-18 minutes. The chicken will cook completely tender in its own natural juices and the tang of the tomatoes without needing excess water.",
+        "hi": "बारीक कटे या पिसे हुए 6-7 टमाटर और 1 चम्मच नमक डालें। अच्छी तरह मिलाएं। कड़ाही पर ढक्कन लगाएं और सबसे धीमी आंच पर 15-18 मिनट पकने दें। चिकन अपने ही रस और टमाटर की नमी में अंदर तक मखमली गल जाएगा (अतिरिक्त पानी डालने की जरूरत नहीं पड़ेगी)।"
+      }
+    },
+    {
+      "step": 7,
+      "title": {
+        "en": "Final Thick Bhunai & Aromatics Dum",
+        "hi": "अंतिम भुनाई, रोगन और खुशबूदार दम"
+      },
+      "text": {
+        "en": "Remove lid and increase flame to medium-high. Bhunofy (stir-fry) for 3-4 minutes until the tomato moisture reduces into a thick, clingy, deep mahogany glaze. Stir in slit green chillies, fresh ginger juliennes, 1 tsp garam masala, and 1 tbsp crushed kasuri methi. Cover with the lid, turn off the flame, and let it rest on dum for 5 minutes. The oil (rogan) will separate to the surface in a glistening crimson sheen.",
+        "hi": "ढक्कन हटाएं और मध्यम आंच पर 3-4 मिनट भूनें जब तक कि ग्रेवी गाढ़ी होकर गहरा लाल रंग न ले ले और चिकन के हर टुकड़े पर लिपट न जाए। अब चीरा लगी हरी मिर्च, अदरक के लच्छे, गरम मसाला और मसली कसूरी मेथी मिलाएं। ढक्कन लगाएं, गैस बंद करें और 5 मिनट दम पर रहने दें ताकि चमकदार लाल रोगन ऊपर तैरने लगे।"
+      }
+    },
+    {
+      "step": 8,
+      "title": {
+        "en": "Garnish & Serving",
+        "hi": "हरा धनिया और परोसना"
+      },
+      "text": {
+        "en": "Sprinkle freshly chopped coriander leaves over the top. Serve hot with flaky tandoori rotis, garlic butter naans, rumali rotis, or steaming basmati jeera rice.",
+        "hi": "ऊपर से ताजा हरा धनिया सजाएं। गरमा-गरम चिकन भुना मसाला को खस्ता तंदूरी रोटी, गार्लिक बटर नान या गरमा-गरम जीरा राइस के साथ परोसें।"
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Adding 2 teaspoons of besan (gram flour) with the powdered spices is the chef's secret to creating that signature thick, glossy bhuna masala that clings to meat without running off like watery curry.",
+      "hi": "मसालों के साथ 2 छोटे चम्मच बेसन भूनना असली शेफ सीक्रेट है—यह ग्रेवी को गाढ़ा, चमकदार बनाता है और पानी अलग होने से रोककर चिकन पर मसाला चिपकाए रखता है।"
+    },
+    {
+      "en": "Do not skip 1 tsp saunf (fennel) powder—it balances the intense heat of mustard oil and chillies, lending authentic roadside dhaba sweetness and fragrance.",
+      "hi": "1 छोटा चम्मच सौंफ पाउडर जरूर डालें—यह सरसों के तेल और तीखेपन को संतुलित करके असली पंजाबी ढाबे वाली सोंधी महक देता है।"
+    },
+    {
+      "en": "Never add extra water when cooking the chicken with tomatoes. Chicken releases ample juices which, combined with tomato pulp, yield the richest concentrated bhuna flavor.",
+      "hi": "टमाटर डालने के बाद अलग से पानी बिल्कुल न डालें। चिकन और टमाटर का अपना रस धीमी आंच पर गाढ़ी और बेहद स्वादिष्ट ग्रेवी बनाता है।"
+    }
+  ],
+  "title_en": "Dhaba-Style Chicken Bhuna Masala",
+  "title_hi": "ढाबा स्टाइल चिकन भुना मसाला",
+  "description_en": "Tender bone-in chicken slow-roasted in deeply caramelized onions, fresh tomatoes, aromatic whole spices, and Bharatzkitchen's secret besan-saunf spice paste that coats every single piece with thick, smoky, glossy masala.",
+  "description_hi": "मुंह में घुल जाने वाला रसीला चिकन, जिसे धीमी आंच पर भुने हुए सुनहरे प्याज, ताजे टमाटर, खड़े मसालों और बेसन-सौंफ के खास मसाले के साथ तब तक भुना जाता है जब तक गाढ़ा, चमकदार और खुशबूदार रोगन न छूट जाए।",
+  "prep_time_en": "20 mins",
+  "prep_time_hi": "20 mins",
+  "cook_time_en": "35 mins",
+  "cook_time_hi": "35 mins",
+  "servings_en": "4-5 servings",
+  "servings_hi": "4-5 servings",
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "diet": "Non-Veg",
+  "diet_hi": "मांसाहारी",
+  "youtube_id": "7NUUBUmjO7I",
+  "youtube_url": "https://www.youtube.com/watch?v=7NUUBUmjO7I",
+  "image_url": "https://img.youtube.com/vi/7NUUBUmjO7I/hqdefault.jpg",
+  "ingredients_en": [
+    "Chicken (Curry Cut, Bone-in) - 800g (washed & drained)",
+    "Ginger-Garlic Paste - 1 tbsp",
+    "Lemon Juice - 1 whole fresh lemon (tenderizes chicken fibers)",
+    "Red Chilli Powder - 1 tsp",
+    "Turmeric Powder (Haldi) - 1/2 tsp",
+    "Roasted Cumin Powder (Bhuna Jeera) - 1/2 tsp",
+    "Salt - 1 tsp",
+    "Mustard Oil (Sarson ka Tel) - 2 large ladles (approx. 5 tbsp, smoking hot)",
+    "Cumin Seeds (Jeera) - 1 tsp",
+    "Cloves (Laung) - 4",
+    "Green Cardamoms (Choti Elaichi) - 4",
+    "Black Cardamom (Badi Elaichi) - 1",
+    "Black Peppercorns (Kali Mirch) - 10 to 12",
+    "Whole Dry Red Chillies - 3",
+    "Gram Flour (Besan) - 2 tsp (roasts into gravy for thick clinging body)",
+    "Fennel Powder (Saunf Powder) - 1 tsp (dhaba aroma)",
+    "Coriander Powder (Dhaniya) - 3 tsp",
+    "Kashmiri Red Chilli Powder - 2 tsp (rich red color)",
+    "Spicy Red Chilli Powder - 1 tsp",
+    "Water - 3 to 4 tbsp (to hydrate spice paste)",
+    "Onions - 3 medium (thinly sliced or finely chopped)",
+    "Tomatoes - 6 to 7 medium (finely chopped or pureed)",
+    "Ginger-Garlic Paste - 1 tbsp (for gravy)",
+    "Turmeric Powder - 1/2 tsp",
+    "Green Chillies - 3 to 4 (slit lengthwise)",
+    "Fresh Ginger - 1.5 inch (cut into fine juliennes)",
+    "Garam Masala Powder - 1 tsp",
+    "Kasuri Methi (crushed) - 1 tbsp",
+    "Fresh Coriander leaves - 3 tbsp (finely chopped)"
+  ],
+  "ingredients_hi": [
+    "चिकन (करी कट, हड्डी सहित) - 800 ग्राम (धोकर पानी निथारा हुआ)",
+    "अदरक-लहसुन पेस्ट - 1 बड़ा चम्मच",
+    "नींबू का रस - 1 पूरा नींबू (चिकन को अंदर तक नरम करने हेतु)",
+    "लाल मिर्च पाउडर - 1 छोटा चम्मच",
+    "हल्दी पाउडर - 1/2 छोटा चम्मच",
+    "भुना जीरा पाउडर - 1/2 छोटा चम्मच",
+    "नमक - 1 छोटा चम्मच",
+    "सरसों का तेल - 2 बड़ी कलछी (लगभग 5 बड़े चम्मच, धुआं उठने तक गर्म)",
+    "जीरा - 1 छोटा चम्मच",
+    "लौंग - 4",
+    "छोटी इलायची - 4",
+    "बड़ी इलायची - 1",
+    "काली मिर्च - 10 से 12 दाने",
+    "साबुत सूखी लाल मिर्च - 3",
+    "बेसन - 2 छोटे चम्मच (ग्रेवी को गाढ़ा और चिकन से चिपकाने हेतु)",
+    "सौंफ पाउडर - 1 छोटा चम्मच (ढाबा जैसी सोंधी खुशबू)",
+    "धनिया पाउडर - 3 छोटे चम्मच",
+    "कश्मीरी लाल मिर्च पाउडर - 2 छोटे चम्मच",
+    "तीखी लाल मिर्च - 1 छोटा चम्मच",
+    "पानी - 3 से 4 चम्मच (मसाला घोलने के लिए)",
+    "प्याज - 3 मध्यम (बारीक कटे या लच्छेदार)",
+    "टमाटर - 6 से 7 मध्यम (बारीक कटे या प्यूरी किए हुए)",
+    "अदरक-लहसुन पेस्ट - 1 बड़ा चम्मच",
+    "हल्दी पाउडर - 1/2 छोटा चम्मच",
+    "हरी मिर्च - 3 से 4 (चीरा लगी)",
+    "ताजा अदरक - 1.5 इंच (लंबे बारीक लच्छे)",
+    "गरम मसाला - 1 छोटा चम्मच",
+    "कसूरी मेथी - 1 बड़ा चम्मच (हाथ से मसली हुई)",
+    "ताजा हरा धनिया - 3 चम्मच"
+  ],
+  "instructions_en": [
+    "In a large bowl, place 800g bone-in chicken pieces. Add 1 tbsp ginger-garlic paste, 1 tsp red chilli powder, 1/2 tsp turmeric, 1/2 tsp roasted cumin powder, 1 tsp salt, and the juice of 1 whole lemon. Mix thoroughly with your hands, massage the marinade into the meat cuts, and let it rest for 20 minutes. The lemon acid begins breaking down tough fibers so the chicken remains juicy during intense roasting.",
+    "In a small bowl, combine 2 tsp gram flour (besan), 1 tsp saunf powder, 3 tsp coriander powder, 2 tsp Kashmiri chilli powder, and 1 tsp regular chilli powder. Stir in 3-4 tbsp of water to form a smooth paste. Soaking ground spices in water prevents them from burning in hot oil while allowing the besan to hydrate.",
+    "Heat 2 ladles (5 tbsp) mustard oil in a heavy-bottomed kadhai or handi until smoking hot, then turn off flame briefly to temper the heat. Turn flame to medium and add cumin seeds, cloves, green cardamoms, black cardamom, peppercorns, and dried red chillies. Sauté for 10 seconds, then add 3 sliced onions and 1 tsp salt. Fry patiently on medium flame for 8-10 minutes until deeply golden brown and caramelized.",
+    "Stir in 1 tbsp ginger-garlic paste and 1/2 tsp turmeric powder into the caramelized onions. Sauté for 1-2 minutes until the raw smell vanishes. Pour in the prepared besan-saunf spice paste. Sauté continuously on medium-low heat for 2-3 minutes. The besan will toast in the onion oil, turning nutty and releasing glossy droplets of red oil.",
+    "Add all the marinated chicken pieces (along with any collected marinade juices) into the smoking-hot masala. Increase flame to high. Sear and roast the chicken vigorously for 6-8 minutes, tossing continually so the spiced onion-besan paste clings tightly to the meat as the surface sears and juices lock inside.",
+    "Add 6-7 finely chopped or pureed tomatoes and 1 tsp salt. Stir well to combine. Cover the kadhai with a tight lid, lower the flame to minimum, and let it cook undisturbed for 15-18 minutes. The chicken will cook completely tender in its own natural juices and the tang of the tomatoes without needing excess water.",
+    "Remove lid and increase flame to medium-high. Bhunofy (stir-fry) for 3-4 minutes until the tomato moisture reduces into a thick, clingy, deep mahogany glaze. Stir in slit green chillies, fresh ginger juliennes, 1 tsp garam masala, and 1 tbsp crushed kasuri methi. Cover with the lid, turn off the flame, and let it rest on dum for 5 minutes. The oil (rogan) will separate to the surface in a glistening crimson sheen.",
+    "Sprinkle freshly chopped coriander leaves over the top. Serve hot with flaky tandoori rotis, garlic butter naans, rumali rotis, or steaming basmati jeera rice."
+  ],
+  "instructions_hi": [
+    "बड़े बर्तन में 800 ग्राम चिकन लें। इसमें 1 चम्मच अदरक-लहसुन पेस्ट, 1 चम्मच लाल मिर्च, 1/2 चम्मच हल्दी, 1/2 चम्मच भुना जीरा, 1 चम्मच नमक और 1 पूरे नींबू का रस डालें। हाथों से अच्छी तरह मिलाकर 20 मिनट के लिए रख दें। नींबू का रस चिकन को अंदर तक रसीला और नरम बनाता है।",
+    "एक छोटी कटोरी में 2 चम्मच बेसन, 1 चम्मच सौंफ पाउडर, 3 चम्मच धनिया पाउडर, 2 चम्मच कश्मीरी मिर्च और 1 चम्मच लाल मिर्च मिलाएं। इसमें 3-4 चम्मच पानी डालकर पेस्ट बना लें। पानी में घोलने से सूखे मसाले गरम तेल में जलते नहीं हैं और बेसन फूल जाता है।",
+    "भारी कड़ाही में 2 कलछी सरसों का तेल धुआं उठने तक गर्म करें, फिर आंच मध्यम करें। जीरा, लौंग, छोटी व बड़ी इलायची, काली मिर्च और साबुत सूखी लाल मिर्च तड़काएं। अब 3 कटे प्याज और 1 छोटा चम्मच नमक डालें। मध्यम आंच पर 8-10 मिनट तक प्याज को गहरा सुनहरा भूरा होने तक भूनें।",
+    "भुने प्याज में 1 चम्मच अदरक-लहसुन पेस्ट और 1/2 चम्मच हल्दी डालें। 1-2 मिनट भूनें। अब तैयार किया गया बेसन-सौंफ का मसाला पेस्ट डालें। धीमी आंच पर 2-3 मिनट लगातार चलाते हुए भूनें। बेसन तेल में अच्छी तरह भुन जाएगा और कड़ाही से खुशबूदार तेल अलग होने लगेगा।",
+    "मैरिनेट किया हुआ पूरा चिकन कड़ाही में डालें। आंच तेज करें। चिकन को तेज आंच पर 6-8 मिनट तक लगातार चलाते हुए भूनें ताकि मसालेदार बेसन की परत चिकन के टुकड़ों पर लिपट जाए और चिकन की ऊपरी सतह अच्छी तरह सिक जाए।",
+    "बारीक कटे या पिसे हुए 6-7 टमाटर और 1 चम्मच नमक डालें। अच्छी तरह मिलाएं। कड़ाही पर ढक्कन लगाएं और सबसे धीमी आंच पर 15-18 मिनट पकने दें। चिकन अपने ही रस और टमाटर की नमी में अंदर तक मखमली गल जाएगा (अतिरिक्त पानी डालने की जरूरत नहीं पड़ेगी)।",
+    "ढक्कन हटाएं और मध्यम आंच पर 3-4 मिनट भूनें जब तक कि ग्रेवी गाढ़ी होकर गहरा लाल रंग न ले ले और चिकन के हर टुकड़े पर लिपट न जाए। अब चीरा लगी हरी मिर्च, अदरक के लच्छे, गरम मसाला और मसली कसूरी मेथी मिलाएं। ढक्कन लगाएं, गैस बंद करें और 5 मिनट दम पर रहने दें ताकि चमकदार लाल रोगन ऊपर तैरने लगे।",
+    "ऊपर से ताजा हरा धनिया सजाएं। गरमा-गरम चिकन भुना मसाला को खस्ता तंदूरी रोटी, गार्लिक बटर नान या गरमा-गरम जीरा राइस के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "Adding 2 teaspoons of besan (gram flour) with the powdered spices is the chef's secret to creating that signature thick, glossy bhuna masala that clings to meat without running off like watery curry.",
+    "Do not skip 1 tsp saunf (fennel) powder—it balances the intense heat of mustard oil and chillies, lending authentic roadside dhaba sweetness and fragrance.",
+    "Never add extra water when cooking the chicken with tomatoes. Chicken releases ample juices which, combined with tomato pulp, yield the richest concentrated bhuna flavor."
+  ],
+  "chef_tips_hi": [
+    "मसालों के साथ 2 छोटे चम्मच बेसन भूनना असली शेफ सीक्रेट है—यह ग्रेवी को गाढ़ा, चमकदार बनाता है और पानी अलग होने से रोककर चिकन पर मसाला चिपकाए रखता है।",
+    "1 छोटा चम्मच सौंफ पाउडर जरूर डालें—यह सरसों के तेल और तीखेपन को संतुलित करके असली पंजाबी ढाबे वाली सोंधी महक देता है।",
+    "टमाटर डालने के बाद अलग से पानी बिल्कुल न डालें। चिकन और टमाटर का अपना रस धीमी आंच पर गाढ़ी और बेहद स्वादिष्ट ग्रेवी बनाता है।"
+  ],
+  "tags": [
+    "Chicken Bhuna",
+    "Dhaba Style",
+    "Non-Veg",
+    "Main Course",
+    "Spicy Curry"
+  ]
+}

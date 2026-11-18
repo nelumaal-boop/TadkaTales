@@ -1,0 +1,76 @@
+{
+  "id": "chilli-paneer-maggi",
+  "title_en": "Street-Style Chilli Paneer Maggi",
+  "title_hi": "देसी चाइनीज चिली पनीर मैगी",
+  "description_en": "A lip-smacking fusion of spicy Indo-Chinese chilli paneer and Maggi noodles tossed with crunchy capsicum, garlic, spring onions, and a glossy sweet-spicy sauce.",
+  "description_hi": "स्ट्रीट स्टाइल चिली पनीर और मैगी का चटपटा फ्यूज़न! खिली-खिली नूडल्स, पनीर के टुकड़े, क्रंची शिमला मिर्च और तीखे सॉस के साथ 10 मिनट में तैयार।",
+  "prep_time_en": "5 mins",
+  "prep_time_hi": "5 मिनट",
+  "cook_time_en": "10 mins",
+  "cook_time_hi": "10 मिनट",
+  "servings_en": "2 servings",
+  "servings_hi": "2 लोगों के लिए",
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "category": "Snacks",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "youtube_id": "xXtaS06rl_g",
+  "youtube_url": "https://www.youtube.com/watch?v=xXtaS06rl_g",
+  "image_url": "https://img.youtube.com/vi/xXtaS06rl_g/maxresdefault.jpg",
+  "ingredients_en": [
+    "2 Packets Maggi Noodles (with 2 Tastemaker masala sachets)",
+    "50g Fresh Paneer, cut into small cubes",
+    "1 medium Capsicum (Bell pepper), diced into squares",
+    "1 medium Onion, diced into squares",
+    "3-4 Garlic cloves, finely minced",
+    "2-3 Green Chillies, slit",
+    "2 tbsp Spring Onion greens & whites, chopped",
+    "Indo-Chinese Sauce Blend: 1 tbsp Dark Soy Sauce, 1 tbsp Red Chilli Sauce, 1 tbsp Chilli Garlic Sauce, 1 tbsp Tomato Ketchup, 1/2 tsp White Vinegar, 1/2 tsp crushed Black Pepper",
+    "1 tbsp Cooking Oil or Butter",
+    "1/4 cup Water (to create a glossy coating sauce)",
+    "1/2 tsp Salt"
+  ],
+  "ingredients_hi": [
+    "2 पैकेट मैगी नूडल्स (2 मैगी मसाला पाउच के साथ)",
+    "50 ग्राम ताज़ा पनीर (छोटे चौकोर टुकड़ों में कटा)",
+    "1 शिमला मिर्च (चौकोर कटी हुई)",
+    "1 प्याज (चौकोर कटी परतों में)",
+    "3-4 लहसुन की कलियां (बारीक कटी हुई)",
+    "2-3 हरी मिर्च (चीरा लगी हुई)",
+    "2 बड़े चम्मच स्प्रिंग अनियन (हरा प्याज, बारीक कटा)",
+    "देसी चाइनीज सॉस मिक्स: 1 बड़ा चम्मच डार्क सोया सॉस, 1 बड़ा चम्मच रेड चिली सॉस, 1 बड़ा चम्मच चिली गार्लिक सॉस, 1 बड़ा चम्मच टोमैटो केचप, 1/2 छोटा चम्मच सिरका, 1/2 छोटा चम्मच कुटी काली मिर्च",
+    "1 बड़ा चम्मच कुकिंग ऑयल या मक्खन",
+    "1/4 कप पानी (सॉस को चमकदार बनाने के लिए)",
+    "1/2 छोटा चम्मच नमक"
+  ],
+  "instructions_en": [
+    "Step 1 (Boil & Rinse Maggi): In a pot, bring 3 cups of water to a boil. Drop in 2 blocks of Maggi noodles. Cook on high flame for exactly 2 minutes until 80% cooked. Immediately drain through a colander and rinse with cold water. Drizzle 1/2 tsp oil to keep noodles completely non-sticky and separate.",
+    "Step 2 (High-Flame Wok Sauté): In a wide wok or kadhai, heat 1 tbsp oil on high heat. Add minced garlic and slit green chillies. Sauté for 30 seconds until aromatic without burning.",
+    "Step 3 (Veggies & Paneer Crunch): Add diced onions, capsicum, and spring onion whites. Toss on high heat for 1 minute to retain their crisp crunch. Add paneer cubes and toss gently for 30 seconds.",
+    "Step 4 (Sauce Emulsion): Lower heat slightly. Add the 2 Maggi Tastemaker packets, dark soy sauce, red chilli sauce, chilli garlic sauce, tomato ketchup, vinegar, and black pepper. Pour in 1/4 cup water.",
+    "Step 5: Stir vigorously on medium-high flame for 1 minute until the sauce bubbles into a thick, glossy, aromatic gravy glaze.",
+    "Step 6 (Tossing the Noodles): Add the boiled bouncy Maggi noodles into the sizzling chilli paneer sauce.",
+    "Step 7: Using two forks or tongs, toss gently on high flame for 60 seconds until every single noodle strand is evenly coated in the shiny, spicy sauce.",
+    "Step 8: Garnish generously with chopped spring onion greens and serve sizzling hot immediately."
+  ],
+  "instructions_hi": [
+    "स्टेप 1 (मैगी उबालना और धोना): एक बर्तन में 3 कप पानी उबालें। 2 पैकेट मैगी नूडल्स डालें और तेज़ आंच पर सिर्फ 2 मिनट (80% तक) उबालें। तुरंत छलनी में छानें और ऊपर से ठंडा पानी डालें। आधा चम्मच तेल लगाकर मिला दें ताकि नूडल्स बिल्कुल खिले-खिले रहें और आपस में न चिपकें।",
+    "स्टेप 2 (तेज़ आंच पर तड़का): एक कड़ाही या वॉक में 1 बड़ा चम्मच तेल तेज़ आंच पर गरम करें। बारीक कटा लहसुन और हरी मिर्च डालकर 30 सेकंड भूनें।",
+    "स्टेप 3 (सब्ज़ियां और पनीर): कटे प्याज, शिमला मिर्च और हरा प्याज (सफेद हिस्सा) डालें। तेज़ आंच पर 1 मिनट भूनें ताकि उनका क्रंच बना रहे। अब पनीर के टुकड़े डालकर 30 सेकंड टॉस करें।",
+    "स्टेप 4 (सॉस और मैगी मसाला): आंच थोड़ी धीमी करें। दोनों मैगी मसाला के पाउच, सोया सॉस, रेड चिली सॉस, चिली गार्लिक सॉस, टोमैटो केचप, सिरका, काली मिर्च और 1/4 कप पानी डालें।",
+    "स्टेप 5: तेज़ आंच पर 1 मिनट चलाएं जब तक कि सॉस में उबाल आकर गाढ़ी और चमकदार ग्रेवी न बन जाए।",
+    "स्टेप 6 (मैगी मिलाना): अब उबली हुई खिली-खिली मैगी नूडल्स को गरमा-गरम चिली पनीर सॉस में डालें।",
+    "स्टेप 7: दो कांटों (चम्मच) की मदद से तेज़ आंच पर 1 मिनट अच्छी तरह टॉस करें ताकि सारा मसालेदार सॉस हर नूडल पर लिपट जाए।",
+    "स्टेप 8: ऊपर से ताज़ा हरा प्याज (स्प्रिंग अनियन) छिड़कें और गरमा-गरम चिली पनीर मैगी का आनंद लें।"
+  ],
+  "chef_tips_en": [
+    "Boiling the Maggi noodles separately and rinsing under cold water stops them from overcooking and turns ordinary instant noodles into restaurant-grade bouncy noodles.",
+    "Cooking the aromatics, vegetables, and paneer on high heat in a wide pan creates that signature smokiness (wok-hei) that makes street-style Indo-Chinese dishes irresistible."
+  ],
+  "chef_tips_hi": [
+    "मैगी को अलग से सिर्फ 2 मिनट उबालकर ठंडे पानी से धो लेने से मैगी कभी चिपचिपी (सॉगी) नहीं बनती और बिल्कुल चाउमीन जैसी खिली-खिली रहती है।",
+    "सब्जियों और सॉस को तेज़ आंच पर लगातार चलाते हुए पकाना ही स्ट्रीट स्टाइल देसी चाइनीज स्वाद और स्मोकी फ्लेवर का राज़ है।"
+  ],
+  "tags": ["Maggi", "Chilli Paneer Maggi", "Desi Chinese", "Street Food", "Quick Snack", "Late Night"]
+}

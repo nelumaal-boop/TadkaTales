@@ -1,0 +1,169 @@
+{
+  "id": "halwai-sooji-mawa-gujiya",
+  "title_en": "Halwai-Style Khasta Sooji Mawa Gujiya",
+  "title_hi": "हलवाई जैसी खस्ता सूजी मावा गुजिया (होली स्पेशल)",
+  "title": {
+    "en": "Halwai-Style Khasta Sooji Mawa Gujiya",
+    "hi": "हलवाई जैसी खस्ता सूजी मावा गुजिया (होली स्पेशल)"
+  },
+  "description_en": "Master the authentic Halwai technique for ultra-flaky, blister-free Holi Special Sooji Mawa Gujiyas with Bharatzkitchen. Features golden slow-roasted khoya, semolina, fragrant cardamom, crunchy dry fruits, and the low-temperature frying secret for a crisp, biscuit-like shell that stays fresh for weeks.",
+  "description_hi": "भरतज़किचन के साथ बनाएं बिना फालतू मेहनत एकदम हलवाई जैसी खस्ता, बिना फफोले वाली सूजी मावा गुजिया। जानिए परफेक्ट मोयन का अनुपात, भुने मावे और सूजी की दानेदार स्टफिंग और धीमी आंच पर तलने का वैज्ञानिक तरीका ताकि गुजिया हफ्तों तक एकदम कुरकुरी और ताज़ा रहे।",
+  "description": {
+    "en": "Master the authentic Halwai technique for ultra-flaky, blister-free Holi Special Sooji Mawa Gujiyas with Bharatzkitchen. Features golden slow-roasted khoya, semolina, fragrant cardamom, crunchy dry fruits, and the low-temperature frying secret for a crisp, biscuit-like shell that stays fresh for weeks.",
+    "hi": "भरतज़किचन के साथ बनाएं बिना फालतू मेहनत एकदम हलवाई जैसी खस्ता, बिना फफोले वाली सूजी मावा गुजिया। जानिए परफेक्ट मोयन का अनुपात, भुने मावे और सूजी की दानेदार स्टफिंग और धीमी आंच पर तलने का वैज्ञानिक तरीका ताकि गुजिया हफ्तों तक एकदम कुरकुरी और ताज़ा रहे।"
+  },
+  "category": "Dessert",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "prep_time_en": "25 mins",
+  "prep_time_hi": "25 मिनट",
+  "cook_time_en": "25 mins",
+  "cook_time_hi": "25 मिनट",
+  "prepTime": "25 mins",
+  "cookTime": "25 mins",
+  "servings_en": "15-18 Gujiyas",
+  "servings_hi": "15-18 गुजिया",
+  "servings": "15-18 Gujiyas",
+  "youtube_id": "fIebwiemcV8",
+  "youtubeId": "fIebwiemcV8",
+  "youtube_url": "https://www.youtube.com/watch?v=fIebwiemcV8",
+  "image_url": "https://img.youtube.com/vi/fIebwiemcV8/hqdefault.jpg",
+  "tags": [
+    "gujiya",
+    "mawa gujiya",
+    "sooji gujiya",
+    "holi recipe",
+    "mithai",
+    "dessert",
+    "bharatzkitchen"
+  ],
+  "ingredients_en": [
+    "2 cups All-purpose flour (maida, sieved)",
+    "1/4 cup Desi Ghee (melted, for precise halwai moyan shortening)",
+    "1/2 cup Water (adjust as needed to knead semi-firm dough)",
+    "200g Fresh Mawa / Khoya (crumbled)",
+    "1/4 cup Fine Semolina (sooji / rava)",
+    "1 tsp Ghee (for roasting sooji)",
+    "3/4 cup Powdered sugar or Tagar / Boora (bura)",
+    "1/4 cup Dry desiccated coconut (nariyal burada)",
+    "2 tbsp Chironji (charoli seeds)",
+    "2 tbsp Cashews (kaju, finely chopped)",
+    "2 tbsp Almonds (badam, finely chopped)",
+    "2 tbsp Raisins (kishmish, chopped)",
+    "1/2 tsp Green cardamom powder (freshly pounded elaichi)",
+    "1 pinch Nutmeg powder (jaiphal, optional)",
+    "Oil or Desi Ghee for deep frying",
+    "Water or flour slurry for sealing edges"
+  ],
+  "ingredients_hi": [
+    "2 कप मैदा (छना हुआ)",
+    "1/4 कप देसी घी (पिघला हुआ, खस्तापन के लिए सटीक हलवाई मोयन)",
+    "1/2 कप पानी (ज़रूरत अनुसार मध्यम सख्त आटा गूंथने के लिए)",
+    "200 ग्राम ताज़ा मावा / खोया (मसला हुआ)",
+    "1/4 कप बारीक सूजी (रवा)",
+    "1 छोटा चम्मच घी (सूजी भूनने के लिए)",
+    "3/4 कप तगार / बूरा या पिसी हुई चीनी",
+    "1/4 कप सूखा नारियल का बुरादा",
+    "2 बड़ा चम्मच चिरौंजी",
+    "2 बड़ा चम्मच काजू (बारीक कटे हुए)",
+    "2 बड़ा चम्मच बादाम (बारीक कटे हुए)",
+    "2 बड़ा चम्मच किशमिश (कटी हुई)",
+    "1/2 छोटा चम्मच हरी इलायची का ताज़ा पाउडर",
+    "1 चुटकी जायफल पाउडर (वैकल्पिक)",
+    "तलने के लिए तेल या देसी घी",
+    "किनारों को चिपकाने के लिए थोड़ा पानी"
+  ],
+  "ingredients": [
+    {
+      "category": "Flaky Gujiya Shell (Papad)",
+      "items": [
+        { "en": "2 cups Maida (all-purpose flour)", "hi": "2 कप मैदा" },
+        { "en": "1/4 cup Desi Ghee (moyan)", "hi": "1/4 कप देसी घी (मोयन)" },
+        { "en": "Water as needed (semi-firm dough)", "hi": "मध्यम सख्त आटा गूंथने अनुसार पानी" }
+      ]
+    },
+    {
+      "category": "Aromatic Sooji-Mawa Stuffing",
+      "items": [
+        { "en": "200g Mawa/Khoya (slow-roasted & cooled)", "hi": "200 ग्राम मावा (धीमी आंच पर भुना और ठंडा किया)" },
+        { "en": "1/4 cup Sooji (roasted in 1 tsp ghee)", "hi": "1/4 कप सूजी (घी में गुलाबी भुनी)" },
+        { "en": "3/4 cup Boora / Powdered sugar", "hi": "3/4 कप तगार / बूरा" },
+        { "en": "1/4 cup Desiccated coconut", "hi": "1/4 कप नारियल का बुरादा" },
+        { "en": "Chironji, Kaju, Badam & Kishmish", "hi": "चिरौंजी, काजू, बादाम और किशमिश" },
+        { "en": "1/2 tsp Cardamom powder & pinch Nutmeg", "hi": "1/2 छोटा चम्मच इलायची और जायफल" }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Step 1 - The Flaky Khasta Dough: In a wide mixing bowl, take sieved maida and pour 1/4 cup of melted warm desi ghee. Rub the ghee thoroughly into the flour using both hands for 3-4 minutes until every speck is coated. Test: Squeeze a handful of flour; it should hold a firm shape without crumbling. Add water gradually and knead into a semi-firm, smooth dough (firmer than roti dough, softer than poori dough). Cover with a damp cloth and rest for 25-30 minutes.",
+    "Step 2 - Roast Mawa: In a heavy non-stick pan, crumble the mawa and roast on low flame for 5 to 7 minutes until it turns light pinkish-golden and releases an irresistible nutty aroma. Transfer to a wide plate and let it cool completely.",
+    "Step 3 - Roast Sooji & Dry Fruits: In the same pan, add 1 tsp ghee and roast the fine semolina (sooji) on low flame until fragrant and pale golden. Stir in desiccated coconut, chironji, chopped almonds, cashews, and raisins for the last 1 minute to release their oils. Cool completely.",
+    "Step 4 - Mix the Filling: Combine cooled roasted mawa, cooled roasted sooji, cardamom powder, and nutmeg. Add the boora/powdered sugar ONLY when the mixture is 100% room temperature (warmth would melt the sugar and turn the stuffing soggy). Mix gently with your fingers to form a crumbly, aromatic filling.",
+    "Step 5 - Roll & Stuff: Knead the rested dough for 1 minute and divide into small lemon-sized balls. Keep them covered with a damp cloth. Roll each ball into a smooth 4-inch round disc with uniform thickness (neither too thin nor too thick).",
+    "Step 6 - Sealing the Edges: Lightly brush the perimeter with water using your fingertip. Place 1.5 tablespoons of filling on one half. Fold the other half over to form a semi-circle. Press the edges firmly with your fingers to push out any trapped air. Either pleat the edge with your thumb and index finger (traditional 'godna') or use a gujiya mould, trimming excess dough.",
+    "Step 7 - Frying Science (No-Blister Halwai Secret): Heat oil or ghee in a kadai on low flame. The oil must be ONLY lukewarm (130°C-140°C)—when you slide a gujiya in, only tiny gentle bubbles should appear around it. Never drop gujiyas in smoking hot oil, as high heat causes unsightly blisters and leaves the shell soft.",
+    "Step 8 - Slow Crisp Frying: Fry 5-6 gujiyas together on low flame for 12 to 14 minutes, turning gently every 2-3 minutes, until they transform into a uniform, pale golden, crisp, biscuit-like crust.",
+    "Step 9 - Cool & Store: Drain on a wire rack or kitchen paper. Let them cool completely before storing in an airtight jar. They remain crisp, aromatic, and flaky for over 3 weeks!"
+  ],
+  "instructions_hi": [
+    "स्टेप 1 - खस्ता मोयन वाला आटा: परात में मैदा लें और 1/4 कप पिघला हुआ गुनगुना देसी घी डालें। दोनों हाथों की हथेलियों से 3-4 मिनट तक अच्छी तरह मसलें ताकि मोयन मैदे के हर कण में समा जाए। जांच: मुट्ठी बांधने पर मैदा जुड़ना चाहिए। अब थोड़ा-थोड़ा पानी डालकर मध्यम सख्त आटा गूंथें। गीले कपड़े से ढककर 25-30 मिनट रेस्ट करने दें।",
+    "स्टेप 2 - मावा भूनना: भारी कड़ाही में मावा तोड़कर डालें और बिल्कुल धीमी आंच पर 5-7 मिनट तक भूनें जब तक कि वह हल्का गुलाबी न हो जाए और खुशबू न आने लगे। भूनने से मावे की नमी खत्म हो जाती है जिससे गुजिया हफ्तों तक खराब नहीं होती। एक प्लेट में निकालकर पूरी तरह ठंडा होने दें।",
+    "स्टेप 3 - सूजी और मेवे भूनना: उसी पैन में 1 छोटा चम्मच घी डालें और सूजी को धीमी आंच पर हल्का सुनहरा होने तक भूनें। अंत में नारियल का बुरादा, चिरौंजी, काजू, बादाम और किशमिश डालकर 1 मिनट चलाएं। पूरी तरह ठंडा करें।",
+    "स्टेप 4 - स्टफिंग मिलाना: ठंडे हुए मावे में ठंडी भुनी सूजी, इलायची पाउडर और जायफल मिलाएं। अब बूरा (तगार) या पिसी चीनी तभी मिलाएं जब पूरा मिश्रण बिल्कुल ठंडा हो जाए (गरम में चीनी मिलाने से वह पिघलकर गीली हो जाएगी)। हल्के हाथों से दानेदार भरावन तैयार करें।",
+    "स्टेप 5 - बेलना और भरना: आटे की छोटी-छोटी लोइयां बनाएं और गीले कपड़े से ढककर रखें। एक लोई लेकर 4 इंच की गोल पूरी बेलें (किनारे और बीच समान मोटाई के हों)।",
+    "स्टेप 6 - सील करने का तरीका: पूरी के किनारों पर उंगली से थोड़ा पानी लगाएं। बीच में 1.5 बड़ा चम्मच भरावन रखें। पूरी को मोड़कर अर्धचंद्राकार आकार दें। किनारों को उंगलियों से अच्छी तरह दबाएं ताकि अंदर की हवा निकल जाए। अब कांटे से, सांचे से या हाथ से गूथकर (गोदना) सुंदर किनारी बनाएं।",
+    "स्टेप 7 - तलने का हलवाई सीक्रेट (बिना फफोले): कड़ाही में घी या तेल बिल्कुल धीमी आंच पर हल्का गुनगुना गरम करें। गुजिया डालते समय केवल हल्के बुलबुले आने चाहिए। अगर तेल तेज गरम होगा तो गुजिया पर दाने/फफोले (blisters) पड़ जाएंगे और वह खस्ता नहीं बनेगी।",
+    "स्टेप 8 - धीमी आंच पर सेकना: धीमी आंच पर 12 से 14 मिनट तक उलट-पुलट करते हुए सेकें जब तक कि गुजिया बिस्कुट जैसी खस्ता और हल्की सुनहरी न हो जाए।",
+    "स्टेप 9 - ठंडा करें और स्टोर करें: जाली पर निकालें और पूरी तरह ठंडा होने दें। एयरटाइट डिब्बे में भरकर रखें; यह गुजिया 3-4 हफ्तों तक एकदम खस्ता और ताज़ा रहती है!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": {
+        "en": "Rub 1/4 cup melted ghee into 2 cups maida until it forms a tight fist. Knead semi-firm dough with water and rest 30 mins.",
+        "hi": "मैदे में घी का मोयन देकर मुट्ठी बांधने तक मसलें। पानी से मध्यम सख्त आटा गूंथकर 30 मिनट ढककर रखें।"
+      }
+    },
+    {
+      "step": 2,
+      "text": {
+        "en": "Roast mawa until fragrant and pale pink. In 1 tsp ghee, roast sooji, dry coconut, chironji, almonds, and cashews. Cool 100%.",
+        "hi": "मावा गुलाबी भूनें। सूजी, नारियल और मेवों को घी में भूनें। दोनों को पूरी तरह ठंडा होने दें।"
+      }
+    },
+    {
+      "step": 3,
+      "text": {
+        "en": "Combine cooled mawa, sooji, cardamom, and boora/powdered sugar into a crumbly, aromatic filling.",
+        "hi": "ठंडे मावे-सूजी में इलायची और बूरा (तगार) मिलाकर दानेदार भरावन तैयार करें।"
+      }
+    },
+    {
+      "step": 4,
+      "text": {
+        "en": "Roll 4-inch thin discs, brush edges with water, fill generously, seal tightly, and pleat or press with a mould.",
+        "hi": "पूरी बेलें, किनारों पर पानी लगाएं, मसाला भरकर अच्छी तरह सील करें और सांचे या हाथ से किनारी बनाएं।"
+      }
+    },
+    {
+      "step": 5,
+      "text": {
+        "en": "Fry in lukewarm low-heat oil/ghee for 12-14 minutes until pale golden and biscuit-crisp without blisters.",
+        "hi": "बिल्कुल हल्के गुनगुने तेल में धीमी आंच पर 12-14 मिनट खस्ता और हल्की सुनहरी होने तक तलें।"
+      }
+    }
+  ],
+  "chef_tips_en": [
+    "Lukewarm Oil Prevents Blisters: The number one reason gujiyas develop unsightly air bubbles and turn soft is dropping them in hot oil. The oil must be barely warm so the pastry crust slowly puffs and hardens into a flaky biscuit crust.",
+    "Wait for Total Cooling: Never add powdered sugar or boora to warm mawa or sooji. Warmth dissolves sugar into syrup, which makes the gujiya soggy from inside and can burst during frying.",
+    "Sooji Moisture Balance: Pure mawa fillings can become heavy and leak liquid fat; adding 1/4 cup of golden roasted sooji absorbs excess moisture and keeps the texture light, fluffy, and perfectly crumbly."
+  ],
+  "chef_tips_hi": [
+    "हल्के गरम तेल में तलें: गुजिया पर फफोले पड़ने का कारण तेज़ तेल होता है। तेल इतना हल्का गरम होना चाहिए कि गुजिया डालते ही तुरंत बुलबुले न फूटें, जिससे बाहर की परत एकदम चिकनी और खस्ता बनती है।",
+    "पूरी तरह ठंडा होने पर ही बूरा मिलाएं: मावा या सूजी के हल्का भी गरम होने पर चीनी न मिलाएं, वरना चीनी पिघल जाएगी और गुजिया तलते समय फट सकती है।",
+    "सूजी का कमाल: केवल मावा डालने से भरावन भारी हो जाता है; भुनी सूजी मिलाने से वह मावे की अतिरिक्त चिकनाई को सोख लेती है और स्टफिंग खिली-खिली व दानेदार बनती है।"
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "id": "authentic-punjabi-sarson-da-saag",
+  "title_en": "Authentic Punjabi Sarson Da Saag (Desi Ghee Tadka)",
+  "title_hi": "एकदम असली पंजाबी सरसों का साग (देसी घी तड़का)",
+  "title": {
+    "en": "Authentic Punjabi Sarson Da Saag (Desi Ghee Tadka)",
+    "hi": "एकदम असली पंजाबी सरसों का साग (देसी घी तड़का)"
+  },
+  "description_en": "The iconic crown jewel of Punjabi winter cuisine! Prepared with the classic combination of mustard greens (sarson), spinach (palak), and bathua, simmered with ginger, garlic, and chillies, thickened with makki ka atta (aalan), and tempered in pure desi ghee with golden garlic and onions.",
+  "description_hi": "सर्दियों की सबसे प्रसिद्ध और प्रिय पंजाबी थाली की शान! सरसों, पालक और बथुआ के परफेक्ट संगम से बना, मक्की के आटे (आलन) से घोंटा हुआ और शुद्ध देसी घी, लहसुन-प्याज के तड़के से तैयार सरसों का साग, जिसे मक्के की रोटी और सफेद मक्खन के साथ परोसा जाता है।",
+  "description": {
+    "en": "The iconic crown jewel of Punjabi winter cuisine! Prepared with the classic combination of mustard greens (sarson), spinach (palak), and bathua, simmered with ginger, garlic, and chillies, thickened with makki ka atta (aalan), and tempered in pure desi ghee with golden garlic and onions.",
+    "hi": "सर्दियों की सबसे प्रसिद्ध और प्रिय पंजाबी थाली की शान! सरसों, पालक और बथुआ के परफेक्ट संगम से बना, मक्की के आटे (आलन) से घोंटा हुआ और शुद्ध देसी घी, लहसुन-प्याज के तड़के से तैयार सरसों का साग, जिसे मक्के की रोटी और सफेद मक्खन के साथ परोसा जाता है।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Vegetarian",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "prep_time_en": "25 mins",
+  "prep_time_hi": "25 मिनट",
+  "cook_time_en": "35 mins",
+  "cook_time_hi": "35 मिनट",
+  "prepTime": "25 mins",
+  "cookTime": "35 mins",
+  "servings_en": "6 servings",
+  "servings_hi": "6 लोग",
+  "servings": 6,
+  "youtube_id": "VgF53Kqvjdg",
+  "youtubeId": "VgF53Kqvjdg",
+  "youtube_url": "https://youtu.be/VgF53Kqvjdg",
+  "image_url": "/static/images/VgF53Kqvjdg.jpg",
+  "tags": [
+    "Sarson Ka Saag",
+    "Punjabi",
+    "Winter Special",
+    "Main Course",
+    "Healthy Greens",
+    "Desi Ghee",
+    "Kabitaskitchen",
+    "Vegetarian"
+  ],
+  "ingredients_en": [
+    "500g Fresh Mustard Greens (Sarson ka Saag), thoroughly washed and chopped",
+    "500g Fresh Spinach (Palak), thoroughly washed and chopped",
+    "500g Fresh Bathua Greens, thoroughly washed and chopped",
+    "25 Garlic Cloves (15 for boiling + 10 for final tadka)",
+    "3 inches Fresh Ginger (2 inches chopped for boiling + 1 inch julienned for tadka)",
+    "5 Green Chillies, chopped",
+    "3 tbsp Maize Flour (Makki ka Atta) - the binding 'aalan'",
+    "1/4 cup Pure Desi Ghee (plus more for serving)",
+    "1 cup Onions, finely chopped (for tadka)",
+    "1 tsp Kashmiri Red Chilli Powder",
+    "1 cup Water (for boiling)",
+    "Salt to taste",
+    "Generous dollop of Homemade White Butter (Makhan) for topping"
+  ],
+  "ingredients_hi": [
+    "500 ग्राम ताजी सरसों का साग (अच्छी तरह धुला व कटा)",
+    "500 ग्राम ताजी पालक (धुली व कटी)",
+    "500 ग्राम ताजा बथुआ (धुला व कटा)",
+    "25 लहसुन की कलियां (15 उबालने हेतु + 10 तड़के हेतु)",
+    "3 इंच ताजा अदरक (2 इंच उबालने हेतु + 1 इंच तड़के हेतु)",
+    "5 हरी मिर्च (कटी हुई)",
+    "3 बड़े चम्मच मक्की का आटा (साग को घोंटने/आलन हेतु)",
+    "1/4 कप शुद्ध देसी घी (तड़के हेतु)",
+    "1 कप प्याज (बारीक कटा)",
+    "1 छोटा चम्मच कश्मीरी लाल मिर्च पाउडर",
+    "1 कप पानी (उबालने हेतु)",
+    "नमक स्वादानुसार",
+    "सफेद मक्खन (परोसने हेतु ऊपर से डालने के लिए)"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Trio of Winter Greens (तीनों साग व उबालने की सामग्री)",
+      "category_hi": "तीनों साग व उबालने की सामग्री",
+      "items": [
+        {
+          "name_en": "Sarson ka Saag (Mustard Greens)",
+          "name_hi": "सरसों का साग",
+          "amount": "500g"
+        },
+        {
+          "name_en": "Palak (Spinach)",
+          "name_hi": "पालक",
+          "amount": "500g"
+        },
+        {
+          "name_en": "Bathua Greens",
+          "name_hi": "बथुआ",
+          "amount": "500g"
+        },
+        {
+          "name_en": "Garlic Cloves (for boiling)",
+          "name_hi": "लहसुन (उबालने हेतु)",
+          "amount": "15 cloves"
+        },
+        {
+          "name_en": "Ginger & Green Chillies",
+          "name_hi": "अदरक व हरी मिर्च",
+          "amount": "2 inch ginger + 5 chillies"
+        },
+        {
+          "name_en": "Water & Salt",
+          "name_hi": "पानी व नमक",
+          "amount": "1 cup water + 1 tsp salt"
+        }
+      ]
+    },
+    {
+      "category_en": "The Binding 'Aalan' (आलन - मक्की का आटा)",
+      "category_hi": "आलन - मक्की का आटा",
+      "items": [
+        {
+          "name_en": "Maize Flour (Makki ka Atta)",
+          "name_hi": "मक्की का आटा",
+          "amount": "3 tbsp"
+        },
+        {
+          "name_en": "Warm Water (for slurry)",
+          "name_hi": "गुनगुना पानी",
+          "amount": "1/4 cup"
+        }
+      ]
+    },
+    {
+      "category_en": "Punjabi Desi Ghee Tadka (देसी घी का पंजाबी तड़का)",
+      "category_hi": "देसी घी का पंजाबी तड़का",
+      "items": [
+        {
+          "name_en": "Pure Desi Ghee",
+          "name_hi": "शुद्ध देसी घी",
+          "amount": "1/4 cup"
+        },
+        {
+          "name_en": "Chopped Garlic (for tadka)",
+          "name_hi": "लहसुन (तड़के हेतु)",
+          "amount": "10 cloves"
+        },
+        {
+          "name_en": "Ginger Juliennes",
+          "name_hi": "अदरक लच्छे",
+          "amount": "1 inch"
+        },
+        {
+          "name_en": "Chopped Onions",
+          "name_hi": "बारीक कटा प्याज",
+          "amount": "1 cup"
+        },
+        {
+          "name_en": "Kashmiri Red Chilli Powder",
+          "name_hi": "कश्मीरी लाल मिर्च",
+          "amount": "1 tsp"
+        },
+        {
+          "name_en": "Homemade White Butter (Makhan)",
+          "name_hi": "सफेद मक्खन",
+          "amount": "Generous dollop"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Clean and Chop Greens: Thoroughly pluck and wash 500g sarson, 500g palak, and 500g bathua in multiple changes of fresh water to remove any traces of sand and soil. Drain completely and roughly chop.",
+    "Pressure Cook with Aromatics: Transfer the chopped greens into a pressure cooker. Add 15 garlic cloves, 2 inches chopped ginger, 5 green chillies, 1 tsp salt, and 1 cup water. Close the lid and cook on medium flame for 4 to 5 whistles until the greens are tender and dark green.",
+    "Mash to Rustic Texture: Let the steam release naturally. Open cooker. Using a traditional wooden mathni (churner) or potato masher, mash the cooked greens vigorously against the side of the pot into a coarse, rustic puree (do not use high-speed mixer blender).",
+    "Whisk in Makki ka Atta (Aalan): Dissolve 3 tbsp maize flour (makki ka atta) in 1/4 cup warm water to make a smooth lump-free slurry. Pour this into the simmering mashed saag while continuously stirring with the mathni.",
+    "Simmer to Develop Creaminess: Place the cooker over low heat and simmer for 12-15 minutes, stirring frequently so the maize flour cooks completely, eliminates raw taste, and thickens the saag into a silky, luscious consistency.",
+    "Sizzle Desi Ghee Tadka: In a separate pan or kadai, heat 1/4 cup pure desi ghee. Add 10 finely chopped garlic cloves and 1 inch julienned ginger; sauté until fragrant. Add 1 cup finely chopped onions and sauté over medium heat until golden brown. Stir in 1 tsp Kashmiri red chilli powder.",
+    "Combine & Serve with Makki ki Roti: Pour the bubbling hot ghee tadka over the simmered saag (or mix a portion of saag directly into the tadka pan). Stir well and cook for 2 minutes. Serve steaming hot in traditional bowls topped with a huge dollop of homemade white butter (makhan), accompanied by hot Makki ki Roti and jaggery (gud)!"
+  ],
+  "instructions_hi": [
+    "साग की सफाई व कटाई: 500 ग्राम सरसों, 500 ग्राम पालक और 500 ग्राम बथुआ को साफ करके 3-4 बार साफ पानी से धोएं ताकि सारी मिट्टी निकल जाए। पानी सुखाकर मोटा-मोटा काट लें।",
+    "अदरक-लहसुन संग कुकर में उबालना: कटे हुए तीनों साग को कुकर में डालें। 15 लहसुन की कलियां, 2 इंच अदरक, 5 कटी हरी मिर्च, 1 छोटा चम्मच नमक और 1 कप पानी डालें। ढक्कन बंद करके मध्यम आंच पर 4 से 5 सीटी लगाएं ताकि साग अच्छे से गल जाए।",
+    "मथनी से घोंटना: कुकर की भाप अपने आप निकलने दें। ढक्कन खोलें और लकड़ी की मथनी (या आलू मैशर) से साग को अच्छी तरह घोंटें। इसे मिक्सी में ज्यादा बारीक न पीसें, दरदरा देसी टेक्सचर ही असली स्वाद देता है।",
+    "मक्की का आटा (आलन) मिलाना: 1/4 कप गुनगुने पानी में 3 बड़े चम्मच मक्की का आटा घोलकर चिकना पेस्ट बनाएं। इसे पकते हुए साग में धीरे-धीरे डालें और मथनी से लगातार चलाते रहें ताकि कोई गांठ न पड़े।",
+    "धीमी आंच पर आलन पकाना: साग को धीमी आंच पर 12-15 मिनट तक लगातार चलाते हुए पकाएं ताकि मक्की का आटा पूरी तरह पक जाए और साग एकदम मखमली, गाढ़ा और चिकना हो जाए।",
+    "देसी घी का तड़का लगाना: एक कड़ाही में 1/4 कप शुद्ध देसी घी गरम करें। 10 बारीक कटी लहसुन की कलियां और 1 इंच अदरक के लच्छे डालकर भूनें। 1 कप बारीक कटा प्याज डालें और बढ़िया सुनहरा भूरा होने तक भूनें। 1 छोटा चम्मच कश्मीरी लाल मिर्च डालें।",
+    "तड़का मिलाना व परोसना: गरमा-गरम महकते हुए तड़के को साग में मिलाएं और 2 मिनट धीमी आंच पर पकने दें। ऊपर से घर का बना ढेर सारा सफेद मक्खन (मक्खन) डालें और गरमा-गरम मक्के की रोटी, गुड़ और मूली के साथ परोसें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Wash & Rough Chop Greens",
+      "title_hi": "तीनों साग को धोना व काटना",
+      "instruction_en": "Wash sarson, palak, and bathua thoroughly in water to remove all dirt. Roughly chop all leaves.",
+      "instruction_hi": "सरसों, पालक और बथुआ को अच्छी तरह 3-4 बार धोकर साफ करें और मोटा-मोटा काट लें।"
+    },
+    {
+      "step": 2,
+      "title_en": "Pressure Cook with Aromatics",
+      "title_hi": "लहसुन, अदरक व मिर्च के साथ उबालना",
+      "instruction_en": "Pressure cook greens with 15 garlic cloves, ginger, chillies, salt, and 1 cup water for 4-5 whistles.",
+      "instruction_hi": "कुकर में साग, लहसुन, अदरक, हरी मिर्च, नमक और 1 कप पानी डालकर 4-5 सीटी लगाएं।"
+    },
+    {
+      "step": 3,
+      "title_en": "Traditional Mathni Mashing",
+      "title_hi": "मथनी से दरदरा घोंटना",
+      "instruction_en": "Mash cooked greens against cooker walls using a wooden churner (mathni) into a coarse rustic texture.",
+      "instruction_hi": "लकड़ी की मथनी से साग को दबा-दबाकर घोंटें ताकि वह दरदरा और पारंपरिक बना रहे।"
+    },
+    {
+      "step": 4,
+      "title_en": "Whisk in Makki Slurry (Aalan)",
+      "title_hi": "मक्की के आटे का आलन लगाना",
+      "instruction_en": "Whisk 3 tbsp maize flour in warm water and stir continuously into the simmering saag without lumps.",
+      "instruction_hi": "मक्की के आटे को पानी में घोलकर पकते हुए साग में धीरे-धीरे लगातार चलाते हुए मिलाएं।"
+    },
+    {
+      "step": 5,
+      "title_en": "Slow Simmer for Creamy Body",
+      "title_hi": "धीमी आंच पर आलन पकाना",
+      "instruction_en": "Cook saag on low flame for 12-15 minutes stirring often until the maize flour cooks and thickens.",
+      "instruction_hi": "धीमी आंच पर 12-15 मिनट पकाएं ताकि मक्की का आटा पककर साग को गाढ़ा और मखमली बना दे।"
+    },
+    {
+      "step": 6,
+      "title_en": "Sizzle Golden Desi Ghee Tadka",
+      "title_hi": "देसी घी, लहसुन-प्याज का तड़का",
+      "instruction_en": "Heat desi ghee in a pan; brown garlic, ginger, and onions. Stir in Kashmiri red chilli powder.",
+      "instruction_hi": "देसी घी में लहसुन, अदरक और प्याज को सुनहरा भूरा भूनें और कश्मीरी मिर्च डालें।"
+    },
+    {
+      "step": 7,
+      "title_en": "Combine & Crown with White Butter",
+      "title_hi": "सफेद मक्खन व मक्के की रोटी संग परोसना",
+      "instruction_en": "Mix ghee tadka into saag. Simmer 2 minutes. Top with huge dollop of white butter and serve hot with Makki ki Roti!",
+      "instruction_hi": "तड़के को साग में मिलाएं, 2 मिनट पकाएं और ऊपर से ताजा सफेद मक्खन रखकर मक्के की रोटी संग परोसें!"
+    }
+  ],
+  "chef_tips_en": [
+    "The 1:1:1 Greens Ratio: Equal parts of Sarson (Mustard), Palak (Spinach), and Bathua is the golden rule. Spinach balances mustard's sharp bitterness while Bathua provides an earthy, velvety richness.",
+    "Aalan (Makki ka Atta) is Non-Negotiable: Maize flour thickens the water released by greens, binds the fibers, and imparts a delicious toasted corn flavor that defines true Punjabi saag.",
+    "Mash, Never Puree in High-Speed Mixer: Blending greens in a blender damages cell walls, making saag slimy and pasty. Using a wooden mathni preserves that coarse, authentic dhaba texture."
+  ],
+  "chef_tips_hi": [
+    "1:1:1 तीनों साग का स्वर्णिम अनुपात: सरसों, पालक और बथुआ बराबर मात्रा में लेने से सरसों का कड़वापन खत्म हो जाता है और साग बेहद स्वादिष्ट व मखमली बनता है।",
+    "मक्की का आलन जरूरी है: मक्की का आटा साग के पानी को बांधता है और उसमें सोंधापन लाता है। बिना आलन के साग का पानी और पत्ते अलग-अलग तैरते रहते हैं।",
+    "मिक्सी में बारीक न पीसें: साग को कभी भी मिक्सी में तेज रफ्तार पर न पीसें; ऐसा करने से वह चिपचिपा हो जाता है। लकड़ी की मथनी से घोंटा हुआ साग ही असली स्वाद देता है।"
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "id": "high-protein-masoor-dal-paneer-cheela",
+  "title_en": "Paneer-Stuffed Masoor Dal Cheela (High-Protein Breakfast)",
+  "title_hi": "पनीर स्टफ्ड मसूर दाल चीला (हाई प्रोटीन व लो कार्ब नाश्ता)",
+  "title": {
+    "en": "Paneer-Stuffed Masoor Dal Cheela (High-Protein Breakfast)",
+    "hi": "पनीर स्टफ्ड मसूर दाल चीला (हाई प्रोटीन व लो कार्ब नाश्ता)"
+  },
+  "description_en": "A nutritious, gluten-free, high-protein, low-carb breakfast crepe made from soaked red lentils (dhuli masoor dal) blended with ginger, garlic, and green chillies. Cooked to crisp golden perfection on a tawa and stuffed with a colorful, fresh filling of grated paneer, spinach, crunchy carrots, and onions.",
+  "description_hi": "वजन घटाने और स्वस्थ जीवनशैली के लिए उत्तम हाई-प्रोटीन और लो-कार्ब नाश्ता। भीगी हुई मसूर दाल, अदरक, लहसुन और हरी मिर्च के चिकने घोल से बना कुरकुरा चीला, जिसके अंदर कद्दूकस पनीर, ताजी पालक, गाजर और प्याज की स्वादिष्ट स्टफिंग भरी गई है।",
+  "description": {
+    "en": "A nutritious, gluten-free, high-protein, low-carb breakfast crepe made from soaked red lentils (dhuli masoor dal) blended with ginger, garlic, and green chillies. Cooked to crisp golden perfection on a tawa and stuffed with a colorful, fresh filling of grated paneer, spinach, crunchy carrots, and onions.",
+    "hi": "वजन घटाने और स्वस्थ जीवनशैली के लिए उत्तम हाई-प्रोटीन और लो-कार्ब नाश्ता। भीगी हुई मसूर दाल, अदरक, लहसुन और हरी मिर्च के चिकने घोल से बना कुरकुरा चीला, जिसके अंदर कद्दूकस पनीर, ताजी पालक, गाजर और प्याज की स्वादिष्ट स्टफिंग भरी गई है।"
+  },
+  "category": "Breakfast",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cook_time_en": "15 mins",
+  "cook_time_hi": "15 मिनट",
+  "prepTime": "15 mins",
+  "cookTime": "15 mins",
+  "servings_en": "5-6 cheelas (3-4 servings)",
+  "servings_hi": "5-6 चीले (3-4 लोग)",
+  "servings": "5-6 cheelas",
+  "youtube_id": "QB2KDtoN4-s",
+  "youtubeId": "QB2KDtoN4-s",
+  "youtube_url": "https://youtu.be/QB2KDtoN4-s",
+  "image_url": "https://img.youtube.com/vi/QB2KDtoN4-s/maxresdefault.jpg",
+  "tags": [
+    "masoor dal cheela",
+    "high protein breakfast",
+    "weight loss recipe",
+    "low carb",
+    "paneer cheela",
+    "kabitas kitchen",
+    "healthy breakfast",
+    "gluten free"
+  ],
+  "ingredients_en": [
+    "1 cup Red Lentils (Dhuli Masoor Dal), washed and soaked for 2-3 hours",
+    "100g Fresh Paneer, grated or crumbled",
+    "1/2 cup Fresh Spinach Leaves (Palak), finely chopped",
+    "1/3 cup Onion, finely chopped",
+    "1/3 cup Carrot, finely grated",
+    "1 tbsp Garlic Cloves (peeled)",
+    "2 inch Fresh Ginger",
+    "3 Fresh Green Chillies",
+    "1/2 tsp Turmeric Powder (Haldi)",
+    "1/2 tsp Coriander Powder (Dhaniya Powder)",
+    "1/2 tsp Roasted Cumin Powder (Bhuna Jeera)",
+    "1 tsp Salt (or to taste)",
+    "2 tbsp Fresh Coriander Leaves, finely chopped",
+    "1/2 tsp Chaat Masala or Black Pepper (for paneer stuffing)",
+    "1-2 tbsp Cooking Oil or Desi Ghee (for shallow pan searing)"
+  ],
+  "ingredients_hi": [
+    "1 कप धुली मसूर दाल (धोकर 2-3 घंटे पानी में भिगोई हुई)",
+    "100 ग्राम ताजा पनीर (कद्दूकस किया हुआ)",
+    "1/2 कप ताजी पालक (एकदम बारीक कटी हुई)",
+    "1/3 कप प्याज (बारीक कटा हुआ)",
+    "1/3 कप गाजर (बारीक कद्दूकस की हुई)",
+    "1 बड़ा चम्मच लहसुन की कलियां",
+    "2 इंच ताजा अदरक",
+    "3 हरी मिर्च",
+    "1/2 छोटा चम्मच हल्दी पाउडर",
+    "1/2 छोटा चम्मच धनिया पाउडर",
+    "1/2 छोटा चम्मच भुना जीरा पाउडर",
+    "1 छोटा चम्मच नमक (स्वादानुसार)",
+    "2 बड़े चम्मच ताजा हरा धनिया (बारीक कटा)",
+    "1/2 छोटा चम्मच चाट मसाला या काली मिर्च (पनीर स्टफिंग के लिए)",
+    "1-2 बड़े चम्मच कुकिंग ऑयल या देसी घी (चीला सेकने के लिए)"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Masoor Dal Batter Base (दाल बैटर सामग्री)",
+      "category_hi": "मसूर दाल बैटर सामग्री",
+      "items": [
+        {
+          "name_en": "Soaked Red Lentils (Masoor Dal)",
+          "name_hi": "भीगी मसूर दाल",
+          "amount": "1 cup (2-3 घंटे भीगी)"
+        },
+        {
+          "name_en": "Fresh Ginger, Garlic & Chillies",
+          "name_hi": "अदरक, लहसुन व हरी मिर्च",
+          "amount": "2 inch ginger + 1 tbsp garlic + 3 chillies"
+        },
+        {
+          "name_en": "Turmeric, Coriander & Cumin Powder",
+          "name_hi": "हल्दी, धनिया व जीरा पाउडर",
+          "amount": "1/2 tsp each"
+        },
+        {
+          "name_en": "Salt & Water",
+          "name_hi": "नमक व पानी",
+          "amount": "1 tsp salt + minimal water to grind"
+        }
+      ]
+    },
+    {
+      "category_en": "Nutritious Veggie-Paneer Stuffing (पनीर व वेजी स्टफिंग)",
+      "category_hi": "पनीर और वेजी स्टफिंग",
+      "items": [
+        {
+          "name_en": "Grated Paneer",
+          "name_hi": "कद्दूकस पनीर",
+          "amount": "100g"
+        },
+        {
+          "name_en": "Finely Chopped Spinach (Palak)",
+          "name_hi": "बारीक कटी पालक",
+          "amount": "1/2 cup"
+        },
+        {
+          "name_en": "Grated Carrot & Chopped Onion",
+          "name_hi": "कद्दूकस गाजर व प्याज",
+          "amount": "1/3 cup each"
+        },
+        {
+          "name_en": "Fresh Coriander & Chaat Masala",
+          "name_hi": "हरा धनिया व चाट मसाला",
+          "amount": "2 tbsp coriander + 1/2 tsp chaat masala"
+        }
+      ]
+    },
+    {
+      "category_en": "Cooking Fat (सेकने के लिए)",
+      "category_hi": "सेकने के लिए घी/तेल",
+      "items": [
+        {
+          "name_en": "Cooking Oil or Desi Ghee",
+          "name_hi": "तेल या देसी घी",
+          "amount": "1-2 tbsp (तवे पर सेकने हेतु)"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Soak Masoor Dal: Thoroughly rinse 1 cup red lentils (dhuli masoor dal) 2-3 times under running water. Soak in ample water for 2 to 3 hours until plump and easily breakable between fingers. Drain excess water completely.",
+    "Grind Batter: In a high-speed blender jar, add the soaked drained lentils, 2 inches ginger, 1 tbsp garlic cloves, and 3 green chillies. Blend with just 3-4 tablespoons of water into a thick, ultra-smooth, silky paste (avoid adding too much water).",
+    "Season the Batter: Transfer the pureed batter to a mixing bowl. Whisk in 1/2 tsp turmeric powder, 1/2 tsp coriander powder, 1/2 tsp cumin powder, and 1 tsp salt. Mix thoroughly. The consistency should be like a smooth, ribbon-flowing dosa/crepe batter.",
+    "Prepare the Paneer-Veggie Stuffing: In a separate bowl, toss together 100g grated paneer, 1/2 cup finely chopped fresh spinach, 1/3 cup chopped onions, 1/3 cup grated carrots, 2 tbsp chopped coriander leaves, and 1/2 tsp chaat masala (or black pepper). Mix lightly so the vegetables stay crunchy and fresh.",
+    "Heat the Tawa: Heat a flat non-stick or cast-iron griddle (tawa) on medium flame. Lightly grease with a few drops of oil and wipe clean with a paper towel. (If using iron tawa, sprinkle water drops to check heat).",
+    "Spread the Cheela: Pour a ladleful of the masoor dal batter in the center of the warm tawa. Using the back of the ladle in circular spiral motions from center outwards, spread it evenly into a thin, round crepe.",
+    "Cook to Crisp Golden: Drizzle a few drops of oil or ghee along the edges and top. Cook on medium flame for 2-3 minutes until the base turns crisp and golden-brown and the edges lift naturally. Flip and cook the other side for 1 minute.",
+    "Stuff and Fold: Flip back to the crisp side. Spoon 3-4 tablespoons of the fresh paneer-veggie stuffing across the center. Fold both sides inwards into a neat wrap or roll. Press gently with a spatula on the warm tawa for 30 seconds so the paneer warms and binds.",
+    "Serve Warm: Remove from tawa, cut diagonally in half, and serve hot with fresh mint-coriander chutney and garlic yogurt dip for a wholesome, high-protein powerhouse meal!"
+  ],
+  "instructions_hi": [
+    "दाल भिगोएं: 1 कप धुली मसूर दाल को 2-3 बार पानी से अच्छी तरह धो लें। पर्याप्त पानी में 2 से 3 घंटे के लिए भिगो दें ताकि दाल फूल जाए। छलनी में छानकर पूरा पानी निकाल लें।",
+    "बारीक पेस्ट पीसें: मिक्सी के जार में भीगी दाल, 2 इंच अदरक, 1 बड़ा चम्मच लहसुन और 3 हरी मिर्च डालें। केवल 3-4 चम्मच पानी डालकर एकदम चिकना और गाढ़ा पेस्ट पीस लें (ज्यादा पानी न डालें)।",
+    "बैटर में मसाले मिलाएं: पिसी हुई दाल को एक बड़े कटोरे में निकालें। इसमें 1/2 चम्मच हल्दी, 1/2 चम्मच धनिया पाउडर, 1/2 चम्मच जीरा पाउडर और 1 चम्मच नमक डालकर 1 मिनट अच्छी तरह फेंटें। घोल डोसा जैसा चिकना और बहने वाला होना चाहिए।",
+    "पनीर-वेजी स्टफिंग तैयार करें: एक बाउल में 100 ग्राम कद्दूकस पनीर, 1/2 कप बारीक कटी पालक, 1/3 कप बारीक कटा प्याज, 1/3 कप कद्दूकस गाजर, 2 चम्मच हरा धनिया और 1/2 चम्मच चाट मसाला डालकर हल्के हाथों से मिलाएं।",
+    "तवा गरम करें: नॉन-स्टिक या डोसा तवे को मध्यम आंच पर गरम करें। उसपर 2 बूंद तेल लगाकर टिशू पेपर से पोंछ लें।",
+    "चीला फैलाएं: तवे के बीच में एक बड़ा चमचा दाल का बैटर डालें और चमचे के पिछले हिस्से से गोल घुमाते हुए पतला चीला फैलाएं।",
+    "किनारों पर तेल डालकर सेकें: किनारों पर और ऊपर हल्का सा तेल/घी डालें। मध्यम आंच पर 2-3 मिनट पकने दें जब तक कि नीचे से चीला कुरकुरा और सुनहरा न हो जाए। पलटकर दूसरी तरफ भी 1 मिनट सेंक लें।",
+    "पनीर स्टफ करें और रोल करें: चीले को दोबारा पलटें। बीच में 3-4 चम्मच तैयार पनीर और सब्जियों की स्टफिंग रखें। दोनों तरफ से मोड़कर रोल का आकार दें और 30 सेकंड तवे पर हल्का दबाएं ताकि पनीर सेट हो जाए।",
+    "परोसें: तवे से उतारकर बीच से तिरछा काटें और गरमा-गरम तीखी हरी चटनी और दही के साथ परोसें। यह संपूर्ण प्रोटीन से भरपूर वजन घटाने वाला नाश्ता है!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Soaking & Grinding Lentils",
+      "title_hi": "दाल भिगोना व पीसना",
+      "instruction_en": "Soak 1 cup red lentils for 2-3 hours. Blend with ginger, garlic, and chillies using minimal water into a smooth paste.",
+      "instruction_hi": "मसूर दाल को 3 घंटे भिगोएं और अदरक, लहसुन व हरी मिर्च के साथ कम पानी डालकर चिकना पीस लें।"
+    },
+    {
+      "step": 2,
+      "title_en": "Seasoning the Batter",
+      "title_hi": "घोल में मसाले मिलाना",
+      "instruction_en": "Whisk in turmeric, coriander powder, cumin powder, and salt. Batter should be ribbon-flowing like dosa batter.",
+      "instruction_hi": "बैटर में हल्दी, धनिया, जीरा पाउडर और नमक मिलाकर चिकना डोसा घोल तैयार करें।"
+    },
+    {
+      "step": 3,
+      "title_en": "Mixing Paneer-Veggie Filling",
+      "title_hi": "पनीर-वेजी स्टफिंग बनाना",
+      "instruction_en": "Toss grated paneer, finely chopped spinach, grated carrots, onions, coriander, and chaat masala together in a bowl.",
+      "instruction_hi": "कद्दूकस पनीर, बारीक कटी पालक, गाजर, प्याज, धनिया और चाट मसाले को एक साथ मिला लें।"
+    },
+    {
+      "step": 4,
+      "title_en": "Spreading on Hot Tawa",
+      "title_hi": "तवे पर चीला फैलाना",
+      "instruction_en": "Pour a ladle of batter onto a lightly greased warm tawa and spread outwards in circular spirals into a thin crepe.",
+      "instruction_hi": "हल्के चिकने तवे पर चमचे से बैटर डालकर गोल घुमाते हुए पतला चीला फैलाएं।"
+    },
+    {
+      "step": 5,
+      "title_en": "Crisping & Searing Both Sides",
+      "title_hi": "कुरकुरा सेकना",
+      "instruction_en": "Drizzle drops of oil; cook on medium heat until golden and edges lift. Flip and sear the other side for 1 minute.",
+      "instruction_hi": "हल्का तेल डालकर मध्यम आंच पर सुनहरा सेकें, पलटकर दूसरी तरफ भी 1 मिनट सेंक लें।"
+    },
+    {
+      "step": 6,
+      "title_en": "Stuffing, Rolling & Serving",
+      "title_hi": "स्टफिंग भरना और रोल करना",
+      "instruction_en": "Place 3-4 tbsp paneer-spinach filling in the center, fold into a wrap, press for 30 seconds, and serve with green chutney.",
+      "instruction_hi": "बीच में पनीर-पालक स्टफिंग रखें, दोनों तरफ से रोल करें और हरी चटनी के साथ गरमा-गरम परोसें।"
+    }
+  ],
+  "chef_tips_en": [
+    "Minimal Water for Grinding: Red lentils (masoor dal) soften very quickly and absorb plenty of water. Grind with only 3-4 tbsp of water to prevent an overly runny batter that won't crisp up.",
+    "Raw Paneer vs Cooked: Keep the paneer, spinach, and carrot stuffing raw and toss with spices. When placed on the hot, freshly cooked cheela and folded, the residual steam gently warms the paneer and wilts the spinach while keeping the carrot and onion refreshingly crunchy.",
+    "Weight Loss & Diabetic Friendly: Red lentils provide abundant dietary fiber and complex carbohydrates, while paneer supplies quality dairy protein and satiety, preventing blood sugar spikes throughout the day.",
+    "Tawa Temperature Management: Always wipe the tawa with a damp paper towel between making each cheela to bring down excess heat, ensuring the next ladle of batter spreads evenly without sticking to the spoon."
+  ],
+  "chef_tips_hi": [
+    "कम पानी में पीसने का नियम: मसूर दाल बहुत जल्दी गलती है। पीसते समय केवल 3-4 चम्मच पानी ही डालें, वरना बैटर पतला हो जाएगा और चीला तवे पर चिपक जाएगा और क्रिस्पी नहीं बनेगा।",
+    "स्टफिंग को पहले पकाने की जरूरत नहीं: पनीर, पालक और गाजर की स्टफिंग को कच्चा ही रखें। गरम चीले के अंदर लपेटने पर भाप से पनीर मुलायम हो जाता है और सब्जियां कुरकुरी व ताजी बनी रहती हैं।",
+    "वजन घटाने व डायबिटीज के लिए वरदान: मसूर दाल में प्रचुर फाइबर और प्रोटीन होता है, और पनीर से लंबे समय तक भूख नहीं लगती। यह नाश्ता ऊर्जा से भरपूर और लो-कार्ब है।",
+    "तवे का तापमान नियंत्रण: हर चीला बनाने के बाद तवे पर हल्का सा पानी छिड़क कर टिशू से पोंछ लें ताकि तापमान नियंत्रित रहे और अगला चीला चमचे पर चिपके बिना आसानी से फैल सके।"
+  ]
+}

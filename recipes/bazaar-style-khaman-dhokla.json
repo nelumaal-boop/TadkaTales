@@ -1,0 +1,256 @@
+{
+  "id": "bazaar-style-khaman-dhokla",
+  "title_en": "Market-Style Soft & Spongy Khaman Dhokla",
+  "title_hi": "बाजार जैसा सॉफ्ट और जालीदार खमन ढोकला",
+  "title": {
+    "en": "Market-Style Soft & Spongy Khaman Dhokla",
+    "hi": "बाजार जैसा सॉफ्ट और जालीदार खमन ढोकला"
+  },
+  "description_en": "The definitive scientific recipe for authentic Gujarati nylon Khaman Dhokla: super soft, aerated, and juicy. Features fine gram flour (besan) leavened with citric acid and baking soda for an even honeycomb crumb, steamed to cloud-like fluffiness, and soaked in a sweet-tangy mustard and green chilli syrup.",
+  "description_hi": "हलवाई और बाजार जैसा 100% परफेक्ट, रुई जैसा सॉफ्ट, जालीदार और रसीला खमन ढोकला। बेसन, सिट्रिक एसिड और बेकिंग सोडा की सटीक केमिस्ट्री से तैयार जालीदार ढोकला, जिसके ऊपर राई, कढ़ी पत्ता, हरी मिर्च और खट्टे-मीठे रसीले तड़के के पानी की भरपूर सोकिंग की गई है।",
+  "description": {
+    "en": "The definitive scientific recipe for authentic Gujarati nylon Khaman Dhokla: super soft, aerated, and juicy. Features fine gram flour (besan) leavened with citric acid and baking soda for an even honeycomb crumb, steamed to cloud-like fluffiness, and soaked in a sweet-tangy mustard and green chilli syrup.",
+    "hi": "हलवाई और बाजार जैसा 100% परफेक्ट, रुई जैसा सॉफ्ट, जालीदार और रसीला खमन ढोकला। बेसन, सिट्रिक एसिड और बेकिंग सोडा की सटीक केमिस्ट्री से तैयार जालीदार ढोकला, जिसके ऊपर राई, कढ़ी पत्ता, हरी मिर्च और खट्टे-मीठे रसीले तड़के के पानी की भरपूर सोकिंग की गई है।"
+  },
+  "category": "Snack",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cook_time_en": "20 mins",
+  "cook_time_hi": "20 मिनट",
+  "prepTime": "15 mins",
+  "cookTime": "20 mins",
+  "servings_en": "16-20 pieces (4-5 servings)",
+  "servings_hi": "16-20 टुकड़े (4-5 लोग)",
+  "servings": "16-20 pieces",
+  "youtube_id": "tlDhbsO-kGc",
+  "youtubeId": "tlDhbsO-kGc",
+  "youtube_url": "https://youtu.be/tlDhbsO-kGc",
+  "image_url": "https://img.youtube.com/vi/tlDhbsO-kGc/hqdefault.jpg",
+  "tags": [
+    "khaman dhokla",
+    "gujarati snack",
+    "steamed snack",
+    "bharatzkitchen",
+    "instant dhokla",
+    "spongy dhokla",
+    "tea-time snack",
+    "healthy breakfast"
+  ],
+  "ingredients_en": [
+    "2 cups Gram Flour (Besan, approx. 240g), sifted",
+    "1.5 cups Water (approx. 375ml)",
+    "3.5 tbsp Sugar (Chini, for balanced sweet batter)",
+    "1 tsp Citric Acid (Nimbu ke Phool / Tatri - secret to commercial sponge)",
+    "1 tsp Salt (or to taste)",
+    "2 tbsp Refined Cooking Oil (keeps crumb moist)",
+    "2 pinches Turmeric Powder (Haldi - DO NOT use more to avoid red spots)",
+    "2 pinches Asafoetida (Hing)",
+    "1 tsp Ginger-Green Chilli Paste",
+    "1 tsp Baking Soda (or 2 sachets green Eno fruit salt)",
+    "2 tbsp Water (to activate baking soda)",
+    "2 tbsp Refined Oil (for tempering / tadka)",
+    "1 tsp Mustard Seeds (Rai)",
+    "1/4 tsp Asafoetida (Hing, for tadka)",
+    "7-8 Fresh Green Chillies, slit lengthwise",
+    "15-20 Fresh Curry Leaves (Kadi Patta)",
+    "1 cup Water (250ml, for tadka syrup)",
+    "4 tbsp Sugar (for sweet tadka water)",
+    "1/2 tsp Citric Acid (or 2 tbsp Fresh Lemon Juice)",
+    "1/2 tsp Salt (for tadka syrup)",
+    "2 tbsp Fresh Coriander Leaves and Fresh Grated Coconut (for garnish)"
+  ],
+  "ingredients_hi": [
+    "2 कप बेसन (लगभग 240 ग्राम, छलनी से छाना हुआ)",
+    "1.5 कप पानी (लगभग 375 मिली)",
+    "3.5 बड़े चम्मच चीनी (घोल में मिठास के लिए)",
+    "1 छोटा चम्मच सिट्रिक एसिड (नींबू के फूल / टाटरी - हलवाई जैसी जाली के लिए)",
+    "1 छोटा चम्मच नमक (स्वादानुसार)",
+    "2 बड़े चम्मच रिफाइंड तेल (ढोकले को अंदर से नम रखने के लिए)",
+    "2 चुटकी हल्दी पाउडर (ज्यादा न डालें, वरना लाल धब्बे पड़ जाएंगे)",
+    "2 चुटकी हींग",
+    "1 छोटा चम्मच अदरक-हरी मिर्च का पेस्ट",
+    "1 छोटा चम्मच बेकिंग सोडा (मीठा सोडा या 2 पाउच ग्रीन इनो)",
+    "2 बड़े चम्मच पानी (सोडा एक्टिवेट करने के लिए)",
+    "2 बड़े चम्मच तेल (तड़के के लिए)",
+    "1 छोटा चम्मच राई (सरसों के दाने)",
+    "1/4 छोटा चम्मच हींग (तड़के के लिए)",
+    "7-8 हरी मिर्च (लंबाई में कटी हुई)",
+    "15-20 ताजे कढ़ी पत्ते",
+    "1 कप पानी (250 मिली, तड़के की चाशनी के लिए)",
+    "4 बड़े चम्मच चीनी (तड़के के पानी के लिए)",
+    "1/2 छोटा चम्मच सिट्रिक एसिड (या 2 चम्मच नींबू का रस)",
+    "1/2 छोटा चम्मच नमक (तड़के के लिए)",
+    "2 बड़े चम्मच ताजा हरा धनिया और कद्दूकस ताजा नारियल (सजावट के लिए)"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Dhokla Batter Base (ढोकला घोल सामग्री)",
+      "category_hi": "ढोकला घोल सामग्री",
+      "items": [
+        {
+          "name_en": "Gram Flour (Besan)",
+          "name_hi": "बेसन",
+          "amount": "2 cups (240g sifted)"
+        },
+        {
+          "name_en": "Water",
+          "name_hi": "पानी",
+          "amount": "1.5 cups (375ml)"
+        },
+        {
+          "name_en": "Sugar",
+          "name_hi": "चीनी",
+          "amount": "3.5 tbsp"
+        },
+        {
+          "name_en": "Citric Acid (Nimbu Satva)",
+          "name_hi": "सिट्रिक एसिड (टाटरी)",
+          "amount": "1 tsp"
+        },
+        {
+          "name_en": "Refined Oil",
+          "name_hi": "रिफाइंड तेल",
+          "amount": "2 tbsp"
+        },
+        {
+          "name_en": "Ginger-Chilli Paste, Salt, Hing & Turmeric",
+          "name_hi": "अदरक-मिर्च पेस्ट, नमक, हींग व 2 चुटकी हल्दी",
+          "amount": "As listed"
+        }
+      ]
+    },
+    {
+      "category_en": "Leavening Activation (जालीदार एक्टिवेशन)",
+      "category_hi": "सोडा एक्टिवेशन",
+      "items": [
+        {
+          "name_en": "Baking Soda (or Eno)",
+          "name_hi": "बेकिंग सोडा (या इनो)",
+          "amount": "1 tsp"
+        },
+        {
+          "name_en": "Water",
+          "name_hi": "पानी (सोडा पर डालने हेतु)",
+          "amount": "2 tbsp"
+        }
+      ]
+    },
+    {
+      "category_en": "Sweet & Tangy Tadka Syrup (खट्टा-मीठा तड़का पानी)",
+      "category_hi": "तड़का और रसीला पानी",
+      "items": [
+        {
+          "name_en": "Refined Oil",
+          "name_hi": "तेल",
+          "amount": "2 tbsp"
+        },
+        {
+          "name_en": "Mustard Seeds (Rai)",
+          "name_hi": "राई",
+          "amount": "1 tsp"
+        },
+        {
+          "name_en": "Green Chillies & Curry Leaves",
+          "name_hi": "हरी मिर्च व कढ़ी पत्ता",
+          "amount": "7-8 chillies + 15 leaves"
+        },
+        {
+          "name_en": "Water",
+          "name_hi": "पानी",
+          "amount": "1 cup (250ml)"
+        },
+        {
+          "name_en": "Sugar & Citric Acid / Lemon",
+          "name_hi": "चीनी व सिट्रिक एसिड/नींबू",
+          "amount": "4 tbsp sugar + 1/2 tsp acid"
+        },
+        {
+          "name_en": "Fresh Coriander & Grated Coconut",
+          "name_hi": "हरा धनिया व नारियल",
+          "amount": "For garnish"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Prepare the Citric-Sugar Solution: In a large mixing bowl, combine 1.5 cups (375ml) room-temperature water, 3.5 tbsp sugar, 1 tsp citric acid, 1 tsp salt, 2 pinches of turmeric powder, 2 pinches of hing, 1 tsp ginger-chilli paste, and 2 tbsp refined oil. Whisk continuously for 2 minutes until all the sugar and citric acid crystals are 100% dissolved.",
+    "Sift and Whisk Besan: Sift 2 cups of gram flour (besan) through a fine mesh strainer directly into the bowl. Whisk vigorously in ONE DIRECTION with a hand whisk for 4–5 minutes until the batter becomes silky-smooth, lump-free, and aerated with tiny micro-bubbles. Let the batter rest for 10 minutes so the besan hydrates properly.",
+    "Set Up the Steamer: While the batter rests, prepare your steamer or deep kadhai with 3-4 cups of water. Bring it to a roaring, rolling boil. Generously grease an 8-inch cake tin or dhokla plate with oil.",
+    "Activate with Baking Soda (The Chemistry Magic): Ensure steamer water is boiling rapidly. Sprinkle 1 tsp of baking soda evenly over the rested batter. Pour 2 tbsp of water directly onto the soda—it will fizz and foam vigorously! Immediately whisk gently in ONE DIRECTION for 60 seconds. The batter will triple in volume, turn pale creamy-yellow, and feel ultra-light like whipped foam.",
+    "Steam Immediately without Opening: Immediately pour the foaming batter into the greased tin (fill to 3/4th level). Place inside the steamer, cover with a tight-fitting lid (wrap lid in a clean kitchen cloth to prevent steam drops falling on dhokla), and steam on MEDIUM-HIGH flame for exactly 20 to 22 minutes. DO NOT open the lid mid-way, or the sponge will collapse!",
+    "Cool and Cut: After 22 minutes, insert a toothpick in the center; it should come out clean. Turn off the heat and remove the tin. Let it cool for 5-7 minutes. Run a knife along the edges, invert onto a plate, tap gently, and cut into neat 2-inch square cubes. Notice the stunning, uniform honeycomb aeration!",
+    "Make the Sizzling Sweet-Tangy Tadka Syrup: Heat 2 tbsp oil in a small pan. Add 1 tsp mustard seeds, 1/4 tsp hing, slit green chillies, and curry leaves. Sauté for 30 seconds until crackling. Add 1 cup water, 4 tbsp sugar, 1/2 tsp citric acid (or lemon juice), and 1/2 tsp salt. Bring the syrup to a rolling boil for 2 minutes until sugar dissolves completely. Let it cool slightly to warm.",
+    "Soak & Garnish: Generously ladle the warm tadka syrup evenly over all the warm cut dhokla squares. The porous honeycomb sponge will instantly drink up the liquid like magic, turning ultra-juicy and melt-in-the-mouth. Garnish with fresh chopped coriander and grated fresh coconut. Serve with green chutney!"
+  ],
+  "instructions_hi": [
+    "सिट्रिक-चीनी का घोल बनाएं: एक बड़े बर्तन में 1.5 कप पानी, 3.5 चम्मच चीनी, 1 चम्मच सिट्रिक एसिड (टाटरी), 1 चम्मच नमक, सिर्फ 2 चुटकी हल्दी, 2 चुटकी हींग, 1 चम्मच अदरक-मिर्च पेस्ट और 2 चम्मच तेल डालें। 2 मिनट तक अच्छी तरह फेंटें जब तक कि चीनी और सिट्रिक एसिड के दाने पूरी तरह घुल न जाएं।",
+    "बेसन छानना और फेंटना: 2 कप बेसन को छलनी से छानकर घोल में डालें। एक ही दिशा में 4-5 मिनट तक तेजी से फेंटें ताकि घोल में हवा भर जाए और वह एकदम चिकना और गांठ-रहित हो जाए। 10 मिनट के लिए बैटर को ढककर रख दें ताकि बेसन पानी सोख ले।",
+    "स्टीमर तैयार करें: स्टीमर या कड़ाही में 3-4 कप पानी डालकर तेज आंच पर खौलने दें। एक 8 इंच के टिन या गहरी थाली में तेल लगाकर चिकना कर लें।",
+    "बेकिंग सोडा एक्टिवेट करना (असली जादुई स्टेप): जब स्टीमर में पानी खौल रहा हो, तब बैटर पर 1 चम्मच बेकिंग सोडा छिड़कें। सोडा के ऊपर तुरंत 2 चम्मच पानी डालें—सोडा में से झाग निकलेगा! अब तुरंत हल्के हाथों से एक ही दिशा में सिर्फ 1 मिनट फेंटें। बैटर फूलकर तिगुना हो जाएगा, रंग हल्का पीला और टेक्सचर बिल्कुल झाग जैसा हल्का हो जाएगा।",
+    "तुरंत स्टीम करें (ढक्कन न खोलें): फूले हुए बैटर को तुरंत ग्रीस किए टिन में पलटें। स्टीमर में रखें, ढक्कन लगाएं (ढक्कन पर कपड़ा लपेटें ताकि भाप का पानी ढोकले पर न टपके) और मध्यम-तेज आंच पर ठीक 20 से 22 मिनट तक स्टीम करें। बीच में ढक्कन बिल्कुल न खोलें वरना ढोकला बैठ जाएगा!",
+    "ठंडा करें और काटें: 22 मिनट बाद टूथपिक डालकर चेक करें—वह साफ निकलेगी। टिन को बाहर निकालें और 5-7 मिनट हल्का ठंडा होने दें। किनारों पर चाकू चलाएं, प्लेट पर पलटें और चौकोर टुकड़ों में काट लें। आप देखेंगे कि अंदर बिल्कुल जालीदार स्पंज बना है!",
+    "खट्टा-मीठा तड़का पानी तैयार करें: पैन में 2 चम्मच तेल गरम करें। राई, हींग, हरी मिर्च और कढ़ी पत्ता डालकर 30 सेकंड चटकाएं। अब 1 कप पानी, 4 चम्मच चीनी, 1/2 चम्मच सिट्रिक एसिड (या नींबू रस) और 1/2 चम्मच नमक डालें। 2 मिनट खौलाएं ताकि चीनी घुल जाए। गैस बंद कर इसे हल्का गुनगुना होने दें।",
+    "तड़के का पानी पिलाना और सजावट: हल्के गुनगुने ढोकले पर कलछी से यह गुनगुना तड़का पानी चारों तरफ फैलाते हुए डालें। जालीदार ढोकला स्पंज की तरह सारा पानी तुरंत सोख लेगा और अंदर तक रसीला हो जाएगा। ऊपर से हरा धनिया और ताजा नारियल डालकर हरी चटनी के साथ परोसें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Dissolving Citric-Sugar Water",
+      "title_hi": "सिट्रिक एसिड व चीनी का घोल",
+      "instruction_en": "Whisk water, sugar, citric acid, salt, oil, hing, and 2 pinches of turmeric until crystals dissolve completely.",
+      "instruction_hi": "पानी में चीनी, सिट्रिक एसिड, नमक, तेल, हींग और 2 चुटकी हल्दी डालकर पूरी तरह घोल लें।"
+    },
+    {
+      "step": 2,
+      "title_en": "Sifting & Aerating Besan",
+      "title_hi": "बेसन छानना व फेंटना",
+      "instruction_en": "Sift 2 cups besan into the solution. Whisk in one direction for 4-5 minutes to build air pockets. Rest for 10 minutes.",
+      "instruction_hi": "बेसन छानकर डालें और एक ही दिशा में 5 मिनट फेंटकर 10 मिनट के लिए रख दें।"
+    },
+    {
+      "step": 3,
+      "title_en": "Prepping Boiling Steamer",
+      "title_hi": "स्टीमर में पानी खौलाना",
+      "instruction_en": "Grease an 8-inch tin. Bring 4 cups water in the steamer to a roaring boil before adding leavening.",
+      "instruction_hi": "टिन में तेल लगाएं और स्टीमर में पानी को तेज आंच पर खौलने दें।"
+    },
+    {
+      "step": 4,
+      "title_en": "Soda Activation & Whipping",
+      "title_hi": "सोडा एक्टिवेट करना",
+      "instruction_en": "Sprinkle 1 tsp baking soda, add 2 tbsp water over it to fizz, and whisk gently in one direction for 1 minute until foamy.",
+      "instruction_hi": "बैटर पर 1 चम्मच सोडा और 2 चम्मच पानी डालें, झाग बनने पर 1 मिनट हल्के हाथ से फेंटें।"
+    },
+    {
+      "step": 5,
+      "title_en": "Steaming for 20-22 Minutes",
+      "title_hi": "20-22 मिनट स्टीम करना",
+      "instruction_en": "Pour immediately into tin and steam covered on medium-high flame for 20-22 mins without opening the lid.",
+      "instruction_hi": "टिन में डालकर तुरंत स्टीमर में रखें और मध्यम-तेज आंच पर बिना ढक्कन खोले 22 मिनट स्टीम करें।"
+    },
+    {
+      "step": 6,
+      "title_en": "Sweet-Tangy Tadka Soak",
+      "title_hi": "खट्टा-मीठा तड़का पानी पिलाना",
+      "instruction_en": "Boil mustard seeds, chillies, curry leaves, sugar, citric acid, and water. Pour warm syrup over sliced dhokla to absorb.",
+      "instruction_hi": "राई, मिर्च, कढ़ी पत्ता, चीनी और पानी का तड़का बनाकर कटे हुए ढोकले पर चारों तरफ अच्छी तरह पिलाएं।"
+    }
+  ],
+  "chef_tips_en": [
+    "Only 2 Pinches of Turmeric: Never add more than 2 pinches of turmeric to the batter. Turmeric is a natural pH indicator; when it encounters alkaline baking soda at high steam temperatures, excess amounts react chemically to produce unappealing red/brown blemishes.",
+    "Citric Acid vs Lemon Juice: While lemon juice can work, citric acid (nimbu ke phool / tatri) is the commercial halwai secret. It creates a balanced, neutral acid-base reaction with baking soda, releasing millions of micro-bubbles that produce a uniform, tall honeycomb crumb without any sour aftertaste.",
+    "Whisking Direction: Always whisk in ONE direction. Changing directions destroys the delicate air bubbles and gluten structure you just created.",
+    "Warm Syrup on Warm Dhokla: For maximum sponginess, pour warm tadka water over slightly warm dhokla. Cold syrup on cold dhokla will not penetrate the core, leaving the center dry."
+  ],
+  "chef_tips_hi": [
+    "सिर्फ 2 चुटकी हल्दी का नियम: बैटर में 2 चुटकी से ज्यादा हल्दी कभी न डालें। हल्दी क्षारीय बेकिंग सोडा के साथ भाप में रासायनिक क्रिया करके ढोकले पर लाल-भूरे धब्बे बना देती है।",
+    "सिट्रिक एसिड (टाटरी) का महत्व: नींबू के रस की तुलना में सिट्रिक एसिड का उपयोग करना ही हलवाईयों का असली राज़ है। यह सोडा के साथ मिलकर एकसमान जाली बनाता है और ढोकला गले में नहीं अटकता।",
+    "एक ही दिशा में फेंटना: बैटर को हमेशा एक ही दिशा (क्लॉकवाइज) में फेंटें। उल्टी दिशा में फेंटने से बैटर में बनी हवा निकल जाती है और ढोकला चपटा रह जाता है।",
+    "हल्के गरम ढोकले पर गुनगुना पानी: ढोकला काटने के बाद जब वह हल्का गरम हो, तभी उसपर गुनगुना तड़का पानी डालें। ठंडा पानी डालने से ढोकला अंदर तक पानी नहीं सोख पाएगा और सूखा रह जाएगा।"
+  ]
+}

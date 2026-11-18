@@ -1,0 +1,210 @@
+{
+  "id": "dhaba-masala-sweet-corn-sabzi",
+  "title_en": "Dhaba-Style Masala Sweet Corn Sabzi (मसाला कॉर्न की अनोखी सब्ज़ी)",
+  "title_hi": "ढाबा स्टाइल मसाला स्वीट कॉर्न सब्ज़ी (भुट्टे की चटपटी करी)",
+  "title": {
+    "en": "Dhaba-Style Masala Sweet Corn Sabzi (मसाला कॉर्न की अनोखी सब्ज़ी)",
+    "hi": "ढाबा स्टाइल मसाला स्वीट कॉर्न सब्ज़ी (भुट्टे की चटपटी करी)"
+  },
+  "description_en": "1.3M views! An innovative, mouthwatering North Indian curry starring sweet corn kernels simmered in a rich tomato-cashew dhaba gravy with cumin, Kashmiri chilli, kasuri methi, and garam masala.",
+  "description_hi": "13 लाख लोगों की पसंदीदा भुट्टे की अनोखी और चटपटी सब्जी! मीठे स्वीट कॉर्न के दानों को टमाटर, काजू, भुने प्याज और कसूरी मेथी की गाढ़ी ढाबा स्टाइल ग्रेवी में पकाया गया। हर किसी को बेहद पसंद आने वाली रेसिपी।",
+  "description": {
+    "en": "1.3M views! An innovative, mouthwatering North Indian curry starring sweet corn kernels simmered in a rich tomato-cashew dhaba gravy with cumin, Kashmiri chilli, kasuri methi, and garam masala.",
+    "hi": "13 लाख लोगों की पसंदीदा भुट्टे की अनोखी और चटपटी सब्जी! मीठे स्वीट कॉर्न के दानों को टमाटर, काजू, भुने प्याज और कसूरी मेथी की गाढ़ी ढाबा स्टाइल ग्रेवी में पकाया गया। हर किसी को बेहद पसंद आने वाली रेसिपी।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Vegetarian",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "सरल",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cook_time_en": "20 mins",
+  "cook_time_hi": "20 मिनट",
+  "prepTime": "15 mins",
+  "cookTime": "20 mins",
+  "servings_en": "4 servings",
+  "servings_hi": "4 लोग",
+  "servings": 4,
+  "youtube_id": "qV5tBMqitz0",
+  "youtubeId": "qV5tBMqitz0",
+  "youtube_url": "https://youtu.be/qV5tBMqitz0",
+  "image_url": "/static/images/qV5tBMqitz0.jpg",
+  "tags": [
+    "Sweet Corn",
+    "Corn Sabzi",
+    "Curry",
+    "Dhaba Style",
+    "Main Course",
+    "Bharatzkitchen",
+    "Vegetarian"
+  ],
+  "ingredients_en": [
+    "2 cups Sweet Corn Kernels (fresh or boiled frozen)",
+    "3 large Ripe Tomatoes & 6 Cashews (blended into smooth puree)",
+    "2 medium Onions, finely chopped",
+    "1 inch Ginger & 5 Garlic Cloves, minced",
+    "3 Green Chillies, slit",
+    "3 tbsp Cooking Oil or Butter",
+    "1/2 tsp Cumin Seeds (Jeera)",
+    "1/2 tsp Turmeric Powder",
+    "1 tsp Kashmiri Red Chilli Powder",
+    "1 tsp Hot Red Chilli Powder",
+    "1.5 tsp Coriander Powder",
+    "1/4 tsp Garam Masala Powder",
+    "1 tsp Kasuri Methi, crushed",
+    "1 cup Water & 1 tsp Salt",
+    "Fresh Coriander Leaves for garnish"
+  ],
+  "ingredients_hi": [
+    "2 कप स्वीट कॉर्न के दाने (ताजा या उबले हुए)",
+    "3 पके टमाटर व 6 काजू (मिक्सी में पिसी प्यूरी)",
+    "2 मध्यम प्याज (बारीक कटे)",
+    "1 इंच अदरक व 5 लहसुन की कलियां (बारीक कटी)",
+    "3 हरी मिर्च (चीरा लगी)",
+    "3 बड़े चम्मच तेल या मक्खन",
+    "1/2 छोटा चम्मच जीरा",
+    "1/2 छोटा चम्मच हल्दी पाउडर",
+    "1 छोटा चम्मच कश्मीरी लाल मिर्च",
+    "1 छोटा चम्मच तीखी लाल मिर्च",
+    "1.5 छोटा चम्मच धनिया पाउडर",
+    "1/4 छोटा चम्मच गरम मसाला पाउडर",
+    "1 छोटा चम्मच भुनी कसूरी मेथी",
+    "1 कप पानी, 1 छोटा चम्मच नमक व हरा धनिया"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Sweet Corn Base (स्वीट कॉर्न)",
+      "category_hi": "स्वीट कॉर्न",
+      "items": [
+        {
+          "name_en": "Sweet Corn Kernels",
+          "name_hi": "स्वीट कॉर्न के दाने",
+          "amount": "2 cups"
+        }
+      ]
+    },
+    {
+      "category_en": "Tomato-Cashew Puree & Aromatics (टमाटर-काजू प्यूरी व तड़का)",
+      "category_hi": "टमाटर-काजू प्यूरी व तड़का",
+      "items": [
+        {
+          "name_en": "Tomato & Cashew Puree",
+          "name_hi": "टमाटर व काजू प्यूरी",
+          "amount": "3 tomatoes + 6 cashews"
+        },
+        {
+          "name_en": "Cumin Seeds & Oil",
+          "name_hi": "जीरा व तेल",
+          "amount": "1/2 tsp + 3 tbsp"
+        },
+        {
+          "name_en": "Onions, Ginger, Garlic & Chillies",
+          "name_hi": "प्याज, अदरक, लहसुन व मिर्च",
+          "amount": "2 onions + aromatics"
+        }
+      ]
+    },
+    {
+      "category_en": "Spices & Gravy (मसाले व तरी)",
+      "category_hi": "मसाले व तरी",
+      "items": [
+        {
+          "name_en": "Turmeric, Chilli & Coriander Powders",
+          "name_hi": "हल्दी, मिर्च व धनिया पाउडर",
+          "amount": "As listed"
+        },
+        {
+          "name_en": "Garam Masala & Kasuri Methi",
+          "name_hi": "गरम मसाला व कसूरी मेथी",
+          "amount": "1/4 tsp + 1 tsp"
+        },
+        {
+          "name_en": "Water, Salt & Fresh Coriander",
+          "name_hi": "पानी, नमक व हरा धनिया",
+          "amount": "1 cup + salt + garnish"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Blend Tomato-Cashew Puree: In a blender jar, puree 3 ripe tomatoes with 6 soaked cashews into a smooth, silky crimson paste. Set aside.",
+    "Sauté Onions & Aromatics: Heat 3 tbsp oil or butter in a kadai over medium heat. Add 1/2 tsp cumin seeds and let them crackle. Add chopped onions and sauté until golden brown. Stir in minced ginger, garlic, and slit green chillies for 1 minute.",
+    "Bhunao Tomato Puree: Add the tomato-cashew puree along with turmeric, Kashmiri chilli powder, hot red chilli powder, coriander powder, and salt. Cook on medium flame for 6-7 minutes, stirring occasionally, until the gravy turns rich and shiny oil separates.",
+    "Add Sweet Corn: Add 2 cups sweet corn kernels into the roasted masala. Toss and roast for 2 minutes to let the kernels absorb the spices.",
+    "Simmer Gravy: Pour in 1 cup warm water. Cover and simmer on low-medium flame for 5-6 minutes until the corn is tender and sweet and the gravy thickens to restaurant consistency.",
+    "Aromatic Finish: Sprinkle 1/4 tsp garam masala and 1 tsp crushed roasted kasuri methi. Mix well and cook for 1 minute.",
+    "Garnish & Serve: Turn off heat, garnish generously with fresh coriander leaves, and serve steaming hot with rotis, parathas, or naan!"
+  ],
+  "instructions_hi": [
+    "टमाटर-काजू प्यूरी पीसना: मिक्सी में 3 पके टमाटर और 6 काजू डालकर एकदम बारीक चिकनी प्यूरी पीस लें।",
+    "प्याज व तड़का भूनना: कड़ाही में तेल गरम करके जीरा चटकाएं। प्याज डालकर सुनहरा भूनें और अदरक-लहसुन व हरी मिर्च डालकर 1 मिनट भूनें।",
+    "मसाले की भुनाई: टमाटर-काजू प्यूरी, हल्दी, कश्मीरी मिर्च, तीखी मिर्च, धनिया पाउडर और नमक डालें। 6-7 मिनट भूनें जब तक तेल अलग न होने लगे।",
+    "स्वीट कॉर्न मिलाना: 2 कप स्वीट कॉर्न के दाने डालकर मसाले में 2 मिनट अच्छी तरह भूनें।",
+    "पानी डालकर पकाना: 1 कप पानी डालें। ढककर 5-6 मिनट धीमी आंच पर पकाएं ताकि कॉर्न नरम हो जाए और ग्रेवी गाढ़ी हो जाए।",
+    "गरम मसाला व कसूरी मेथी: 1/4 छोटा चम्मच गरम मसाला और कसूरी मेथी डालकर 1 मिनट चलाएं।",
+    "परोसना: हरा धनिया डालकर गरमा-गरम रोटी, पराठे या नान के साथ आनंद लें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Puree Tomatoes with Cashews",
+      "title_hi": "टमाटर-काजू प्यूरी बनाना",
+      "instruction_en": "Blend ripe tomatoes and cashews into a rich, silky paste.",
+      "instruction_hi": "टमाटर और काजू को मिक्सी में पीसकर गाढ़ी प्यूरी बनाएं।"
+    },
+    {
+      "step": 2,
+      "title_en": "Brown Onions & Aromatics",
+      "title_hi": "प्याज व लहसुन भूनना",
+      "instruction_en": "Heat oil, splutter cumin, and sauté chopped onions, ginger, and garlic till golden.",
+      "instruction_hi": "तेल में जीरा चटकाएं और प्याज, अदरक व लहसुन को सुनहरा भूनें।"
+    },
+    {
+      "step": 3,
+      "title_en": "Bhunao Tomato-Cashew Masala",
+      "title_hi": "टमाटर-काजू मसाला भूनना",
+      "instruction_en": "Cook tomato puree with spices and salt until oil separates from the edges.",
+      "instruction_hi": "टमाटर प्यूरी और सभी सूखे मसाले डालकर तेल छोड़ने तक भूनें।"
+    },
+    {
+      "step": 4,
+      "title_en": "Toss Sweet Corn Kernels",
+      "title_hi": "स्वीट कॉर्न की भुनाई",
+      "instruction_en": "Add sweet corn into the roasted masala and sauté for 2 minutes.",
+      "instruction_hi": "स्वीट कॉर्न डालकर मसाले में 2 मिनट अच्छी तरह भूनें।"
+    },
+    {
+      "step": 5,
+      "title_en": "Simmer to Rich Consistency",
+      "title_hi": "ग्रेवी पकाना",
+      "instruction_en": "Add 1 cup water, cover and simmer 5-6 minutes until corn is tender.",
+      "instruction_hi": "पानी डालकर ढकें और 5-6 मिनट धीमी आंच पर पकाएं।"
+    },
+    {
+      "step": 6,
+      "title_en": "Finish with Kasuri Methi & Garam Masala",
+      "title_hi": "कसूरी मेथी व गरम मसाला डालना",
+      "instruction_en": "Stir in roasted kasuri methi and garam masala for authentic dhaba aroma.",
+      "instruction_hi": "भुनी कसूरी मेथी और गरम मसाला डालकर मिलाएं।"
+    },
+    {
+      "step": 7,
+      "title_en": "Garnish & Serve Hot",
+      "title_hi": "धनिया डालकर परोसना",
+      "instruction_en": "Garnish with fresh coriander leaves and serve hot with parathas or naan!",
+      "instruction_hi": "हरा धनिया डालकर गरमा-गरम पराठे या नान के साथ परोसें!"
+    }
+  ],
+  "chef_tips_en": [
+    "Cashew Blending: Blending 5-6 cashews directly with tomatoes creates an opulent, creamy body without requiring heavy cream.",
+    "Juicy Sweet Corn: Use tender sweet corn (American corn) for the signature sweet-and-spicy contrast against the dhaba gravy.",
+    "Kasuri Methi at the End: Crushing roasted kasuri methi between palms at the end releases aromatic essential oils that elevate the sabzi."
+  ],
+  "chef_tips_hi": [
+    "टमाटर संग काजू पीसना: 5-6 काजू टमाटर के साथ पीसने से बिना मलाई के भी ग्रेवी एकदम मखमली और गाढ़ी बनती है।",
+    "स्वीट कॉर्न की मिठास: ताजे या उबले स्वीट कॉर्न का इस्तेमाल करने से तीखे मसाले और कॉर्न की मिठास का लाजवाब संतुलन बनता है।",
+    "अंत में कसूरी मेथी: गैस बंद करने से पहले हाथ से मसलकर भुनी कसूरी मेथी डालने से ढाबे जैसी खुशबू आती है।"
+  ]
+}

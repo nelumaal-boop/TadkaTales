@@ -1,0 +1,207 @@
+{
+  "id": "dhaba-aloo-bhuna-masala",
+  "title_en": "Dhaba Style Aloo Bhuna Masala",
+  "title_hi": "ढाबा स्टाइल आलू भुना मसाला (चटपटी लटपटी ग्रेवी)",
+  "title": {
+    "en": "Dhaba Style Aloo Bhuna Masala",
+    "hi": "ढाबा स्टाइल आलू भुना मसाला (चटपटी लटपटी ग्रेवी)"
+  },
+  "description_en": "A signature roadside dhaba specialty by Veg Food Talks (Rutba Khan). Tender golden pan-seared potato chunks enveloped in an intensely roasted (bhuna) onion, tomato, and spiced yogurt gravy, finished with fragrant kasuri methi and green chillies.",
+  "description_hi": "वेज फूड टॉक्स (रूतबा खान) की लोकप्रिय ढाबा स्टाइल आलू भुना मसाला रेसिपी। हल्दी-मिर्च में हल्के फ्राई किए हुए सुनहरे आलू, जिन्हें प्याज, टमाटर और फेंटे हुए दही के साथ धीमी आंच पर अच्छी तरह भूनकर लटपटी, मसालेदार और खुशबूदार ग्रेवी में पकाया जाता है।",
+  "description": {
+    "en": "A signature roadside dhaba specialty by Veg Food Talks (Rutba Khan). Tender golden pan-seared potato chunks enveloped in an intensely roasted (bhuna) onion, tomato, and spiced yogurt gravy, finished with fragrant kasuri methi and green chillies.",
+    "hi": "वेज फूड टॉक्स (रूतबा खान) की लोकप्रिय ढाबा स्टाइल आलू भुना मसाला रेसिपी। हल्दी-मिर्च में हल्के फ्राई किए हुए सुनहरे आलू, जिन्हें प्याज, टमाटर और फेंटे हुए दही के साथ धीमी आंच पर अच्छी तरह भूनकर लटपटी, मसालेदार और खुशबूदार ग्रेवी में पकाया जाता है।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cook_time_en": "20 mins",
+  "cook_time_hi": "20 मिनट",
+  "prepTime": "15 mins",
+  "cookTime": "20 mins",
+  "servings_en": "4 Servings",
+  "servings_hi": "4 लोग",
+  "servings": "4 Servings",
+  "youtube_id": "VfFcNz_M9Wc",
+  "youtubeId": "VfFcNz_M9Wc",
+  "youtube_url": "https://www.youtube.com/watch?v=VfFcNz_M9Wc",
+  "image_url": "https://img.youtube.com/vi/VfFcNz_M9Wc/hqdefault.jpg",
+  "tags": [
+    "aloo bhuna masala",
+    "dhaba style",
+    "spicy potato curry",
+    "veg food talks",
+    "main course",
+    "lunch recipe",
+    "dinner recipe"
+  ],
+  "ingredients_en": [
+    "4-5 Medium Potatoes (boiled, peeled, and cut into 1-inch large cubes)",
+    "3 tbsp Mustard oil or vegetable cooking oil",
+    "1 tsp Cumin seeds (jeera)",
+    "1 Bay leaf (tej patta)",
+    "2 Green cardamoms & 1 inch Cinnamon stick",
+    "2 Large Onions (very finely chopped)",
+    "1 tbsp Ginger-Garlic paste",
+    "3 Medium Ripe Tomatoes (pureed or finely grated)",
+    "1/3 cup Fresh curd (dahi, whisked smooth)",
+    "1 tsp Kashmiri red chilli powder (for rich dhaba color)",
+    "1/2 tsp Regular red chilli powder",
+    "1/2 tsp Turmeric powder (haldi)",
+    "1.5 tbsp Coriander powder (dhania powder)",
+    "1/2 tsp Roasted cumin powder (bhuna jeera)",
+    "1/2 tsp Garam masala powder",
+    "1 tsp Kasuri methi (roasted & crushed)",
+    "1/2 tsp Chaat masala or Amchur powder",
+    "Salt to taste",
+    "2 Green chillies (slit lengthwise)",
+    "1/4 cup Fresh coriander leaves (finely chopped)"
+  ],
+  "ingredients_hi": [
+    "4-5 मध्यम आलू (उबले, छीले और 1 इंच के बड़े चौकोर टुकड़ों में कटे)",
+    "3 बड़ा चम्मच सरसों का तेल या रिफाइंड तेल",
+    "1 छोटा चम्मच जीरा",
+    "1 तेजपत्ता",
+    "2 हरी इलायची और 1 टुकड़ा दालचीनी",
+    "2 बड़े प्याज (एकदम बारीक कटे हुए)",
+    "1 बड़ा चम्मच अदरक-लहसुन का पेस्ट",
+    "3 मध्यम लाल टमाटर (मिक्सी में पिसे हुए)",
+    "1/3 कप ताज़ा गाढ़ा दही (अच्छी तरह फेंटा हुआ)",
+    "1 छोटा चम्मच कश्मीरी लाल मिर्च पाउडर (गहरे ढाबा रंग के लिए)",
+    "1/2 छोटा चम्मच तीखी लाल मिर्च पाउडर",
+    "1/2 छोटा चम्मच हल्दी पाउडर",
+    "1.5 बड़ा चम्मच धनिया पाउडर",
+    "1/2 छोटा चम्मच भुना जीरा पाउडर",
+    "1/2 छोटा चम्मच गरम मसाला",
+    "1 छोटा चम्मच कसूरी मेथी (तवे पर भुनी व मसली हुई)",
+    "1/2 छोटा चम्मच चाट मसाला या अमचूर",
+    "स्वादानुसार नमक",
+    "2 हरी मिर्च (लंबाई में चीरी हुई)",
+    "1/4 कप ताज़ा हरा धनिया (बारीक कटा हुआ)"
+  ],
+  "ingredients": [
+    {
+      "category": "Pan-Seared Golden Potatoes",
+      "items": [
+        {
+          "en": "4-5 Boiled potatoes (cubed)",
+          "hi": "4-5 उबले आलू (क्यूब्स में कटे)"
+        },
+        {
+          "en": "1/4 tsp Turmeric, 1/4 tsp Chilli & pinch Salt",
+          "hi": "हल्दी, लाल मिर्च और चुटकी भर नमक"
+        },
+        {
+          "en": "1 tbsp Oil for searing",
+          "hi": "1 चम्मच तेल (आलू सेकने के लिए)"
+        }
+      ]
+    },
+    {
+      "category": "The Bhuna Masala Gravy",
+      "items": [
+        {
+          "en": "2 finely chopped Onions & 1 tbsp Ginger-garlic paste",
+          "hi": "2 बारीक कटे प्याज और अदरक-लहसुन पेस्ट"
+        },
+        {
+          "en": "3 pureed Tomatoes & 1/3 cup Whisked curd",
+          "hi": "3 टमाटर की प्यूरी और 1/3 कप फेंटा दही"
+        },
+        {
+          "en": "Jeera, Tej patta, Cardamoms & Cinnamon",
+          "hi": "जीरा, तेजपत्ता, इलायची और दालचीनी"
+        },
+        {
+          "en": "Kashmiri chilli, Coriander, Haldi & Roasted cumin",
+          "hi": "कश्मीरी मिर्च, धनिया, हल्दी और भुना जीरा"
+        }
+      ]
+    },
+    {
+      "category": "Dhaba Finishing",
+      "items": [
+        {
+          "en": "1 tsp Kasuri methi & 1/2 tsp Garam masala",
+          "hi": "1 छोटा चम्मच कसूरी मेथी और गरम मसाला"
+        },
+        {
+          "en": "2 Slit green chillies & Fresh coriander leaves",
+          "hi": "2 हरी मिर्च और ताज़ा हरा धनिया"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Step 1 - Sear Potatoes: In a wide pan or kadai, heat 1 tablespoon of oil. Toss in the boiled cubed potatoes with a pinch of turmeric, Kashmiri chilli, and salt. Sauté on medium-high flame for 3 to 4 minutes until the potato edges form a lightly blistered golden crust. Remove onto a plate.",
+    "Step 2 - Tempering: In the same kadai, heat the remaining 2 tablespoons of oil. Add cumin seeds, bay leaf, cinnamon stick, and green cardamoms. Let them crackle and release their fragrance for 30 seconds.",
+    "Step 3 - Caramelize Onions: Add the finely chopped onions. Cook on medium heat for 6 to 8 minutes, stirring regularly, until deep golden-brown. Stir in 1 tbsp ginger-garlic paste and sauté for 1-2 minutes until the raw aroma completely disappears.",
+    "Step 4 - Bhunao the Tomato Puree: Add the fresh tomato puree, turmeric powder, Kashmiri red chilli powder, regular chilli powder, coriander powder, roasted cumin powder, and salt. Sauté on medium flame for 6 to 7 minutes until the tomato masala darkens, thickens, and glistening droplets of oil separate from the sides.",
+    "Step 5 - Whisked Curd Emulsion: Lower the flame completely. Slowly pour in the whisked fresh curd while stirring continuously in one direction to prevent curdling. Cook for 3 minutes until the curd integrates into a velvety, creamy gravy and oil floats on the surface (rogan).",
+    "Step 6 - Simmer with Sautéed Potatoes: Add 1/2 cup warm water to adjust into a thick, clingy semi-gravy. Drop in the golden pan-seared potatoes and slit green chillies. Mix gently so the potatoes are thoroughly coated in the spiced bhuna masala.",
+    "Step 7 - Slow Steam: Cover with a tight lid and simmer on low heat for 4 to 5 minutes so the potatoes drink up all the savory, tangy spices without breaking.",
+    "Step 8 - Garnish & Serve: Sprinkle garam masala, crushed roasted kasuri methi, and fresh coriander leaves. Stir gently and serve piping hot with crispy lachha parathas, tandoori rotis, or jeera rice."
+  ],
+  "instructions_hi": [
+    "स्टेप 1 - आलू को कुरकुरा सेकना: कड़ाही में 1 बड़ा चम्मच तेल गरम करें। उबले हुए कटे आलू, चुटकी भर हल्दी, कश्मीरी मिर्च और थोड़ा नमक डालें। मध्यम-तेज़ आंच पर 3-4 मिनट भूनें जब तक कि आलू के किनारों पर सुनहरी परत न जम जाए। एक प्लेट में निकाल लें।",
+    "स्टेप 2 - खड़े मसाले तड़काना: उसी कड़ाही में बचा हुआ 2 बड़ा चम्मच तेल गरम करें। जीरा, तेजपत्ता, दालचीनी और हरी इलायची डालकर 30 सेकंड चटकाएं।",
+    "स्टेप 3 - प्याज और अदरक-लहसुन भूनना: बारीक कटा प्याज डालें। मध्यम आंच पर 6-8 मिनट गहरा सुनहरा होने तक भूनें। अब अदरक-लहसुन का पेस्ट डालकर 1-2 मिनट और भूनें जब तक कच्चापन खत्म न हो जाए।",
+    "स्टेप 4 - टमाटर और मसालों की भुनाई: पिसे हुए टमाटर की प्यूरी, हल्दी, कश्मीरी लाल मिर्च, तीखी मिर्च, धनिया पाउडर, भुना जीरा और स्वादानुसार नमक डालें। मध्यम आंच पर 6-7 मिनट तक अच्छी तरह भूनें (भुनाई करें) जब तक कि मसाला सूखकर किनारों से तेल न छोड़ दे।",
+    "स्टेप 5 - फेंटा हुआ दही मिलाना: आंच बिल्कुल धीमी करें। फेंटा हुआ दही धीरे-धीरे डालते हुए लगातार चलाते रहें ताकि दही फटे नहीं। 3 मिनट भूनें जब तक कि क्रीमी ग्रेवी न बन जाए और ऊपर रोगन न तैरने लगे।",
+    "स्टेप 6 - आलू मिलाना: ग्रेवी को गाढ़ी लटपटी रखने के लिए 1/2 कप गुनगुना पानी डालें। अब तले हुए आलू और चीरी हुई हरी मिर्च मिलाएं और हल्के हाथों से चलाएं ताकि सारा मसाला आलू पर लिपट जाए।",
+    "स्टेप 7 - दम पर पकाना: ढक्कन लगाकर धीमी आंच पर 4-5 मिनट पकने दें ताकि आलू अंदर तक सारा चटपटा स्वाद सोख लें।",
+    "स्टेप 8 - परोसें: ऊपर से गरम मसाला, भुनी कसूरी मेथी और ताज़ा हरा धनिया छिड़कें। गरमा-गरम ढाबा स्टाइल आलू भुना मसाला को लच्छा पराठे, तंदूरी रोटी या जीरा राइस के साथ परोसें।"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": {
+        "en": "Pan-sear boiled potato cubes with turmeric, chilli, and salt for 3-4 mins until edges turn golden and crisp.",
+        "hi": "उबले आलू को हल्दी, मिर्च और नमक के साथ 3-4 मिनट सुनहरी परत आने तक तवे पर सेक लें।"
+      }
+    },
+    {
+      "step": 2,
+      "text": {
+        "en": "Temper whole spices, deep golden brown the chopped onions, and sauté ginger-garlic paste.",
+        "hi": "खड़े मसाले तड़काएं, प्याज को सुनहरा भूरा भूनें और अदरक-लहसुन पेस्ट डालकर पकाएं।"
+      }
+    },
+    {
+      "step": 3,
+      "text": {
+        "en": "Add tomato puree and powdered spices. Slow-roast (bhuna) until dark, thick, and oil separates.",
+        "hi": "टमाटर प्यूरी और सभी सूखे मसाले डालकर तेल छूटने तक अच्छी तरह भूनें।"
+      }
+    },
+    {
+      "step": 4,
+      "text": {
+        "en": "Whisk in fresh curd on low heat. Add warm water and seared potatoes; simmer covered for 4-5 mins.",
+        "hi": "धीमी आंच पर फेंटा दही मिलाएं। थोड़ा पानी और तले आलू डालकर ढककर 5 मिनट पकने दें।"
+      }
+    },
+    {
+      "step": 5,
+      "text": {
+        "en": "Garnish with kasuri methi, garam masala, and fresh coriander. Serve hot with lachha parathas.",
+        "hi": "कसूरी मेथी, गरम मसाला और हरा धनिया डालकर गरमा-गरम लच्छा पराठे के साथ पेश करें।"
+      }
+    }
+  ],
+  "chef_tips_en": [
+    "Searing Potatoes First: Sautéing boiled potatoes with a pinch of turmeric and chilli forms a firm outer crust that prevents them from turning soggy or breaking apart when stirred in the thick bhuna masala.",
+    "Intense Bhunai (Roasting): The signature taste of this dish comes from thorough roasting (*bhunai*) of onions, tomatoes, and spices until the raw acid caramelizes into a deep savory umami glaze.",
+    "Continuous Stirring with Curd: Always lower the heat completely before adding whisked curd and stir continuously until bubbling to ensure a velvety smooth restaurant emulsion."
+  ],
+  "chef_tips_hi": [
+    "आलू को पहले सेकना: उबले आलू को पहले हल्दी-मिर्च में 3 मिनट सेकने से उन पर एक मजबूत परत बन जाती है जिससे ग्रेवी में मिलाने पर वे टूटते नहीं हैं।",
+    "मसाले की सही भुनाई: ढाबे जैसे असली स्वाद के लिए प्याज और टमाटर को तब तक भूनें जब तक मसाला गहरा न हो जाए और तेल पूरी तरह अलग न दिखने लगे।",
+    "दही को चलाते रहना: दही डालते समय आंच धीमी रखें और लगातार चलाते रहें ताकि दही फटने के बजाय रेशमी और मखमली ग्रेवी बनाए।"
+  ]
+}

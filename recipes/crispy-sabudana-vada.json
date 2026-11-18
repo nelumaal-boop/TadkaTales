@@ -1,0 +1,313 @@
+{
+  "id": "crispy-sabudana-vada",
+  "title": {
+    "en": "Crispy Non-Oily Sabudana Vada & Cucumber Curd Chutney",
+    "hi": "क्रिस्पी नॉन-ऑयली साबूदाना वड़ा और खीरा-दही चटनी"
+  },
+  "description": {
+    "en": "Golden, ultra-crisp, and non-oily sabudana vadas made with Bharatzkitchen's minimal-water soaking trick, ghee-roasted crushed peanuts, perfect potato ratio, and served with refreshing Mumbai-style cucumber curd chutney.",
+    "hi": "बिना तेल पिए एकदम कुरकुरे और खिले-खिले साबूदाना वड़े! कम पानी वाली सोकिंग ट्रिक, घी में भुनी दरदरी मूंगफली, सही आलू अनुपात और मुंबई स्टाइल रिफ्रेशिंग खीरा-दही की चटनी।"
+  },
+  "category": "Snacks",
+  "isVegetarian": true,
+  "prepTime": "15 mins (+ 1 hr soaking)",
+  "cookTime": "15 mins",
+  "servings": "3-4 servings (8-10 vadas)",
+  "youtubeId": "khAW6hvj63E",
+  "author": "Bharatzkitchen Hindi",
+  "ingredients": [
+    {
+      "category": {
+        "en": "Sabudana & Crunch Base",
+        "hi": "साबूदाना और मूंगफली बेस"
+      },
+      "items": [
+        {
+          "en": "Sabudana (Tapioca pearls) - 1 cup (washed & soaked using minimal-water technique)",
+          "hi": "साबूदाना - 1 कप (कम पानी वाली ट्रिक से भिगोया हुआ)"
+        },
+        {
+          "en": "Boiled Potatoes - 3 medium (boiled, cooled, and finely grated)",
+          "hi": "उबले आलू - 3 मध्यम (ठंडे करके बारीक कद्दूकस किए हुए)"
+        },
+        {
+          "en": "Raw Peanuts (Moongphali) - 1/2 cup",
+          "hi": "कच्ची मूंगफली - 1/2 कप"
+        },
+        {
+          "en": "Desi Ghee - 1 tsp (for roasting peanuts)",
+          "hi": "देसी घी - 1 छोटा चम्मच (मूंगफली भूनने के लिए)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Vada Spices & Aromatics (Vrat Friendly)",
+        "hi": "वड़ा के मसाले और स्वाद (व्रत अनुकूल)"
+      },
+      "items": [
+        {
+          "en": "Fresh Ginger - 1 inch (finely grated)",
+          "hi": "ताजा अदरक - 1 इंच (बारीक कद्दूकस किया हुआ)"
+        },
+        {
+          "en": "Green Chillies - 4 to 5 (finely chopped)",
+          "hi": "हरी मिर्च - 4 से 5 (बारीक कटी)"
+        },
+        {
+          "en": "Cumin Seeds (Jeera) - 1 tsp",
+          "hi": "जीरा - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Black Pepper Powder (Kali Mirch) - 1/2 tsp",
+          "hi": "काली मिर्च पाउडर - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Rock Salt (Sendha Namak) - 1 tsp (to taste)",
+          "hi": "सेंधा नमक - 1 छोटा चम्मच (स्वादानुसार)"
+        },
+        {
+          "en": "Sugar - 1/2 tsp (balances flavors)",
+          "hi": "चीनी - 1/2 छोटा चम्मच (स्वाद संतुलन के लिए)"
+        },
+        {
+          "en": "Lemon Juice - 1/2 tsp (do not add more)",
+          "hi": "नींबू का रस - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Fresh Coriander leaves - 3 tbsp (finely chopped)",
+          "hi": "ताजा हरा धनिया - 3 चम्मच (बारीक कटा)"
+        },
+        {
+          "en": "Cooking Oil / Peanut Oil - for deep frying",
+          "hi": "मूंगफली तेल या कुकिंग ऑयल - तलने के लिए"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Mumbai-Style Cucumber Curd Chutney",
+        "hi": "मुंबई स्टाइल रिफ्रेशिंग खीरा-दही चटनी"
+      },
+      "items": [
+        {
+          "en": "Thick Curd (Dahi) - 1 cup (whisked smooth)",
+          "hi": "गाढ़ा ताजा दही - 1 कप"
+        },
+        {
+          "en": "Fresh Cucumber (Kheera) - 1 small (peeled & finely grated)",
+          "hi": "ताजा खीरा - 1 छोटा (छीलकर कद्दूकस किया हुआ)"
+        },
+        {
+          "en": "Green Chilli - 1 (finely minced)",
+          "hi": "हरी मिर्च - 1 (बारीक कटी)"
+        },
+        {
+          "en": "Roasted Cumin Powder (Bhuna Jeera) - 1/2 tsp",
+          "hi": "भुना जीरा पाउडर - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Rock Salt (Sendha Namak) - 1/2 tsp",
+          "hi": "सेंधा नमक - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Sugar - 1/2 tsp",
+          "hi": "चीनी - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Fresh Coriander - 1 tbsp (chopped)",
+          "hi": "ताजा हरा धनिया - 1 चम्मच"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": {
+        "en": "The Minimal-Water Sabudana Soaking Trick",
+        "hi": "साबूदाना भिगोने की सीक्रेट ट्रिक (कम पानी)"
+      },
+      "text": {
+        "en": "Rinse 1 cup sabudana in cold water twice. On the second wash, let it sit immersed in water for just 5 minutes. Drain out ALL excess water completely through a strainer. Return sabudana to the bowl, sprinkle just 1-2 tbsp water over the top, cover with a plate, and let it rest for 1 to 2 hours (or overnight). The pearls will swell plump and soft while remaining completely dry to the touch.",
+        "hi": "1 कप साबूदाने को ठंडे पानी से दो बार धोएं। दूसरी बार धोने पर 5 मिनट पानी में छोड़ दें, फिर छलनी से सारा पानी पूरी तरह निकाल दें। साबूदाने को बर्तन में रखें और ऊपर से सिर्फ 1-2 चम्मच पानी छिड़कें। ढककर 1 से 2 घंटे (या रात भर) छोड़ दें। साबूदाना मोती जैसा खिल जाएगा और बिल्कुल सूखा रहेगा।"
+      }
+    },
+    {
+      "step": 2,
+      "title": {
+        "en": "Ghee-Roasting & Crushing Peanuts",
+        "hi": "घी में मूंगफली भूनना और कूटना"
+      },
+      "text": {
+        "en": "Heat 1 tsp desi ghee in a tadka pan. Add raw peanuts and roast on low flame until they crackle and pop like firecrackers. Turn off flame and let them cool completely. Coarsely crush them in a mortar and pestle into gritty crunchy bits (do not grind into powder).",
+        "hi": "तड़का पैन में 1 चम्मच देसी घी गर्म करें। धीमी आंच पर मूंगफली को चटकने और करारी होने तक भूनें। ठंडा होने के बाद खलबत्ते में दरदरा कूट लें (मिक्सी में पाउडर बिल्कुल न बनाएं, कुरकुरापन जरूरी है)।"
+      }
+    },
+    {
+      "step": 3,
+      "title": {
+        "en": "Preparing Mumbai Cucumber Curd Chutney",
+        "hi": "रिफ्रेशिंग खीरा-दही चटनी तैयार करना"
+      },
+      "text": {
+        "en": "In a serving bowl, whisk 1 cup chilled thick curd until smooth. Add grated cucumber, minced green chilli, sendha namak, sugar, roasted cumin powder, and fresh coriander. Mix well and chill in the refrigerator until ready to serve.",
+        "hi": "एक बाउल में 1 कप गाढ़ा दही फेंटें। इसमें कद्दूकस किया खीरा, बारीक हरी मिर्च, सेंधा नमक, चीनी, भुना जीरा पाउडर और हरा धनिया मिलाएं। फ्रिज में ठंडा होने के लिए रख दें।"
+      }
+    },
+    {
+      "step": 4,
+      "title": {
+        "en": "Kneading the Vada Dough",
+        "hi": "वड़े का आटा गूंधना"
+      },
+      "text": {
+        "en": "In a wide parat/mixing bowl, take 3 grated boiled potatoes. Add sendha namak, sugar, black pepper, cumin seeds, grated ginger, and the soaked dry sabudana. Knead firmly with your knuckles like bread dough for 2-3 minutes so the potato breaks down completely and starches bond with sabudana. Add chopped green chillies, fresh coriander, lemon juice, and crushed roasted peanuts. Mix until a firm, non-sticky dough forms.",
+        "hi": "परात में 3 कद्दूकस किए उबले आलू लें। इसमें सेंधा नमक, चीनी, काली मिर्च, जीरा, कद्दूकस अदरक और सूखा भीगा साबूदाना डालें। 2-3 मिनट आटे की तरह अच्छी तरह मसलें ताकि आलू और साबूदाना आपस में बंध जाएं। अब हरी मिर्च, हरा धनिया, नींबू रस और दरदरी मूंगफली डालकर सख्त और सूखा आटा तैयार करें।"
+      }
+    },
+    {
+      "step": 5,
+      "title": {
+        "en": "Shaping & 10-Minute Air Drying Trick",
+        "hi": "वड़ा का आकार और 10 मिनट हवा में सुखाना"
+      },
+      "text": {
+        "en": "Grease palms with peanut ghee/oil. Divide mixture into equal portions and shape into patties that are flat around the edges and only slightly thicker at the center (avoid thick round balls). Place them on a plate and let them sit in open air for 5 to 10 minutes. The ambient air dries the outer starch, creating a protective barrier skin that repels oil.",
+        "hi": "हाथों पर हल्का घी लगाएं। मिश्रण से मध्यम आकार के वड़े बनाएं—किनारे पतले और चपटे रखें और बीच से हल्का सा ही मोटा रखें। वड़ों को प्लेट पर रखकर 5 से 10 मिनट खुली हवा में सूखने दें। इससे ऊपरी स्टार्च सूखकर एक लेयर बना लेता है जिससे वड़े तलते समय बिल्कुल तेल नहीं पीते।"
+      }
+    },
+    {
+      "step": 6,
+      "title": {
+        "en": "Frying & The Floating Cue",
+        "hi": "गरम तेल में तलना और फ्लोटिंग ट्रिक"
+      },
+      "text": {
+        "en": "Heat oil in a kadhai to 180°C (moderately hot). Slide vadas in without overcrowding and set heat to medium. Do not touch or move them for the first 2 minutes until the crust solidifies. Gently flip. When the interior is cooked through, the vadas will naturally float to the surface of the oil and bubble lightly.",
+        "hi": "कड़ाही में तेल अच्छा गर्म करें (लगभग 180°C)। मध्यम आंच पर वड़ों को डालें और पहले 2 मिनट बिल्कुल न छुएं। जब नीचे से परत सख्त हो जाए, तब पलटें। जब वड़े अंदर तक पक जाते हैं, वे तेल में ऊपर तैरने लगते हैं।"
+      }
+    },
+    {
+      "step": 7,
+      "title": {
+        "en": "Draining & Serving",
+        "hi": "निकालना और परोसना"
+      },
+      "text": {
+        "en": "Fry until golden brown and crisp on both sides. Lift using a slotted spoon, shake off excess oil, and drain onto kitchen towels. Serve hot and crackling with chilled cucumber curd chutney.",
+        "hi": "दोनों तरफ से सुनहरा और कुरकुरा होने पर छलनी से निकालें। गरमा-गरम कुरकुरे साबूदाना वड़ों को ठंडी-ठंडी खीरा-दही की चटनी के साथ परोसें।"
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Never soak sabudana submerged under water for hours. Just 5 minutes in water followed by complete draining leaves enough surface moisture for it to blossom softly without waterlogging.",
+      "hi": "साबूदाने को घंटों पानी में डुबोकर न रखें। 5 मिनट पानी में रखकर पूरा पानी छान दें, बची हुई नमी से साबूदाना बिना गीला हुए एकदम नरम फूलता है।"
+    },
+    {
+      "en": "Never use more than 3 medium potatoes per 1 cup sabudana. Too much potato causes the mixture to become mushy and soak up oil during frying.",
+      "hi": "1 कप साबूदाने में 3 मध्यम आलू से ज्यादा न डालें। ज्यादा आलू डालने से वड़ा तेल पीने लगता है और नरम पड़ जाता है।"
+    },
+    {
+      "en": "Letting the shaped patties rest uncovered for 5-10 minutes forms an air-dried starch film that is the ultimate secret to crisp, oil-free crusts.",
+      "hi": "बने हुए वड़ों को तलने से पहले 5-10 मिनट पंखे की हवा में सूखने दें, इससे ऊपरी सतह पर तेल नहीं चिपकता।"
+    }
+  ],
+  "title_en": "Crispy Non-Oily Sabudana Vada & Cucumber Curd Chutney",
+  "title_hi": "क्रिस्पी नॉन-ऑयली साबूदाना वड़ा और खीरा-दही चटनी",
+  "description_en": "Golden, ultra-crisp, and non-oily sabudana vadas made with Bharatzkitchen's minimal-water soaking trick, ghee-roasted crushed peanuts, perfect potato ratio, and served with refreshing Mumbai-style cucumber curd chutney.",
+  "description_hi": "बिना तेल पिए एकदम कुरकुरे और खिले-खिले साबूदाना वड़े! कम पानी वाली सोकिंग ट्रिक, घी में भुनी दरदरी मूंगफली, सही आलू अनुपात और मुंबई स्टाइल रिफ्रेशिंग खीरा-दही की चटनी।",
+  "prep_time_en": "15 mins (+ 1 hr soaking)",
+  "prep_time_hi": "15 mins (+ 1 hr soaking)",
+  "cook_time_en": "15 mins",
+  "cook_time_hi": "15 mins",
+  "servings_en": "3-4 servings (8-10 vadas)",
+  "servings_hi": "3-4 servings (8-10 vadas)",
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "youtube_id": "khAW6hvj63E",
+  "youtube_url": "https://www.youtube.com/watch?v=khAW6hvj63E",
+  "image_url": "https://img.youtube.com/vi/khAW6hvj63E/hqdefault.jpg",
+  "ingredients_en": [
+    "Sabudana (Tapioca pearls) - 1 cup (washed & soaked using minimal-water technique)",
+    "Boiled Potatoes - 3 medium (boiled, cooled, and finely grated)",
+    "Raw Peanuts (Moongphali) - 1/2 cup",
+    "Desi Ghee - 1 tsp (for roasting peanuts)",
+    "Fresh Ginger - 1 inch (finely grated)",
+    "Green Chillies - 4 to 5 (finely chopped)",
+    "Cumin Seeds (Jeera) - 1 tsp",
+    "Black Pepper Powder (Kali Mirch) - 1/2 tsp",
+    "Rock Salt (Sendha Namak) - 1 tsp (to taste)",
+    "Sugar - 1/2 tsp (balances flavors)",
+    "Lemon Juice - 1/2 tsp (do not add more)",
+    "Fresh Coriander leaves - 3 tbsp (finely chopped)",
+    "Cooking Oil / Peanut Oil - for deep frying",
+    "Thick Curd (Dahi) - 1 cup (whisked smooth)",
+    "Fresh Cucumber (Kheera) - 1 small (peeled & finely grated)",
+    "Green Chilli - 1 (finely minced)",
+    "Roasted Cumin Powder (Bhuna Jeera) - 1/2 tsp",
+    "Rock Salt (Sendha Namak) - 1/2 tsp",
+    "Sugar - 1/2 tsp",
+    "Fresh Coriander - 1 tbsp (chopped)"
+  ],
+  "ingredients_hi": [
+    "साबूदाना - 1 कप (कम पानी वाली ट्रिक से भिगोया हुआ)",
+    "उबले आलू - 3 मध्यम (ठंडे करके बारीक कद्दूकस किए हुए)",
+    "कच्ची मूंगफली - 1/2 कप",
+    "देसी घी - 1 छोटा चम्मच (मूंगफली भूनने के लिए)",
+    "ताजा अदरक - 1 इंच (बारीक कद्दूकस किया हुआ)",
+    "हरी मिर्च - 4 से 5 (बारीक कटी)",
+    "जीरा - 1 छोटा चम्मच",
+    "काली मिर्च पाउडर - 1/2 छोटा चम्मच",
+    "सेंधा नमक - 1 छोटा चम्मच (स्वादानुसार)",
+    "चीनी - 1/2 छोटा चम्मच (स्वाद संतुलन के लिए)",
+    "नींबू का रस - 1/2 छोटा चम्मच",
+    "ताजा हरा धनिया - 3 चम्मच (बारीक कटा)",
+    "मूंगफली तेल या कुकिंग ऑयल - तलने के लिए",
+    "गाढ़ा ताजा दही - 1 कप",
+    "ताजा खीरा - 1 छोटा (छीलकर कद्दूकस किया हुआ)",
+    "हरी मिर्च - 1 (बारीक कटी)",
+    "भुना जीरा पाउडर - 1/2 छोटा चम्मच",
+    "सेंधा नमक - 1/2 छोटा चम्मच",
+    "चीनी - 1/2 छोटा चम्मच",
+    "ताजा हरा धनिया - 1 चम्मच"
+  ],
+  "instructions_en": [
+    "Rinse 1 cup sabudana in cold water twice. On the second wash, let it sit immersed in water for just 5 minutes. Drain out ALL excess water completely through a strainer. Return sabudana to the bowl, sprinkle just 1-2 tbsp water over the top, cover with a plate, and let it rest for 1 to 2 hours (or overnight). The pearls will swell plump and soft while remaining completely dry to the touch.",
+    "Heat 1 tsp desi ghee in a tadka pan. Add raw peanuts and roast on low flame until they crackle and pop like firecrackers. Turn off flame and let them cool completely. Coarsely crush them in a mortar and pestle into gritty crunchy bits (do not grind into powder).",
+    "In a serving bowl, whisk 1 cup chilled thick curd until smooth. Add grated cucumber, minced green chilli, sendha namak, sugar, roasted cumin powder, and fresh coriander. Mix well and chill in the refrigerator until ready to serve.",
+    "In a wide parat/mixing bowl, take 3 grated boiled potatoes. Add sendha namak, sugar, black pepper, cumin seeds, grated ginger, and the soaked dry sabudana. Knead firmly with your knuckles like bread dough for 2-3 minutes so the potato breaks down completely and starches bond with sabudana. Add chopped green chillies, fresh coriander, lemon juice, and crushed roasted peanuts. Mix until a firm, non-sticky dough forms.",
+    "Grease palms with peanut ghee/oil. Divide mixture into equal portions and shape into patties that are flat around the edges and only slightly thicker at the center (avoid thick round balls). Place them on a plate and let them sit in open air for 5 to 10 minutes. The ambient air dries the outer starch, creating a protective barrier skin that repels oil.",
+    "Heat oil in a kadhai to 180°C (moderately hot). Slide vadas in without overcrowding and set heat to medium. Do not touch or move them for the first 2 minutes until the crust solidifies. Gently flip. When the interior is cooked through, the vadas will naturally float to the surface of the oil and bubble lightly.",
+    "Fry until golden brown and crisp on both sides. Lift using a slotted spoon, shake off excess oil, and drain onto kitchen towels. Serve hot and crackling with chilled cucumber curd chutney."
+  ],
+  "instructions_hi": [
+    "1 कप साबूदाने को ठंडे पानी से दो बार धोएं। दूसरी बार धोने पर 5 मिनट पानी में छोड़ दें, फिर छलनी से सारा पानी पूरी तरह निकाल दें। साबूदाने को बर्तन में रखें और ऊपर से सिर्फ 1-2 चम्मच पानी छिड़कें। ढककर 1 से 2 घंटे (या रात भर) छोड़ दें। साबूदाना मोती जैसा खिल जाएगा और बिल्कुल सूखा रहेगा।",
+    "तड़का पैन में 1 चम्मच देसी घी गर्म करें। धीमी आंच पर मूंगफली को चटकने और करारी होने तक भूनें। ठंडा होने के बाद खलबत्ते में दरदरा कूट लें (मिक्सी में पाउडर बिल्कुल न बनाएं, कुरकुरापन जरूरी है)।",
+    "एक बाउल में 1 कप गाढ़ा दही फेंटें। इसमें कद्दूकस किया खीरा, बारीक हरी मिर्च, सेंधा नमक, चीनी, भुना जीरा पाउडर और हरा धनिया मिलाएं। फ्रिज में ठंडा होने के लिए रख दें।",
+    "परात में 3 कद्दूकस किए उबले आलू लें। इसमें सेंधा नमक, चीनी, काली मिर्च, जीरा, कद्दूकस अदरक और सूखा भीगा साबूदाना डालें। 2-3 मिनट आटे की तरह अच्छी तरह मसलें ताकि आलू और साबूदाना आपस में बंध जाएं। अब हरी मिर्च, हरा धनिया, नींबू रस और दरदरी मूंगफली डालकर सख्त और सूखा आटा तैयार करें।",
+    "हाथों पर हल्का घी लगाएं। मिश्रण से मध्यम आकार के वड़े बनाएं—किनारे पतले और चपटे रखें और बीच से हल्का सा ही मोटा रखें। वड़ों को प्लेट पर रखकर 5 से 10 मिनट खुली हवा में सूखने दें। इससे ऊपरी स्टार्च सूखकर एक लेयर बना लेता है जिससे वड़े तलते समय बिल्कुल तेल नहीं पीते।",
+    "कड़ाही में तेल अच्छा गर्म करें (लगभग 180°C)। मध्यम आंच पर वड़ों को डालें और पहले 2 मिनट बिल्कुल न छुएं। जब नीचे से परत सख्त हो जाए, तब पलटें। जब वड़े अंदर तक पक जाते हैं, वे तेल में ऊपर तैरने लगते हैं।",
+    "दोनों तरफ से सुनहरा और कुरकुरा होने पर छलनी से निकालें। गरमा-गरम कुरकुरे साबूदाना वड़ों को ठंडी-ठंडी खीरा-दही की चटनी के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "Never soak sabudana submerged under water for hours. Just 5 minutes in water followed by complete draining leaves enough surface moisture for it to blossom softly without waterlogging.",
+    "Never use more than 3 medium potatoes per 1 cup sabudana. Too much potato causes the mixture to become mushy and soak up oil during frying.",
+    "Letting the shaped patties rest uncovered for 5-10 minutes forms an air-dried starch film that is the ultimate secret to crisp, oil-free crusts."
+  ],
+  "chef_tips_hi": [
+    "साबूदाने को घंटों पानी में डुबोकर न रखें। 5 मिनट पानी में रखकर पूरा पानी छान दें, बची हुई नमी से साबूदाना बिना गीला हुए एकदम नरम फूलता है।",
+    "1 कप साबूदाने में 3 मध्यम आलू से ज्यादा न डालें। ज्यादा आलू डालने से वड़ा तेल पीने लगता है और नरम पड़ जाता है।",
+    "बने हुए वड़ों को तलने से पहले 5-10 मिनट पंखे की हवा में सूखने दें, इससे ऊपरी सतह पर तेल नहीं चिपकता।"
+  ],
+  "tags": [
+    "Sabudana Vada",
+    "Vrat Special",
+    "Crispy Snacks",
+    "Fasting Recipe",
+    "Vegetarian"
+  ]
+}

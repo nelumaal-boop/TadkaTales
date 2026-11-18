@@ -1,0 +1,251 @@
+{
+  "id": "danedar-pan-veg-matar-pulao",
+  "title_en": "One-Pan Danedar Veg Matar Pulao (Non-Sticky Fluffy Rice)",
+  "title_hi": "पैन में दानेदार वेज मटर पुलाव (खिला-खिला रेस्टोरेंट स्टाइल)",
+  "title": {
+    "en": "One-Pan Danedar Veg Matar Pulao (Non-Sticky Fluffy Rice)",
+    "hi": "पैन में दानेदार वेज मटर पुलाव (खिला-खिला रेस्टोरेंट स्टाइल)"
+  },
+  "description_en": "A quick, aromatic one-pan vegetable and green peas pulao featuring long, feather-light, separate grains of aged Basmati rice. Gently bloomed with whole royal spices in pure desi ghee, tossed with sweet peas, crunchy carrots, and beans, and cooked to fluffy perfection in a skillet without a pressure cooker.",
+  "description_hi": "पैन या कड़ाही में बिना कुकर के बनने वाला एकदम खिला-खिला, खुशबूदार और दानेदार वेज मटर पुलाव। शुद्ध देसी घी में खड़े मसालों के तड़के, ताजी हरी मटर, गाजर और बीन्स के साथ धीमी आंच पर दम देकर पकाया गया लंबे बासमती चावल का परफेक्ट पुलाव।",
+  "description": {
+    "en": "A quick, aromatic one-pan vegetable and green peas pulao featuring long, feather-light, separate grains of aged Basmati rice. Gently bloomed with whole royal spices in pure desi ghee, tossed with sweet peas, crunchy carrots, and beans, and cooked to fluffy perfection in a skillet without a pressure cooker.",
+    "hi": "पैन या कड़ाही में बिना कुकर के बनने वाला एकदम खिला-खिला, खुशबूदार और दानेदार वेज मटर पुलाव। शुद्ध देसी घी में खड़े मसालों के तड़के, ताजी हरी मटर, गाजर और बीन्स के साथ धीमी आंच पर दम देकर पकाया गया लंबे बासमती चावल का परफेक्ट पुलाव।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cook_time_en": "20 mins",
+  "cook_time_hi": "20 मिनट",
+  "prepTime": "15 mins",
+  "cookTime": "20 mins",
+  "servings_en": "4 servings (4 लोग)",
+  "servings_hi": "4 सर्विंग्स (4 लोग)",
+  "servings": "4 servings",
+  "youtube_id": "iKBcC0X3mwc",
+  "youtubeId": "iKBcC0X3mwc",
+  "youtube_url": "https://youtu.be/iKBcC0X3mwc",
+  "image_url": "https://img.youtube.com/vi/iKBcC0X3mwc/hqdefault.jpg",
+  "tags": [
+    "veg pulao",
+    "matar pulao",
+    "pan pulao",
+    "bharatzkitchen",
+    "basmati rice",
+    "non sticky pulao",
+    "quick lunch",
+    "dinner recipe"
+  ],
+  "ingredients_en": [
+    "1.5 cups Aged Long-Grain Basmati Rice, rinsed and soaked for 25-30 minutes",
+    "2.5 to 2.75 cups Hot Water (exact 1:1.75 ratio for pan cooking)",
+    "2.5 tbsp Pure Desi Ghee (or Cooking Oil)",
+    "1 cup Fresh Green Peas (Matar)",
+    "1/2 cup Carrots (Gajar), diced",
+    "1/2 cup French Beans, chopped into 1/2-inch pieces",
+    "1 Medium Onion, thinly sliced",
+    "1 tbsp Ginger-Garlic Paste (fresh)",
+    "2-3 Fresh Green Chillies, slit lengthwise",
+    "1 tsp Shahi Jeera (or regular cumin seeds)",
+    "1 Bay Leaf (Tejpatta)",
+    "1 Black Cardamom (Badi Elaichi)",
+    "3 Green Cardamoms (Choti Elaichi)",
+    "4-5 Cloves (Laung)",
+    "1 inch Cinnamon Stick (Dalchini)",
+    "1 Star Anise (Chakra Phool)",
+    "1/2 tsp Garam Masala Powder",
+    "1 tsp Lemon Juice (keeps grains fluffy and snow-white)",
+    "1.5 tsp Salt (or to taste)",
+    "2 tbsp Fresh Coriander and Mint Leaves, chopped",
+    "10-12 Cashews (Kaju) and 1 tbsp Raisins (Kishmish), fried in ghee (optional garnish)"
+  ],
+  "ingredients_hi": [
+    "1.5 कप पुराना लंबा बासमती चावल (धोकर 25-30 मिनट पानी में भिगोया हुआ)",
+    "2.5 से 2.75 कप गरम पानी (पैन में पकाने के लिए सटीक 1:1.75 अनुपात)",
+    "2.5 बड़े चम्मच शुद्ध देसी घी (या कुकिंग ऑयल)",
+    "1 कप ताजी हरी मटर",
+    "1/2 कप गाजर (छोटे टुकड़ों में कटी हुई)",
+    "1/2 कप फ्रेंच बीन्स (आधा इंच टुकड़ों में कटी)",
+    "1 मध्यम प्याज (पतला लंबा कटा हुआ)",
+    "1 बड़ा चम्मच ताजा अदरक-लहसुन का पेस्ट",
+    "2-3 हरी मिर्च (लंबाई में कटी हुई)",
+    "1 छोटा चम्मच शाही जीरा (या सादा जीरा)",
+    "1 तेजपत्ता",
+    "1 बड़ी इलायची",
+    "3 हरी इलायची",
+    "4-5 लौंग",
+    "1 इंच दालचीनी का टुकड़ा",
+    "1 चक्रफूल (स्टार अनीस)",
+    "1/2 छोटा चम्मच गरम मसाला पाउडर",
+    "1 छोटा चम्मच नींबू का रस (चावल को सफेद व खिला-खिला रखने के लिए)",
+    "1.5 छोटा चम्मच नमक (स्वादानुसार)",
+    "2 बड़े चम्मच ताजा हरा धनिया और पुदीना (बारीक कटा)",
+    "10-12 काजू और 1 बड़ा चम्मच किशमिश (घी में तले हुए - सजावट के लिए)"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Basmati Rice & Ghee (चावल व देसी घी)",
+      "category_hi": "चावल और देसी घी",
+      "items": [
+        {
+          "name_en": "Aged Long-Grain Basmati Rice",
+          "name_hi": "लंबा बासमती चावल",
+          "amount": "1.5 cups (30 मिनट भीगा)"
+        },
+        {
+          "name_en": "Pure Desi Ghee",
+          "name_hi": "शुद्ध देसी घी",
+          "amount": "2.5 tbsp"
+        },
+        {
+          "name_en": "Hot Water",
+          "name_hi": "गरम पानी",
+          "amount": "2.5 to 2.75 cups"
+        }
+      ]
+    },
+    {
+      "category_en": "Whole Spices & Aromatics (खड़े मसाले व तड़का)",
+      "category_hi": "खड़े मसाले व तड़का",
+      "items": [
+        {
+          "name_en": "Shahi Jeera",
+          "name_hi": "शाही जीरा",
+          "amount": "1 tsp"
+        },
+        {
+          "name_en": "Whole Spices (Tejpatta, Elaichi, Dalchini, Laung, Star Anise)",
+          "name_hi": "तेजपत्ता, इलायची, दालचीनी, लौंग, चक्रफूल",
+          "amount": "Whole aromatics"
+        },
+        {
+          "name_en": "Sliced Onion",
+          "name_hi": "पतला लंबा प्याज",
+          "amount": "1 medium"
+        },
+        {
+          "name_en": "Ginger-Garlic Paste",
+          "name_hi": "अदरक-लहसुन पेस्ट",
+          "amount": "1 tbsp"
+        },
+        {
+          "name_en": "Green Chillies",
+          "name_hi": "हरी मिर्च",
+          "amount": "2-3 slit"
+        }
+      ]
+    },
+    {
+      "category_en": "Fresh Vegetables & Seasoning (सब्जियां व मसाले)",
+      "category_hi": "ताजी सब्जियां व मसाले",
+      "items": [
+        {
+          "name_en": "Fresh Green Peas (Matar)",
+          "name_hi": "हरी मटर",
+          "amount": "1 cup"
+        },
+        {
+          "name_en": "Carrots & French Beans",
+          "name_hi": "गाजर और बीन्स",
+          "amount": "1/2 cup each"
+        },
+        {
+          "name_en": "Lemon Juice",
+          "name_hi": "नींबू का रस",
+          "amount": "1 tsp"
+        },
+        {
+          "name_en": "Garam Masala & Salt",
+          "name_hi": "गरम मसाला व नमक",
+          "amount": "To taste"
+        },
+        {
+          "name_en": "Fresh Coriander & Mint",
+          "name_hi": "हरा धनिया व पुदीना",
+          "amount": "2 tbsp"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Soak Basmati Rice: Gently rinse 1.5 cups aged Basmati rice 2-3 times until the water runs clear. Soak in cold water for exactly 25 to 30 minutes. Drain completely in a colander before cooking.",
+    "Bloom Whole Spices in Desi Ghee: In a wide, heavy-bottomed pan or kadhai, heat 2.5 tbsp pure desi ghee on medium heat. Add 1 tsp shahi jeera, 1 bay leaf, 1 star anise, 1 inch cinnamon stick, 1 black cardamom, 3 green cardamoms, and 4-5 cloves. Sauté for 30 seconds until intensely aromatic.",
+    "Sauté Aromatics & Vegetables: Add the thinly sliced onions and sauté for 3-4 minutes until translucent and lightly golden (do not over-brown to preserve the rice's bright color). Add 1 tbsp ginger-garlic paste and slit green chillies; sauté for 1 minute. Add green peas, diced carrots, and chopped beans. Cook for 2 minutes on medium flame.",
+    "Gently Roast the Rice (The Non-Sticky Secret): Add the drained soaked basmati rice into the pan. Very gently stir and roast the rice grains in the fragrant ghee and vegetables for 1 to 2 minutes on low-medium flame. This coats every grain with fat, preventing starches from sticking together.",
+    "Add Hot Water & Seasoning: Pour in 2.5 to 2.75 cups of boiling hot water. Stir in 1.5 tsp salt, 1/2 tsp garam masala, and 1 tsp fresh lemon juice. (Hot water ensures immediate cooking and prevents mushiness; lemon juice keeps grains fluffy and firm).",
+    "High Flame Boil (Stage 1): Cook uncovered on medium-high heat for 4-5 minutes until the water reduces, bubble craters appear on the rice surface, and about 80% of the liquid has absorbed.",
+    "Dum Steam Cooking (Stage 2): Immediately cover the pan with a tight-fitting lid. Reduce the heat to the absolute lowest setting. Let it cook on dum for 8 to 10 minutes undisturbed.",
+    "Rest and Fluff: Turn off heat. DO NOT open the lid immediately—let it rest for 10 minutes in its own trapped steam. Open the lid, garnish with chopped coriander, mint, and fried cashews. Gently fluff the grains from the edges using a fork. Every grain will stand tall, separate, and exquisitely aromatic!"
+  ],
+  "instructions_hi": [
+    "चावल धोना और भिगोना: 1.5 कप लंबे बासमती चावल को हल्के हाथों से 2-3 बार धो लें। इसे 25-30 मिनट के लिए साफ पानी में भिगो दें। पकाने से पहले छलनी में छानकर पूरा पानी निकाल लें।",
+    "देसी घी में खड़े मसालों का तड़का: एक चौड़े भारी तले वाले पैन या कड़ाही में 2.5 बड़े चम्मच देसी घी गरम करें। इसमें शाही जीरा, तेजपत्ता, चक्रफूल, दालचीनी, बड़ी इलायची, हरी इलायची और लौंग डालकर 30 सेकंड धीमी आंच पर चटकाएं।",
+    "प्याज और सब्जियां भूनना: पतला लंबा कटा प्याज डालें और मध्यम आंच पर 3-4 मिनट हल्का सुनहरा होने तक भूनें (ज्यादा लाल न करें ताकि पुलाव का रंग साफ रहे)। अब अदरक-लहसुन पेस्ट और हरी मिर्च डालकर 1 मिनट भूनें। इसके बाद मटर, गाजर और बीन्स डालकर 2 मिनट चलाएं।",
+    "चावल को घी में भूनना (खिले-खिले दाने का राज): छाना हुआ बासमती चावल पैन में डालें। हल्के हाथों से चावल को सब्जियों और घी के साथ 1-2 मिनट धीमी आंच पर भूनें। घी की परत चढ़ने से चावल के दाने आपस में कभी चिपकते नहीं हैं।",
+    "उबलता पानी और नींबू का रस: अब इसमें 2.5 से 2.75 कप खौलता हुआ गरम पानी डालें। साथ ही 1.5 चम्मच नमक, 1/2 चम्मच गरम मसाला और 1 चम्मच नींबू का रस मिलाएं। (गरम पानी से चावल तुरंत पकता है और गलता नहीं; नींबू से दाने सफेद और खिले रहते हैं)।",
+    "खुला उबालना (पहला चरण): तेज-मध्यम आंच पर बिना ढके 4-5 मिनट तक उबालें जब तक कि 80% पानी सूख न जाए और चावल के ऊपर छोटे-छोटे गड्ढे (क्रेटर) दिखने लगें।",
+    "धीमी आंच पर दम (दूसरा चरण): पैन को टाइट ढक्कन से ढक दें। आंच को एकदम धीमा (लोएस्ट) कर दें और 8-10 मिनट तक धीमी भाप (दम) में पकने दें।",
+    "रेस्ट देना और कांटे से खोलना: गैस बंद करें। ढक्कन तुरंत न खोलें—10 मिनट अपनी भाप में ही रहने दें। फिर ढक्कन हटाएं, हरा धनिया, पुदीना और तले काजू डालें। कांटे (फोर्क) से किनारे से चावल को हल्के हाथ से खोलें। एक-एक दाना लंबा और मोतियों जैसा अलग-अलग खिला मिलेगा!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Soaking & Draining Basmati",
+      "title_hi": "चावल भिगोना व छानना",
+      "instruction_en": "Rinse 1.5 cups aged Basmati rice gently and soak for 25-30 minutes. Drain completely in a sieve.",
+      "instruction_hi": "बासमती चावल को धोकर 30 मिनट भिगोएं और पकाने से पहले पूरा पानी छान लें।"
+    },
+    {
+      "step": 2,
+      "title_en": "Tempering Whole Spices in Ghee",
+      "title_hi": "देसी घी में मसालों का तड़का",
+      "instruction_en": "Heat 2.5 tbsp ghee in a pan. Sauté shahi jeera, bay leaf, cardamom, cinnamon, cloves, and star anise.",
+      "instruction_hi": "पैन में 2.5 चम्मच देसी घी गरम करें और शाही जीरा व खड़े मसाले चटकाएं।"
+    },
+    {
+      "step": 3,
+      "title_en": "Sautéing Onions & Veggies",
+      "title_hi": "प्याज व सब्जियां भूनना",
+      "instruction_en": "Sauté sliced onions till light golden, add ginger-garlic paste, then sauté peas, carrots, and beans for 2 minutes.",
+      "instruction_hi": "प्याज को हल्का सुनहरा भूनें, अदरक-लहसुन पेस्ट और मटर, गाजर, बीन्स डालकर 2 मिनट चलाएं।"
+    },
+    {
+      "step": 4,
+      "title_en": "Ghee-Coating the Rice Grains",
+      "title_hi": "चावल पर घी की कोटिंग",
+      "instruction_en": "Fold drained rice into the pan and gently sauté in ghee for 1-2 minutes to seal starches and prevent sticking.",
+      "instruction_hi": "भीगे चावल को पैन में डालें और 1-2 मिनट घी में हल्के हाथों से भूनें ताकि दाने खिले रहें।"
+    },
+    {
+      "step": 5,
+      "title_en": "Adding Hot Water, Salt & Lemon",
+      "title_hi": "गरम पानी व नींबू का रस",
+      "instruction_en": "Add 2.5 cups boiling water, salt, garam masala, and lemon juice. Boil uncovered until 80% water absorbs.",
+      "instruction_hi": "खौलता पानी, नमक, गरम मसाला और नींबू का रस डालकर तेज आंच पर पानी सूखने तक उबालें।"
+    },
+    {
+      "step": 6,
+      "title_en": "Low Heat Dum & Fork Fluffing",
+      "title_hi": "धीमी आंच पर दम और खोलना",
+      "instruction_en": "Cover tightly and steam on lowest flame for 8-10 mins. Rest for 10 mins off heat, then fluff gently with a fork.",
+      "instruction_hi": "ढककर 8-10 मिनट धीमी आंच पर दम दें, 10 मिनट रेस्ट दें और कांटे से हल्के हाथों से खोलें।"
+    }
+  ],
+  "chef_tips_en": [
+    "The 1 to 1.75 Water Ratio for Pans: In an open pan/skillet, evaporation occurs faster than in a pressure cooker. For 1.5 cups of soaked aged basmati rice, use exactly 2.5 to 2.75 cups of boiling water. Never use cold water, as cold water shocks the rice and turns it mushy.",
+    "Sautéing Rice in Ghee (Fat Barrier): Sautéing the drained rice in ghee for 90 seconds creates a protective lipid barrier around each grain, preventing excess starch discharge and ensuring individual separation.",
+    "Lemon Juice for Long, White Grains: Adding 1 teaspoon of lemon juice does not make the pulao sour; instead, the mild acidity strengthens the rice starch structure, resulting in strikingly white, elongated, non-fragile grains.",
+    "The 10-Minute Resting Rule: The most crucial step of pulao making is the 10-minute rest AFTER turning off the heat. Opening or stirring hot rice immediately will break the delicate, steaming grains."
+  ],
+  "chef_tips_hi": [
+    "पैन के लिए 1:1.75 पानी का सही अनुपात: कड़ाही या पैन में कुकर से ज्यादा भाप उड़ती है। 1.5 कप भीगे पुराने चावल के लिए ठीक 2.5 से 2.75 कप खौलता गरम पानी डालें। कभी भी ठंडा पानी न डालें वरना चावल चिपचिपा हो जाएगा।",
+    "चावल को घी में भूनने का लाभ: भीगे चावल को 1-2 मिनट घी में हल्का भूनने से हर दाने पर घी की परत चढ़ जाती है, जिससे स्टार्च बाहर नहीं निकलता और पुलाव एकदम दानेदार बनता है।",
+    "नींबू के रस का जादुई असर: 1 चम्मच नींबू का रस डालने से पुलाव खट्टा नहीं होता, बल्कि चावल का दाना एकदम दूध जैसा सफेद और लंबा खिलता है और पकते समय टूटता नहीं है।",
+    "10 मिनट रेस्ट देने का नियम: गैस बंद करने के बाद कम से कम 10 मिनट ढक्कन बिल्कुल न खोलें। भाप शांत होने के बाद ही कांटे (फोर्क) से खोलें, तुरंत कलछी चलाने से दाने टूट जाएंगे।"
+  ]
+}

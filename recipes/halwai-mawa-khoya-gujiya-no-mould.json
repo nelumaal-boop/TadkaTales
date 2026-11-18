@@ -1,0 +1,222 @@
+{
+  "id": "halwai-mawa-khoya-gujiya-no-mould",
+  "title_en": "Crispy Mawa Khoya Gujiya (Without Mould / बिना सांचा के)",
+  "title_hi": "खोया मावा की सबसे आसान खस्ता गुजिया (बिना सांचा के)",
+  "title": {
+    "en": "Crispy Mawa Khoya Gujiya (Without Mould / बिना सांचा के)",
+    "hi": "खोया मावा की सबसे आसान खस्ता गुजिया (बिना सांचा के)"
+  },
+  "description_en": "The quintessential Indian festive delicacy! Halwai-style flaky, golden crescent pastries stuffed with roasted rich mawa (khoya), grated dry coconut, dry fruits, and fragrant cardamom. Hand-crafted effortlessly without any mould using a smart fork-sealing technique.",
+  "description_hi": "होली और त्योहारों की सबसे लोकप्रिय पारंपरिक मिठाई! बिना किसी सांचे के कांटे (fork) की मदद से बनाई गई हलवाई जैसी खस्ता और कुरकुरी गुजिया। भुने हुए खोया-मावा, सूखे मेवे, नारियल और इलायची की शाही फीलिंग से भरपूर, जो मुंह में जाते ही घुल जाए।",
+  "description": {
+    "en": "The quintessential Indian festive delicacy! Halwai-style flaky, golden crescent pastries stuffed with roasted rich mawa (khoya), grated dry coconut, dry fruits, and fragrant cardamom. Hand-crafted effortlessly without any mould using a smart fork-sealing technique.",
+    "hi": "होली और त्योहारों की सबसे लोकप्रिय पारंपरिक मिठाई! बिना किसी सांचे के कांटे (fork) की मदद से बनाई गई हलवाई जैसी खस्ता और कुरकुरी गुजिया। भुने हुए खोया-मावा, सूखे मेवे, नारियल और इलायची की शाही फीलिंग से भरपूर, जो मुंह में जाते ही घुल जाए।"
+  },
+  "category": "Desserts",
+  "diet": "Vegetarian",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "prep_time_en": "30 mins",
+  "prep_time_hi": "30 मिनट",
+  "cook_time_en": "20 mins",
+  "cook_time_hi": "20 मिनट",
+  "prepTime": "30 mins",
+  "cookTime": "20 mins",
+  "servings_en": "15-17 pieces",
+  "servings_hi": "15-17 गुजिया",
+  "servings": 6,
+  "youtube_id": "Jj3EN6D08Ac",
+  "youtubeId": "Jj3EN6D08Ac",
+  "youtube_url": "https://youtu.be/Jj3EN6D08Ac",
+  "image_url": "/static/images/Jj3EN6D08Ac.jpg",
+  "tags": [
+    "Gujiya",
+    "Mawa Gujiya",
+    "Khoya Gujiya",
+    "Holi Special",
+    "Diwali Special",
+    "Indian Sweets",
+    "Desserts",
+    "Kabitaskitchen",
+    "Vegetarian"
+  ],
+  "ingredients_en": [
+    "2 cups All-Purpose Flour (Maida) - 250g",
+    "4 tbsp Pure Desi Ghee (melted warm, for moyan)",
+    "Water as needed for stiff dough (about 1/2 cup)",
+    "250g Fresh Mawa / Khoya",
+    "1 tsp Desi Ghee (for roasting mawa)",
+    "1/5 cup Grated Dry Coconut (Desiccated Coconut)",
+    "1 tbsp Cashews and Almonds, finely chopped",
+    "1 tbsp Pistachios, finely chopped",
+    "1 tsp Green Cardamom Powder (Elaichi)",
+    "2 to 3 tbsp Powdered Sugar (Bura / Icing Sugar)",
+    "Cooking Oil or Ghee for deep frying",
+    "Water for sealing edges"
+  ],
+  "ingredients_hi": [
+    "2 कप मैदा (लगभग 250 ग्राम)",
+    "4 बड़े चम्मच शुद्ध देसी घी (मोयन हेतु पिघला हुआ)",
+    "सख्त आटा गूंथने हेतु पानी (लगभग 1/2 कप)",
+    "250 ग्राम ताजा मावा / खोया",
+    "1 छोटा चम्मच देसी घी (मावा भूनने हेतु)",
+    "1/5 कप कद्दूकस सूखा नारियल (लगभग 3 बड़े चम्मच)",
+    "1 बड़ा चम्मच बारीक कटे काजू व बादाम",
+    "1 बड़ा चम्मच बारीक कटा पिस्ता",
+    "1 छोटा चम्मच हरी इलायची पाउडर",
+    "2 से 3 बड़े चम्मच पिसी हुई चीनी या बूरा",
+    "तलने के लिए तेल या घी",
+    "किनारों को सील करने के लिए थोड़ा पानी"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Flaky Pastry Dough (खस्ता गुजिया का आटा)",
+      "category_hi": "खस्ता गुजिया का आटा",
+      "items": [
+        {
+          "name_en": "All-Purpose Flour (Maida)",
+          "name_hi": "मैदा",
+          "amount": "2 cups (250g)"
+        },
+        {
+          "name_en": "Pure Desi Ghee (Moyaan)",
+          "name_hi": "शुद्ध देसी घी (मोयन)",
+          "amount": "4 tbsp"
+        },
+        {
+          "name_en": "Water (for kneading)",
+          "name_hi": "पानी",
+          "amount": "Approx 1/2 cup"
+        }
+      ]
+    },
+    {
+      "category_en": "Rich Mawa & Nut Filling (शाही मावा व मेवा भरावन)",
+      "category_hi": "शाही मावा व मेवा भरावन",
+      "items": [
+        {
+          "name_en": "Fresh Khoya / Mawa",
+          "name_hi": "ताजा मावा/खोया",
+          "amount": "250g"
+        },
+        {
+          "name_en": "Grated Dry Coconut",
+          "name_hi": "कद्दूकस सूखा नारियल",
+          "amount": "1/5 cup"
+        },
+        {
+          "name_en": "Cashews, Almonds & Pistachios",
+          "name_hi": "काजू, बादाम व पिस्ता कतरन",
+          "amount": "2 tbsp mixed"
+        },
+        {
+          "name_en": "Cardamom Powder",
+          "name_hi": "इलायची पाउडर",
+          "amount": "1 tsp"
+        },
+        {
+          "name_en": "Powdered Sugar / Bura",
+          "name_hi": "पिसी चीनी या बूरा",
+          "amount": "2-3 tbsp"
+        }
+      ]
+    },
+    {
+      "category_en": "Shaping & Frying (सील करने व तलने हेतु)",
+      "category_hi": "सील करने व तलने हेतु",
+      "items": [
+        {
+          "name_en": "Cooking Oil / Ghee",
+          "name_hi": "तेल या घी",
+          "amount": "For deep frying"
+        },
+        {
+          "name_en": "Water",
+          "name_hi": "पानी (सील हेतु)",
+          "amount": "2 tbsp"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Moyaan in Maida: In a mixing bowl, combine 2 cups all-purpose flour (maida) and 4 tbsp warm melted desi ghee. Rub the flour and ghee between your palms for 2 minutes until it looks like breadcrumbs and holds together in a firm ball when pressed in your palm.",
+    "Knead Stiff Dough: Gradually add water in small splashes and knead into a firm, stiff dough (stiffer than chapati dough). Cover with a damp cloth and rest for 20 minutes.",
+    "Roast Mawa: Heat 1 tsp ghee in a pan over low flame. Crumble 250g khoya/mawa and roast for 4-5 minutes, stirring continuously, until soft, light pinkish, and aromatic. Transfer to a bowl and let it cool completely to room temperature.",
+    "Prepare Stuffing: Once the mawa is completely cool, add 1/5 cup grated dry coconut, 1 tbsp chopped cashews and almonds, 1 tbsp chopped pistachios, 1 tsp green cardamom powder, and 2-3 tbsp powdered sugar. Mix well with your fingers into a crumbly, fragrant stuffing. (Do NOT add sugar to warm mawa).",
+    "Roll Thin Circles: Pinch small lemon-sized balls from the rested dough. Roll each into a smooth ball and roll out on a board into a thin circular disc (about 4 inches wide) with edges slightly thinner than the center.",
+    "Stuff & Seal with Fork (No Mould Needed): Place 1 to 1.5 tsp of mawa filling on one half of the rolled circle. Dab a light film of water along the outer edges with your fingertip. Fold the circle into a semi-circle crescent, pressing the edges firmly to lock in air. Press the tines of a fork firmly along the sealed curved edge to create a decorative, leak-proof crimp pattern. Keep prepared gujiyas covered under a damp cloth.",
+    "Fry on Gentle Heat: Heat oil or ghee in a deep kadai over low-medium flame (moderately warm, not hot). Gently slide in 4-5 gujiyas. Fry on low flame for 10-12 minutes, turning them delicately with a slotted spoon until uniformly golden and blister-free crisp. Drain on paper towels and let cool completely before storing in an airtight box!"
+  ],
+  "instructions_hi": [
+    "मैदे में मोयन लगाना: एक बड़े बाउल में 2 कप मैदा और 4 बड़े चम्मच पिघला देसी घी डालें। दोनों हथेलियों से 2 मिनट तक अच्छे से रगड़ें ताकि घी मैदे के हर कण में मिल जाए और मुट्ठी बांधने पर बंधने लगे।",
+    "सख्त आटा गूंथना: थोड़ा-थोड़ा पानी डालते हुए पूरी जैसा सख्त आटा गूंथ लें। गीले कपड़े से ढककर 20 मिनट के लिए रख दें ताकि ग्लूटेन रिलैक्स हो जाए।",
+    "मावा भूनना: पैन में 1 छोटा चम्मच घी गरम करें। 250 ग्राम मावा तोड़कर डालें और धीमी आंच पर 4-5 मिनट लगातार चलाते हुए हल्का गुलाबी होने तक भूनें। एक प्लेट में निकालें और पूरी तरह ठंडा होने दें।",
+    "शाही भरावन तैयार करना: जब मावा बिल्कुल ठंडा हो जाए, तब इसमें 1/5 कप कद्दूकस सूखा नारियल, बारीक कटे काजू, बादाम, पिस्ता, 1 छोटा चम्मच इलायची पाउडर और 2-3 बड़े चम्मच पिसी चीनी मिलाएं। हाथों से मिलाकर एकसार करें। (गरम मावे में चीनी कभी न डालें)।",
+    "पतली पूरियां बेलना: आटे की छोटी-छोटी नींबू के आकार की लोइयां तोड़ें। चिकना पेड़ा बनाकर चकले पर 4 इंच की पतली पूरी बेलें (किनारे थोड़े पतले रखें)।",
+    "बिना सांचे के भरना व कांटे से सील करना: पूरी के आधे हिस्से पर 1 से 1.5 चम्मच मावा भरावन रखें। उंगली से किनारों पर हल्का सा पानी लगाएं। पूरी को मोड़कर अर्धचंद्राकार बनाएं और किनारों को उंगलियों से अच्छे से दबाकर चिपका दें। अब एक कांटे (Fork) से दबाकर सुंदर डिजाइन बनाएं जिससे गुजिया बिल्कुल सील हो जाएगी। तैयार गुजिया को गीले कपड़े से ढककर रखें।",
+    "धीमी आंच पर तलना: कड़ाही में तेल या घी मध्यम-धीमी आंच पर गरम करें (तेल ज्यादा गरम नहीं होना चाहिए)। 4-5 गुजिया डालें और धीमी आंच पर 10-12 मिनट तक उलट-पलट कर सुनहरा व क्रिस्पी होने तक तलें। जाली पर निकालें और ठंडा करके एयरटाइट डिब्बे में रखें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Rub Ghee Moyaan into Flour",
+      "title_hi": "मैदे में घी का मोयन लगाना",
+      "instruction_en": "Rub 4 tbsp warm ghee into 2 cups maida between palms until mixture holds form when pressed in fist.",
+      "instruction_hi": "मैदे में 4 चम्मच पिघला घी डालकर हथेलियों से रगड़ें जब तक मुट्ठी न बंधने लगे।"
+    },
+    {
+      "step": 2,
+      "title_en": "Knead Firm Stiff Dough",
+      "title_hi": "सख्त आटा गूंथना व ढकना",
+      "instruction_en": "Add water gradually and knead into a firm, stiff dough. Cover with damp cloth and rest 20 mins.",
+      "instruction_hi": "पानी से सख्त आटा गूंथें और गीले कपड़े से ढककर 20 मिनट रखें।"
+    },
+    {
+      "step": 3,
+      "title_en": "Roast Khoya on Gentle Flame",
+      "title_hi": "धीमी आंच पर मावा भूनना",
+      "instruction_en": "Roast 250g crumbled khoya in 1 tsp ghee on low flame for 4-5 mins until light pink. Cool completely.",
+      "instruction_hi": "मावे को 1 चम्मच घी में 4-5 मिनट हल्का गुलाबी भूनें और पूरी तरह ठंडा करें।"
+    },
+    {
+      "step": 4,
+      "title_en": "Combine Dry Fruits, Sugar & Spices",
+      "title_hi": "नारियल, मेवे व चीनी मिलाना",
+      "instruction_en": "Mix cooled mawa with coconut, nuts, cardamom, and powdered sugar into a fragrant crumbly stuffing.",
+      "instruction_hi": "ठंडे मावे में सूखा नारियल, कटे मेवे, इलायची और पिसी चीनी मिलाकर भरावन तैयार करें।"
+    },
+    {
+      "step": 5,
+      "title_en": "Roll Thin Circular Discs",
+      "title_hi": "पतली पूरियां बेलना",
+      "instruction_en": "Pinch small balls and roll into thin 4-inch round circles with edges slightly thinner than center.",
+      "instruction_hi": "लोइयां बनाकर 4 इंच की पतली गोल पूरियां बेल लें।"
+    },
+    {
+      "step": 6,
+      "title_en": "Fork Crimp & Seal Without Mould",
+      "title_hi": "कांटे से किनारों को सील करना",
+      "instruction_en": "Place filling, apply water to rim, fold crescent, and press edges firmly with fork tines to seal decoratively.",
+      "instruction_hi": "भरावन भरकर किनारों पर पानी लगाएं, मोड़कर दबाएं और कांटे से दबाकर सील करें।"
+    },
+    {
+      "step": 7,
+      "title_en": "Fry on Low Heat to Golden Flakiness",
+      "title_hi": "धीमी आंच पर सुनहरा तलना",
+      "instruction_en": "Fry in moderately warm oil on low flame for 10-12 mins until evenly golden and blister-free crisp.",
+      "instruction_hi": "धीमी आंच पर 10-12 मिनट तलें जब तक गुजिया बिना फफोले के सुनहरी व खस्ता न हो जाए।"
+    }
+  ],
+  "chef_tips_en": [
+    "Cool Mawa Before Adding Sugar: Always allow roasted mawa to cool down completely before mixing in powdered sugar. Mixing sugar into warm khoya melts it into sticky water that leaks during frying.",
+    "Water Rim & Fork Crimp: Applying a thin film of water on the edges creates a tight seal. Pressing with fork tines ensures zero oil leakage without requiring any plastic mould.",
+    "Low-Flame Patience for Smooth Halwai Crust: Never fry in smoking hot oil. Frying gently on low heat prevents ugly surface blisters and delivers a flaky, melt-in-mouth bakery texture."
+  ],
+  "chef_tips_hi": [
+    "मावा पूरी तरह ठंडा करें: भुने हुए मावे को हमेशा पूरी तरह ठंडा होने के बाद ही चीनी मिलाएं। गरम मावे में चीनी डालने से वह पिघलकर पतली हो जाएगी और तलते समय बाहर बहने लगेगी।",
+    "पानी से सील व कांटे का डिजाइन: किनारों पर हल्का पानी लगाकर दबाने और कांटे से डिजाइन बनाने से गुजिया तेल में कभी नहीं खुलती और सांचे की जरूरत नहीं पड़ती।",
+    "धीमी आंच पर तलना: तेज गरम तेल में तलने से गुजिया पर फफोले पड़ जाते हैं और मैदा अंदर से कच्चा रह जाता है। धीमी आंच पर तलने से एकदम चिकनी और खस्ता हलवाई जैसी गुजिया बनती है।"
+  ]
+}

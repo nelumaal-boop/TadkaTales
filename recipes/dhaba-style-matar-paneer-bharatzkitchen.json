@@ -1,0 +1,255 @@
+{
+  "id": "dhaba-style-matar-paneer-bharatzkitchen",
+  "title_en": "Ultimate Dhaba Style Matar Paneer (Better than Restaurant)",
+  "title_hi": "ढाबा स्टाइल मटर पनीर (रेस्टोरेंट से भी ज्यादा स्वादिष्ट)",
+  "title": {
+    "en": "Ultimate Dhaba Style Matar Paneer (Better than Restaurant)",
+    "hi": "ढाबा स्टाइल मटर पनीर (रेस्टोरेंट से भी ज्यादा स्वादिष्ट)"
+  },
+  "description_en": "The definitive roadside dhaba-style Matar Paneer perfected with a vibrant scarlet tomato-red chilli puree, rich onion-curd bhunai, succulent paneer cubes, and aromatic kasuri methi.",
+  "description_hi": "हाईवे ढाबा स्टाइल मटर पनीर की सबसे स्वादिष्ट रेसिपी! हाइब्रिड टमाटर और साबुत लाल मिर्च की प्यूरी, दही-प्याज की भुनाई और मखमली पनीर के टुकड़ों के साथ तैयार, जो हर रेस्टोरेंट के स्वाद को पीछे छोड़ दे।",
+  "description": {
+    "en": "The definitive roadside dhaba-style Matar Paneer perfected with a vibrant scarlet tomato-red chilli puree, rich onion-curd bhunai, succulent paneer cubes, and aromatic kasuri methi.",
+    "hi": "हाईवे ढाबा स्टाइल मटर पनीर की सबसे स्वादिष्ट रेसिपी! हाइब्रिड टमाटर और साबुत लाल मिर्च की प्यूरी, दही-प्याज की भुनाई और मखमली पनीर के टुकड़ों के साथ तैयार, जो हर रेस्टोरेंट के स्वाद को पीछे छोड़ दे।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Vegetarian",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "सरल",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cook_time_en": "25 mins",
+  "cook_time_hi": "25 मिनट",
+  "prepTime": "15 mins",
+  "cookTime": "25 mins",
+  "servings_en": "5-6 servings",
+  "servings_hi": "5-6 लोग",
+  "servings": 5,
+  "youtube_id": "yV3FkP_bcRc",
+  "youtubeId": "yV3FkP_bcRc",
+  "youtube_url": "https://youtu.be/yV3FkP_bcRc",
+  "image_url": "/static/images/yV3FkP_bcRc.jpg",
+  "tags": [
+    "Matar Paneer",
+    "Paneer",
+    "Dhaba Style",
+    "Main Course",
+    "Curry",
+    "North Indian",
+    "Bharatzkitchen",
+    "Vegetarian"
+  ],
+  "ingredients_en": [
+    "500g Fresh Paneer, cut into medium cubes",
+    "1.5 cups Green Peas (Matar - fresh or frozen)",
+    "7 Hybrid Tomatoes (mild and juicy)",
+    "4 Dried Whole Red Chillies, soaked in warm water",
+    "3 medium Onions, finely chopped",
+    "3-4 tbsp Cooking Oil (for proper dhaba bhunai)",
+    "1 tsp Cumin Seeds (Jeera)",
+    "10 Garlic Cloves, finely minced",
+    "2 inches Fresh Ginger, finely minced",
+    "2 tbsp Fresh Coriander Stems, finely chopped",
+    "2-3 tbsp Fresh Curd (Dahi), whisked smooth",
+    "1/2 tsp Turmeric Powder (Haldi)",
+    "1 tsp Kashmiri Red Chilli Powder",
+    "1 tbsp Coriander Powder (Dhaniya)",
+    "1 tsp Garam Masala Powder",
+    "1 tbsp Kasuri Methi, gently roasted and crushed",
+    "1 to 1.5 cups Water (adjust for desired gravy consistency)",
+    "1 tsp Salt (to taste)",
+    "3 tbsp Fresh Coriander Leaves, chopped"
+  ],
+  "ingredients_hi": [
+    "500 ग्राम ताजा पनीर (मध्यम क्यूब्स में कटा)",
+    "1.5 कप हरी मटर (ताजी या फ्रोजन)",
+    "7 हाइब्रिड टमाटर (रसीले व कम खट्टे)",
+    "4 साबुत सूखी लाल मिर्च (गुनगुने पानी में भीगी)",
+    "3 मध्यम प्याज (बारीक कटे)",
+    "3-4 बड़े चम्मच खाना पकाने का तेल (ढाबा स्टाइल भुनाई हेतु)",
+    "1 छोटा चम्मच जीरा",
+    "10 लहसुन की कलियां (बारीक कटी/कुटी)",
+    "2 इंच अदरक (बारीक कटा/कुटा)",
+    "2 बड़े चम्मच हरे धनिए के डंठल (बारीक कटे)",
+    "2-3 बड़े चम्मच ताजा दही (अच्छी तरह फेंटा हुआ)",
+    "1/2 छोटा चम्मच हल्दी पाउडर",
+    "1 छोटा चम्मच कश्मीरी लाल मिर्च पाउडर",
+    "1 बड़ा चम्मच धनिया पाउडर",
+    "1 छोटा चम्मच गरम मसाला पाउडर",
+    "1 बड़ा चम्मच भुनी कसूरी मेथी (क्रश की हुई)",
+    "1 से 1.5 कप पानी (ग्रेवी अनुसार)",
+    "1 छोटा चम्मच नमक (स्वादानुसार)",
+    "3 बड़े चम्मच हरा धनिया (बारीक कटा)"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Scarlet Tomato & Chilli Puree (लाल टमाटर व साबुत मिर्च पेस्ट)",
+      "category_hi": "लाल टमाटर व साबुत मिर्च पेस्ट",
+      "items": [
+        {
+          "name_en": "Hybrid Tomatoes",
+          "name_hi": "हाइब्रिड टमाटर",
+          "amount": "7 medium"
+        },
+        {
+          "name_en": "Dried Whole Red Chillies",
+          "name_hi": "साबुत सूखी लाल मिर्च",
+          "amount": "4 (soaked)"
+        }
+      ]
+    },
+    {
+      "category_en": "Golden Onion & Tadka Base (तड़का व भुना प्याज बेस)",
+      "category_hi": "तड़का व भुना प्याज बेस",
+      "items": [
+        {
+          "name_en": "Cooking Oil",
+          "name_hi": "तेल",
+          "amount": "3-4 tbsp"
+        },
+        {
+          "name_en": "Cumin Seeds (Jeera)",
+          "name_hi": "जीरा",
+          "amount": "1 tsp"
+        },
+        {
+          "name_en": "Onions",
+          "name_hi": "बारीक कटा प्याज",
+          "amount": "3 medium"
+        },
+        {
+          "name_en": "Garlic & Ginger (Minced)",
+          "name_hi": "लहसुन व अदरक",
+          "amount": "10 cloves + 2 inch"
+        },
+        {
+          "name_en": "Coriander Stems",
+          "name_hi": "हरे धनिए के डंठल",
+          "amount": "2 tbsp"
+        }
+      ]
+    },
+    {
+      "category_en": "Spices, Curd & Main Produce (मसाले, दही, पनीर व मटर)",
+      "category_hi": "मसाले, दही, पनीर व मटर",
+      "items": [
+        {
+          "name_en": "Fresh Whisked Curd",
+          "name_hi": "फेंटा हुआ ताजा दही",
+          "amount": "2-3 tbsp"
+        },
+        {
+          "name_en": "Turmeric, Chilli & Coriander Powder",
+          "name_hi": "हल्दी, मिर्च व धनिया पाउडर",
+          "amount": "1/2 tsp + 1 tsp + 1 tbsp"
+        },
+        {
+          "name_en": "Green Peas (Matar)",
+          "name_hi": "हरी मटर",
+          "amount": "1.5 cups"
+        },
+        {
+          "name_en": "Fresh Paneer Cubes",
+          "name_hi": "ताजा पनीर",
+          "amount": "500g"
+        },
+        {
+          "name_en": "Garam Masala & Kasuri Methi",
+          "name_hi": "गरम मसाला व कसूरी मेथी",
+          "amount": "1 tsp + 1 tbsp"
+        },
+        {
+          "name_en": "Water & Salt",
+          "name_hi": "पानी व नमक",
+          "amount": "1.5 cups + 1 tsp"
+        },
+        {
+          "name_en": "Fresh Coriander Leaves",
+          "name_hi": "हरा धनिया",
+          "amount": "3 tbsp"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Puree Tomatoes & Whole Chillies: Soak 4 dried red chillies in hot water for 10 minutes. In a blender, puree the 7 hybrid tomatoes together with the softened chillies into a smooth, brilliant red puree. Set aside.",
+    "Sauté Cumin & Golden Onions: Heat 3-4 tbsp oil in a heavy kadai over medium flame. Add 1 tsp cumin seeds and let them splutter. Add finely chopped onions with a pinch of salt and sauté patiently until deep golden brown.",
+    "Add Ginger, Garlic & Coriander Stems: Add finely minced garlic, ginger, and finely chopped coriander stems. Sauté for 2 minutes on low-medium flame until completely fragrant and no raw smell remains.",
+    "Whisked Curd & Ground Spices Emulsion: Lower heat. Add 1/2 tsp turmeric powder, 1 tsp Kashmiri red chilli powder, and 1 tbsp coriander powder. Stir for 20 seconds. Add 2-3 tbsp whisked curd and stir vigorously without stopping until the curd integrates smoothly and oil starts releasing.",
+    "Bhunao Tomato Puree: Pour in the tomato-chilli puree and 1 tsp salt. Mix well, cover partially, and cook on medium flame for 7-8 minutes. Stir occasionally until the gravy deepens in color and glistening oil separates from the edges.",
+    "Cook Green Peas in Gravy: Add 1.5 cups green peas (matar). Toss for 2 minutes in the roasted masala. Add 1 to 1.5 cups warm water (adjust for desired gravy thickness). Cover and simmer for 5-6 minutes until the peas are sweet and tender.",
+    "Add Paneer & Finishing Touches: Gently add 500g fresh paneer cubes. Sprinkle 1 tsp garam masala powder and 1 tbsp crushed roasted kasuri methi. Simmer on low heat for only 2-3 minutes so the paneer absorbs flavors while staying soft. Garnish with chopped fresh coriander and serve hot with naan, parathas, or jeera rice!"
+  ],
+  "instructions_hi": [
+    "टमाटर व लाल मिर्च पीसना: 4 सूखी लाल मिर्च को 10 मिनट गुनगुने पानी में भिगोएं। मिक्सी में 7 हाइब्रिड टमाटर और भीगी लाल मिर्च को एकदम बारीक पीसकर चमकदार लाल प्यूरी बना लें।",
+    "जीरा व प्याज भूनना: कड़ाही में 3-4 बड़े चम्मच तेल गरम करें। 1 छोटा चम्मच जीरा चटकाएं। बारीक कटा प्याज और चुटकी भर नमक डालकर मध्यम आंच पर गहरा सुनहरा होने तक भूनें।",
+    "अदरक, लहसुन व धनिए के डंठल: बारीक कटा लहसुन, अदरक और धनिए के डंठल मिलाएं। धीमी-मध्यम आंच पर 2 मिनट भूनें ताकि कच्चापन पूरी तरह खत्म हो जाए।",
+    "मसाले व दही की भुनाई: आंच धीमी करें। 1/2 छोटा चम्मच हल्दी, 1 छोटा चम्मच कश्मीरी मिर्च और 1 बड़ा चम्मच धनिया पाउडर डालें। 20 सेकंड चलाएं, फिर 2-3 बड़े चम्मच फेंटा हुआ दही डालें और लगातार तेज चलाएं जब तक मसाले से तेल न छूटने लगे।",
+    "टमाटर प्यूरी की गहरी भुनाई: अब टमाटर-मिर्च की प्यूरी और 1 छोटा चम्मच नमक डालें। मध्यम आंच पर ढककर 7-8 मिनट भूनें जब तक कि मसाला गाढ़ा न हो जाए और सतह पर चमकदार तेल (रोगन) तैरने लगे।",
+    "मटर पकाना: 1.5 कप हरी मटर डालकर 2 मिनट भूनें। फिर 1 से 1.5 कप गर्म पानी डालें। ढककर 5-6 मिनट धीमी आंच पर पकाएं ताकि मटर नरम और मीठी हो जाए।",
+    "पनीर, कसूरी मेथी व धनिया: 500 ग्राम पनीर के क्यूब्स हल्के हाथ से मिलाएं। ऊपर से 1 छोटा चम्मच गरम मसाला और 1 बड़ा चम्मच भुनी कसूरी मेथी क्रश करके डालें। धीमी आंच पर केवल 2-3 मिनट पकाएं ताकि पनीर सॉफ्ट रहे। हरा धनिया डालकर गरमा-गरम नान, पराठे या जीरा राइस के साथ परोसें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Blend Scarlet Tomato-Chilli Puree",
+      "title_hi": "टमाटर-लाल मिर्च प्यूरी बनाना",
+      "instruction_en": "Blend hybrid tomatoes and soaked whole dry red chillies into a smooth, bright red puree.",
+      "instruction_hi": "टमाटर और भीगी सूखी लाल मिर्च को मिक्सी में पीसकर लाल प्यूरी तैयार करें।"
+    },
+    {
+      "step": 2,
+      "title_en": "Brown Onions to Golden Perfection",
+      "title_hi": "प्याज को सुनहरा भूरा भूनना",
+      "instruction_en": "Heat oil in kadai, crackle cumin seeds, and sauté finely chopped onions until golden-brown.",
+      "instruction_hi": "तेल में जीरा चटकाएं और प्याज को बढ़िया सुनहरा भूरा होने तक भूनें।"
+    },
+    {
+      "step": 3,
+      "title_en": "Sauté Ginger, Garlic & Coriander Stems",
+      "title_hi": "अदरक, लहसुन व धनिए के डंठल भूनना",
+      "instruction_en": "Add minced garlic, ginger, and fresh coriander stems; sauté 2 minutes until intensely aromatic.",
+      "instruction_hi": "लहसुन, अदरक और बारीक कटे धनिए के डंठल डालकर 2 मिनट खुशबू आने तक भूनें।"
+    },
+    {
+      "step": 4,
+      "title_en": "Ground Spices & Curd Emulsion",
+      "title_hi": "मसाले व फेंटा दही मिलाना",
+      "instruction_en": "Add turmeric, chilli, and coriander powder; whisk in fresh curd on low heat until oil separates.",
+      "instruction_hi": "सूखे मसाले और फेंटा दही डालकर लगातार चलाते हुए तेल छोड़ने तक भूनें।"
+    },
+    {
+      "step": 5,
+      "title_en": "Bhunao Tomato Puree Till Rogan Pools",
+      "title_hi": "टमाटर प्यूरी से रोगन छूटने तक भुनाई",
+      "instruction_en": "Add tomato puree and salt; cook for 7-8 minutes until thick and glossy oil floats on top.",
+      "instruction_hi": "टमाटर प्यूरी डालकर 7-8 मिनट भूनें जब तक ऊपर बढ़िया रोगन न तैरने लगे।"
+    },
+    {
+      "step": 6,
+      "title_en": "Simmer Tender Green Peas",
+      "title_hi": "मटर व पानी डालकर पकाना",
+      "instruction_en": "Add green peas, pour warm water, and simmer covered for 5-6 minutes until peas are tender.",
+      "instruction_hi": "हरी मटर और गरम पानी डालकर ढकें और 5-6 मिनट मटर के गलने तक पकाएं।"
+    },
+    {
+      "step": 7,
+      "title_en": "Fold Paneer, Kasuri Methi & Serve",
+      "title_hi": "पनीर, कसूरी मेथी व धनिया गार्निश",
+      "instruction_en": "Gently fold in paneer cubes, garam masala, and roasted kasuri methi. Simmer 2-3 mins and serve hot!",
+      "instruction_hi": "पनीर क्यूब्स, गरम मसाला और कसूरी मेथी मिलाएं। 2-3 मिनट पकाएं और धनिया डालकर परोसें!"
+    }
+  ],
+  "chef_tips_en": [
+    "Hybrid Tomatoes + Soaked Red Chillies: Using hybrid tomatoes blended with soaked whole red chillies delivers a stunning natural crimson restaurant color and smokiness without artificial food coloring.",
+    "Coriander Stems in Tadka: Sautéing chopped coriander stems with ginger-garlic releases potent herbal oils that transform a simple curry into an authentic dhaba specialty.",
+    "Never Overboil Paneer: Simmer paneer for only 2-3 minutes at the very end. Long boiling drains moisture from paneer, turning it rubbery instead of pillowy soft."
+  ],
+  "chef_tips_hi": [
+    "हाइब्रिड टमाटर व साबुत लाल मिर्च: हाइब्रिड टमाटर कम खट्टे होते हैं और भीगी लाल मिर्च के साथ पीसने पर बिना किसी रंग के ढाबे जैसा गहरा लाल रंग और स्वाद देते हैं।",
+    "धनिए के डंठल का जादू: अदरक-लहसुन के साथ बारीक कटे धनिए के डंठल भूनने से तेल में कमाल की सोंधी महक समा जाती है।",
+    "पनीर ज्यादा देर न उबालें: पनीर को केवल अंत के 2-3 मिनट ही ग्रेवी में पकाएं। ज्यादा देर पकाने से पनीर खिंचने लगता है (rubbery हो जाता है) जबकि कम पकाने से मक्खन जैसा सॉफ्ट रहता है।"
+  ]
+}

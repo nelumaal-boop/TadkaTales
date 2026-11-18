@@ -1,0 +1,103 @@
+{
+  "id": "dhaba-aloo-soya-curry-homecooking",
+  "title": {
+    "en": "Nutritious Aloo Soya Curry (Dhaba Style Gravy)",
+    "hi": "ढाबा स्टाइल आलू सोया करी (मसालेदार ग्रेवी)"
+  },
+  "title_en": "Nutritious Aloo Soya Curry (Dhaba Style Gravy)",
+  "title_hi": "ढाबा स्टाइल आलू सोया करी (मसालेदार ग्रेवी)",
+  "description": {
+    "en": "Hearty, high-protein family curry featuring tender soya chunks and baby potatoes simmered in a spiced onion, tomato, and ginger garlic sauce. An irresistible dinner dish for chapathis and steamed basmati rice.",
+    "hi": "हाई प्रोटीन और स्वादिष्ट आलू सोया की रसेदार सब्जी। नरम सोयाबीन की बड़ियां और आलू गाढ़ी प्याज-टमाटर की मसालेदार ग्रेवी में पकाए जाते हैं। पूरे परिवार के लिए संपूर्ण और पौष्टिक भोजन।"
+  },
+  "description_en": "Hearty, high-protein family curry featuring tender soya chunks and baby potatoes simmered in a spiced onion, tomato, and ginger garlic sauce. An irresistible dinner dish for chapathis and steamed basmati rice.",
+  "description_hi": "हाई प्रोटीन और स्वादिष्ट आलू सोया की रसेदार सब्जी। नरम सोयाबीन की बड़ियां और आलू गाढ़ी प्याज-टमाटर की मसालेदार ग्रेवी में पकाए जाते हैं। पूरे परिवार के लिए संपूर्ण और पौष्टिक भोजन।",
+  "category": "Latest Recipe",
+  "isVegetarian": true,
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "prepTime": "10 mins",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cookTime": "20 mins",
+  "cook_time_en": "20 mins",
+  "cook_time_hi": "20 मिनट",
+  "servings": "4 servings",
+  "servings_en": "4 servings",
+  "servings_hi": "4 सर्विंग्स",
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "youtube_id": "aKAua8g-61M",
+  "youtubeId": "aKAua8g-61M",
+  "youtube_url": "https://www.youtube.com/watch?v=aKAua8g-61M",
+  "author": "HomeCookingShow",
+  "image_url": "/static/images/aKAua8g-61M.jpg",
+  "tags": [
+    "Aloo Soya",
+    "High Protein",
+    "Dhaba Gravy",
+    "Side Dish for Roti",
+    "Vegetarian",
+    "HomeCookingShow"
+  ],
+  "ingredients_en": [
+    "1 cup Soya Chunks (boiled and squeezed)",
+    "2 medium Potatoes (peeled and cubed)",
+    "3 tbsp Oil",
+    "1 tsp Cumin Seeds & 1 Bay Leaf",
+    "2 medium Onions (finely chopped)",
+    "1 tbsp Ginger-Garlic Paste",
+    "2 Tomatoes (pureed)",
+    "1/2 tsp Turmeric Powder",
+    "1 tsp Kashmiri Chilli Powder",
+    "1 tsp Coriander Powder & 1/2 tsp Garam Masala",
+    "1 tsp Kasuri Methi",
+    "Salt to taste",
+    "1.5 cups Water",
+    "Fresh Coriander Leaves"
+  ],
+  "ingredients_hi": [
+    "1 कप सोया चंक्स (उबालकर पानी निचोड़े हुए)",
+    "2 आलू (छिले और चौकोर कटे हुए)",
+    "3 बड़े चम्मच तेल",
+    "1 छोटा चम्मच जीरा व 1 तेजपत्ता",
+    "2 प्याज (बारीक कटे हुए)",
+    "1 बड़ा चम्मच अदरक-लहसुन पेस्ट",
+    "2 टमाटर (पीसे हुए)",
+    "1/2 छोटा चम्मच हल्दी पाउडर",
+    "1 छोटा चम्मच कश्मीरी लाल मिर्च पाउडर",
+    "1 छोटा चम्मच धनिया पाउडर व 1/2 छोटा चम्मच गरम मसाला",
+    "1 छोटा चम्मच कसूरी मेथी",
+    "स्वादानुसार नमक",
+    "1.5 कप पानी",
+    "बारीक कटा ताजा हरा धनिया"
+  ],
+  "instructions_en": [
+    "Boil soya chunks in salted water for 5 minutes, rinse, squeeze dry. Pan-fry soya chunks and cubed potatoes in 1 tbsp oil for 3 minutes until lightly browned.",
+    "In the same pan, heat remaining oil. Add cumin seeds and bay leaf until sizzling.",
+    "Add chopped onions and sauté over medium heat until golden brown.",
+    "Stir in ginger-garlic paste and sauté for 1 minute. Add tomato puree and cook until oil separates from the masala.",
+    "Add turmeric, red chilli powder, coriander powder, and salt. Sauté for 1 minute.",
+    "Toss in the pan-fried potatoes and soya chunks, mixing thoroughly with the spiced masala base.",
+    "Pour in warm water, cover with lid, and simmer on medium-low flame for 10–12 minutes until potatoes turn tender.",
+    "Sprinkle garam masala and crushed kasuri methi. Garnish with chopped coriander and serve hot with rotis or rice."
+  ],
+  "instructions_hi": [
+    "सोया चंक्स को उबालकर पानी निचोड़ लें। 1 चम्मच तेल में आलू और सोया चंक्स को 3 मिनट हल्का सुनहरा भूनकर अलग निकालें।",
+    "कड़ाही में बचा तेल गरम करें। जीरा और तेजपत्ता चटकाएं।",
+    "कटा प्याज डालकर सुनहरा होने तक भूनें।",
+    "अदरक-लहसुन पेस्ट डालकर 1 मिनट भूनें, फिर टमाटर प्यूरी डालकर तेल छूटने तक पकाएं।",
+    "हल्दी, लाल मिर्च, धनिया पाउडर और नमक डालकर 1 मिनट मसालों को भूनें।",
+    "भुने आलू और सोया चंक्स डालकर मसाले के साथ अच्छी तरह मिला लें।",
+    "गर्म पानी डालें, ढक्कन लगाएं और धीमी आंच पर 10-12 मिनट आलू गलने तक पकाएं।",
+    "गरम मसाला और कसूरी मेथी डालें। हरा धनिया छिड़ककर गरमा-गरम रोटी या चावल के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "Pan-frying the potatoes and soya before simmering prevents sogginess and keeps each piece intact.",
+    "Kasuri methi at the end brings out authentic dhaba flavor."
+  ],
+  "chef_tips_hi": [
+    "आलू और सोयाबीन को पहले हल्का भून लेने से वे ग्रेवी में टूटते नहीं हैं।",
+    "कसूरी मेथी अंत में मसलकर डालने से ढाबा स्टाइल खुशबू आती है।"
+  ]
+}

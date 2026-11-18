@@ -1,0 +1,315 @@
+{
+  "id": "cafe-style-sauteed-vegetables",
+  "title": {
+    "en": "Café-Style Herb Butter Sautéed Vegetables with Creamy Cheese Sauce",
+    "hi": "कैफ़े स्टाइल हर्ब बटर सौते वेजिटेबल्स और क्रीमी चीज़ सॉस"
+  },
+  "description": {
+    "en": "Vibrant, crisp-tender colorful veggies flash-sautéed in aromatic garlic butter and Italian herbs, paired with an effortless 2-ingredient flourless creamy cheese sauce that turns healthy clean eating into an irresistible comfort meal.",
+    "hi": "कैफ़े जैसी क्रंची और रंग-बिरंगी सब्जियां! भरपूर लहसुन, मक्खन और इटैलियन हर्ब्स में तेज आंच पर टॉस की गई सब्जियां और साथ में बिना मैदा या कॉर्नफ्लोर के बनी 2-सामग्री वाली क्रीमी चीज़ सॉस।"
+  },
+  "category": "Snacks",
+  "isVegetarian": true,
+  "prepTime": "10 mins",
+  "cookTime": "15 mins",
+  "servings": "2-3 servings",
+  "youtubeId": "NoP9-U3R9uc",
+  "author": "Bharatzkitchen Hindi",
+  "ingredients": [
+    {
+      "category": {
+        "en": "Firm Veggies (for 5-Min Steam)",
+        "hi": "सख्त सब्जियां (5 मिनट स्टीम के लिए)"
+      },
+      "items": [
+        {
+          "en": "Broccoli Florets - 1 cup (cut into bite-sized pieces)",
+          "hi": "ब्रोकोली - 1 कप (छोटे टुकड़ों में कटी)"
+        },
+        {
+          "en": "Carrots (Gajar) - 1 medium (thickly sliced into coins or batons)",
+          "hi": "गाजर - 1 मध्यम (मोटे टुकड़ों में कटी)"
+        },
+        {
+          "en": "French Beans - 8 to 10 (trimmed & cut into 1-inch pieces)",
+          "hi": "बीन्स - 8 से 10 (1 इंच मोटे टुकड़ों में कटी)"
+        },
+        {
+          "en": "Baby Corn or Sweet Corn - 1/2 cup (sliced)",
+          "hi": "बेबी कॉर्न या स्वीट कॉर्न - 1/2 कप"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Quick-Cooking Veggies & Protein",
+        "hi": "जल्दी पकने वाली सब्जियां और पनीर"
+      },
+      "items": [
+        {
+          "en": "Button Mushrooms - 5 to 6 (halved or quartered)",
+          "hi": "मशरूम - 5 से 6 (दो टुकड़ों में कटे)"
+        },
+        {
+          "en": "Onion - 1 medium (roughly diced in thick chunks)",
+          "hi": "प्याज - 1 मध्यम (मोटा चौकोर कटा)"
+        },
+        {
+          "en": "Capsicum / Bell Peppers (Green, Yellow, Red) - 1 cup (cubed)",
+          "hi": "शिमला मिर्च (हरी, पीली, लाल) - 1 कप (चौकोर कटी)"
+        },
+        {
+          "en": "Fresh Paneer or Tofu Cubes - 100g (protein addition)",
+          "hi": "ताजा पनीर या टोफू - 100 ग्राम (चौकोर टुकड़े)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Garlic Butter Base & Herb Seasoning",
+        "hi": "गार्लिक बटर और इटैलियन हर्ब्स"
+      },
+      "items": [
+        {
+          "en": "Fresh Garlic Cloves - 8 to 10 (finely minced)",
+          "hi": "लहसुन - 8 से 10 कलियां (बारीक कटी)"
+        },
+        {
+          "en": "Butter - 1.5 tbsp",
+          "hi": "मक्खन - 1.5 बड़ा चम्मच"
+        },
+        {
+          "en": "Olive Oil or Cooking Oil - 1 tsp (prevents butter from burning)",
+          "hi": "जैतून का तेल या कुकिंग ऑयल - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Italian Herb / Pizza Seasoning (Oregano, Thyme) - 1 tsp",
+          "hi": "पिज़्ज़ा हर्ब सीजनिंग (ओरेगेनो, थाइम) - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Chilli Flakes - 1 tsp",
+          "hi": "चिली फ्लेक्स - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Freshly Ground Black Pepper - 1/2 tsp",
+          "hi": "कुटी काली मिर्च - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Salt - 1/2 tsp (added strictly at the end)",
+          "hi": "नमक - 1/2 छोटा चम्मच (बिल्कुल अंत में डालने के लिए)"
+        },
+        {
+          "en": "Lemon Juice - 1/2 lemon (optional for fresh zing)",
+          "hi": "नींबू का रस - आधा नींबू (ऐच्छिक ताजगी के लिए)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Effortless 2-Ingredient Creamy Cheese Dip",
+        "hi": "2-सामग्री वाली आसान क्रीमी चीज़ सॉस"
+      },
+      "items": [
+        {
+          "en": "Whole Milk - 2 cups",
+          "hi": "दूध - 2 कप"
+        },
+        {
+          "en": "Processed Cheese Cubes - 3 cubes (finely grated)",
+          "hi": "प्रोसेस्ड चीज़ - 3 क्यूब्स (कद्दूकस की हुई)"
+        },
+        {
+          "en": "Italian Herbs & Chilli Flakes - 1/2 tsp each (for sauce)",
+          "hi": "हर्ब्स और चिली फ्लेक्स - आधा-आधा छोटा चम्मच"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": {
+        "en": "Chunky Veggie Prep",
+        "hi": "सब्जियों को मोटा-मोटा काटना"
+      },
+      "text": {
+        "en": "Chop broccoli, carrots, beans, and baby corn into thick, chunky pieces. Rough chop the onion into wedges (no need to peel separate layers manually). Halve button mushrooms and cube bell peppers. Keep the firm veggies separate from the tender ones.",
+        "hi": "ब्रोकोली, गाजर, बीन्स और बेबी कॉर्न को मोटे टुकड़ों में काट लें। प्याज को मोटे टुकड़ों में काटें (अलग-अलग परतें खोलने की जरूरत नहीं है, पैन में खुद खुल जाएंगी)। मशरूम को दो हिस्सों में और शिमला मिर्च को चौकोर काटें।"
+      }
+    },
+    {
+      "step": 2,
+      "title": {
+        "en": "5-Minute Single-Pan Steam Trick",
+        "hi": "एक ही कड़ाही में 5 मिनट स्टीम करने की ट्रिक"
+      },
+      "text": {
+        "en": "Instead of cumbersome boiling and ice-bath blanching, pour 1 cup water into your kadhai and place a steamer rack or wire mesh on top. Spread broccoli, carrots, beans, and corn on the rack. Cover tightly and steam on high flame for exactly 5 minutes until vibrantly green and tender-crisp. Remove rack and empty residual water.",
+        "hi": "अलग से पानी उबालने और बर्फ के पानी में डालने के झंझट से बचने के लिए, कड़ाही में 1 कप पानी डालकर ऊपर जालीदार छलनी रखें। उस पर ब्रोकोली, गाजर, बीन्स और कॉर्न फैलाएं। ढक्कन लगाकर तेज आंच पर ठीक 5 मिनट स्टीम करें ताकि वे हल्की नरम और क्रंची हो जाएं। पानी हटा दें।"
+      }
+    },
+    {
+      "step": 3,
+      "title": {
+        "en": "Garlic Butter Infusion",
+        "hi": "लहसुन और मक्खन की भुनाई"
+      },
+      "text": {
+        "en": "In the same pan on medium heat, melt 1.5 tbsp butter with 1 tsp oil (to prevent scorching). Add generous finely minced garlic and sauté for 30-40 seconds until fragrant and lightly golden. Sautéing releases the essential allicin aroma of garlic.",
+        "hi": "उसी कड़ाही में मध्यम आंच पर 1.5 चम्मच मक्खन और 1 चम्मच तेल गर्म करें। बारीक कटा हुआ लहसुन डालें और 30-40 सेकंड हल्का सुनहरा होने और अच्छी खुशबू आने तक भूनें।"
+      }
+    },
+    {
+      "step": 4,
+      "title": {
+        "en": "High Heat Flash Sauté",
+        "hi": "तेज आंच पर सब्जियों को टॉस करना"
+      },
+      "text": {
+        "en": "Toss in chopped onions and capsicum on high flame for 30 seconds—the onion layers will separate naturally. Add mushrooms and sauté for another 30 seconds. Now add all the steamed veggies (broccoli, carrots, beans, corn). Stir-fry vigorously on high heat for exactly 2 minutes so edges take on a smoky aroma without losing crunch.",
+        "hi": "तेज आंच पर प्याज और शिमला मिर्च डालें और 30 सेकंड चलाएं—प्याज की पंखुड़ियां अपने आप अलग हो जाएंगी। अब मशरूम डालें और 30 सेकंड भूनें। इसके बाद स्टीम की हुई सब्जियां (ब्रोकोली, गाजर, बीन्स) डालें। तेज आंच पर ठीक 2 मिनट तक टॉस करें ताकि हल्का स्मोकी फ्लेवर आए और क्रंच बरकरार रहे।"
+      }
+    },
+    {
+      "step": 5,
+      "title": {
+        "en": "Finishing Spices & Protein (Off-Heat Rule)",
+        "hi": "हर्ब्स, पनीर और अंत में नमक मिलाना"
+      },
+      "text": {
+        "en": "Add paneer cubes, 1 tsp Italian pizza seasoning, 1 tsp chilli flakes, and 1/2 tsp crushed black pepper. Add 1/2 tsp salt strictly at this last moment (adding salt early causes vegetables to release juices and turn soggy). Toss everything together for 30 seconds and transfer to a serving bowl.",
+        "hi": "पनीर के टुकड़े, 1 चम्मच पिज़्ज़ा हर्ब सीजनिंग, चिली फ्लेक्स और कुटी काली मिर्च डालें। बिल्कुल अंत में 1/2 छोटा चम्मच नमक डालें (पहले नमक डालने से सब्जियां पानी छोड़ देती हैं और गीली हो जाती हैं)। 30 सेकंड चलाएं और प्लेट में निकाल लें।"
+      }
+    },
+    {
+      "step": 6,
+      "title": {
+        "en": "Quick 2-Ingredient Creamy Cheese Dip",
+        "hi": "2-सामग्री वाली क्रीमी चीज़ डिप बनाना"
+      },
+      "text": {
+        "en": "In the same flavour-packed pan, pour 2 cups of milk. Bring to a rolling boil until it starts reducing naturally. Lower the flame and stir in 3 grated processed cheese cubes. Simmer gently on low flame, stirring occasionally as cheese melts and emulsifies into the milk. Reduce by roughly 50% until luscious, glossy, and spoon-coating. Season with 1/2 tsp mixed herbs and chilli flakes. Turn off heat and let cool slightly—it thickens further into a velvety dip.",
+        "hi": "उसी कड़ाही में 2 कप दूध डालें और उबाल आने दें। जब दूध थोड़ा गाढ़ा होने लगे, तो आंच धीमी करें और 3 कद्दूकस की हुई प्रोसेस्ड चीज़ क्यूब्स डालें। धीमी आंच पर चलाते रहें जब तक चीज़ पूरी तरह पिघलकर दूध के साथ मखमली न हो जाए। इसे आधा होने तक पकाएं। ऊपर से थोड़े हर्ब्स और चिली फ्लेक्स डालें। ठंडा होने पर यह और गाढ़ी और क्रीमी हो जाएगी।"
+      }
+    },
+    {
+      "step": 7,
+      "title": {
+        "en": "Serving",
+        "hi": "परोसना"
+      },
+      "text": {
+        "en": "Serve the vibrant, glistening sautéed vegetables warm alongside the creamy cheese dipping sauce. Squeeze a drop of fresh lemon juice over the veggies right before digging in for a bright, refreshing taste.",
+        "hi": "चमचमाती, कुरकुरी सौते सब्जियों को गरमा-गरम क्रीमी चीज़ सॉस के साथ परोसें। ऊपर से हल्का सा नींबू का रस निचोड़ें और एक संपूर्ण, टेस्टी और हेल्दी डिनर का आनंद लें।"
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Always add salt at the very end after the flame is turned off. Salt draws out cellular water instantly—adding it early turns crisp sautéed vegetables into a limp, soggy puddle.",
+      "hi": "नमक हमेशा गैस बंद करने के बाद अंत में ही डालें। शुरुआत में नमक डालने से सब्जियां पानी छोड़ देती हैं और उनका कुरकुरापन खत्म हो जाता है।"
+    },
+    {
+      "en": "Steaming the hard veggies (broccoli, carrots, beans) for 5 minutes cooks their dense interiors without leaching water-soluble vitamins into boiling water.",
+      "hi": "गाजर, ब्रोकोली और बीन्स को पानी में उबालने के बजाय 5 मिनट भाप (स्टीम) में पकाने से उनके पोषक तत्व और चटक रंग सुरक्षित रहते हैं।"
+    },
+    {
+      "en": "The cheese sauce requires zero flour (maida or cornstarch). Simply simmering whole milk with grated processed cheese creates an emulsified, naturally glossy café sauce.",
+      "hi": "चीज़ सॉस में मैदा या कॉर्नफ्लोर की कोई जरूरत नहीं है। बस दूध को काढ़कर कद्दूकस की हुई चीज़ मिलाने से यह प्राकृतिक रूप से गाढ़ी और चमकदार बन जाती है।"
+    }
+  ],
+  "title_en": "Café-Style Herb Butter Sautéed Vegetables with Creamy Cheese Sauce",
+  "title_hi": "कैफ़े स्टाइल हर्ब बटर सौते वेजिटेबल्स और क्रीमी चीज़ सॉस",
+  "description_en": "Vibrant, crisp-tender colorful veggies flash-sautéed in aromatic garlic butter and Italian herbs, paired with an effortless 2-ingredient flourless creamy cheese sauce that turns healthy clean eating into an irresistible comfort meal.",
+  "description_hi": "कैफ़े जैसी क्रंची और रंग-बिरंगी सब्जियां! भरपूर लहसुन, मक्खन और इटैलियन हर्ब्स में तेज आंच पर टॉस की गई सब्जियां और साथ में बिना मैदा या कॉर्नफ्लोर के बनी 2-सामग्री वाली क्रीमी चीज़ सॉस।",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 mins",
+  "cook_time_en": "15 mins",
+  "cook_time_hi": "15 mins",
+  "servings_en": "2-3 servings",
+  "servings_hi": "2-3 servings",
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "youtube_id": "NoP9-U3R9uc",
+  "youtube_url": "https://www.youtube.com/watch?v=NoP9-U3R9uc",
+  "image_url": "https://img.youtube.com/vi/NoP9-U3R9uc/hqdefault.jpg",
+  "ingredients_en": [
+    "Broccoli Florets - 1 cup (cut into bite-sized pieces)",
+    "Carrots (Gajar) - 1 medium (thickly sliced into coins or batons)",
+    "French Beans - 8 to 10 (trimmed & cut into 1-inch pieces)",
+    "Baby Corn or Sweet Corn - 1/2 cup (sliced)",
+    "Button Mushrooms - 5 to 6 (halved or quartered)",
+    "Onion - 1 medium (roughly diced in thick chunks)",
+    "Capsicum / Bell Peppers (Green, Yellow, Red) - 1 cup (cubed)",
+    "Fresh Paneer or Tofu Cubes - 100g (protein addition)",
+    "Fresh Garlic Cloves - 8 to 10 (finely minced)",
+    "Butter - 1.5 tbsp",
+    "Olive Oil or Cooking Oil - 1 tsp (prevents butter from burning)",
+    "Italian Herb / Pizza Seasoning (Oregano, Thyme) - 1 tsp",
+    "Chilli Flakes - 1 tsp",
+    "Freshly Ground Black Pepper - 1/2 tsp",
+    "Salt - 1/2 tsp (added strictly at the end)",
+    "Lemon Juice - 1/2 lemon (optional for fresh zing)",
+    "Whole Milk - 2 cups",
+    "Processed Cheese Cubes - 3 cubes (finely grated)",
+    "Italian Herbs & Chilli Flakes - 1/2 tsp each (for sauce)"
+  ],
+  "ingredients_hi": [
+    "ब्रोकोली - 1 कप (छोटे टुकड़ों में कटी)",
+    "गाजर - 1 मध्यम (मोटे टुकड़ों में कटी)",
+    "बीन्स - 8 से 10 (1 इंच मोटे टुकड़ों में कटी)",
+    "बेबी कॉर्न या स्वीट कॉर्न - 1/2 कप",
+    "मशरूम - 5 से 6 (दो टुकड़ों में कटे)",
+    "प्याज - 1 मध्यम (मोटा चौकोर कटा)",
+    "शिमला मिर्च (हरी, पीली, लाल) - 1 कप (चौकोर कटी)",
+    "ताजा पनीर या टोफू - 100 ग्राम (चौकोर टुकड़े)",
+    "लहसुन - 8 से 10 कलियां (बारीक कटी)",
+    "मक्खन - 1.5 बड़ा चम्मच",
+    "जैतून का तेल या कुकिंग ऑयल - 1 छोटा चम्मच",
+    "पिज़्ज़ा हर्ब सीजनिंग (ओरेगेनो, थाइम) - 1 छोटा चम्मच",
+    "चिली फ्लेक्स - 1 छोटा चम्मच",
+    "कुटी काली मिर्च - 1/2 छोटा चम्मच",
+    "नमक - 1/2 छोटा चम्मच (बिल्कुल अंत में डालने के लिए)",
+    "नींबू का रस - आधा नींबू (ऐच्छिक ताजगी के लिए)",
+    "दूध - 2 कप",
+    "प्रोसेस्ड चीज़ - 3 क्यूब्स (कद्दूकस की हुई)",
+    "हर्ब्स और चिली फ्लेक्स - आधा-आधा छोटा चम्मच"
+  ],
+  "instructions_en": [
+    "Chop broccoli, carrots, beans, and baby corn into thick, chunky pieces. Rough chop the onion into wedges (no need to peel separate layers manually). Halve button mushrooms and cube bell peppers. Keep the firm veggies separate from the tender ones.",
+    "Instead of cumbersome boiling and ice-bath blanching, pour 1 cup water into your kadhai and place a steamer rack or wire mesh on top. Spread broccoli, carrots, beans, and corn on the rack. Cover tightly and steam on high flame for exactly 5 minutes until vibrantly green and tender-crisp. Remove rack and empty residual water.",
+    "In the same pan on medium heat, melt 1.5 tbsp butter with 1 tsp oil (to prevent scorching). Add generous finely minced garlic and sauté for 30-40 seconds until fragrant and lightly golden. Sautéing releases the essential allicin aroma of garlic.",
+    "Toss in chopped onions and capsicum on high flame for 30 seconds—the onion layers will separate naturally. Add mushrooms and sauté for another 30 seconds. Now add all the steamed veggies (broccoli, carrots, beans, corn). Stir-fry vigorously on high heat for exactly 2 minutes so edges take on a smoky aroma without losing crunch.",
+    "Add paneer cubes, 1 tsp Italian pizza seasoning, 1 tsp chilli flakes, and 1/2 tsp crushed black pepper. Add 1/2 tsp salt strictly at this last moment (adding salt early causes vegetables to release juices and turn soggy). Toss everything together for 30 seconds and transfer to a serving bowl.",
+    "In the same flavour-packed pan, pour 2 cups of milk. Bring to a rolling boil until it starts reducing naturally. Lower the flame and stir in 3 grated processed cheese cubes. Simmer gently on low flame, stirring occasionally as cheese melts and emulsifies into the milk. Reduce by roughly 50% until luscious, glossy, and spoon-coating. Season with 1/2 tsp mixed herbs and chilli flakes. Turn off heat and let cool slightly—it thickens further into a velvety dip.",
+    "Serve the vibrant, glistening sautéed vegetables warm alongside the creamy cheese dipping sauce. Squeeze a drop of fresh lemon juice over the veggies right before digging in for a bright, refreshing taste."
+  ],
+  "instructions_hi": [
+    "ब्रोकोली, गाजर, बीन्स और बेबी कॉर्न को मोटे टुकड़ों में काट लें। प्याज को मोटे टुकड़ों में काटें (अलग-अलग परतें खोलने की जरूरत नहीं है, पैन में खुद खुल जाएंगी)। मशरूम को दो हिस्सों में और शिमला मिर्च को चौकोर काटें।",
+    "अलग से पानी उबालने और बर्फ के पानी में डालने के झंझट से बचने के लिए, कड़ाही में 1 कप पानी डालकर ऊपर जालीदार छलनी रखें। उस पर ब्रोकोली, गाजर, बीन्स और कॉर्न फैलाएं। ढक्कन लगाकर तेज आंच पर ठीक 5 मिनट स्टीम करें ताकि वे हल्की नरम और क्रंची हो जाएं। पानी हटा दें।",
+    "उसी कड़ाही में मध्यम आंच पर 1.5 चम्मच मक्खन और 1 चम्मच तेल गर्म करें। बारीक कटा हुआ लहसुन डालें और 30-40 सेकंड हल्का सुनहरा होने और अच्छी खुशबू आने तक भूनें।",
+    "तेज आंच पर प्याज और शिमला मिर्च डालें और 30 सेकंड चलाएं—प्याज की पंखुड़ियां अपने आप अलग हो जाएंगी। अब मशरूम डालें और 30 सेकंड भूनें। इसके बाद स्टीम की हुई सब्जियां (ब्रोकोली, गाजर, बीन्स) डालें। तेज आंच पर ठीक 2 मिनट तक टॉस करें ताकि हल्का स्मोकी फ्लेवर आए और क्रंच बरकरार रहे।",
+    "पनीर के टुकड़े, 1 चम्मच पिज़्ज़ा हर्ब सीजनिंग, चिली फ्लेक्स और कुटी काली मिर्च डालें। बिल्कुल अंत में 1/2 छोटा चम्मच नमक डालें (पहले नमक डालने से सब्जियां पानी छोड़ देती हैं और गीली हो जाती हैं)। 30 सेकंड चलाएं और प्लेट में निकाल लें।",
+    "उसी कड़ाही में 2 कप दूध डालें और उबाल आने दें। जब दूध थोड़ा गाढ़ा होने लगे, तो आंच धीमी करें और 3 कद्दूकस की हुई प्रोसेस्ड चीज़ क्यूब्स डालें। धीमी आंच पर चलाते रहें जब तक चीज़ पूरी तरह पिघलकर दूध के साथ मखमली न हो जाए। इसे आधा होने तक पकाएं। ऊपर से थोड़े हर्ब्स और चिली फ्लेक्स डालें। ठंडा होने पर यह और गाढ़ी और क्रीमी हो जाएगी।",
+    "चमचमाती, कुरकुरी सौते सब्जियों को गरमा-गरम क्रीमी चीज़ सॉस के साथ परोसें। ऊपर से हल्का सा नींबू का रस निचोड़ें और एक संपूर्ण, टेस्टी और हेल्दी डिनर का आनंद लें।"
+  ],
+  "chef_tips_en": [
+    "Always add salt at the very end after the flame is turned off. Salt draws out cellular water instantly—adding it early turns crisp sautéed vegetables into a limp, soggy puddle.",
+    "Steaming the hard veggies (broccoli, carrots, beans) for 5 minutes cooks their dense interiors without leaching water-soluble vitamins into boiling water.",
+    "The cheese sauce requires zero flour (maida or cornstarch). Simply simmering whole milk with grated processed cheese creates an emulsified, naturally glossy café sauce."
+  ],
+  "chef_tips_hi": [
+    "नमक हमेशा गैस बंद करने के बाद अंत में ही डालें। शुरुआत में नमक डालने से सब्जियां पानी छोड़ देती हैं और उनका कुरकुरापन खत्म हो जाता है।",
+    "गाजर, ब्रोकोली और बीन्स को पानी में उबालने के बजाय 5 मिनट भाप (स्टीम) में पकाने से उनके पोषक तत्व और चटक रंग सुरक्षित रहते हैं।",
+    "चीज़ सॉस में मैदा या कॉर्नफ्लोर की कोई जरूरत नहीं है। बस दूध को काढ़कर कद्दूकस की हुई चीज़ मिलाने से यह प्राकृतिक रूप से गाढ़ी और चमकदार बन जाती है।"
+  ],
+  "tags": [
+    "Sauteed Veggies",
+    "Cafe Style",
+    "Healthy",
+    "Snacks",
+    "Vegetarian"
+  ]
+}

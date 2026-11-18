@@ -1,0 +1,246 @@
+{
+  "id": "mumbai-street-style-anda-bhurji",
+  "title_en": "Mumbai Street-Style Masala Anda Bhurji (Juicy Soft-Scrambled Eggs)",
+  "title_hi": "मुंबई स्ट्रीट स्टाइल मसाला अंडा भुर्जी (मुलायम व रसीली भुर्जी का राज)",
+  "title": {
+    "en": "Mumbai Street-Style Masala Anda Bhurji (Juicy Soft-Scrambled Eggs)",
+    "hi": "मुंबई स्ट्रीट स्टाइल मसाला अंडा भुर्जी (मुलायम व रसीली भुर्जी का राज)"
+  },
+  "description_en": "The iconic, buttery Mumbai street and highway dhaba egg bhurji! Flavored with crunchy capsicum, caramelized onions, ripe tomatoes, and Bharat's secret weapon—Pav Bhaji Masala. Cooked with the gentle soft-scramble technique so it stays gloriously juicy and never dry.",
+  "description_hi": "मुंबई स्ट्रीट और ढाबा स्टाइल अंडा भुर्जी की सबसे खास रेसिपी! शिमला मिर्च, भूने प्याज, टमाटर और भरत के सीक्रेट मसाले—पाव भाजी मसाले के साथ तैयार। धीमी आंच और सॉफ्ट-स्क्रैम्बल तकनीक से बनी यह भुर्जी एकदम रसीली, मक्खन जैसी मुलायम और लाजवाब बनती है।",
+  "description": {
+    "en": "The iconic, buttery Mumbai street and highway dhaba egg bhurji! Flavored with crunchy capsicum, caramelized onions, ripe tomatoes, and Bharat's secret weapon—Pav Bhaji Masala. Cooked with the gentle soft-scramble technique so it stays gloriously juicy and never dry.",
+    "hi": "मुंबई स्ट्रीट और ढाबा स्टाइल अंडा भुर्जी की सबसे खास रेसिपी! शिमला मिर्च, भूने प्याज, टमाटर और भरत के सीक्रेट मसाले—पाव भाजी मसाले के साथ तैयार। धीमी आंच और सॉफ्ट-स्क्रैम्बल तकनीक से बनी यह भुर्जी एकदम रसीली, मक्खन जैसी मुलायम और लाजवाब बनती है।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Non-Vegetarian",
+  "diet_hi": "मांसाहारी",
+  "isVegetarian": false,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "सरल",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cook_time_en": "12 mins",
+  "cook_time_hi": "12 मिनट",
+  "prepTime": "10 mins",
+  "cookTime": "12 mins",
+  "servings_en": "4 servings",
+  "servings_hi": "4 लोग",
+  "servings": 4,
+  "youtube_id": "EMTCplPvF0Y",
+  "youtubeId": "EMTCplPvF0Y",
+  "youtube_url": "https://youtu.be/EMTCplPvF0Y",
+  "image_url": "/static/images/EMTCplPvF0Y.jpg",
+  "tags": [
+    "Anda Bhurji",
+    "Egg Bhurji",
+    "Eggs",
+    "Street Food",
+    "Mumbai Street Style",
+    "Breakfast",
+    "High Protein",
+    "Bharatzkitchen",
+    "Non-Vegetarian"
+  ],
+  "ingredients_en": [
+    "6 to 8 Large Fresh Eggs",
+    "3 tbsp Salted Butter (plus extra for serving)",
+    "1 tbsp Cooking Oil (prevents butter from browning)",
+    "1/2 tsp Cumin Seeds (Jeera)",
+    "3 medium Onions, finely chopped",
+    "1.5 inches Fresh Ginger, finely minced",
+    "4-5 Garlic Cloves, finely minced",
+    "3 Green Chillies, finely chopped",
+    "1/2 cup Green Capsicum (Bell Pepper), finely diced",
+    "2 large Ripe Tomatoes, finely chopped",
+    "1 tbsp Pav Bhaji Masala (the secret street-style booster)",
+    "1/2 tsp Turmeric Powder (Haldi)",
+    "1 tsp Kashmiri Red Chilli Powder",
+    "1 tsp Coriander Powder (Dhaniya)",
+    "1 tsp Kasuri Methi, toasted and crushed",
+    "1 tsp Fresh Lemon Juice",
+    "Salt to taste",
+    "1/4 cup Fresh Coriander Leaves, chopped",
+    "Toasted Buttered Pav or Parathas (for serving)"
+  ],
+  "ingredients_hi": [
+    "6 से 8 बड़े ताजे अंडे",
+    "3 बड़े चम्मच मक्खन (प्लस ऊपर से डालने हेतु)",
+    "1 बड़ा चम्मच खाना पकाने का तेल (मक्खन जलने से बचाने हेतु)",
+    "1/2 छोटा चम्मच जीरा",
+    "3 मध्यम प्याज (बारीक कटे)",
+    "1.5 इंच अदरक (बारीक कटा/कद्दूकस)",
+    "4-5 लहसुन की कलियां (बारीक कटी)",
+    "3 हरी मिर्च (बारीक कटी)",
+    "1/2 कप शिमला मिर्च (बारीक कटी - क्रंच हेतु)",
+    "2 बड़े पके टमाटर (बारीक कटे)",
+    "1 बड़ा चम्मच पाव भाजी मसाला (भरत का सीक्रेट स्ट्रीट फ्लेवर)",
+    "1/2 छोटा चम्मच हल्दी पाउडर",
+    "1 छोटा चम्मच कश्मीरी लाल मिर्च पाउडर",
+    "1 छोटा चम्मच धनिया पाउडर",
+    "1 छोटा चम्मच भुनी कसूरी मेथी (क्रश की हुई)",
+    "1 छोटा चम्मच नींबू का रस",
+    "नमक स्वादानुसार",
+    "1/4 कप बारीक कटा हरा धनिया",
+    "मक्खन में सिके पाव या पराठे (परोसने हेतु)"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Fresh Eggs & Fats (अंडे, मक्खन व तेल)",
+      "category_hi": "अंडे, मक्खन व तेल",
+      "items": [
+        {
+          "name_en": "Fresh Large Eggs",
+          "name_hi": "ताजे अंडे",
+          "amount": "6-8 eggs"
+        },
+        {
+          "name_en": "Salted Butter",
+          "name_hi": "मक्खन",
+          "amount": "3 tbsp"
+        },
+        {
+          "name_en": "Cooking Oil",
+          "name_hi": "तेल",
+          "amount": "1 tbsp"
+        }
+      ]
+    },
+    {
+      "category_en": "Aromatics & Veggie Crunch (तड़का व सब्जियां)",
+      "category_hi": "तड़का व सब्जियां",
+      "items": [
+        {
+          "name_en": "Cumin Seeds (Jeera)",
+          "name_hi": "जीरा",
+          "amount": "1/2 tsp"
+        },
+        {
+          "name_en": "Onions",
+          "name_hi": "बारीक कटा प्याज",
+          "amount": "3 medium"
+        },
+        {
+          "name_en": "Ginger, Garlic & Chillies",
+          "name_hi": "अदरक, लहसुन व हरी मिर्च",
+          "amount": "1.5 inch ginger + 5 cloves + 3 chillies"
+        },
+        {
+          "name_en": "Green Capsicum",
+          "name_hi": "बारीक कटी शिमला मिर्च",
+          "amount": "1/2 cup"
+        },
+        {
+          "name_en": "Ripe Tomatoes",
+          "name_hi": "पके टमाटर",
+          "amount": "2 large"
+        }
+      ]
+    },
+    {
+      "category_en": "Secret Spices & Finishing (सीक्रेट मसाले व गार्निश)",
+      "category_hi": "सीक्रेट मसाले व गार्निश",
+      "items": [
+        {
+          "name_en": "Pav Bhaji Masala (Secret)",
+          "name_hi": "पाव भाजी मसाला",
+          "amount": "1 tbsp"
+        },
+        {
+          "name_en": "Turmeric, Chilli & Coriander",
+          "name_hi": "हल्दी, मिर्च व धनिया पाउडर",
+          "amount": "1/2 tsp + 1 tsp + 1 tsp"
+        },
+        {
+          "name_en": "Kasuri Methi & Lemon Juice",
+          "name_hi": "कसूरी मेथी व नींबू रस",
+          "amount": "1 tsp + 1 tsp"
+        },
+        {
+          "name_en": "Salt & Fresh Coriander",
+          "name_hi": "नमक व हरा धनिया",
+          "amount": "To taste + 1/4 cup"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Lightly Whisk Eggs: Break 6 to 8 eggs into a bowl with a pinch of salt. Whisk lightly with a fork until whites and yolks are blended without aerating too much. Set aside.",
+    "Melt Butter with Oil: Heat 3 tbsp butter along with 1 tbsp oil in a wide kadai or flat iron tawa over medium heat. Add 1/2 tsp cumin seeds and let them crackle.",
+    "Sauté Aromatics & Crunchy Capsicum: Add finely chopped onions, minced ginger, garlic, and green chillies. Sauté for 2-3 minutes until soft and translucent. Stir in finely diced capsicum and sauté for another minute so it retains a delicate crisp bite.",
+    "Bhunao Tomatoes with Pav Bhaji Masala: Add finely chopped tomatoes, 1 tbsp Pav Bhaji Masala (the signature street secret), 1/2 tsp turmeric powder, 1 tsp Kashmiri red chilli powder, 1 tsp coriander powder, and salt. Cook on medium flame for 3-4 minutes until tomatoes soften completely and rich buttery masala releases from the edges.",
+    "Pour Eggs for Soft Scramble: Reduce flame to low-medium. Pour in the beaten eggs. Allow them to sit untouched for 10-15 seconds so soft, tender curds begin to set gently on the hot surface.",
+    "Gentle Fold (Keep Moist): With a flat spatula, gently push and fold the eggs from the edges towards the center in broad strokes. Do NOT vigorously mash or crumble them into dry pellets. Cook for just 2 to 3 minutes until eggs are 85-90% cooked.",
+    "Off-Heat Finish & Serve: Turn off the flame immediately while the bhurji is still glossy and slightly wet (residual pan heat finishes cooking the eggs to juicy tenderness). Rub in crushed kasuri methi, squeeze fresh lemon juice, add a knob of butter and chopped coriander. Serve steaming hot with butter-toasted Pav or warm parathas!"
+  ],
+  "instructions_hi": [
+    "अंडे फेंटना: एक बाउल में 6-8 अंडे चुटकी भर नमक के साथ फोड़ें। कांटे से हल्का फेंटें ताकि जर्दी और सफेदी मिल जाए (ज्यादा झागदार न करें)।",
+    "मक्खन व तेल गरम करना: तवे या कड़ाही में 3 बड़े चम्मच मक्खन और 1 बड़ा चम्मच तेल मध्यम आंच पर गरम करें। 1/2 छोटा चम्मच जीरा डालकर चटकाएं।",
+    "अदरक, लहसुन, प्याज व शिमला मिर्च: बारीक कटा प्याज, लहसुन, अदरक और हरी मिर्च डालें। 2-3 मिनट नरम होने तक भूनें। बारीक कटी शिमला मिर्च डालें और 1 मिनट भूनें ताकि उसका क्रंच बना रहे।",
+    "पाव भाजी मसाला व टमाटर भूनना: बारीक कटे टमाटर, 1 बड़ा चम्मच पाव भाजी मसाला (सीक्रेट फ्लेवर), 1/2 छोटा चम्मच हल्दी, 1 छोटा चम्मच कश्मीरी मिर्च, 1 छोटा चम्मच धनिया पाउडर और स्वादानुसार नमक डालें। 3-4 मिनट भूनें जब तक टमाटर गल न जाएं और मक्खन छूटने लगे।",
+    "अंडे डालना: आंच धीमी-मध्यम करें। फेंटे हुए अंडे डालें और 10-15 सेकंड बिना हिलाए रहने दें ताकि नीचे से मखमली लेयर बनने लगे।",
+    "हल्के हाथ से फोल्ड करना: कलछी से अंडों को किनारों से बीच की ओर हल्के हाथ से फोल्ड करें। अंडों को मसलकर सूखा न करें। सिर्फ 2-3 मिनट पकाएं जब तक अंडे 85-90% पक जाएं।",
+    "गैस बंद करके परोसना: जब भुर्जी हल्की चमकदार और रसीली दिखे, तुरंत गैस बंद कर दें (तवे की गरमाहट से अंडे मक्खन जैसे पक जाते हैं)। ऊपर से कसूरी मेथी, नींबू का रस, थोड़ा मक्खन और हरा धनिया डालें। गरमा-गरम मक्खन वाले पाव या पराठों के साथ परोसें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Whisk Eggs Lightly",
+      "title_hi": "अंडे हल्के हाथ से फेंटना",
+      "instruction_en": "Crack eggs with a pinch of salt and whisk gently just until combined (do not over-aerate).",
+      "instruction_hi": "अंडों को नमक के साथ हल्का फेंटकर एकसार कर लें।"
+    },
+    {
+      "step": 2,
+      "title_en": "Melt Butter & Oil on Tawa",
+      "title_hi": "मक्खन व तेल में जीरा चटकाना",
+      "instruction_en": "Heat butter and oil on a tawa; splutter cumin seeds over medium flame.",
+      "instruction_hi": "तवे पर मक्खन और तेल गरम करके जीरा चटकाएं।"
+    },
+    {
+      "step": 3,
+      "title_en": "Sauté Aromatics & Capsicum",
+      "title_hi": "प्याज, अदरक-लहसुन व शिमला मिर्च भूनना",
+      "instruction_en": "Sauté onions, ginger, garlic, chillies until soft; add diced bell pepper for juicy crunch.",
+      "instruction_hi": "प्याज, अदरक, लहसुन भूनें और शिमला मिर्च डालकर क्रंच आने तक चलाएं।"
+    },
+    {
+      "step": 4,
+      "title_en": "Cook Tomatoes with Pav Bhaji Masala",
+      "title_hi": "टमाटर व पाव भाजी मसाले की भुनाई",
+      "instruction_en": "Add tomatoes, pav bhaji masala, turmeric, chilli, coriander, and salt; cook until mushy and glossy.",
+      "instruction_hi": "टमाटर और पाव भाजी मसाला व सूखे मसाले डालकर मक्खन छोड़ने तक भूनें।"
+    },
+    {
+      "step": 5,
+      "title_en": "Pour Eggs on Gentle Heat",
+      "title_hi": "धीमी आंच पर अंडे डालना",
+      "instruction_en": "Lower heat, pour in whisked eggs, and let sit 10-15 seconds to form soft curd foundation.",
+      "instruction_hi": "आंच धीमी करके अंडे डालें और 10-15 सेकंड नीचे लेयर जमने दें।"
+    },
+    {
+      "step": 6,
+      "title_en": "Soft Fold Scramble Technique",
+      "title_hi": "मखमली भुर्जी के लिए हल्के हाथ से फोल्ड करना",
+      "instruction_en": "Gently fold eggs from edges to center; avoid over-stirring so large juicy curds form.",
+      "instruction_hi": "कलछी से अंडों को किनारों से बीच में हल्के हाथ से फोल्ड करें।"
+    },
+    {
+      "step": 7,
+      "title_en": "Turn Off Heat While Glossy & Serve",
+      "title_hi": "रसीली भुर्जी को पाव के साथ परोसना",
+      "instruction_en": "Turn off heat while slightly moist; garnish with kasuri methi, lemon juice, butter, and coriander.",
+      "instruction_hi": "रसीली रहते ही गैस बंद करें, कसूरी मेथी, नींबू, मक्खन व धनिया डालकर पाव के साथ परोसें!"
+    }
+  ],
+  "chef_tips_en": [
+    "Pav Bhaji Masala Secret: 1 tbsp Pav Bhaji Masala replaces ordinary garam masala to give that intoxicating Mumbai beach street-stall aroma with notes of dried mango, fennel, and coriander.",
+    "Turn Off Heat While Glossy: Overcooking is the single biggest flaw in Anda Bhurji. Pull it off the flame when it is 90% done; residual tawa heat cooks it to juicy perfection without turning it rubbery.",
+    "Gentle Folding vs. Mashing: Never vigorously chop or mash the cooking eggs. Gentle folding creates large, pillowy egg curds that lock in butter and tomato juices."
+  ],
+  "chef_tips_hi": [
+    "पाव भाजी मसाले का कमाल: साधारण गरम मसाले के बजाय 1 बड़ा चम्मच पाव भाजी मसाला डालने से चौपाटी/स्ट्रीट स्टाइल खुशबू और लाजवाब तीखा-खट्टा स्वाद मिलता है।",
+    "रसीली रहते ही गैस बंद करना: अंडा भुर्जी में सबसे बड़ी गलती होती है उसे सूखा कर देना। जब भुर्जी 90% पक जाए और चमकदार दिखे, तुरंत गैस बंद कर दें; तवे की गर्माहट से वह अंदर तक मक्खन जैसी सॉफ्ट बनती है।",
+    "मसलने के बजाय हल्के हाथ से चलाना: अंडों को कलछी से तेजी से कीमा न बनाएं; किनारों से बीच की तरफ हल्के हाथ से फोल्ड करने से बड़े मखमली टुकड़े बनते हैं जो रसदार रहते हैं।"
+  ]
+}

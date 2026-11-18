@@ -1,0 +1,258 @@
+{
+  "id": "desi-restaurant-matar-paneer",
+  "title_en": "Desi Restaurant-Style Matar Paneer",
+  "title_hi": "देसी रेस्टोरेंट स्टाइल मटर पनीर",
+  "title": {
+    "en": "Desi Restaurant-Style Matar Paneer",
+    "hi": "देसी रेस्टोरेंट स्टाइल मटर पनीर"
+  },
+  "description_en": "The ultimate North Indian roadside eatery (Dhaba / Desi Restaurant) Matar Paneer featuring tender, cotton-soft paneer cubes and emerald green peas cooked in a velvety, caramelized onion-tomato and spiced yogurt gravy. Achieves a rich, thick restaurant body naturally without heavy cashew pastes.",
+  "description_hi": "ढाबा और देसी रेस्टोरेंट स्टाइल स्वादिष्ट मटर पनीर। मलाईदार नरम पनीर के टुकड़े और ताजे हरे मटर, जिन्हें कैरामेलाइज्ड प्याज, टमाटर और फेंटी हुई गाढ़ी दही की खुशबूदार मखमली ग्रेवी में धीमी आंच पर पकाया गया है। बिना भारी काजू पेस्ट के भी एकदम गाढ़ी और लाजवाब ग्रेवी।",
+  "description": {
+    "en": "The ultimate North Indian roadside eatery (Dhaba / Desi Restaurant) Matar Paneer featuring tender, cotton-soft paneer cubes and emerald green peas cooked in a velvety, caramelized onion-tomato and spiced yogurt gravy. Achieves a rich, thick restaurant body naturally without heavy cashew pastes.",
+    "hi": "ढाबा और देसी रेस्टोरेंट स्टाइल स्वादिष्ट मटर पनीर। मलाईदार नरम पनीर के टुकड़े और ताजे हरे मटर, जिन्हें कैरामेलाइज्ड प्याज, टमाटर और फेंटी हुई गाढ़ी दही की खुशबूदार मखमली ग्रेवी में धीमी आंच पर पकाया गया है। बिना भारी काजू पेस्ट के भी एकदम गाढ़ी और लाजवाब ग्रेवी।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cook_time_en": "20 mins",
+  "cook_time_hi": "20 मिनट",
+  "prepTime": "10 mins",
+  "cookTime": "20 mins",
+  "servings_en": "4 servings (4 लोग)",
+  "servings_hi": "4 सर्विंग्स (4 लोग)",
+  "servings": "4 servings",
+  "youtube_id": "FANNoopMQ3w",
+  "youtubeId": "FANNoopMQ3w",
+  "youtube_url": "https://youtu.be/FANNoopMQ3w",
+  "image_url": "https://img.youtube.com/vi/FANNoopMQ3w/hqdefault.jpg",
+  "tags": [
+    "matar paneer",
+    "paneer curry",
+    "restaurant style",
+    "desi dhaba style",
+    "bharatzkitchen",
+    "paneer matar masala",
+    "punjabi curry",
+    "vegetarian dinner"
+  ],
+  "ingredients_en": [
+    "250g Fresh Paneer, cut into 1-inch bite-sized cubes",
+    "1 cup Fresh Green Peas (Matar), fresh or frozen",
+    "3 tbsp Cooking Oil or Pure Desi Ghee",
+    "1 tsp Cumin Seeds (Jeera)",
+    "1 Bay Leaf (Tejpatta)",
+    "1 inch Cinnamon Stick (Dalchini)",
+    "2 Green Cardamoms (Choti Elaichi), crushed",
+    "3 Medium Onions, very finely chopped (or coarse puree)",
+    "1.5 tbsp Ginger-Garlic Paste (freshly made)",
+    "3 Large Ripe Tomatoes, pureed",
+    "1/4 cup Whisked Curd (Fresh Dahi, at room temperature)",
+    "2 tbsp Fresh Cream or Malai (optional for extra velvet finish)",
+    "1/2 tsp Turmeric Powder (Haldi)",
+    "1 tbsp Kashmiri Red Chilli Powder (for color and mild heat)",
+    "1 tbsp Coriander Powder (Dhaniya Powder)",
+    "1 tsp Kitchen King Masala (or Garam Masala)",
+    "1 tsp Roasted Kasuri Methi (crushed fenugreek leaves)",
+    "1 tsp Salt (or to taste)",
+    "1/4 tsp Sugar (to balance tomato acidity and keep peas green)",
+    "1 to 1.5 cups Warm Water (for gravy consistency)",
+    "1/4 cup Fresh Coriander Leaves, finely chopped"
+  ],
+  "ingredients_hi": [
+    "250 ग्राम ताजा पनीर (1-इंच चौकोर टुकड़ों में कटा)",
+    "1 कप ताजी हरी मटर (फ्रेश या फ्रोजन)",
+    "3 बड़े चम्मच कुकिंग ऑयल या शुद्ध देसी घी",
+    "1 छोटा चम्मच जीरा",
+    "1 तेजपत्ता",
+    "1 इंच दालचीनी का टुकड़ा",
+    "2 हरी इलायची (कुटी हुई)",
+    "3 मध्यम प्याज (एकदम बारीक कटे हुए)",
+    "1.5 बड़ा चम्मच ताजा अदरक-लहसुन का पेस्ट",
+    "3 बड़े पके टमाटर (मिक्सी में पिसी प्यूरी)",
+    "1/4 कप ताजा फेंटी हुई दही (कमरे के तापमान पर)",
+    "2 बड़े चम्मच ताजी मलाई या फ्रेश क्रीम (मखमली फिनिश के लिए)",
+    "1/2 छोटा चम्मच हल्दी पाउडर",
+    "1 बड़ा चम्मच कश्मीरी लाल मिर्च पाउडर (रंगत के लिए)",
+    "1 बड़ा चम्मच धनिया पाउडर",
+    "1 छोटा चम्मच किचन किंग मसाला (या गरम मसाला)",
+    "1 छोटा चम्मच भुनी कसूरी मेथी (हाथों से मसली हुई)",
+    "1 छोटा चम्मच नमक (स्वादानुसार)",
+    "1/4 छोटा चम्मच चीनी (टमाटर की खटास संतुलित करने और मटर का हरा रंग बनाए रखने के लिए)",
+    "1 से 1.5 कप गुनगुना पानी (ग्रेवी के लिए)",
+    "1/4 कप ताजा हरा धनिया (बारीक कटा हुआ)"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Main Dairy & Veg (पनीर व मटर)",
+      "category_hi": "पनीर और हरी मटर",
+      "items": [
+        {
+          "name_en": "Fresh Paneer",
+          "name_hi": "ताजा पनीर",
+          "amount": "250g (क्यूब्स में कटा)"
+        },
+        {
+          "name_en": "Green Peas (Matar)",
+          "name_hi": "हरी मटर",
+          "amount": "1 cup (1 कप)"
+        }
+      ]
+    },
+    {
+      "category_en": "Gravy Base & Aromatics (ग्रेवी बेस व खड़े मसाले)",
+      "category_hi": "ग्रेवी तड़का सामग्री",
+      "items": [
+        {
+          "name_en": "Desi Ghee or Oil",
+          "name_hi": "देसी घी या तेल",
+          "amount": "3 tbsp"
+        },
+        {
+          "name_en": "Cumin Seeds & Whole Spices",
+          "name_hi": "जीरा, तेजपत्ता, दालचीनी, इलायची",
+          "amount": "Whole spices"
+        },
+        {
+          "name_en": "Finely Chopped Onions",
+          "name_hi": "बारीक कटे प्याज",
+          "amount": "3 medium"
+        },
+        {
+          "name_en": "Ginger-Garlic Paste",
+          "name_hi": "अदरक-लहसुन पेस्ट",
+          "amount": "1.5 tbsp"
+        },
+        {
+          "name_en": "Tomato Puree",
+          "name_hi": "टमाटर प्यूरी",
+          "amount": "3 large tomatoes"
+        },
+        {
+          "name_en": "Whisked Curd (Dahi)",
+          "name_hi": "फेंटी हुई दही",
+          "amount": "1/4 cup"
+        },
+        {
+          "name_en": "Fresh Malai / Cream",
+          "name_hi": "ताजी मलाई",
+          "amount": "2 tbsp"
+        }
+      ]
+    },
+    {
+      "category_en": "Spices & Finishing (मसाले व गार्निश)",
+      "category_hi": "मसाले और खुशबूदार सामग्री",
+      "items": [
+        {
+          "name_en": "Kashmiri Red Chilli Powder",
+          "name_hi": "कश्मीरी लाल मिर्च",
+          "amount": "1 tbsp"
+        },
+        {
+          "name_en": "Coriander Powder",
+          "name_hi": "धनिया पाउडर",
+          "amount": "1 tbsp"
+        },
+        {
+          "name_en": "Kitchen King / Garam Masala",
+          "name_hi": "किचन किंग / गरम मसाला",
+          "amount": "1 tsp"
+        },
+        {
+          "name_en": "Kasuri Methi",
+          "name_hi": "कसूरी मेथी",
+          "amount": "1 tsp"
+        },
+        {
+          "name_en": "Fresh Coriander",
+          "name_hi": "ताजा हरा धनिया",
+          "amount": "1/4 cup"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Prep Green Peas & Paneer: In a small pan, boil 1 cup green peas with 1 cup water, 1/4 tsp sugar, and a pinch of salt for 3-4 minutes until tender. Drain and keep aside (sugar keeps the peas vibrant green). Soak paneer cubes in a bowl of warm, lightly salted water so they stay cotton-soft.",
+    "Whole Spice Tempering: Heat 3 tbsp oil or ghee in a kadhai on medium heat. Add 1 tsp cumin seeds, 1 bay leaf, 1 inch cinnamon stick, and 2 crushed green cardamoms. Sauté for 30 seconds until aromatic.",
+    "Slow Caramelize Onions: Add the finely chopped onions and sauté patiently on medium flame for 6–8 minutes, stirring regularly, until they turn a deep golden-brown color (this deep browning creates the foundation of restaurant gravies).",
+    "Add Ginger-Garlic & Spices: Add 1.5 tbsp fresh ginger-garlic paste and sauté for 1 minute until the raw smell disappears. Lower the heat, add 1/2 tsp turmeric powder, 1 tbsp Kashmiri red chilli powder, and 1 tbsp coriander powder. Stir quickly for 20 seconds.",
+    "Cook Tomato Puree: Pour in the pureed fresh tomatoes and 1 tsp salt. Cook on medium flame for 5–6 minutes, stirring regularly until the tomatoes darken, reduce completely, and oil/ghee separates from the edges.",
+    "Incorporate Curd (The Dhaba Secret): Turn the flame to low. Whisk in 1/4 cup room-temperature curd continuously so it emulsifies smoothly without splitting. Cook for 2 minutes until bubbly and glossy.",
+    "Simmer Gravy with Peas: Add the blanched green peas and pour in 1 to 1.5 cups of warm water to achieve desired curry consistency. Bring to a boil, then cover and simmer on low-medium flame for 4–5 minutes.",
+    "Add Paneer & Final Flourish: Drain paneer cubes from warm water and gently drop them into the simmering gravy. Stir in 1 tsp Kitchen King masala (or garam masala), 1 tsp crushed kasuri methi, and 2 tbsp fresh cream/malai. Simmer for just 2-3 minutes so the paneer absorbs the rich gravy without becoming chewy.",
+    "Garnish and Serve: Turn off heat, sprinkle fresh coriander leaves, and let the curry rest covered for 2 minutes before serving hot with buttery naans, parathas, or jeera rice!"
+  ],
+  "instructions_hi": [
+    "मटर और पनीर तैयार करें: एक छोटे बर्तन में 1 कप मटर को 1 कप पानी, 1/4 चम्मच चीनी और चुटकी भर नमक डालकर 3-4 मिनट उबाल लें (चीनी से मटर का हरा रंग बरकरार रहता है)। पनीर के टुकड़ों को हल्के गुनगुने नमक वाले पानी में भिगोकर रखें ताकि वे रुई जैसे मुलायम रहें।",
+    "खड़े मसालों का तड़का: कड़ाही में 3 बड़े चम्मच तेल या देसी घी गरम करें। जीरा, तेजपत्ता, दालचीनी और कुटी हरी इलायची डालकर 30 सेकंड चटकाएं।",
+    "प्याज की गहरी भुनाई: एकदम बारीक कटे प्याज डालें और मध्यम आंच पर 6-8 मिनट तक लगातार चलाते हुए तब तक भूनें जब तक कि वे गहरे सुनहरे भूरे न हो जाएं (यही रेस्टोरेंट जैसी गाढ़ी ग्रेवी का असली राज है)।",
+    "अदरक-लहसुन व सूखे मसाले: अदरक-लहसुन का पेस्ट डालकर 1 मिनट भूनें। आंच धीमी करें और हल्दी, कश्मीरी लाल मिर्च और धनिया पाउडर डालकर 20 सेकंड चलाएं।",
+    "टमाटर प्यूरी पकाएं: पिसी हुई टमाटर प्यूरी और स्वादानुसार नमक डालें। मध्यम आंच पर 5-6 मिनट तक भूनें जब तक टमाटर अच्छी तरह पक न जाएं और किनारों से तेल अलग न दिखने लगे।",
+    "फेंटी दही मिलाएं (ढाबा स्टाइल सीक्रेट): आंच धीमी रखें। 1/4 कप फेंटी हुई दही डालें और लगातार चलाएं ताकि दही फटे नहीं। 2 मिनट पकाएं जब तक ग्रेवी में चमक न आ जाए।",
+    "मटर डालकर ग्रेवी पकाना: उबली हुई हरी मटर और 1 से 1.5 कप गुनगुना पानी मिलाएं। ढककर धीमी आंच पर 4-5 मिनट तक उबलने दें।",
+    "पनीर और मसाले मिलाना: पानी से निकालकर पनीर के टुकड़े ग्रेवी में डालें। साथ ही 1 छोटा चम्मच किचन किंग मसाला, 1 चम्मच भुनी कसूरी मेथी और 2 चम्मच ताजी मलाई मिलाएं। सिर्फ 2-3 मिनट धीमी आंच पर पकाएं ताकि पनीर रबर जैसा न हो।",
+    "परोसें: गैस बंद करें, ऊपर से बारीक कटा हरा धनिया डालें और 2 मिनट ढककर रखने के बाद गरमा-गरम तंदूरी रोटी, नान या जीरा राइस के साथ परोसें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Prepping Peas & Soaking Paneer",
+      "title_hi": "मटर उबालना व पनीर भिगोना",
+      "instruction_en": "Boil peas with a pinch of sugar for color; soak paneer cubes in warm salted water for tenderness.",
+      "instruction_hi": "मटर को चीनी डालकर 3 मिनट उबालें और पनीर को गुनगुने नमक के पानी में भिगोएं।"
+    },
+    {
+      "step": 2,
+      "title_en": "Tempering Whole Spices",
+      "title_hi": "खड़े मसालों का तड़का",
+      "instruction_en": "Heat ghee/oil, sizzle cumin, bay leaf, cinnamon, and crushed green cardamoms until fragrant.",
+      "instruction_hi": "घी में जीरा, तेजपत्ता, दालचीनी और हरी इलायची डालकर खुशबू आने तक भूनें।"
+    },
+    {
+      "step": 3,
+      "title_en": "Deep Onion Caramelization",
+      "title_hi": "प्याज की गहरी भुनाई",
+      "instruction_en": "Sauté finely chopped onions on medium flame until deep golden-brown, then add ginger-garlic paste.",
+      "instruction_hi": "बारीक कटे प्याज को गहरा सुनहरा भूनें और अदरक-लहसुन पेस्ट डालकर कच्चापन दूर करें।"
+    },
+    {
+      "step": 4,
+      "title_en": "Cooking Tomatoes & Ground Spices",
+      "title_hi": "टमाटर व मसाले पकाना",
+      "instruction_en": "Add Kashmiri chilli, turmeric, coriander powder, tomato puree, and salt. Cook until oil separates.",
+      "instruction_hi": "सूखे मसाले, टमाटर प्यूरी और नमक डालकर तब तक भूनें जब तक तेल अलग न हो जाए।"
+    },
+    {
+      "step": 5,
+      "title_en": "Emulsifying Whisked Curd",
+      "title_hi": "दही मिलाकर मखमली बनाना",
+      "instruction_en": "Whisk in room-temperature curd on low heat constantly until glossy and well combined with the gravy base.",
+      "instruction_hi": "धीमी आंच पर फेंटी दही डालें और लगातार चलाते हुए 2 मिनट पकाएं।"
+    },
+    {
+      "step": 6,
+      "title_en": "Adding Peas, Paneer & Aromatics",
+      "title_hi": "मटर, पनीर और कसूरी मेथी",
+      "instruction_en": "Add water and peas; simmer. Fold in soft paneer, kitchen king masala, kasuri methi, and cream. Garnish with coriander.",
+      "instruction_hi": "पानी और मटर डालकर उबालें। पनीर, किचन किंग मसाला, कसूरी मेथी, मलाई और हरा धनिया मिलाकर 2 मिनट पकाएं।"
+    }
+  ],
+  "chef_tips_en": [
+    "The Sugar-Boiled Peas Trick: Boiling green peas with a tiny pinch of sugar and salt retains their brilliant emerald green hue throughout cooking and prevents them from shrinking or turning wrinkly.",
+    "Never Overcook Paneer: Paneer should only simmer in the hot gravy for 2 to 3 minutes. Cooking it longer extracts its natural whey moisture, turning it chewy and rubbery instead of soft and juicy.",
+    "Deep Onion Browning is Key: The rich, reddish-brown color and sweet savory depth of North Indian restaurant gravies come from slow caramelized onions, not artificial coloring.",
+    "Warm Water Soaking: Keeping paneer submerged in warm salted water until ready to drop into the curry keeps the protein fibers relaxed and makes even store-bought paneer taste like fresh homemade malai paneer."
+  ],
+  "chef_tips_hi": [
+    "मटर का हरा रंग बनाए रखने की ट्रिक: मटर उबालते समय चुटकी भर चीनी डालने से मटर का हरा रंग बिल्कुल चमकदार बना रहता है और मटर सिकुड़ती नहीं है।",
+    "पनीर ज्यादा देर न पकाएं: पनीर को ग्रेवी में डालकर केवल 2-3 मिनट ही धीमी आंच पर पकाएं। ज्यादा देर पकाने से पनीर का पानी निकल जाता है और वह रबर जैसा खिंचने लगता है।",
+    "प्याज की भुनाई का महत्व: रेस्टोरेंट जैसी रंगत और स्वाद के लिए प्याज को हल्का नहीं, बल्कि गहरा सुनहरा भूरा होने तक भूनना सबसे जरूरी कदम है।",
+    "गुनगुने पानी में भिगोना: पनीर के टुकड़ों को गरम नमक वाले पानी में भिगोकर रखने से बाजार का पनीर भी घर के बने मलाई पनीर जैसा एकदम नरम और स्पंजी बन जाता है।"
+  ]
+}

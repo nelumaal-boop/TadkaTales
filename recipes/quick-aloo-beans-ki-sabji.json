@@ -1,0 +1,98 @@
+{
+  "id": "quick-aloo-beans-ki-sabji",
+  "title": {
+    "en": "Homestyle Aloo Beans Ki Sabji (Green Beans Potato Stir-Fry)",
+    "hi": "स्वादिष्ट घरेलू आलू बीन्स की सूखी सब्जी"
+  },
+  "title_en": "Homestyle Aloo Beans Ki Sabji (Green Beans Potato Stir-Fry)",
+  "title_hi": "स्वादिष्ट घरेलू आलू बीन्स की सूखी सब्जी",
+  "description": {
+    "en": "A vibrant, healthy everyday North Indian dry curry made with tender French beans, diced potatoes, ginger, and simple fragrant spices. Ready in 15 minutes for tiffin or weeknight dinner.",
+    "hi": "रोजाना बनने वाली स्वादिष्ट और सेहतमंद आलू बीन्स की सूखी सब्जी। ताजी फ्रेंच बीन्स, आलू, अदरक और हल्के मसालों से तैयार यह सब्जी लंच बॉक्स और पराठे के साथ एकदम सटीक बैठती है।"
+  },
+  "description_en": "A vibrant, healthy everyday North Indian dry curry made with tender French beans, diced potatoes, ginger, and simple fragrant spices. Ready in 15 minutes for tiffin or weeknight dinner.",
+  "description_hi": "रोजाना बनने वाली स्वादिष्ट और सेहतमंद आलू बीन्स की सूखी सब्जी। ताजी फ्रेंच बीन्स, आलू, अदरक और हल्के मसालों से तैयार यह सब्जी लंच बॉक्स और पराठे के साथ एकदम सटीक बैठती है।",
+  "category": "Latest Recipe",
+  "isVegetarian": true,
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "prepTime": "10 mins",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cookTime": "15 mins",
+  "cook_time_en": "15 mins",
+  "cook_time_hi": "15 मिनट",
+  "servings": "4 servings",
+  "servings_en": "4 servings",
+  "servings_hi": "4 सर्विंग्स",
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "youtube_id": "wyJSN5WPUd8",
+  "youtubeId": "wyJSN5WPUd8",
+  "youtube_url": "https://www.youtube.com/watch?v=wyJSN5WPUd8",
+  "author": "HomeCookingShow",
+  "image_url": "/static/images/wyJSN5WPUd8.jpg",
+  "tags": [
+    "Aloo Beans",
+    "Dry Sabji",
+    "Tiffin Special",
+    "Quick Curry",
+    "Everyday Cooking",
+    "Vegetarian",
+    "HomeCookingShow"
+  ],
+  "ingredients_en": [
+    "250g French Green Beans (chopped into 1/2-inch pieces)",
+    "2 medium Potatoes (peeled and diced into small cubes)",
+    "2 tbsp Mustard Oil or Cooking Oil",
+    "1 tsp Cumin Seeds & pinch of Asafoetida (Hing)",
+    "1-inch Ginger (finely julienned or minced)",
+    "2 Green Chillies (slit)",
+    "1/2 tsp Turmeric Powder",
+    "1 tsp Coriander Powder",
+    "1/2 tsp Kashmiri Red Chilli Powder",
+    "1/2 tsp Amchur / Dry Mango Powder",
+    "Salt to taste",
+    "Fresh Coriander for garnish"
+  ],
+  "ingredients_hi": [
+    "250 ग्राम ताजी फ्रेंच बीन्स (छोटे टुकड़ों में कटी हुई)",
+    "2 मध्यम आलू (छिले और छोटे चौकोर टुकड़ों में कटे)",
+    "2 बड़े चम्मच सरसों का तेल या कुकिंग ऑयल",
+    "1 छोटा चम्मच जीरा व चुटकी भर हींग",
+    "1 इंच अदरक (लंबे बारीक लच्छे)",
+    "2 हरी मिर्च",
+    "1/2 छोटा चम्मच हल्दी पाउडर",
+    "1 छोटा चम्मच धनिया पाउडर",
+    "1/2 छोटा चम्मच कश्मीरी लाल मिर्च पाउडर",
+    "1/2 छोटा चम्मच अमचूर पाउडर",
+    "स्वादानुसार नमक",
+    "बारीक कटा ताजा हरा धनिया"
+  ],
+  "instructions_en": [
+    "Heat mustard oil in a kadai until it reaches smoking point, then lower heat. Add cumin seeds and hing.",
+    "Add julienned ginger and green chillies; sauté for 30 seconds until fragrant.",
+    "Add diced potatoes and turmeric powder. Sauté on medium flame for 3–4 minutes until potatoes develop a light golden crust.",
+    "Add chopped french beans and salt. Toss well to combine with the potatoes.",
+    "Cover tightly with a lid and cook on low heat for 7–8 minutes, stirring occasionally until potatoes and beans are fork-tender (do not add excess water; let it cook in steam).",
+    "Uncover, add coriander powder, red chilli powder, and amchur powder. Stir-fry on medium flame for 2 minutes to roast the spices.",
+    "Garnish with chopped fresh coriander leaves. Serve hot with soft phulkas, parathas, or dal-chawal."
+  ],
+  "instructions_hi": [
+    "कड़ाही में सरसों का तेल धुआं उठने तक गरम करें, फिर आंच धीमी करें। जीरा और हींग डालें।",
+    "अदरक के लच्छे और हरी मिर्च डालकर 30 सेकंड भूनें।",
+    "कटे हुए आलू और हल्दी डालें। मध्यम आंच पर 3-4 मिनट तक भूनें जब तक आलू पर हल्की सुनहरी परत न आ जाए।",
+    "कटी हुई बीन्स और स्वादानुसार नमक डालें। अच्छी तरह मिलाएं।",
+    "कड़ाही को ढक्कन से ढकें और धीमी आंच पर 7-8 मिनट तक अपनी ही भाप में पकने दें। बीच-बीच में चलाते रहें।",
+    "ढक्कन खोलें, धनिया पाउडर, लाल मिर्च और अमचूर पाउडर डालें। मध्यम आंच पर 2 मिनट खुला भूनें।",
+    "ऊपर से हरा धनिया डालें और गरमा-गरम रोटी या पराठे के साथ टिफिन में पैक करें।"
+  ],
+  "chef_tips_en": [
+    "Cut potatoes and beans to a uniform small size so they finish cooking simultaneously without beans turning mushy.",
+    "Amchur added at the end provides a delightful sour punch while keeping the beans vibrant green."
+  ],
+  "chef_tips_hi": [
+    "आलू और बीन्स को एक ही आकार में काटें ताकि दोनों एक साथ बराबर पकें।",
+    "अमचूर हमेशा अंत में डालें ताकि सब्जी का हरा रंग बरकरार रहे और चटपटा स्वाद मिले।"
+  ]
+}

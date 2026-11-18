@@ -1,0 +1,428 @@
+{
+  "id": "delhi-soya-veg-biryani",
+  "title": {
+    "en": "Delhi Street-Style Spicy Soya Veg Biryani",
+    "hi": "दिल्ली स्ट्रीट स्टाइल मसालेदार सोया वेज बिरयानी"
+  },
+  "description": {
+    "en": "The iconic Delhi roadside veg biryani made with long-grain Golden Sela rice, ultra-juicy soft soya chunks, freshly pounded whole spices, and served with signature street-style spicy tomato gravy and laccha pyaz.",
+    "hi": "दिल्ली की मशहूर ठेले वाली सोया वेज बिरयानी! गोल्डन सेला चावल, रसीली मखमली सोया वड़ी, दरदरे कुटे मसालों की खुशबू और साथ में तीखी स्ट्रीट-स्टाइल टमाटर की लाल ग्रेवी व लच्छा प्याज।"
+  },
+  "category": "Latest Recipe",
+  "isVegetarian": true,
+  "prepTime": "25 mins (+ 1 hr soaking)",
+  "cookTime": "35 mins",
+  "servings": "4-5 servings",
+  "youtubeId": "WSCO1Qezlts",
+  "author": "Bharatzkitchen Hindi",
+  "ingredients": [
+    {
+      "category": {
+        "en": "Rice & Soya Prep",
+        "hi": "चावल और सोया तैयारी"
+      },
+      "items": [
+        {
+          "en": "Golden Sela (Double Chabi) Basmati Rice - 2 cups (soaked 1 hour)",
+          "hi": "गोल्डन सेला (डबल चाबी) बासमती चावल - 2 कप (1 घंटा भिगोए हुए)"
+        },
+        {
+          "en": "Soya Chunks (Nutri) - 1.5 cups (soaked in boiling water for 1 hour)",
+          "hi": "सोया चंक्स (न्यूट्री) - 1.5 कप (खौलते पानी में 1 घंटा भिगोए हुए)"
+        },
+        {
+          "en": "Water for boiling rice - 3.5 cups",
+          "hi": "चावल पकाने के लिए पानी - 3.5 कप"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Fresh Ginger-Garlic-Chilli Paste (Shared)",
+        "hi": "अदरक-लहसुन-हरी मिर्च पेस्ट (दो भागों में बंटेगा)"
+      },
+      "items": [
+        {
+          "en": "Garlic cloves - 40g (peeled)",
+          "hi": "लहसुन - 40 ग्राम (छिला हुआ)"
+        },
+        {
+          "en": "Fresh Ginger - 25g (chopped)",
+          "hi": "ताजा अदरक - 25 ग्राम (कटा हुआ)"
+        },
+        {
+          "en": "Green Chillies - 4 to 5 (spicy)",
+          "hi": "हरी मिर्च - 4 से 5 (तीखी)"
+        },
+        {
+          "en": "Water - 2-3 tbsp (to grind smooth)",
+          "hi": "पानी - 2-3 चम्मच (महीन पीसने के लिए)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Crushed Whole Spices (Street Secret)",
+        "hi": "दरदरे कुटे खड़े मसाले (ठेले वालों का सीक्रेट)"
+      },
+      "items": [
+        {
+          "en": "Cloves (Laung) - 2-3",
+          "hi": "लौंग - 2-3"
+        },
+        {
+          "en": "Mace (Javitri) - a small piece",
+          "hi": "जावित्री - छोटा टुकड़ा"
+        },
+        {
+          "en": "Cinnamon stick (Dalchini) - 1 inch",
+          "hi": "दालचीनी - 1 इंच"
+        },
+        {
+          "en": "Black Peppercorns (Kali Mirch) - 1 tsp",
+          "hi": "काली मिर्च - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Fennel Seeds (Saunf) - 1/2 tsp",
+          "hi": "सौंफ - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Bay Leaf (Tej Patta) - 1 whole",
+          "hi": "तेजपत्ता - 1"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Biryani Masala & Seasonings",
+        "hi": "बिरयानी मसाला और भूनने के मसाले"
+      },
+      "items": [
+        {
+          "en": "Cooking Oil - 1/2 cup (used for onions & biryani pot)",
+          "hi": "तेल - 1/2 कप (बिरिस्ता और बिरयानी दोनों के लिए कुल)"
+        },
+        {
+          "en": "Onions - 2 large (thinly sliced for crispy birista)",
+          "hi": "प्याज - 2 बड़े (बारीक लच्छेदार कटे, कुरकुरा बिरिस्ता बनाने के लिए)"
+        },
+        {
+          "en": "Biryani Masala - 1 tsp",
+          "hi": "बिरयानी मसाला - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Kitchen King or Vegetarian Meat/Chicken Masala - 2 tsp",
+          "hi": "किचन किंग या वेज चिकन मसाला पाउडर - 2 छोटे चम्मच"
+        },
+        {
+          "en": "Yellow Chilli Powder (Peeli Mirch) - 1 tsp",
+          "hi": "पीली मिर्च पाउडर - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Coriander Powder (Dhaniya) - 1 tsp",
+          "hi": "धनिया पाउडर - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Green Peas (Matar) - 1/2 cup (fresh or frozen)",
+          "hi": "हरे मटर - 1/2 कप"
+        },
+        {
+          "en": "Slit Green Chillies - 3-4",
+          "hi": "चीरा लगी हरी मिर्च - 3-4"
+        },
+        {
+          "en": "Salt - 2 tsp (divided for soya and rice)",
+          "hi": "नमक - 2 छोटे चम्मच (स्वादानुसार)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Special Street-Style Spicy Chutney / Gravy",
+        "hi": "स्ट्रीट-स्टाइल तीखी टमाटर ग्रेवी (चटनी)"
+      },
+      "items": [
+        {
+          "en": "Reserved Ginger-Garlic-Chilli Paste - 1.5 tbsp",
+          "hi": "बचा हुआ अदरक-लहसुन-मिर्च पेस्ट - 1.5 चम्मच"
+        },
+        {
+          "en": "Ripe Tomatoes - 2 medium (pureed)",
+          "hi": "पके टमाटर - 2 (मिक्सी में पिसे हुए)"
+        },
+        {
+          "en": "Spicy Red Chilli Powder - 1.5 tsp",
+          "hi": "तीखी लाल मिर्च पाउडर - 1.5 छोटा चम्मच"
+        },
+        {
+          "en": "Kashmiri Red Chilli Powder - 1 tsp",
+          "hi": "कश्मीरी लाल मिर्च पाउडर - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Yellow Chilli Powder - 1/2 tsp",
+          "hi": "पीली मिर्च पाउडर - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Salt - 1 tsp",
+          "hi": "नमक - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Water - 1/2 cup (to adjust consistency)",
+          "hi": "पानी - 1/2 कप (पतली ग्रेवी के लिए)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Garnish & Serving",
+        "hi": "गार्निश और परोसने के लिए"
+      },
+      "items": [
+        {
+          "en": "Yellow/Orange Food Colour - a pinch dissolved in 1 tbsp water",
+          "hi": "पीला/नारंगी फूड कलर - 1 चुटकी (1 चम्मच पानी में घुला)"
+        },
+        {
+          "en": "Fresh Paneer Cubes - 50g (for top garnish)",
+          "hi": "पनीर के टुकड़े - 50 ग्राम (सजाने के लिए)"
+        },
+        {
+          "en": "Chat Masala / Biryani Masala pinch - for dusting",
+          "hi": "चाट मसाला / बिरयानी मसाला - चुटकी भर छिड़कने के लिए"
+        },
+        {
+          "en": "Sliced Onion rings (Laccha Pyaz) & Lemon wedges",
+          "hi": "लच्छा प्याज और नींबू के टुकड़े"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": {
+        "en": "Soaking Rice & Soya Chunks",
+        "hi": "चावल और सोया वड़ी भिगोना"
+      },
+      "text": {
+        "en": "Wash Golden Sela rice thoroughly and soak in ample water for at least 1 hour until grains turn opaque chalky white. Simultaneously, submerge soya chunks in boiling hot water for 1 hour so they absorb water and become fully soft and juicy. After 1 hour, drain and squeeze excess water from the soya chunks.",
+        "hi": "गोल्डन सेला चावल को अच्छी तरह धोकर कम से कम 1 घंटे के लिए पानी में भिगो दें जिससे दाने सफेद दिखने लगें। साथ ही सोया वड़ी को खौलते गर्म पानी में 1 घंटे के लिए डुबोकर छोड़ दें ताकि वे अंदर तक फूलकर रसीली और मखमली हो जाएं। 1 घंटे बाद सोया का पानी निचोड़ लें।"
+      }
+    },
+    {
+      "step": 2,
+      "title": {
+        "en": "Pounding Spices & Blending Aromatics",
+        "hi": "मसाले कूटना और अदरक-लहसुन पेस्ट बनाना"
+      },
+      "text": {
+        "en": "In a mortar and pestle, coarsely crush cloves, mace, cinnamon, black peppercorns, and fennel seeds. In a blender jar, grind 25g ginger, 40g garlic, and 4-5 green chillies with a splash of water to a fine paste. Divide the paste into two equal portions: half for the biryani and half for the street-style gravy.",
+        "hi": "खल-बत्ते में लौंग, जावित्री, दालचीनी, काली मिर्च और सौंफ को दरदरा कूट लें। मिक्सी में 25 ग्राम अदरक, 40 ग्राम लहसुन और 4-5 हरी मिर्च थोड़ा पानी डालकर महीन पीस लें। इस पेस्ट को दो हिस्सों में बांट लें: आधा बिरयानी के तड़के के लिए और आधा स्पेशल ग्रेवी के लिए।"
+      }
+    },
+    {
+      "step": 3,
+      "title": {
+        "en": "Making the Signature Street Gravy (Chutney)",
+        "hi": "मशहूर स्ट्रीट वाली तीखी टमाटर ग्रेवी बनाना"
+      },
+      "text": {
+        "en": "In the blender with remaining half ginger-garlic paste, add 2 rough chopped tomatoes and blend until smooth. Pour into a bowl, add spicy red chilli, Kashmiri chilli, yellow chilli powder, salt, and 1/2 cup water to keep it pouring consistency. Mix well—this raw spicy tomato-garlic gravy is the hallmark of Delhi street biryani.",
+        "hi": "मिक्सी में बचे आधे अदरक-लहसुन पेस्ट के साथ 2 टमाटर डालकर एकदम चिकना पीस लें। एक बाउल में निकालें, इसमें तीखी लाल मिर्च, कश्मीरी मिर्च, पीली मिर्च पाउडर, नमक और 1/2 कप पानी मिलाकर पतली चटनी जैसी ग्रेवी तैयार कर लें।"
+      }
+    },
+    {
+      "step": 4,
+      "title": {
+        "en": "Frying Crispy Onions (Birista)",
+        "hi": "कुरकुरा प्याज (बिरिस्ता) तैयार करना"
+      },
+      "text": {
+        "en": "Heat 1/2 cup oil in a heavy-bottomed handi/pot. Add thinly sliced onions on high heat. As edges turn golden, lower the flame and fry evenly until golden brown and crispy. Immediately remove onto a plate to prevent over-darkening. Reserve the flavoured oil in the pot.",
+        "hi": "भारी तले के पतीले में आधा कप तेल गर्म करें। तेज आंच पर प्याज के बारीक लच्छे डालें। जैसे ही रंग बदलने लगे, आंच धीमी कर दें और एक समान सुनहरा होने तक तलकर प्लेट में निकाल लें। पतीले में बचा हुआ खुशबूदार तेल रखें।"
+      }
+    },
+    {
+      "step": 5,
+      "title": {
+        "en": "Cooking the Soya Masala",
+        "hi": "मसालेदार सोया भूनना"
+      },
+      "text": {
+        "en": "In the same hot oil, add the crushed whole spices, bay leaf, biryani masala, kitchen king/chicken masala, yellow chilli powder, coriander powder, and 1 tsp salt. Sauté on low for 30 seconds. Add the half ginger-garlic paste and sauté until raw aroma disappears. Add the squeezed soya chunks and roast continuously for 5 minutes on medium-low flame. Add 1/4 cup water, cover and cook for 5 minutes so juices penetrate inside. Stir in 1/3 of the fried onions and cook until oil glistens on top.",
+        "hi": "उसी गर्म तेल में दरदरे कुटे मसाले, तेजपत्ता, बिरयानी मसाला, किचन किंग पाउडर, पीली मिर्च, धनिया पाउडर और 1 चम्मच नमक डालें। 30 सेकंड भूनने के बाद आधा अदरक-लहसुन पेस्ट डालकर कच्चापन दूर होने तक भूनें। अब निचोड़ी हुई सोया वड़ी डालें और धीमी आंच पर पूरे 5 मिनट तक भूनें। थोड़ा पानी डालकर ढककर 5 मिनट पकाएं ताकि अंदर तक मसाला रम जाए। फिर थोड़ा तला हुआ प्याज डालकर तेल छूटने तक भूनें।"
+      }
+    },
+    {
+      "step": 6,
+      "title": {
+        "en": "Adding Water & Rice Boiling",
+        "hi": "पानी का नाप और चावल पकाना"
+      },
+      "text": {
+        "en": "Pour in 3.5 cups of water and 1 tsp salt into the soya pot. Cover and bring to a rolling boil on high flame. Add 3-4 slit green chillies and the drained soaked Golden Sela rice. Cook uncovered for 2 minutes on high heat until boiling bubbles appear, then cover with a tight lid and boil vigorously on high flame for exactly 5 minutes until rice expands and absorbs surface water.",
+        "hi": "पतीले में नापकर 3.5 कप पानी और 1 चम्मच नमक डालें। ढककर तेज आंच पर खौलने दें। अब चीरा लगी हरी मिर्च और छाना हुआ सेला चावल डालें। पहले 2 मिनट खुले में उबालें, फिर ढक्कन लगाकर 5 मिनट तेज आंच पर पकने दें जिससे चावल के दाने लंबे खिल जाएं।"
+      }
+    },
+    {
+      "step": 7,
+      "title": {
+        "en": "Dum Cooking (Slow Steam)",
+        "hi": "धीमी आंच पर दम लगाना"
+      },
+      "text": {
+        "en": "Open lid, scatter fresh green peas over the surface and gently tuck them in. Sprinkle most of the fried onions on top. Cover tightly with the lid, place a heavy weight (like mortar or water pot) on top, and simmer on the lowest flame for 10-12 minutes. Turn off heat and let it rest undisturbed for 10 minutes so moisture settles.",
+        "hi": "ढक्कन खोलकर ऊपर ताजे हरे मटर और तला हुआ प्याज फैलाएं। भारी वजन रखकर पतीले को ढक दें और सबसे धीमी आंच पर 10-12 मिनट दम पर पकने दें। गैस बंद करने के बाद 10 मिनट तक ढक्कन न खोलें ताकि चावल अच्छी तरह सेट हो जाए।"
+      }
+    },
+    {
+      "step": 8,
+      "title": {
+        "en": "Garnish & Delhi Street Presentation",
+        "hi": "स्ट्रीट स्टाइल सजावट और परोसना"
+      },
+      "text": {
+        "en": "Uncover gently. Drizzle yellow-orange food colour in a decorative cross pattern. Top with fresh paneer cubes, remaining birista, and a pinch of biryani/chat masala. Fluff the long separate grains with a wide flat spoon. Serve hot on paper-lined plates topped with a ladle of fiery tomato gravy and chilled spiced laccha pyaz.",
+        "hi": "ढक्कन खोलें। चुटकी भर घुले हुए नारंगी रंग की लाइनें डालें, पनीर के टुकड़े, बचा हुआ बिरिस्ता और थोड़ा मसाला छिड़कें। हल्के हाथ से चावल खोलें। दिल्ली के ठेलों की तरह प्लेट पर कागज रखकर गरमा-गरम बिरयानी परोसें, ऊपर से तीखी टमाटर की ग्रेवी डालें और लच्छा प्याज के साथ आनंद लें।"
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Golden Sela (parboiled basmati) rice is the true secret of Delhi street biryani—it never turns mushy or sticky and stays long and bouncy even on reheating.",
+      "hi": "दिल्ली की स्ट्रीट वेज बिरयानी का असली राज गोल्डन सेला चावल है—यह कभी गलता या चिपकता नहीं है और लंबे-लंबे खिले दाने बनते हैं।"
+    },
+    {
+      "en": "Yellow chilli powder (peeli mirch) gives an authentic street punch without turning the rice overly red. You can find it at spice vendors or substitute with extra black pepper and mild red chilli.",
+      "hi": "पीली मिर्च पाउडर ठेले वाले स्वाद की जान है, यह रंग बिगाड़े बिना तीखापन देती है। न हो तो आप कश्मीरी मिर्च और काली मिर्च का संतुलन बना सकते हैं।"
+    },
+    {
+      "en": "Soaking soya in boiling hot water for a full hour makes it exceptionally soft and juicy, preventing the typical spongy, dry texture.",
+      "hi": "सोया वड़ी को खौलते पानी में पूरे 1 घंटे भिगोने और 5 मिनट मसाले में भूनने से वह बिल्कुल मखमली और रसीली बनती है।"
+    }
+  ],
+  "title_en": "Delhi Street-Style Spicy Soya Veg Biryani",
+  "title_hi": "दिल्ली स्ट्रीट स्टाइल मसालेदार सोया वेज बिरयानी",
+  "description_en": "The iconic Delhi roadside veg biryani made with long-grain Golden Sela rice, ultra-juicy soft soya chunks, freshly pounded whole spices, and served with signature street-style spicy tomato gravy and laccha pyaz.",
+  "description_hi": "दिल्ली की मशहूर ठेले वाली सोया वेज बिरयानी! गोल्डन सेला चावल, रसीली मखमली सोया वड़ी, दरदरे कुटे मसालों की खुशबू और साथ में तीखी स्ट्रीट-स्टाइल टमाटर की लाल ग्रेवी व लच्छा प्याज।",
+  "prep_time_en": "25 mins (+ 1 hr soaking)",
+  "prep_time_hi": "25 mins (+ 1 hr soaking)",
+  "cook_time_en": "35 mins",
+  "cook_time_hi": "35 mins",
+  "servings_en": "4-5 servings",
+  "servings_hi": "4-5 servings",
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "youtube_id": "WSCO1Qezlts",
+  "youtube_url": "https://www.youtube.com/watch?v=WSCO1Qezlts",
+  "image_url": "https://img.youtube.com/vi/WSCO1Qezlts/hqdefault.jpg",
+  "ingredients_en": [
+    "Golden Sela (Double Chabi) Basmati Rice - 2 cups (soaked 1 hour)",
+    "Soya Chunks (Nutri) - 1.5 cups (soaked in boiling water for 1 hour)",
+    "Water for boiling rice - 3.5 cups",
+    "Garlic cloves - 40g (peeled)",
+    "Fresh Ginger - 25g (chopped)",
+    "Green Chillies - 4 to 5 (spicy)",
+    "Water - 2-3 tbsp (to grind smooth)",
+    "Cloves (Laung) - 2-3",
+    "Mace (Javitri) - a small piece",
+    "Cinnamon stick (Dalchini) - 1 inch",
+    "Black Peppercorns (Kali Mirch) - 1 tsp",
+    "Fennel Seeds (Saunf) - 1/2 tsp",
+    "Bay Leaf (Tej Patta) - 1 whole",
+    "Cooking Oil - 1/2 cup (used for onions & biryani pot)",
+    "Onions - 2 large (thinly sliced for crispy birista)",
+    "Biryani Masala - 1 tsp",
+    "Kitchen King or Vegetarian Meat/Chicken Masala - 2 tsp",
+    "Yellow Chilli Powder (Peeli Mirch) - 1 tsp",
+    "Coriander Powder (Dhaniya) - 1 tsp",
+    "Green Peas (Matar) - 1/2 cup (fresh or frozen)",
+    "Slit Green Chillies - 3-4",
+    "Salt - 2 tsp (divided for soya and rice)",
+    "Reserved Ginger-Garlic-Chilli Paste - 1.5 tbsp",
+    "Ripe Tomatoes - 2 medium (pureed)",
+    "Spicy Red Chilli Powder - 1.5 tsp",
+    "Kashmiri Red Chilli Powder - 1 tsp",
+    "Yellow Chilli Powder - 1/2 tsp",
+    "Salt - 1 tsp",
+    "Water - 1/2 cup (to adjust consistency)",
+    "Yellow/Orange Food Colour - a pinch dissolved in 1 tbsp water",
+    "Fresh Paneer Cubes - 50g (for top garnish)",
+    "Chat Masala / Biryani Masala pinch - for dusting",
+    "Sliced Onion rings (Laccha Pyaz) & Lemon wedges"
+  ],
+  "ingredients_hi": [
+    "गोल्डन सेला (डबल चाबी) बासमती चावल - 2 कप (1 घंटा भिगोए हुए)",
+    "सोया चंक्स (न्यूट्री) - 1.5 कप (खौलते पानी में 1 घंटा भिगोए हुए)",
+    "चावल पकाने के लिए पानी - 3.5 कप",
+    "लहसुन - 40 ग्राम (छिला हुआ)",
+    "ताजा अदरक - 25 ग्राम (कटा हुआ)",
+    "हरी मिर्च - 4 से 5 (तीखी)",
+    "पानी - 2-3 चम्मच (महीन पीसने के लिए)",
+    "लौंग - 2-3",
+    "जावित्री - छोटा टुकड़ा",
+    "दालचीनी - 1 इंच",
+    "काली मिर्च - 1 छोटा चम्मच",
+    "सौंफ - 1/2 छोटा चम्मच",
+    "तेजपत्ता - 1",
+    "तेल - 1/2 कप (बिरिस्ता और बिरयानी दोनों के लिए कुल)",
+    "प्याज - 2 बड़े (बारीक लच्छेदार कटे, कुरकुरा बिरिस्ता बनाने के लिए)",
+    "बिरयानी मसाला - 1 छोटा चम्मच",
+    "किचन किंग या वेज चिकन मसाला पाउडर - 2 छोटे चम्मच",
+    "पीली मिर्च पाउडर - 1 छोटा चम्मच",
+    "धनिया पाउडर - 1 छोटा चम्मच",
+    "हरे मटर - 1/2 कप",
+    "चीरा लगी हरी मिर्च - 3-4",
+    "नमक - 2 छोटे चम्मच (स्वादानुसार)",
+    "बचा हुआ अदरक-लहसुन-मिर्च पेस्ट - 1.5 चम्मच",
+    "पके टमाटर - 2 (मिक्सी में पिसे हुए)",
+    "तीखी लाल मिर्च पाउडर - 1.5 छोटा चम्मच",
+    "कश्मीरी लाल मिर्च पाउडर - 1 छोटा चम्मच",
+    "पीली मिर्च पाउडर - 1/2 छोटा चम्मच",
+    "नमक - 1 छोटा चम्मच",
+    "पानी - 1/2 कप (पतली ग्रेवी के लिए)",
+    "पीला/नारंगी फूड कलर - 1 चुटकी (1 चम्मच पानी में घुला)",
+    "पनीर के टुकड़े - 50 ग्राम (सजाने के लिए)",
+    "चाट मसाला / बिरयानी मसाला - चुटकी भर छिड़कने के लिए",
+    "लच्छा प्याज और नींबू के टुकड़े"
+  ],
+  "instructions_en": [
+    "Wash Golden Sela rice thoroughly and soak in ample water for at least 1 hour until grains turn opaque chalky white. Simultaneously, submerge soya chunks in boiling hot water for 1 hour so they absorb water and become fully soft and juicy. After 1 hour, drain and squeeze excess water from the soya chunks.",
+    "In a mortar and pestle, coarsely crush cloves, mace, cinnamon, black peppercorns, and fennel seeds. In a blender jar, grind 25g ginger, 40g garlic, and 4-5 green chillies with a splash of water to a fine paste. Divide the paste into two equal portions: half for the biryani and half for the street-style gravy.",
+    "In the blender with remaining half ginger-garlic paste, add 2 rough chopped tomatoes and blend until smooth. Pour into a bowl, add spicy red chilli, Kashmiri chilli, yellow chilli powder, salt, and 1/2 cup water to keep it pouring consistency. Mix well—this raw spicy tomato-garlic gravy is the hallmark of Delhi street biryani.",
+    "Heat 1/2 cup oil in a heavy-bottomed handi/pot. Add thinly sliced onions on high heat. As edges turn golden, lower the flame and fry evenly until golden brown and crispy. Immediately remove onto a plate to prevent over-darkening. Reserve the flavoured oil in the pot.",
+    "In the same hot oil, add the crushed whole spices, bay leaf, biryani masala, kitchen king/chicken masala, yellow chilli powder, coriander powder, and 1 tsp salt. Sauté on low for 30 seconds. Add the half ginger-garlic paste and sauté until raw aroma disappears. Add the squeezed soya chunks and roast continuously for 5 minutes on medium-low flame. Add 1/4 cup water, cover and cook for 5 minutes so juices penetrate inside. Stir in 1/3 of the fried onions and cook until oil glistens on top.",
+    "Pour in 3.5 cups of water and 1 tsp salt into the soya pot. Cover and bring to a rolling boil on high flame. Add 3-4 slit green chillies and the drained soaked Golden Sela rice. Cook uncovered for 2 minutes on high heat until boiling bubbles appear, then cover with a tight lid and boil vigorously on high flame for exactly 5 minutes until rice expands and absorbs surface water.",
+    "Open lid, scatter fresh green peas over the surface and gently tuck them in. Sprinkle most of the fried onions on top. Cover tightly with the lid, place a heavy weight (like mortar or water pot) on top, and simmer on the lowest flame for 10-12 minutes. Turn off heat and let it rest undisturbed for 10 minutes so moisture settles.",
+    "Uncover gently. Drizzle yellow-orange food colour in a decorative cross pattern. Top with fresh paneer cubes, remaining birista, and a pinch of biryani/chat masala. Fluff the long separate grains with a wide flat spoon. Serve hot on paper-lined plates topped with a ladle of fiery tomato gravy and chilled spiced laccha pyaz."
+  ],
+  "instructions_hi": [
+    "गोल्डन सेला चावल को अच्छी तरह धोकर कम से कम 1 घंटे के लिए पानी में भिगो दें जिससे दाने सफेद दिखने लगें। साथ ही सोया वड़ी को खौलते गर्म पानी में 1 घंटे के लिए डुबोकर छोड़ दें ताकि वे अंदर तक फूलकर रसीली और मखमली हो जाएं। 1 घंटे बाद सोया का पानी निचोड़ लें।",
+    "खल-बत्ते में लौंग, जावित्री, दालचीनी, काली मिर्च और सौंफ को दरदरा कूट लें। मिक्सी में 25 ग्राम अदरक, 40 ग्राम लहसुन और 4-5 हरी मिर्च थोड़ा पानी डालकर महीन पीस लें। इस पेस्ट को दो हिस्सों में बांट लें: आधा बिरयानी के तड़के के लिए और आधा स्पेशल ग्रेवी के लिए।",
+    "मिक्सी में बचे आधे अदरक-लहसुन पेस्ट के साथ 2 टमाटर डालकर एकदम चिकना पीस लें। एक बाउल में निकालें, इसमें तीखी लाल मिर्च, कश्मीरी मिर्च, पीली मिर्च पाउडर, नमक और 1/2 कप पानी मिलाकर पतली चटनी जैसी ग्रेवी तैयार कर लें।",
+    "भारी तले के पतीले में आधा कप तेल गर्म करें। तेज आंच पर प्याज के बारीक लच्छे डालें। जैसे ही रंग बदलने लगे, आंच धीमी कर दें और एक समान सुनहरा होने तक तलकर प्लेट में निकाल लें। पतीले में बचा हुआ खुशबूदार तेल रखें।",
+    "उसी गर्म तेल में दरदरे कुटे मसाले, तेजपत्ता, बिरयानी मसाला, किचन किंग पाउडर, पीली मिर्च, धनिया पाउडर और 1 चम्मच नमक डालें। 30 सेकंड भूनने के बाद आधा अदरक-लहसुन पेस्ट डालकर कच्चापन दूर होने तक भूनें। अब निचोड़ी हुई सोया वड़ी डालें और धीमी आंच पर पूरे 5 मिनट तक भूनें। थोड़ा पानी डालकर ढककर 5 मिनट पकाएं ताकि अंदर तक मसाला रम जाए। फिर थोड़ा तला हुआ प्याज डालकर तेल छूटने तक भूनें।",
+    "पतीले में नापकर 3.5 कप पानी और 1 चम्मच नमक डालें। ढककर तेज आंच पर खौलने दें। अब चीरा लगी हरी मिर्च और छाना हुआ सेला चावल डालें। पहले 2 मिनट खुले में उबालें, फिर ढक्कन लगाकर 5 मिनट तेज आंच पर पकने दें जिससे चावल के दाने लंबे खिल जाएं।",
+    "ढक्कन खोलकर ऊपर ताजे हरे मटर और तला हुआ प्याज फैलाएं। भारी वजन रखकर पतीले को ढक दें और सबसे धीमी आंच पर 10-12 मिनट दम पर पकने दें। गैस बंद करने के बाद 10 मिनट तक ढक्कन न खोलें ताकि चावल अच्छी तरह सेट हो जाए।",
+    "ढक्कन खोलें। चुटकी भर घुले हुए नारंगी रंग की लाइनें डालें, पनीर के टुकड़े, बचा हुआ बिरिस्ता और थोड़ा मसाला छिड़कें। हल्के हाथ से चावल खोलें। दिल्ली के ठेलों की तरह प्लेट पर कागज रखकर गरमा-गरम बिरयानी परोसें, ऊपर से तीखी टमाटर की ग्रेवी डालें और लच्छा प्याज के साथ आनंद लें।"
+  ],
+  "chef_tips_en": [
+    "Golden Sela (parboiled basmati) rice is the true secret of Delhi street biryani—it never turns mushy or sticky and stays long and bouncy even on reheating.",
+    "Yellow chilli powder (peeli mirch) gives an authentic street punch without turning the rice overly red. You can find it at spice vendors or substitute with extra black pepper and mild red chilli.",
+    "Soaking soya in boiling hot water for a full hour makes it exceptionally soft and juicy, preventing the typical spongy, dry texture."
+  ],
+  "chef_tips_hi": [
+    "दिल्ली की स्ट्रीट वेज बिरयानी का असली राज गोल्डन सेला चावल है—यह कभी गलता या चिपकता नहीं है और लंबे-लंबे खिले दाने बनते हैं।",
+    "पीली मिर्च पाउडर ठेले वाले स्वाद की जान है, यह रंग बिगाड़े बिना तीखापन देती है। न हो तो आप कश्मीरी मिर्च और काली मिर्च का संतुलन बना सकते हैं।",
+    "सोया वड़ी को खौलते पानी में पूरे 1 घंटे भिगोने और 5 मिनट मसाले में भूनने से वह बिल्कुल मखमली और रसीली बनती है।"
+  ],
+  "tags": [
+    "Soya Biryani",
+    "Veg Biryani",
+    "One Pot Meal",
+    "Main Course",
+    "Vegetarian"
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "id": "navratri-vrat-thali-kuttu-puri-aloo",
+  "title_en": "Quick Navratri Vrat Thali (Crispy Kuttu Puri & Hari Aloo Sabzi)",
+  "title_hi": "आसान व स्वादिष्ट नवरात्रि व्रत थाली (खस्ता कुट्टू पूरी और हरे आलू की सब्जी)",
+  "title": {
+    "en": "Quick Navratri Vrat Thali (Crispy Kuttu Puri & Hari Aloo Sabzi)",
+    "hi": "आसान व स्वादिष्ट नवरात्रि व्रत थाली (खस्ता कुट्टू पूरी और हरे आलू की सब्जी)"
+  },
+  "description_en": "A complete, effortless fast-friendly (Vrat / Falahari) feast made in under 25 minutes. Features puffed, golden buckwheat flour puris (Kuttu ki Puri) served alongside velvety potatoes cooked in a tangy coriander-peanut green curry (Hari Chatpati Aloo Sabzi) spiced with rock salt (sendha namak) and green chillies.",
+  "description_hi": "मात्र 25 मिनट में बनने वाली संपूर्ण और स्वादिष्ट फलाहारी व्रत थाली। इसमें शामिल हैं गुब्बारे जैसी फूली-फूली खस्ता कुट्टू की पूरियां और ताजे हरे धनिए, भुनी मूंगफली और दही के चटपटे मसालेदार ग्रेवी में लिपटे व्रत वाले हरे आलू।",
+  "description": {
+    "en": "A complete, effortless fast-friendly (Vrat / Falahari) feast made in under 25 minutes. Features puffed, golden buckwheat flour puris (Kuttu ki Puri) served alongside velvety potatoes cooked in a tangy coriander-peanut green curry (Hari Chatpati Aloo Sabzi) spiced with rock salt (sendha namak) and green chillies.",
+    "hi": "मात्र 25 मिनट में बनने वाली संपूर्ण और स्वादिष्ट फलाहारी व्रत थाली। इसमें शामिल हैं गुब्बारे जैसी फूली-फूली खस्ता कुट्टू की पूरियां और ताजे हरे धनिए, भुनी मूंगफली और दही के चटपटे मसालेदार ग्रेवी में लिपटे व्रत वाले हरे आलू।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी (फलाहारी)",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cook_time_en": "15 mins",
+  "cook_time_hi": "15 मिनट",
+  "prepTime": "10 mins",
+  "cookTime": "15 mins",
+  "servings_en": "2-3 servings (2-3 थालियां)",
+  "servings_hi": "2-3 थालियां (2-3 लोग)",
+  "servings": "2-3 servings",
+  "youtube_id": "mIJF2E4yAGc",
+  "youtubeId": "mIJF2E4yAGc",
+  "youtube_url": "https://youtu.be/mIJF2E4yAGc",
+  "image_url": "https://img.youtube.com/vi/mIJF2E4yAGc/maxresdefault.jpg",
+  "tags": [
+    "vrat thali",
+    "navratri recipe",
+    "kuttu puri",
+    "vrat ke aloo",
+    "falahari recipe",
+    "fasting food",
+    "kabitas kitchen",
+    "gluten free indian"
+  ],
+  "ingredients_en": [
+    "1.5 cups Buckwheat Flour (Kuttu ka Atta)",
+    "1/2 tsp Cumin Powder (Jeera Powder)",
+    "1/2 tsp Red Chilli Powder (or Black Pepper Powder for strict fasting)",
+    "1 tsp Sendha Namak (Rock Salt / Vrat ka Namak)",
+    "Water as needed (to knead a pliable dough)",
+    "Oil or Ghee for deep frying puris",
+    "2 Large Boiled Potatoes, peeled and roughly chopped/cubed",
+    "1 cup Fresh Coriander Leaves (Dhaniya Patta)",
+    "1/4 cup Roasted Peanuts, coarsely powdered (Bhuni Moongphali Powder)",
+    "4-5 Fresh Green Chillies (adjust to spice level)",
+    "2 inch Fresh Ginger (Adrak)",
+    "2 tsp Fresh Curd (Dahi / Plain Yogurt)",
+    "2 tsp Cooking Oil or Pure Desi Ghee (for sabzi)",
+    "1/2 tsp Cumin Seeds (Jeera)",
+    "Sendha Namak (Rock Salt) to taste"
+  ],
+  "ingredients_hi": [
+    "1.5 कप कुट्टू का आटा (बकव्हीट फ्लोर)",
+    "1/2 छोटा चम्मच जीरा पाउडर",
+    "1/2 छोटा चम्मच लाल मिर्च पाउडर (या काली मिर्च पाउडर)",
+    "1 छोटा चम्मच सेंधा नमक (व्रत का नमक)",
+    "आवश्यकतानुसार गुनगुना पानी (आटा गूंथने के लिए)",
+    "तलने के लिए तेल या शुद्ध देसी घी",
+    "2 बड़े उबले आलू (मोटे टुकड़ों में काटे या तोड़े हुए)",
+    "1 कप ताजा हरा धनिया पत्ता",
+    "1/4 कप भुनी मूंगफली का दरदरा पाउडर",
+    "4-5 ताजी हरी मिर्च (स्वादानुसार)",
+    "2 इंच ताजा अदरक का टुकड़ा",
+    "2 छोटे चम्मच ताजा दही",
+    "2 छोटे चम्मच तेल या देसी घी (सब्जी के तड़के के लिए)",
+    "1/2 छोटा चम्मच जीरा",
+    "स्वादानुसार सेंधा नमक"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Kuttu Ki Puri (कुट्टू की पूरी)",
+      "category_hi": "कुट्टू की पूरी सामग्री",
+      "items": [
+        {
+          "name_en": "Buckwheat Flour (Kuttu Atta)",
+          "name_hi": "कुट्टू का आटा",
+          "amount": "1.5 cups"
+        },
+        {
+          "name_en": "Cumin Powder",
+          "name_hi": "जीरा पाउडर",
+          "amount": "1/2 tsp"
+        },
+        {
+          "name_en": "Red Chilli / Black Pepper Powder",
+          "name_hi": "लाल मिर्च या काली मिर्च पाउडर",
+          "amount": "1/2 tsp"
+        },
+        {
+          "name_en": "Sendha Namak (Rock Salt)",
+          "name_hi": "सेंधा नमक",
+          "amount": "1 tsp"
+        },
+        {
+          "name_en": "Oil or Desi Ghee",
+          "name_hi": "घी या तेल",
+          "amount": "For deep frying"
+        }
+      ]
+    },
+    {
+      "category_en": "Green Coriander-Peanut Paste (हरा मसाला पेस्ट)",
+      "category_hi": "ताजा हरा मसाला पेस्ट",
+      "items": [
+        {
+          "name_en": "Fresh Coriander Leaves",
+          "name_hi": "ताजा हरा धनिया",
+          "amount": "1 cup"
+        },
+        {
+          "name_en": "Green Chillies",
+          "name_hi": "हरी मिर्च",
+          "amount": "4 to 5"
+        },
+        {
+          "name_en": "Fresh Ginger",
+          "name_hi": "अदरक",
+          "amount": "2 inch piece"
+        },
+        {
+          "name_en": "Fresh Curd",
+          "name_hi": "ताजा दही",
+          "amount": "2 tsp"
+        }
+      ]
+    },
+    {
+      "category_en": "Hari Aloo Sabzi (व्रत वाले चटपटे हरे आलू)",
+      "category_hi": "हरे आलू की सब्जी",
+      "items": [
+        {
+          "name_en": "Boiled Potatoes",
+          "name_hi": "उबले आलू",
+          "amount": "2 large (cubed)"
+        },
+        {
+          "name_en": "Roasted Peanut Powder",
+          "name_hi": "भुनी मूंगफली का दरदरा पाउडर",
+          "amount": "1/4 cup"
+        },
+        {
+          "name_en": "Cumin Seeds (Jeera)",
+          "name_hi": "जीरा",
+          "amount": "1/2 tsp"
+        },
+        {
+          "name_en": "Ghee or Oil",
+          "name_hi": "घी या तेल",
+          "amount": "2 tsp"
+        },
+        {
+          "name_en": "Sendha Namak",
+          "name_hi": "सेंधा नमक",
+          "amount": "To taste"
+        },
+        {
+          "name_en": "Water",
+          "name_hi": "पानी",
+          "amount": "1/2 to 1 cup (as needed)"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Make the Green Herb Paste: In a small blender jar, add 1 cup fresh coriander leaves, 4-5 green chillies, 2 inches ginger, and 2 tsp curd. Blend with 1-2 tbsp water into a smooth, fragrant green paste.",
+    "Cook the Hari Aloo Sabzi: Heat 2 tsp ghee or oil in a pan. Add 1/2 tsp cumin seeds and let them sizzle. Add the boiled cubed potatoes and stir fry for 1 minute.",
+    "Simmer the Gravy: Pour in the green herb paste, 1/4 cup coarse roasted peanut powder, and sendha namak to taste. Sauté for 2 minutes on medium flame until aromatic.",
+    "Finish the Curry: Add 1/2 to 1 cup water (depending on preferred gravy consistency). Cover and simmer for 3-4 minutes so the potatoes absorb the spicy peanut-coriander flavours. Turn off flame.",
+    "Knead Kuttu Dough: In a mixing bowl, combine 1.5 cups buckwheat flour, 1/2 tsp cumin powder, 1/2 tsp chilli powder, and 1 tsp sendha namak. Gradually add warm water and knead into a semi-firm, pliable dough. Rest for 5 minutes.",
+    "Roll the Puris: Divide the dough into small lime-sized balls. Place a dough ball between two greased sheets of parchment paper or plastic wrap and gently roll with a rolling pin (or press with hands) into a neat 4-inch round puri.",
+    "Fry to Golden Crisp: Heat sufficient oil or ghee in a kadhai on medium-high heat. Slide in the rolled kuttu puri. Gently press with a slotted ladle so it puffs up like a balloon. Flip and fry until crisp and golden brown on both sides (about 1 minute). Drain on paper towels.",
+    "Assemble the Vrat Thali: Serve hot, puffed kuttu puris immediately with the steaming, tangy hari aloo sabzi, alongside chilled curd and cucumber slices for a heavenly Navratri feast!"
+  ],
+  "instructions_hi": [
+    "हरा मसाला पेस्ट बनाएं: एक छोटे मिक्सी जार में 1 कप हरा धनिया, 4-5 हरी मिर्च, 2 इंच अदरक और 2 चम्मच ताजा दही डालें। 1-2 चम्मच पानी डालकर एकदम महीन पेस्ट पीस लें।",
+    "हरे आलू की सब्जी तैयार करें: एक कड़ाही में 2 चम्मच घी या तेल गरम करें। 1/2 चम्मच जीरा डालकर चटकाएं। अब उबले कटे हुए आलू डालकर 1 मिनट तक हल्का भूनें।",
+    "मसाला और मूंगफली मिलाएं: इसमें तैयार हरा पेस्ट, 1/4 कप भुनी मूंगफली का दरदरा पाउडर और स्वादानुसार सेंधा नमक डालें। मध्यम आंच पर 2 मिनट तक भूनें ताकि मसालों की खुशबू आने लगे।",
+    "ग्रेवी पकाएं: अब 1/2 से 1 कप पानी मिलाएं (जैसी गाढ़ी ग्रेवी पसंद हो)। ढककर धीमी आंच पर 3-4 मिनट पकने दें ताकि आलू सारा स्वाद सोख लें। गैस बंद कर दें।",
+    "कुट्टू का आटा गूंथें: एक परात में 1.5 कप कुट्टू का आटा, 1/2 चम्मच जीरा पाउडर, 1/2 चम्मच लाल मिर्च और 1 चम्मच सेंधा नमक मिलाएं। थोड़ा-थोड़ा गुनगुना पानी डालकर मध्यम सख्त आटा गूंथ लें। 5 मिनट के लिए रख दें।",
+    "पूरी बेलें: आटे की छोटी लोई बनाएं। चकले पर प्लास्टिक शीट या बटर पेपर रखकर उसपर हल्का तेल लगाएं। लोई रखकर बेलन से हल्के हाथ से 4 इंच की गोल पूरी बेल लें।",
+    "पूरी तलें: कड़ाही में तेल/घी अच्छा गरम करें। बेली हुई पूरी डालें और कलछी से हल्का दबाएं ताकि पूरी गुब्बारे जैसी फूल जाए। पलटकर दोनों तरफ से सुनहरा और कुरकुरा होने तक तलें।",
+    "व्रत की थाली सजाएं: गरमा-गरम फूली हुई कुट्टू की पूरियों को चटपटी हरे आलू की सब्जी, ठंडे दही और खीरे के सलाद के साथ थाली में परोसें।"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Blending Green Paste",
+      "title_hi": "हरा मसाला पेस्ट बनाना",
+      "instruction_en": "Blend coriander leaves, green chillies, ginger, and 2 tsp curd into a thick, fine green gravy paste.",
+      "instruction_hi": "मिक्सी में हरा धनिया, हरी मिर्च, अदरक और 2 चम्मच दही डालकर गाढ़ा और खुशबूदार पेस्ट पीस लें।"
+    },
+    {
+      "step": 2,
+      "title_en": "Tempering & Sautéing Potatoes",
+      "title_hi": "आलू का तड़का लगाना",
+      "instruction_en": "Heat 2 tsp ghee/oil, crackle cumin seeds, add boiled cubed potatoes, and sauté lightly for 1 minute.",
+      "instruction_hi": "पैन में 2 चम्मच घी गरम कर जीरा चटकाएं और उबले आलू डालकर 1 मिनट भूनें।"
+    },
+    {
+      "step": 3,
+      "title_en": "Adding Peanuts & Simmering Sabzi",
+      "title_hi": "मूंगफली पाउडर और ग्रेवी पकाना",
+      "instruction_en": "Add the green paste, roasted peanut powder, sendha namak, and water. Simmer covered for 3-4 minutes.",
+      "instruction_hi": "हरा पेस्ट, भुनी मूंगफली का पाउडर, सेंधा नमक और पानी डालकर ढककर 3-4 मिनट पकाएं।"
+    },
+    {
+      "step": 4,
+      "title_en": "Kneading Buckwheat (Kuttu) Dough",
+      "title_hi": "कुट्टू का आटा गूंथना",
+      "instruction_en": "Mix buckwheat flour with cumin powder, chilli powder, sendha namak, and warm water to form a soft, pliable dough.",
+      "instruction_hi": "कुट्टू के आटे में जीरा पाउडर, मिर्च, सेंधा नमक और गुनगुना पानी मिलाकर मध्यम सख्त आटा गूंथ लें।"
+    },
+    {
+      "step": 5,
+      "title_en": "Rolling Puris on Plastic Sheet",
+      "title_hi": "पॉलीथिन पर पूरी बेलना",
+      "instruction_en": "Roll small dough portions between two lightly greased plastic sheets to prevent edge cracking.",
+      "instruction_hi": "हल्की तेल लगी प्लास्टिक शीट के बीच लोई रखकर बेलन से हल्के हाथों से गोल पूरी बेल लें।"
+    },
+    {
+      "step": 6,
+      "title_en": "Deep Frying until Balloon Puffed",
+      "title_hi": "फूली-फूली पूरी तलना",
+      "instruction_en": "Fry in medium-hot ghee/oil, pressing gently with a ladle to puff up into crisp golden balloons.",
+      "instruction_hi": "गरम तेल में पूरी डालें, कलछी से हल्का दबाकर गुब्बारे जैसी फुलाएं और दोनों तरफ से क्रिस्पी सेक लें।"
+    }
+  ],
+  "chef_tips_en": [
+    "Rolling Gluten-Free Kuttu Puris: Buckwheat contains zero gluten, which can cause edges to tear if rolled directly on a wooden board. Rolling between a greased plastic sheet or parchment paper ensures paper-thin, crack-free, perfectly round puris.",
+    "Peanut Powder Gravy Magic: Roasted peanut powder acts as a natural thickener in the fasting curry, giving the aloo gravy a nutty, restaurant-style velvety richness without any onion or garlic.",
+    "Oil Temperature for Puffed Puris: Ensure the frying oil or ghee is hot before sliding in the puri. If the oil is too cold, the kuttu puris will soak up excess oil and fail to puff.",
+    "Strict Vrat Customization: If you don't consume red chilli powder during fasting, easily replace it with freshly crushed black peppercorns (kali mirch) in both the dough and the curry."
+  ],
+  "chef_tips_hi": [
+    "ग्लूटेन-फ्री कुट्टू पूरी बेलने का नुस्खा: कुट्टू में ग्लूटेन नहीं होता, इसलिए सीधे चकले पर बेलने से किनारे फट जाते हैं। तेल लगी प्लास्टिक शीट या बटर पेपर के बीच रखकर बेलने से पूरियां बिल्कुल गोल और बिना फटे बनती हैं।",
+    "मूंगफली पाउडर से गाढ़ी ग्रेवी: भुनी मूंगफली का पाउडर फलाहारी ग्रेवी को बिना प्याज-लहसुन के भी हलवाई जैसा गाढ़ा और मखमली टेक्सचर देता है।",
+    "पूरी फुलाने के लिए तेल का तापमान: पूरी तलने के लिए तेल अच्छा गरम होना चाहिए। ठंडे तेल में पूरी डालने से वह तेल पी लेगी और फूलेगी नहीं।",
+    "सख्त व्रत का विकल्प: यदि आप व्रत में लाल मिर्च नहीं खाते हैं, तो पूरी के आटे में लाल मिर्च की जगह ताजी कुटी काली मिर्च पाउडर का उपयोग करें।"
+  ]
+}

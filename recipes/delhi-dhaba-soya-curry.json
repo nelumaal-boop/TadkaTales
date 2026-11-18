@@ -1,0 +1,396 @@
+{
+  "id": "delhi-dhaba-soya-curry",
+  "title": {
+    "en": "Delhi Dhaba-Style Besan Roasted Soya Curry",
+    "hi": "दिल्ली ढाबा-स्टाइल बेसन रोस्टेड सोया करी"
+  },
+  "description": {
+    "en": "East Delhi's famous dhaba secret: juicy soya chunks coated in spiced gram flour (besan), pan-roasted till crisp, and simmered in a velvety gravy of roasted aromatics, fried onion-curd paste, and generous coriander powder.",
+    "hi": "ईस्ट दिल्ली के मशहूर ढाबों का खास सीक्रेट: मसालेदार बेसन में लिपटी रोस्टेड सोया वड़ी, जिसे भुने हुए टमाटर, कुरकुरे तले प्याज और दही की दानेदार गाढ़ी ग्रेवी में धीमी आंच पर पकाया जाता है।"
+  },
+  "category": "Latest Recipe",
+  "isVegetarian": true,
+  "prepTime": "20 mins",
+  "cookTime": "30 mins",
+  "servings": "4 servings",
+  "youtubeId": "1NxoMaG_aKc",
+  "author": "Bharatzkitchen Hindi",
+  "ingredients": [
+    {
+      "category": {
+        "en": "Soya Chunks & Besan Coating",
+        "hi": "सोया वड़ी और बेसन मैरिनेशन"
+      },
+      "items": [
+        {
+          "en": "Soya Chunks (Nutrela) - 2 cups (soaked in boiling water for 20 mins)",
+          "hi": "सोया चंक्स (न्यूट्री) - 2 कप (खौलते पानी में 20 मिनट भिगोए हुए)"
+        },
+        {
+          "en": "Gram Flour (Besan) - 3 to 4 tbsp",
+          "hi": "बेसन - 3 से 4 बड़े चम्मच"
+        },
+        {
+          "en": "Ginger-Garlic Paste - 1 heaped tbsp",
+          "hi": "अदरक-लहसुन का पेस्ट - 1 बड़ा चम्मच"
+        },
+        {
+          "en": "Turmeric Powder (Haldi) - 1/2 tsp",
+          "hi": "हल्दी पाउडर - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Red Chilli Powder - 1/2 tsp",
+          "hi": "लाल मिर्च पाउडर - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Salt - 1/2 tsp",
+          "hi": "नमक - 1/2 छोटा चम्मच"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Fried Onion (Birista) & Curd Paste",
+        "hi": "तला हुआ प्याज और दही का पेस्ट"
+      },
+      "items": [
+        {
+          "en": "Onions - 2 large (thinly sliced)",
+          "hi": "प्याज - 2 बड़े (बारीक लच्छेदार कटे)"
+        },
+        {
+          "en": "Cooking Oil - 1/2 cup (for frying onions, roasting soya, and gravy)",
+          "hi": "तेल - 1/2 कप (प्याज तलने, सोया भूनने और तड़के के लिए कुल)"
+        },
+        {
+          "en": "Fresh Curd (Dahi) - 3 tbsp",
+          "hi": "ताजा गाढ़ा दही - 3 बड़े चम्मच"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Aromatics & Tomato Puree",
+        "hi": "टमाटर और अदरक-लहसुन पेस्ट"
+      },
+      "items": [
+        {
+          "en": "Tomatoes - 3 medium (fresh)",
+          "hi": "टमाटर - 3 मध्यम"
+        },
+        {
+          "en": "Garlic Cloves - 10-12 (peeled)",
+          "hi": "लहसुन की कलियां - 10-12"
+        },
+        {
+          "en": "Fresh Ginger - 1.5 inch piece",
+          "hi": "ताजा अदरक - 1.5 इंच टुकड़ा"
+        },
+        {
+          "en": "Green Chillies - 3 (spicy)",
+          "hi": "हरी मिर्च - 3"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Whole & Ground Spices for Gravy",
+        "hi": "ग्रेवी के खड़े और पिसे मसाले"
+      },
+      "items": [
+        {
+          "en": "Cumin Seeds (Jeera) - 1/2 tsp",
+          "hi": "जीरा - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Black Cardamom (Badi Elaichi) - 1",
+          "hi": "बड़ी इलायची - 1"
+        },
+        {
+          "en": "Green Cardamom (Choti Elaichi) - 3",
+          "hi": "छोटी इलायची - 3"
+        },
+        {
+          "en": "Cloves (Laung) - 2",
+          "hi": "लौंग - 2"
+        },
+        {
+          "en": "Black Peppercorns - 6 to 8",
+          "hi": "काली मिर्च - 6 से 8 दाने"
+        },
+        {
+          "en": "Coriander Powder (Dhaniya) - 3 tbsp (signature dhaba thickener)",
+          "hi": "धनिया पाउडर - 3 बड़े चम्मच (ढाबा जैसी गाढ़ी ग्रेवी का राज)"
+        },
+        {
+          "en": "Kashmiri Red Chilli Powder - 1 tsp",
+          "hi": "कश्मीरी लाल मिर्च पाउडर - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Spicy Red Chilli Powder - 1 tsp",
+          "hi": "तीखा लाल मिर्च पाउडर - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Turmeric Powder - 1/2 tsp",
+          "hi": "हल्दी पाउडर - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Roasted Cumin Powder - 1/2 tsp",
+          "hi": "भुना जीरा पाउडर - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Salt - 1 tsp (to taste)",
+          "hi": "नमक - 1 छोटा चम्मच (स्वादानुसार)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Finishing & Garnish",
+        "hi": "तैयारी व सजावट"
+      },
+      "items": [
+        {
+          "en": "Slit Green Chillies - 3",
+          "hi": "चीरा लगी हरी मिर्च - 3"
+        },
+        {
+          "en": "Garam Masala Powder - 1/2 tsp",
+          "hi": "गरम मसाला - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Kasuri Methi (crushed) - 1 tbsp",
+          "hi": "कसूरी मेथी (हाथ से मसली) - 1 बड़ा चम्मच"
+        },
+        {
+          "en": "Kewra Water (optional) - 3 to 4 drops",
+          "hi": "केवड़ा जल (ऐच्छिक) - 3 से 4 बूंदें"
+        },
+        {
+          "en": "Fresh Coriander leaves - 2 tbsp (finely chopped)",
+          "hi": "ताजा हरा धनिया - 2 चम्मच (बारीक कटा)"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": {
+        "en": "Soaking & Squeezing Soya",
+        "hi": "सोया चंक्स को भिगोना और निचोड़ना"
+      },
+      "text": {
+        "en": "Submerge soya chunks in boiling hot water for 20 minutes. This allows them to swell plumply while keeping an intact structure. Rinse thoroughly under cold tap water and squeeze out all liquid firmly with both hands so no moisture dilutes the spices.",
+        "hi": "सोया चंक्स को खौलते गर्म पानी में 20 मिनट के लिए भिगो दें। इससे वे अच्छी तरह फूल जाते हैं और उनका आकार भी नहीं बिगड़ता। इसके बाद ठंडे पानी से धोएं और दोनों हाथों से दबाकर सारा पानी अच्छी तरह निचोड़ लें।"
+      }
+    },
+    {
+      "step": 2,
+      "title": {
+        "en": "Coating Soya with Spiced Besan",
+        "hi": "मसालेदार बेसन में सोया लपेटना"
+      },
+      "text": {
+        "en": "In a mixing bowl, toss the squeezed soya with 1 heaped tbsp ginger-garlic paste, 1/2 tsp turmeric, 1/2 tsp chilli powder, 1/2 tsp salt, and 3-4 tbsp gram flour (besan). Mix thoroughly until every chunk is enveloped in a thin, uniform coating. Let it rest for 5 minutes so the besan adheres.",
+        "hi": "एक बर्तन में निचोड़ी हुई सोया वड़ी लें। इसमें अदरक-लहसुन पेस्ट, हल्दी, लाल मिर्च, नमक और 3-4 बड़े चम्मच बेसन डालें। अच्छी तरह मिलाएं ताकि हर वड़ी पर बेसन और मसाले की बढ़िया परत चढ़ जाए। इसे 5 मिनट सेट होने के लिए रख दें।"
+      }
+    },
+    {
+      "step": 3,
+      "title": {
+        "en": "Frying Crispy Onions & Pureeing Tomato Masala",
+        "hi": "प्याज तलना और टमाटर पेस्ट तैयार करना"
+      },
+      "text": {
+        "en": "Heat 1/2 cup oil in a kadhai on high flame. Fry sliced onions until golden brown and crispy; immediately drain onto paper towels. Once cooled, blend fried onions with 3 tbsp fresh curd and 2 tbsp water into a velvety paste. Separately, blend tomatoes, garlic, ginger, and green chillies into a smooth puree.",
+        "hi": "कढ़ाई में आधा कप तेल तेज आंच पर गर्म करें। प्याज के लच्छों को सुनहरा व कुरकुरा होने तक तलकर निकाल लें। ठंडा होने पर 3 चम्मच दही और थोड़ा पानी डालकर मिक्सी में पीस लें। अलग से टमाटर, अदरक, लहसुन और हरी मिर्च का महीन पेस्ट बना लें।"
+      }
+    },
+    {
+      "step": 4,
+      "title": {
+        "en": "Roasting Besan-Coated Soya in Kadhai",
+        "hi": "कढ़ाई में बेसन वाली सोया भूनना"
+      },
+      "text": {
+        "en": "Remove 1 ladle (approx. 3 tbsp) of hot onion oil from the kadhai and set aside for gravy. In the remaining oil in the kadhai, add the besan-coated soya chunks. Roast on medium-low flame without excessive stirring so a nutty, golden crust develops on the edges. The soya will absorb oil and turn lightly crisp. Transfer soya to a plate; do not wash the pan—the browned besan crust at the bottom holds immense flavor.",
+        "hi": "कढ़ाई से 1 कलछी तेल निकालकर अलग रख लें (ग्रेवी के लिए)। बाकी बचे तेल में बेसन लिपटी सोया वड़ी डालें। धीमी आंच पर बिना ज्यादा चलाए भूनें जिससे उस पर हल्की सुनहरी क्रस्ट आ जाए। भुनी हुई वड़ी को प्लेट में निकाल लें। कढ़ाई को धोएं नहीं—तले पर लगा बेसन ग्रेवी को गाढ़ा और स्वादिष्ट बनाएगा।"
+      }
+    },
+    {
+      "step": 5,
+      "title": {
+        "en": "Tempering & Cooking Tomato-Coriander Gravy",
+        "hi": "मसाला भूनना और दानेदार ग्रेवी तैयार करना"
+      },
+      "text": {
+        "en": "Pour the reserved ladle of oil back into the same kadhai. Add cumin seeds, black cardamom, green cardamoms, cloves, and peppercorns. Pour in the blended tomato-garlic paste and salt. Add turmeric, chilli powders, roasted cumin powder, and a generous 3 tbsp coriander powder. Cover with a lid and cook on medium flame until oil separates and gravy turns grainy (danedar).",
+        "hi": "उसी कढ़ाई में बचा हुआ तेल डालें। जीरा, बड़ी व छोटी इलायची, लौंग और काली मिर्च तड़काएं। अब पिसा हुआ टमाटर पेस्ट और नमक डालें। साथ ही हल्दी, लाल मिर्च, भुना जीरा और पूरे 3 बड़े चम्मच धनिया पाउडर डालें। ढक्कन लगाकर धीमी आंच पर तेल अलग होने और मसाला दानेदार होने तक भूनें।"
+      }
+    },
+    {
+      "step": 6,
+      "title": {
+        "en": "Adding Fried Onion-Curd Paste",
+        "hi": "तले प्याज और दही का पेस्ट भूनना"
+      },
+      "text": {
+        "en": "Stir in the blended fried onion and curd paste. Cover again and cook for 4-5 minutes on low flame. The curd and fried onions will caramelize with the tomato paste, turning the gravy a rich deep red with glossy oil bubbling on top.",
+        "hi": "अब तला हुआ प्याज और दही का पेस्ट ग्रेवी में मिला दें। ढक्कन लगाकर 4-5 मिनट धीमी आंच पर पकने दें। दही और प्याज टमाटर के साथ मिलकर गहरा लाल रंग और शानदार तेल छोड़ देंगे।"
+      }
+    },
+    {
+      "step": 7,
+      "title": {
+        "en": "Simmering Soya & Dum Flavors",
+        "hi": "सोया वड़ी डालकर दम पर पकाना"
+      },
+      "text": {
+        "en": "Pour in 1.5 to 2 cups warm water to loosen the gravy. Add garam masala and crushed kasuri methi. Bring to a gentle boil, then add the roasted soya chunks and 3 slit green chillies. Cover with lid and simmer on lowest heat for 10 minutes so the spongy interior absorbs the rich spiced gravy.",
+        "hi": "ग्रेवी में 1.5 से 2 कप गुनगुना पानी डालें। गरम मसाला और मसली हुई कसूरी मेथी मिलाएं। उबाल आते ही भुनी हुई सोया वड़ी और चीरा लगी हरी मिर्च डालें। ढककर धीमी आंच पर 10 मिनट पकाएं ताकि वड़ी अंदर तक ग्रेवी को सोखकर एकदम जूसी हो जाए।"
+      }
+    },
+    {
+      "step": 8,
+      "title": {
+        "en": "Finishing Touch & Serving",
+        "hi": "गार्निश और परोसना"
+      },
+      "text": {
+        "en": "Turn off the heat. Drizzle 3-4 drops of kewra water and sprinkle chopped fresh coriander leaves. Let it rest for 2 minutes. Serve hot with butter naan, tandoori roti, or steamed jeera rice.",
+        "hi": "गैस बंद करें। 3-4 बूंदें केवड़ा जल और बारीक कटा हरा धनिया छिड़कें। 2 मिनट ढककर दम पर रखें। गरमा-गरम बटर नान, तंदूरी रोटी या जीरा राइस के साथ परोसें।"
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Coating the soya chunks in raw gram flour (besan) before sautéing creates a barrier that keeps them juicy inside while the besan residue enriches the body of the gravy.",
+      "hi": "कच्चा बेसन सोया पर लपेटकर भूनने से वड़ी अंदर से रसीली रहती है और कढ़ाई में छूटा बेसन ग्रेवी को गाढ़ा ढाबा-स्टाइल टेक्सचर देता है।"
+    },
+    {
+      "en": "Using 3 tablespoons of coriander powder is the authentic North Indian dhaba technique to build rich, grainy texture without using cashew or melon paste.",
+      "hi": "3 चम्मच धनिया पाउडर का इस्तेमाल ढाबों का पारंपरिक तरीका है जिससे बिना काजू या मलाई के भी ग्रेवी गाढ़ी और दानेदार बनती है।"
+    },
+    {
+      "en": "Squeezing every drop of water from the soaked soya chunks is crucial—if they retain soaking water, they cannot absorb the oil and spices.",
+      "hi": "सोया वड़ी का पानी अच्छी तरह निचोड़ना सबसे जरूरी है, वर्ना वड़ी के अंदर मसाले और तेल नहीं जा पाएंगे।"
+    }
+  ],
+  "title_en": "Delhi Dhaba-Style Besan Roasted Soya Curry",
+  "title_hi": "दिल्ली ढाबा-स्टाइल बेसन रोस्टेड सोया करी",
+  "description_en": "East Delhi's famous dhaba secret: juicy soya chunks coated in spiced gram flour (besan), pan-roasted till crisp, and simmered in a velvety gravy of roasted aromatics, fried onion-curd paste, and generous coriander powder.",
+  "description_hi": "ईस्ट दिल्ली के मशहूर ढाबों का खास सीक्रेट: मसालेदार बेसन में लिपटी रोस्टेड सोया वड़ी, जिसे भुने हुए टमाटर, कुरकुरे तले प्याज और दही की दानेदार गाढ़ी ग्रेवी में धीमी आंच पर पकाया जाता है।",
+  "prep_time_en": "20 mins",
+  "prep_time_hi": "20 mins",
+  "cook_time_en": "30 mins",
+  "cook_time_hi": "30 mins",
+  "servings_en": "4 servings",
+  "servings_hi": "4 servings",
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "youtube_id": "1NxoMaG_aKc",
+  "youtube_url": "https://www.youtube.com/watch?v=1NxoMaG_aKc",
+  "image_url": "https://img.youtube.com/vi/1NxoMaG_aKc/hqdefault.jpg",
+  "ingredients_en": [
+    "Soya Chunks (Nutrela) - 2 cups (soaked in boiling water for 20 mins)",
+    "Gram Flour (Besan) - 3 to 4 tbsp",
+    "Ginger-Garlic Paste - 1 heaped tbsp",
+    "Turmeric Powder (Haldi) - 1/2 tsp",
+    "Red Chilli Powder - 1/2 tsp",
+    "Salt - 1/2 tsp",
+    "Onions - 2 large (thinly sliced)",
+    "Cooking Oil - 1/2 cup (for frying onions, roasting soya, and gravy)",
+    "Fresh Curd (Dahi) - 3 tbsp",
+    "Tomatoes - 3 medium (fresh)",
+    "Garlic Cloves - 10-12 (peeled)",
+    "Fresh Ginger - 1.5 inch piece",
+    "Green Chillies - 3 (spicy)",
+    "Cumin Seeds (Jeera) - 1/2 tsp",
+    "Black Cardamom (Badi Elaichi) - 1",
+    "Green Cardamom (Choti Elaichi) - 3",
+    "Cloves (Laung) - 2",
+    "Black Peppercorns - 6 to 8",
+    "Coriander Powder (Dhaniya) - 3 tbsp (signature dhaba thickener)",
+    "Kashmiri Red Chilli Powder - 1 tsp",
+    "Spicy Red Chilli Powder - 1 tsp",
+    "Turmeric Powder - 1/2 tsp",
+    "Roasted Cumin Powder - 1/2 tsp",
+    "Salt - 1 tsp (to taste)",
+    "Slit Green Chillies - 3",
+    "Garam Masala Powder - 1/2 tsp",
+    "Kasuri Methi (crushed) - 1 tbsp",
+    "Kewra Water (optional) - 3 to 4 drops",
+    "Fresh Coriander leaves - 2 tbsp (finely chopped)"
+  ],
+  "ingredients_hi": [
+    "सोया चंक्स (न्यूट्री) - 2 कप (खौलते पानी में 20 मिनट भिगोए हुए)",
+    "बेसन - 3 से 4 बड़े चम्मच",
+    "अदरक-लहसुन का पेस्ट - 1 बड़ा चम्मच",
+    "हल्दी पाउडर - 1/2 छोटा चम्मच",
+    "लाल मिर्च पाउडर - 1/2 छोटा चम्मच",
+    "नमक - 1/2 छोटा चम्मच",
+    "प्याज - 2 बड़े (बारीक लच्छेदार कटे)",
+    "तेल - 1/2 कप (प्याज तलने, सोया भूनने और तड़के के लिए कुल)",
+    "ताजा गाढ़ा दही - 3 बड़े चम्मच",
+    "टमाटर - 3 मध्यम",
+    "लहसुन की कलियां - 10-12",
+    "ताजा अदरक - 1.5 इंच टुकड़ा",
+    "हरी मिर्च - 3",
+    "जीरा - 1/2 छोटा चम्मच",
+    "बड़ी इलायची - 1",
+    "छोटी इलायची - 3",
+    "लौंग - 2",
+    "काली मिर्च - 6 से 8 दाने",
+    "धनिया पाउडर - 3 बड़े चम्मच (ढाबा जैसी गाढ़ी ग्रेवी का राज)",
+    "कश्मीरी लाल मिर्च पाउडर - 1 छोटा चम्मच",
+    "तीखा लाल मिर्च पाउडर - 1 छोटा चम्मच",
+    "हल्दी पाउडर - 1/2 छोटा चम्मच",
+    "भुना जीरा पाउडर - 1/2 छोटा चम्मच",
+    "नमक - 1 छोटा चम्मच (स्वादानुसार)",
+    "चीरा लगी हरी मिर्च - 3",
+    "गरम मसाला - 1/2 छोटा चम्मच",
+    "कसूरी मेथी (हाथ से मसली) - 1 बड़ा चम्मच",
+    "केवड़ा जल (ऐच्छिक) - 3 से 4 बूंदें",
+    "ताजा हरा धनिया - 2 चम्मच (बारीक कटा)"
+  ],
+  "instructions_en": [
+    "Submerge soya chunks in boiling hot water for 20 minutes. This allows them to swell plumply while keeping an intact structure. Rinse thoroughly under cold tap water and squeeze out all liquid firmly with both hands so no moisture dilutes the spices.",
+    "In a mixing bowl, toss the squeezed soya with 1 heaped tbsp ginger-garlic paste, 1/2 tsp turmeric, 1/2 tsp chilli powder, 1/2 tsp salt, and 3-4 tbsp gram flour (besan). Mix thoroughly until every chunk is enveloped in a thin, uniform coating. Let it rest for 5 minutes so the besan adheres.",
+    "Heat 1/2 cup oil in a kadhai on high flame. Fry sliced onions until golden brown and crispy; immediately drain onto paper towels. Once cooled, blend fried onions with 3 tbsp fresh curd and 2 tbsp water into a velvety paste. Separately, blend tomatoes, garlic, ginger, and green chillies into a smooth puree.",
+    "Remove 1 ladle (approx. 3 tbsp) of hot onion oil from the kadhai and set aside for gravy. In the remaining oil in the kadhai, add the besan-coated soya chunks. Roast on medium-low flame without excessive stirring so a nutty, golden crust develops on the edges. The soya will absorb oil and turn lightly crisp. Transfer soya to a plate; do not wash the pan—the browned besan crust at the bottom holds immense flavor.",
+    "Pour the reserved ladle of oil back into the same kadhai. Add cumin seeds, black cardamom, green cardamoms, cloves, and peppercorns. Pour in the blended tomato-garlic paste and salt. Add turmeric, chilli powders, roasted cumin powder, and a generous 3 tbsp coriander powder. Cover with a lid and cook on medium flame until oil separates and gravy turns grainy (danedar).",
+    "Stir in the blended fried onion and curd paste. Cover again and cook for 4-5 minutes on low flame. The curd and fried onions will caramelize with the tomato paste, turning the gravy a rich deep red with glossy oil bubbling on top.",
+    "Pour in 1.5 to 2 cups warm water to loosen the gravy. Add garam masala and crushed kasuri methi. Bring to a gentle boil, then add the roasted soya chunks and 3 slit green chillies. Cover with lid and simmer on lowest heat for 10 minutes so the spongy interior absorbs the rich spiced gravy.",
+    "Turn off the heat. Drizzle 3-4 drops of kewra water and sprinkle chopped fresh coriander leaves. Let it rest for 2 minutes. Serve hot with butter naan, tandoori roti, or steamed jeera rice."
+  ],
+  "instructions_hi": [
+    "सोया चंक्स को खौलते गर्म पानी में 20 मिनट के लिए भिगो दें। इससे वे अच्छी तरह फूल जाते हैं और उनका आकार भी नहीं बिगड़ता। इसके बाद ठंडे पानी से धोएं और दोनों हाथों से दबाकर सारा पानी अच्छी तरह निचोड़ लें।",
+    "एक बर्तन में निचोड़ी हुई सोया वड़ी लें। इसमें अदरक-लहसुन पेस्ट, हल्दी, लाल मिर्च, नमक और 3-4 बड़े चम्मच बेसन डालें। अच्छी तरह मिलाएं ताकि हर वड़ी पर बेसन और मसाले की बढ़िया परत चढ़ जाए। इसे 5 मिनट सेट होने के लिए रख दें।",
+    "कढ़ाई में आधा कप तेल तेज आंच पर गर्म करें। प्याज के लच्छों को सुनहरा व कुरकुरा होने तक तलकर निकाल लें। ठंडा होने पर 3 चम्मच दही और थोड़ा पानी डालकर मिक्सी में पीस लें। अलग से टमाटर, अदरक, लहसुन और हरी मिर्च का महीन पेस्ट बना लें।",
+    "कढ़ाई से 1 कलछी तेल निकालकर अलग रख लें (ग्रेवी के लिए)। बाकी बचे तेल में बेसन लिपटी सोया वड़ी डालें। धीमी आंच पर बिना ज्यादा चलाए भूनें जिससे उस पर हल्की सुनहरी क्रस्ट आ जाए। भुनी हुई वड़ी को प्लेट में निकाल लें। कढ़ाई को धोएं नहीं—तले पर लगा बेसन ग्रेवी को गाढ़ा और स्वादिष्ट बनाएगा।",
+    "उसी कढ़ाई में बचा हुआ तेल डालें। जीरा, बड़ी व छोटी इलायची, लौंग और काली मिर्च तड़काएं। अब पिसा हुआ टमाटर पेस्ट और नमक डालें। साथ ही हल्दी, लाल मिर्च, भुना जीरा और पूरे 3 बड़े चम्मच धनिया पाउडर डालें। ढक्कन लगाकर धीमी आंच पर तेल अलग होने और मसाला दानेदार होने तक भूनें।",
+    "अब तला हुआ प्याज और दही का पेस्ट ग्रेवी में मिला दें। ढक्कन लगाकर 4-5 मिनट धीमी आंच पर पकने दें। दही और प्याज टमाटर के साथ मिलकर गहरा लाल रंग और शानदार तेल छोड़ देंगे।",
+    "ग्रेवी में 1.5 से 2 कप गुनगुना पानी डालें। गरम मसाला और मसली हुई कसूरी मेथी मिलाएं। उबाल आते ही भुनी हुई सोया वड़ी और चीरा लगी हरी मिर्च डालें। ढककर धीमी आंच पर 10 मिनट पकाएं ताकि वड़ी अंदर तक ग्रेवी को सोखकर एकदम जूसी हो जाए।",
+    "गैस बंद करें। 3-4 बूंदें केवड़ा जल और बारीक कटा हरा धनिया छिड़कें। 2 मिनट ढककर दम पर रखें। गरमा-गरम बटर नान, तंदूरी रोटी या जीरा राइस के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "Coating the soya chunks in raw gram flour (besan) before sautéing creates a barrier that keeps them juicy inside while the besan residue enriches the body of the gravy.",
+    "Using 3 tablespoons of coriander powder is the authentic North Indian dhaba technique to build rich, grainy texture without using cashew or melon paste.",
+    "Squeezing every drop of water from the soaked soya chunks is crucial—if they retain soaking water, they cannot absorb the oil and spices."
+  ],
+  "chef_tips_hi": [
+    "कच्चा बेसन सोया पर लपेटकर भूनने से वड़ी अंदर से रसीली रहती है और कढ़ाई में छूटा बेसन ग्रेवी को गाढ़ा ढाबा-स्टाइल टेक्सचर देता है।",
+    "3 चम्मच धनिया पाउडर का इस्तेमाल ढाबों का पारंपरिक तरीका है जिससे बिना काजू या मलाई के भी ग्रेवी गाढ़ी और दानेदार बनती है।",
+    "सोया वड़ी का पानी अच्छी तरह निचोड़ना सबसे जरूरी है, वर्ना वड़ी के अंदर मसाले और तेल नहीं जा पाएंगे।"
+  ],
+  "tags": [
+    "Soya Curry",
+    "Dhaba Style",
+    "High Protein",
+    "Main Course",
+    "Vegetarian"
+  ]
+}

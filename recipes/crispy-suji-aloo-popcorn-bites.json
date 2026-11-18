@@ -1,0 +1,154 @@
+{
+  "id": "crispy-suji-aloo-popcorn-bites",
+  "title_en": "Crispy Instant Suji-Aloo Popcorn Bites",
+  "title_hi": "5 मिनट में 2 चीजों से बने सूजी-आलू के कुरकुरे मिनी पकोड़े (पॉपकॉर्न बाइट्स)",
+  "title": {
+    "en": "Crispy Instant Suji-Aloo Popcorn Bites",
+    "hi": "5 मिनट में 2 चीजों से बने सूजी-आलू के कुरकुरे मिनी पकोड़े (पॉपकॉर्न बाइट्स)"
+  },
+  "description_en": "A 5-minute instant tea-time snack and breakfast recipe by Kitchen Magic by Vanisha when you are bored of making regular roti-sabzi. Marble-sized semolina and raw potato poppers fried until golden, puffy, and shatter-crisp, served with a fiery tomato dip.",
+  "description_hi": "किचन मैजिक बाय वनिषा की रोज़-रोज़ रोटी-सब्जी से बोर होने पर सिर्फ 5 मिनट में बनने वाली बेहद कुरकुरी स्नैक रेसिपी। सूजी और कच्चे आलू के घोल से बने छोटे-छोटे फूले-फूले कुरकुरे मिनी पकोड़े (पॉपकॉर्न बाइट्स), जिन्हें तीखी चटनी के साथ गरमा-गरम परोसा जाता है।",
+  "description": {
+    "en": "A 5-minute instant tea-time snack and breakfast recipe by Kitchen Magic by Vanisha when you are bored of making regular roti-sabzi. Marble-sized semolina and raw potato poppers fried until golden, puffy, and shatter-crisp, served with a fiery tomato dip.",
+    "hi": "किचन मैजिक बाय वनिषा की रोज़-रोज़ रोटी-सब्जी से बोर होने पर सिर्फ 5 मिनट में बनने वाली बेहद कुरकुरी स्नैक रेसिपी। सूजी और कच्चे आलू के घोल से बने छोटे-छोटे फूले-फूले कुरकुरे मिनी पकोड़े (पॉपकॉर्न बाइट्स), जिन्हें तीखी चटनी के साथ गरमा-गरम परोसा जाता है।"
+  },
+  "category": "Snacks",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "5 mins",
+  "prep_time_hi": "5 मिनट",
+  "cook_time_en": "10 mins",
+  "cook_time_hi": "10 मिनट",
+  "prepTime": "5 mins",
+  "cookTime": "10 mins",
+  "servings_en": "4 Servings (25-30 Mini Bites)",
+  "servings_hi": "4 लोग (25-30 मिनी बाइट्स)",
+  "servings": "4 Servings (25-30 Mini Bites)",
+  "youtube_id": "GEOUNm99LTw",
+  "youtubeId": "GEOUNm99LTw",
+  "youtube_url": "https://www.youtube.com/watch?v=GEOUNm99LTw",
+  "image_url": "https://img.youtube.com/vi/GEOUNm99LTw/hqdefault.jpg",
+  "tags": [
+    "suji pakoda",
+    "potato popcorn",
+    "kitchen magic by vanisha",
+    "instant snack",
+    "tea time snack",
+    "5 min breakfast",
+    "crispy bites"
+  ],
+  "ingredients_en": [
+    "1 cup Fine Semolina (suji / rava)",
+    "1 Medium Raw Potato (peeled, finely grated, or pureed)",
+    "1/4 cup Fresh curd (dahi, for airy tenderness)",
+    "1/2 cup Water (adjust as needed for thick dropping batter)",
+    "1 tsp Cumin seeds (jeera)",
+    "1-2 Green chillies (finely minced)",
+    "1 inch Ginger (finely grated)",
+    "1 pinch Asafoetida (hing)",
+    "1/4 tsp Baking soda (meetha soda) or Eno (for hollow puffing)",
+    "1 tsp Salt (or to taste)",
+    "1/4 cup Fresh coriander leaves (finely chopped)",
+    "Oil for deep frying",
+    "3 Ripe red tomatoes, 5-6 garlic cloves & dried chillies for dipping chutney"
+  ],
+  "ingredients_hi": [
+    "1 कप बारीक सूजी (रवा)",
+    "1 मध्यम कच्चा आलू (छीलकर बारीक कद्दूकस किया हुआ)",
+    "1/4 कप ताज़ा दही (हल्केपन और स्पंज के लिए)",
+    "1/2 कप पानी (गाढ़ा पकोड़े जैसा घोल बनाने के लिए)",
+    "1 छोटा चम्मच जीरा",
+    "1-2 हरी मिर्च (बारीक कटी हुई)",
+    "1 इंच अदरक (बारीक घिसा हुआ)",
+    "1 चुटकी हींग",
+    "1/4 छोटा चम्मच खाने का मीठा सोडा या ईनो (गुब्बारे जैसा फुलाने के लिए)",
+    "1 छोटा चम्मच नमक (स्वादानुसार)",
+    "1/4 कप ताज़ा हरा धनिया (बारीक कटा हुआ)",
+    "तलने के लिए तेल",
+    "चटनी के लिए 3 टमाटर, 5-6 लहसुन और सूखी लाल मिर्च"
+  ],
+  "ingredients": [
+    {
+      "category": "Crunchy Suji-Potato Batter",
+      "items": [
+        { "en": "1 cup Suji & 1 grated Raw potato", "hi": "1 कप सूजी और 1 कद्दूकस कच्चा आलू" },
+        { "en": "1/4 cup Curd & 1/2 cup Water", "hi": "1/4 कप दही और 1/2 कप पानी" },
+        { "en": "Jeera, Hing, Ginger, Chillies & Fresh coriander", "hi": "जीरा, हींग, अदरक, मिर्च और हरा धनिया" },
+        { "en": "1/4 tsp Baking soda & Salt to taste", "hi": "1/4 चम्मच मीठा सोडा और नमक" }
+      ]
+    },
+    {
+      "category": "Quick Chutney & Frying",
+      "items": [
+        { "en": "Cooking oil for deep frying", "hi": "तलने के लिए तेल" },
+        { "en": "Tomato, Garlic & Dried chilli dip", "hi": "टमाटर, लहसुन और सूखी मिर्च की तीखी चटनी" }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Step 1 - Whisk the Batter: In a mixing bowl, combine 1 cup fine semolina (suji), 1/4 cup fresh whisked curd, finely grated raw potato, minced green chillies, grated ginger, cumin seeds, a pinch of hing, salt, and finely chopped coriander leaves. Pour in 1/2 cup water in splashes while whisking into a smooth, thick dropping batter (similar to idli or thick pakoda batter).",
+    "Step 2 - Rest for Hydration: Cover and rest the batter for 5 minutes. The semolina will drink up the water and swell, transforming into a thick, cohesive batter that holds its shape on a spoon.",
+    "Step 3 - Aerate with Soda: Heat oil in a kadai over medium-high heat. Right before frying, sprinkle 1/4 tsp baking soda over the batter and stir gently in one direction for 15 seconds. The batter will become light, frothy, and aerated.",
+    "Step 4 - Drop Mini Poppers: Wet your fingertips with a little water. Scoop small, marble-sized portions of the batter with your fingers and drop them rapidly into the hot oil. They will sink for a second, then immediately puff up into round spheres and float right to the surface.",
+    "Step 5 - Fry to Golden Shatter-Crunch: Fry on medium flame for 3 to 4 minutes, rolling them constantly with a slotted spoon so they brown evenly on all sides. When they turn pale golden and crisp like popcorn nuggets, drain on a paper towel.",
+    "Step 6 - Serve: Toss piping hot with a pinch of chaat masala. Serve immediately with the spicy red tomato-garlic chutney or mint chutney for an instant 5-minute crunch feast."
+  ],
+  "instructions_hi": [
+    "स्टेप 1 - गाढ़ा बैटर तैयार करना: एक बाउल में 1 कप बारीक सूजी, 1/4 कप फेंटा हुआ दही, बारीक कद्दूकस किया कच्चा आलू, कटी हरी मिर्च, अदरक, जीरा, हींग, नमक और ताज़ा हरा धनिया डालें। 1/2 कप पानी डालते हुए चम्मच से अच्छी तरह फेंटें ताकि पकोड़े जैसा गाढ़ा और चिकना घोल बन जाए।",
+    "स्टेप 2 - रेस्ट देना: 5 मिनट ढककर रखें ताकि सूजी पानी सोखकर अच्छी तरह फूल जाए।",
+    "स्टेप 3 - मीठा सोडा मिलाना: कड़ाही में तेल मध्यम-तेज़ गरम करें। तलने से ठीक पहले बैटर में 1/4 छोटा चम्मच मीठा सोडा डालें और 15 सेकंड हल्के हाथ से चलाएं। बैटर तुरंत हल्का और झागदार हो जाएगा।",
+    "स्टेप 4 - मिनी बाइट्स छोड़ना: उंगलियों को थोड़े पानी से गीला करें। बैटर के छोटे-छोटे कंचे (marble) जितने टुकड़े तोड़कर गरम तेल में छोड़ते जाएं। डालते ही ये फूलकर ऊपर तैरने लगेंगे।",
+    "स्टेप 5 - कुरकुरा तलना: मध्यम आंच पर करछी से लगातार घुमाते हुए 3 से 4 मिनट तक सेकें ताकि चारों तरफ से एकसमान सुनहरा रंग और क्रिस्पी परत आ जाए। टिशू पेपर पर निकाल लें।",
+    "स्टेप 6 - परोसें: ऊपर से चाट मसाला छिड़कें और तीखी टमाटर-लहसुन की चटनी या चाय के साथ गरमा-गरम परोसें। यह बाहर से एकदम कुरकुरे और अंदर से रुई जैसे जालीदार बनते हैं।"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": {
+        "en": "Whisk fine suji, grated raw potato, curd, ginger, chillies, cumin, hing, salt, and water into a thick dropping batter.",
+        "hi": "बारीक सूजी, कद्दूकस कच्चा आलू, दही, अदरक, मिर्च, जीरा, हींग, नमक और पानी मिलाकर गाढ़ा घोल बनाएं।"
+      }
+    },
+    {
+      "step": 2,
+      "text": {
+        "en": "Rest covered for 5 minutes so semolina plumps up. Stir in 1/4 tsp baking soda right before frying.",
+        "hi": "सूजी फूलने के लिए 5 मिनट रखें। तलने से ठीक पहले 1/4 चम्मच मीठा सोडा मिलाकर झागदार बनाएं।"
+      }
+    },
+    {
+      "step": 3,
+      "text": {
+        "en": "Drop marble-sized portions of batter with wet fingertips into medium-hot oil.",
+        "hi": "गीली उंगलियों से कंचे जितने छोटे-छोटे पकोड़े गरम तेल में छोड़ें।"
+      }
+    },
+    {
+      "step": 4,
+      "text": {
+        "en": "Fry on medium flame for 3-4 mins, tossing constantly until puffed, round, and shatter-crisp.",
+        "hi": "मध्यम आंच पर लगातार घुमाते हुए 3-4 मिनट तक कुरकुरा और सुनहरा होने तक तलें।"
+      }
+    },
+    {
+      "step": 5,
+      "text": {
+        "en": "Drain, dust with chaat masala, and serve hot with spicy tomato chutney and tea.",
+        "hi": "निकालें, चाट मसाला छिड़कें और तीखी टमाटर चटनी व चाय के साथ गरमा-गरम पेश करें।"
+      }
+    }
+  ],
+  "chef_tips_en": [
+    "Raw Potato Crispness: Grating raw potato directly into the semolina batter gives the poppers an irresistible hashbrown-like crunch while keeping the inside hollow and airy.",
+    "Bite-Sized Dropping: Keep the dropped portions small (marble-sized). Because of the baking soda and curd, they expand to double their size in the hot oil.",
+    "Tossing in Oil: Constantly roll the balls in the oil using a slotted skimmer so the outer shell expands into a perfectly spherical, even golden crust."
+  ],
+  "chef_tips_hi": [
+    "कच्चे आलू का कुरकुरापन: कच्चे आलू को बारीक कद्दूकस करके डालने से पकोड़ों के अंदर बेहतरीन जाली बनती है और बाहर की परत हैशब्राउन जैसी कुरकुरी बनती है।",
+    "छोटे-छोटे पकोड़े छोड़ना: उंगलियों से छोटे कंचे जितने टुकड़े ही डालें क्योंकि सोडे और दही की वजह से तेल में जाते ही ये फूलकर दोगुने बड़े हो जाते हैं।",
+    "लगातार घुमाना: तलते समय करछी से लगातार गोल-गोल घुमाएं ताकि सभी पकोड़े एक बराबर गोल और सुनहरे सिकें।"
+  ]
+}

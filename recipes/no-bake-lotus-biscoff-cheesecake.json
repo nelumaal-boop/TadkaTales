@@ -1,0 +1,202 @@
+{
+  "id": "no-bake-lotus-biscoff-cheesecake",
+  "title_en": "Eggless No-Bake Lotus Biscoff Cheesecake",
+  "title_hi": "एगलेस नो-बेक लोटस बिस्कॉफ चीज़केक (बिना अवन का केक)",
+  "title": {
+    "en": "Eggless No-Bake Lotus Biscoff Cheesecake",
+    "hi": "एगलेस नो-बेक लोटस बिस्कॉफ चीज़केक (बिना अवन का केक)"
+  },
+  "description_en": "A showstopping, bakery-style eggless and gelatin-free dessert. Built upon a crisp, buttery Lotus Biscoff biscuit crust, filled with a velvety, whipped cream-cheese and cookie butter mousse, and topped with a glossy warm melted Biscoff glaze and spiced cookie crumbles. Sets effortlessly in the refrigerator without an oven.",
+  "description_hi": "बिना अवन, बिना अंडे और बिना जिलेटिन के बनने वाला 5-स्टार बेकरी स्टाइल लोटस बिस्कॉफ चीज़केक। मक्खन में लिपटे बिस्कॉफ बिस्कुट के क्रिस्पी बेस पर, फ्लफी व्हिप्ड क्रीम और क्रीम चीज़ की मखमली लेयर, और ऊपर से पिघले हुए लोटस स्प्रेड की चमकदार ग्लेज से सजाया गया लाजवाब नो-बेक डिज़र्ट।",
+  "description": {
+    "en": "A showstopping, bakery-style eggless and gelatin-free dessert. Built upon a crisp, buttery Lotus Biscoff biscuit crust, filled with a velvety, whipped cream-cheese and cookie butter mousse, and topped with a glossy warm melted Biscoff glaze and spiced cookie crumbles. Sets effortlessly in the refrigerator without an oven.",
+    "hi": "बिना अवन, बिना अंडे और बिना जिलेटिन के बनने वाला 5-स्टार बेकरी स्टाइल लोटस बिस्कॉफ चीज़केक। मक्खन में लिपटे बिस्कॉफ बिस्कुट के क्रिस्पी बेस पर, फ्लफी व्हिप्ड क्रीम और क्रीम चीज़ की मखमली लेयर, और ऊपर से पिघले हुए लोटस स्प्रेड की चमकदार ग्लेज से सजाया गया लाजवाब नो-बेक डिज़र्ट।"
+  },
+  "category": "Dessert",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी (एगलेस)",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "20 mins",
+  "prep_time_hi": "20 मिनट",
+  "cook_time_en": "0 mins (Chilling: 6 hrs)",
+  "cook_time_hi": "0 मिनट (फ्रिज में सेट: 6 घंटे)",
+  "prepTime": "20 mins",
+  "cookTime": "0 mins",
+  "servings_en": "8 slices (6-inch springform pan)",
+  "servings_hi": "8 स्लाइस (6 इंच केक पैन)",
+  "servings": "8 slices",
+  "youtube_id": "9-XCKL2rDho",
+  "youtubeId": "9-XCKL2rDho",
+  "youtube_url": "https://youtu.be/9-XCKL2rDho",
+  "image_url": "https://img.youtube.com/vi/9-XCKL2rDho/maxresdefault.jpg",
+  "tags": [
+    "biscoff cheesecake",
+    "no bake cheesecake",
+    "eggless dessert",
+    "lotus biscoff",
+    "kabitas kitchen",
+    "summer dessert",
+    "no oven cake",
+    "party dessert"
+  ],
+  "ingredients_en": [
+    "2 packs Lotus Biscoff Biscuits (approx. 200g-250g, divided: 180g for crust, rest for garnish)",
+    "4 tbsp Unsalted Butter, melted",
+    "1 cup Cream Cheese (approx. 200g-225g, softened at room temperature)",
+    "1/2 cup Chilled Whipping Cream (Heavy cream)",
+    "1/4 cup Caster Sugar / Powdered Sugar (adjust to sweetness)",
+    "1/2 tsp Vanilla Essence",
+    "1 cup Lotus Biscoff Spread (divided: 1/2 cup for cheesecake batter, 1/2 cup for top glaze)",
+    "Whole or crushed Biscoff biscuits (for border garnish)"
+  ],
+  "ingredients_hi": [
+    "2 पैकेट लोटस बिस्कॉफ बिस्कुट (लगभग 200-250 ग्राम, 180 ग्राम बेस के लिए, बाकी सजावट हेतु)",
+    "4 बड़े चम्मच अनसाल्टेड मक्खन (पिघला हुआ)",
+    "1 कप क्रीम चीज़ (लगभग 200-225 ग्राम, कमरे के तापमान पर नरम)",
+    "1/2 कप ठंडी व्हिपिंग क्रीम (हैवी क्रीम)",
+    "1/4 कप पिसी हुई चीनी (कैस्टर शुगर)",
+    "1/2 छोटा चम्मच वैनिला एसेंस",
+    "1 कप लोटस बिस्कॉफ स्प्रेड (1/2 कप चीज़केक बैटर में, 1/2 कप ऊपर की ग्लेज के लिए)",
+    "साबुत व दरदरे बिस्कॉफ बिस्कुट (सजावट के लिए)"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Buttery Biscoff Crust (बिस्कुट बेस सामग्री)",
+      "category_hi": "बिस्कुट क्रस्ट सामग्री",
+      "items": [
+        {
+          "name_en": "Lotus Biscoff Biscuits",
+          "name_hi": "लोटस बिस्कॉफ बिस्कुट",
+          "amount": "180g (बारीक चूरा)"
+        },
+        {
+          "name_en": "Melted Butter",
+          "name_hi": "पिघला मक्खन",
+          "amount": "4 tbsp (4 बड़े चम्मच)"
+        }
+      ]
+    },
+    {
+      "category_en": "Velvety Biscoff Mousse Filling (चीज़केक क्रीम फिलिंग)",
+      "category_hi": "चीज़केक क्रीम फिलिंग",
+      "items": [
+        {
+          "name_en": "Cream Cheese",
+          "name_hi": "क्रीम चीज़",
+          "amount": "1 cup (220g रूम टेम्परेचर)"
+        },
+        {
+          "name_en": "Powdered Sugar & Vanilla",
+          "name_hi": "पिसी चीनी व वैनिला",
+          "amount": "1/4 cup sugar + 1/2 tsp vanilla"
+        },
+        {
+          "name_en": "Lotus Biscoff Spread",
+          "name_hi": "बिस्कॉफ स्प्रेड",
+          "amount": "1/2 cup (बैटर के लिए)"
+        },
+        {
+          "name_en": "Chilled Whipping Cream",
+          "name_hi": "ठंडी व्हिपिंग क्रीम",
+          "amount": "1/2 cup (व्हिप की हुई)"
+        }
+      ]
+    },
+    {
+      "category_en": "Glossy Glaze & Topping (ग्लेज व सजावट)",
+      "category_hi": "ऊपर की ग्लेज व सजावट",
+      "items": [
+        {
+          "name_en": "Lotus Biscoff Spread (Melted)",
+          "name_hi": "पिघला बिस्कॉफ स्प्रेड",
+          "amount": "1/2 cup (हल्का गुनगुना)"
+        },
+        {
+          "name_en": "Crushed & Whole Biscoff Biscuits",
+          "name_hi": "दरदरे व साबुत बिस्कुट",
+          "amount": "For garnish"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Crush Biscuits for Crust: Place 180g of Lotus Biscoff biscuits in a ziplock bag or food processor. Crush into fine, uniform crumbs. Transfer to a bowl and pour in 4 tbsp of melted unsalted butter. Mix thoroughly until it resembles damp beach sand.",
+    "Press and Chill Base: Line the base of a 6-inch or 7-inch springform pan with parchment paper. Tip the buttery crumbs into the pan. Use the flat bottom of a glass or measuring cup to firmly and evenly compact the crumbs across the base. Place the tin in the freezer for 15-20 minutes to set firm.",
+    "Beat Cream Cheese & Sugar: In a mixing bowl, beat 1 cup room-temperature softened cream cheese with an electric hand mixer (or whisk) on medium speed for 2 minutes until creamy and lump-free. Add 1/4 cup powdered caster sugar and 1/2 tsp vanilla essence; beat for another minute until smooth.",
+    "Incorporate Biscoff Spread: Add 1/2 cup of smooth Lotus Biscoff spread to the cream cheese mixture. Beat gently for 1 minute until completely homogeneous, silky, and warm caramel in color.",
+    "Whip Chilled Cream: In a separate clean, chilled bowl, whip 1/2 cup cold whipping cream with an electric beater on high speed for 3-4 minutes until stiff peaks form.",
+    "Fold Gently (The Fluffy Secret): In two batches, add the stiff whipped cream into the Biscoff cream cheese bowl. Use a silicone spatula to gently fold in circular cut-and-fold motions without knocking out the trapped air, creating an ultra-light, airy mousse-like batter.",
+    "Pour and Chill to Set: Remove the chilled crust from the freezer. Pour the fluffy cheesecake batter over the biscuit base. Smooth the top with an offset spatula. Tap the pan gently on the counter twice to release air pockets. Cover with cling wrap and refrigerate for at least 6 hours (or overnight) until completely firm without any gelatin.",
+    "Warm Glaze & Demoulding: Once fully set, warm the remaining 1/2 cup Lotus Biscoff spread in the microwave for 15-20 seconds until smooth and pourable (do not overheat). Pour the lukewarm spread over the cold cheesecake and tilt the pan so it spreads into an even, glossy mirror glaze.",
+    "Garnish and Serve: Run a warm, thin palette knife around the inner rim of the springform tin, then release the latch and remove the outer ring. Garnish the perimeter with crushed Biscoff crumbs and whole biscuits. Slice with a warm knife and serve chilled for an unforgettable melt-in-mouth gourmet experience!"
+  ],
+  "instructions_hi": [
+    "बिस्कुट बेस बनाएं: 180 ग्राम लोटस बिस्कॉफ बिस्कुट को मिक्सी या जिपलॉक बैग में डालकर एकदम बारीक चूरा बना लें। एक कटोरे में निकालें और 4 चम्मच पिघला मक्खन डालें। अच्छी तरह मिलाएं जब तक यह गीली रेत जैसा न लगने लगे।",
+    "टिन में सेट करें: 6 या 7 इंच के स्प्रिंगफॉर्म केक टिन के तले में बटर पेपर लगाएं। बिस्कुट का चूरा डालें और गिलास के चपटे तले से दबाकर एकसमान चिकनी परत जमाएं। टिन को 15-20 मिनट के लिए फ्रीजर में रख दें ताकि बेस सख्त हो जाए।",
+    "क्रीम चीज़ फेंटें: एक बड़े बाउल में 1 कप कमरे के तापमान पर नरम क्रीम चीज़ लें। इलेक्ट्रिक बीटर या हैंड व्हिस्क से 2 मिनट फेंटें जब तक कि वह चिकनी न हो जाए। अब 1/4 कप पिसी चीनी और 1/2 चम्मच वैनिला एसेंस डालकर 1 मिनट और फेंटें।",
+    "बिस्कॉफ स्प्रेड मिलाएं: इस क्रीम चीज़ में 1/2 कप लोटस बिस्कॉफ स्प्रेड डालें और 1 मिनट धीमी गति पर फेंटें ताकि दोनों अच्छी तरह मिलकर कैरेमल रंग का चिकना घोल बन जाएं।",
+    "व्हिपिंग क्रीम फेंटें: एक अलग ठंडे बर्तन में 1/2 कप ठंडी व्हिपिंग क्रीम लें और इलेक्ट्रिक बीटर से 3-4 मिनट तक तब तक फेंटें जब तक कि उसमें स्टिफ पीक्स (गाढ़ी नोक) न बनने लगें।",
+    "हल्के हाथ से फोल्ड करें (जालीदार सीक्रेट): व्हिप की हुई क्रीम को दो बार में बिस्कॉफ-क्रीम चीज़ वाले बैटर में डालें। सिलिकॉन स्पैटुला से हल्के हाथों से गोल घुमाते हुए (कट एंड फोल्ड) मिलाएं ताकि क्रीम की हवा न निकले और बैटर एकदम मूस जैसा हल्का बना रहे।",
+    "टिन में डालें और फ्रिज में सेट करें: फ्रीजर से बिस्कुट बेस निकालें। यह फ्लफी बैटर बेस पर डालें और स्पैटुला से ऊपर से बराबर करें। टिन को काउंटर पर हल्का थपथपाएं। प्लास्टिक रैप से ढककर कम से कम 6 घंटे (या रात भर) फ्रिज (चिलर) में रखें ताकि बिना जिलेटिन के केक अच्छी तरह जम जाए।",
+    "पिघली बिस्कॉफ ग्लेज डालें: जब केक पूरी तरह सेट हो जाए, तो बाकी बचे 1/2 कप बिस्कॉफ स्प्रेड को माइक्रोवेव में 15-20 सेकंड हल्का गुनगुना करें ताकि वह बहने लगे। इसे ठंडे केक के ऊपर डालें और टिन को हल्का हिलाकर चिकनी चमकदार परत फैलाएं।",
+    "सजाएं और परोसें: चाकू को किनारों पर घुमाकर स्प्रिंगफॉर्म टिन का लॉक खोलें और रिंग निकालें। किनारों पर बारीक पिसा बिस्कॉफ बिस्कुट का चूरा और साबुत बिस्कुट लगाएं। गर्म चाकू से स्लाइस काटें और ठंडा-ठंडा परोसें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Crushing & Compacting Crust",
+      "title_hi": "बिस्कुट चूरा व बेस सेट करना",
+      "instruction_en": "Crush 180g Biscoff biscuits, mix with 4 tbsp melted butter, press firmly into a 6-inch springform pan, and freeze for 15 mins.",
+      "instruction_hi": "बिस्कॉफ बिस्कुट पीसकर पिघले मक्खन में मिलाएं, टिन के तले में दबाकर 15 मिनट फ्रीजर में सेट करें।"
+    },
+    {
+      "step": 2,
+      "title_en": "Beating Cream Cheese & Sugar",
+      "title_hi": "क्रीम चीज़ व चीनी फेंटना",
+      "instruction_en": "Beat softened room-temperature cream cheese with caster sugar and vanilla essence until creamy and lump-free.",
+      "instruction_hi": "रूम टेम्परेचर क्रीम चीज़ को पिसी चीनी और वैनिला के साथ 2 मिनट चिकना होने तक फेंटें।"
+    },
+    {
+      "step": 3,
+      "title_en": "Mixing Biscoff Cookie Spread",
+      "title_hi": "बिस्कॉफ स्प्रेड मिलाना",
+      "instruction_en": "Beat in 1/2 cup Lotus Biscoff spread into the cream cheese until smooth and golden-caramel in color.",
+      "instruction_hi": "क्रीम चीज़ में 1/2 कप बिस्कॉफ स्प्रेड डालकर चिकना कैरेमल घोल तैयार करें।"
+    },
+    {
+      "step": 4,
+      "title_en": "Whipping & Folding Cream",
+      "title_hi": "व्हिप्ड क्रीम फोल्ड करना",
+      "instruction_en": "Whip chilled heavy cream to stiff peaks. Gently fold into the Biscoff batter with a spatula to keep it light and airy.",
+      "instruction_hi": "ठंडी क्रीम को गाढ़ा होने तक फेंटें और हल्के हाथों से बैटर में मिलाएं ताकि वह मूस जैसा हल्का बने।"
+    },
+    {
+      "step": 5,
+      "title_en": "Chilling for 6+ Hours to Set",
+      "title_hi": "6 घंटे फ्रिज में जमाना",
+      "instruction_en": "Pour filling over the crust, smooth top, and refrigerate covered for at least 6 hours or overnight until firmly set.",
+      "instruction_hi": "बैटर को बेस पर फैलाएं और ढककर कम से कम 6 घंटे या रात भर फ्रिज में पूरी तरह जमने दें।"
+    },
+    {
+      "step": 6,
+      "title_en": "Pouring Warm Glaze & Demoulding",
+      "title_hi": "ग्लेज डालना, सजाना और काटना",
+      "instruction_en": "Spread lukewarm melted Biscoff spread over the cold cake for a mirror finish. Demould, decorate with cookie crumbs, and slice.",
+      "instruction_hi": "पिघला बिस्कॉफ स्प्रेड ऊपर फैलाएं, टिन खोलें, बिस्कुट चूरे से सजाएं और स्लाइस काटकर परोसें।"
+    }
+  ],
+  "chef_tips_en": [
+    "Room Temperature Cream Cheese: Always bring cream cheese to room temperature before beating. Cold cream cheese will leave tiny stubborn white curd lumps in the batter that cannot be beaten out.",
+    "Stiff Peaks Whipped Cream (No Gelatin Secret): Beating the whipping cream to true stiff peaks and gently folding it with a spatula is what allows this cheesecake to set firmly without gelatin, agar-agar, or eggs.",
+    "Lukewarm Glaze Over Cold Cake: Warm the Biscoff spread until it is easily pourable, but ensure it is ONLY lukewarm (not hot). Pouring hot spread will melt the top of the chilled cream cheese layer, while lukewarm spread sets immediately with a glossy mirror shine.",
+    "Clean Slicing Trick: To get crisp, professional, bakery-like clean slices, dip your slicing knife into a glass of hot water and wipe dry with a clean paper towel before every single cut."
+  ],
+  "chef_tips_hi": [
+    "क्रीम चीज़ का सामान्य तापमान: क्रीम चीज़ को हमेशा फ्रिज से 1 घंटे पहले निकालकर सामान्य तापमान पर रखें। ठंडी क्रीम चीज़ फेंटने पर उसमें सफेद गांठें रह जाती हैं जो चिकनी नहीं होतीं।",
+    "बिना जिलेटिन जमने का राज: ठंडी व्हिपिंग क्रीम को गाढ़ी नोक (स्टिफ पीक) आने तक फेंटना और हल्के हाथ से मिलाना ही इस केक को बिना अंडे या जिलेटिन के पूरी तरह जमाने का असली राज़ है।",
+    "हल्की गुनगुनी ग्लेज: ऊपर डालने के लिए बिस्कॉफ स्प्रेड को सिर्फ 15-20 सेकंड गुनगुना करें। तेज गरम स्प्रेड डालने से नीचे का चीज़केक पिघल जाएगा, जबकि हल्की गुनगुनी ग्लेज ठंडे केक पर तुरंत शीशे जैसी चमक से जम जाती है।",
+    "बेकरी जैसी साफ स्लाइस काटने की ट्रिक: हर स्लाइस काटने से पहले चाकू को गरम पानी में डुबोएं और साफ कपड़े से पोंछ लें। इससे हर पीस बिल्कुल साफ और शार्प कटेगा।"
+  ]
+}

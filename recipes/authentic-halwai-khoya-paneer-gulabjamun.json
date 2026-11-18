@@ -1,0 +1,212 @@
+{
+  "id": "authentic-halwai-khoya-paneer-gulabjamun",
+  "title_en": "Melt-in-Mouth Khoya Paneer Gulab Jamun (हलवाई स्टाइल गुलाब जामुन)",
+  "title_hi": "एकदम सॉफ्ट हलवाई स्टाइल खोया-पनीर गुलाब जामुन",
+  "title": {
+    "en": "Melt-in-Mouth Khoya Paneer Gulab Jamun (हलवाई स्टाइल गुलाब जामुन)",
+    "hi": "एकदम सॉफ्ट हलवाई स्टाइल खोया-पनीर गुलाब जामुन"
+  },
+  "description_en": "The crowning glory of traditional Indian confectionery! Authentic halwai-style soft, juicy gulab jamuns crafted with fresh khoya (mawa) and paneer, gently swirl-fried in pure desi ghee and soaked in aromatic saffron-cardamom sugar syrup.",
+  "description_hi": "पारंपरिक भारतीय मिठाइयों का राजा! असली हलवाई स्टाइल खोया और पनीर से बने एकदम मखमली, रसदार और स्पंजी गुलाब जामुन। शुद्ध देसी घी में धीमी आंच पर तले हुए और केसर-इलायची की चिपचिपी चाशनी में डूबे हुए, जो मुंह में रखते ही रस बनकर घुल जाएं।",
+  "description": {
+    "en": "The crowning glory of traditional Indian confectionery! Authentic halwai-style soft, juicy gulab jamuns crafted with fresh khoya (mawa) and paneer, gently swirl-fried in pure desi ghee and soaked in aromatic saffron-cardamom sugar syrup.",
+    "hi": "पारंपरिक भारतीय मिठाइयों का राजा! असली हलवाई स्टाइल खोया और पनीर से बने एकदम मखमली, रसदार और स्पंजी गुलाब जामुन। शुद्ध देसी घी में धीमी आंच पर तले हुए और केसर-इलायची की चिपचिपी चाशनी में डूबे हुए, जो मुंह में रखते ही रस बनकर घुल जाएं।"
+  },
+  "category": "Desserts",
+  "diet": "Vegetarian",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "prep_time_en": "25 mins",
+  "prep_time_hi": "25 मिनट",
+  "cook_time_en": "25 mins",
+  "cook_time_hi": "25 मिनट",
+  "prepTime": "25 mins",
+  "cookTime": "25 mins",
+  "servings_en": "23-24 pieces",
+  "servings_hi": "23-24 गुलाब जामुन",
+  "servings": 6,
+  "youtube_id": "jz55LQr_nsk",
+  "youtubeId": "jz55LQr_nsk",
+  "youtube_url": "https://youtu.be/jz55LQr_nsk",
+  "image_url": "/static/images/jz55LQr_nsk.jpg",
+  "tags": [
+    "Gulab Jamun",
+    "Khoya Gulab Jamun",
+    "Mawa",
+    "Paneer",
+    "Desserts",
+    "Indian Sweets",
+    "Festive",
+    "Diwali Special",
+    "Kabitaskitchen",
+    "Vegetarian"
+  ],
+  "ingredients_en": [
+    "250g Fresh Soft Khoya / Mawa (smooth, unroasted)",
+    "100g Fresh Paneer (cottage cheese), finely crumbled",
+    "1/4 cup All-Purpose Flour (Maida) - about 40g for binding",
+    "1/3 tsp Baking Powder",
+    "3 cups Granulated Sugar (about 600g)",
+    "2 cups Water (for light sticky syrup)",
+    "1 tsp Green Cardamom Powder (Elaichi)",
+    "2 pinches Saffron Strands (Kesar)",
+    "Pure Desi Ghee or Cooking Oil for deep frying"
+  ],
+  "ingredients_hi": [
+    "250 ग्राम ताजा नरम खोया / मावा (चिकना मावा)",
+    "100 ग्राम ताजा पनीर (कद्दूकस या रफ तोड़ा हुआ)",
+    "1/4 कप मैदा (लगभग 40 ग्राम - बाइंडिंग हेतु)",
+    "1/3 छोटा चम्मच बेकिंग पाउडर",
+    "3 कप चीनी (लगभग 600 ग्राम)",
+    "2 कप पानी (चाशनी हेतु)",
+    "1 छोटा चम्मच हरी इलायची पाउडर",
+    "2 चुटकी केसर के धागे",
+    "तलने के लिए शुद्ध देसी घी या रिफाइंड तेल"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Mawa & Paneer Dough (गुलाब जामुन आटा)",
+      "category_hi": "गुलाब जामुन आटा",
+      "items": [
+        {
+          "name_en": "Fresh Khoya / Mawa",
+          "name_hi": "ताजा खोया/मावा",
+          "amount": "250g"
+        },
+        {
+          "name_en": "Fresh Paneer",
+          "name_hi": "ताजा पनीर",
+          "amount": "100g"
+        },
+        {
+          "name_en": "All-Purpose Flour (Maida)",
+          "name_hi": "मैदा",
+          "amount": "1/4 cup (40g)"
+        },
+        {
+          "name_en": "Baking Powder",
+          "name_hi": "बेकिंग पाउडर",
+          "amount": "1/3 tsp"
+        }
+      ]
+    },
+    {
+      "category_en": "Saffron-Cardamom Sugar Syrup (केसर-इलायची चाशनी)",
+      "category_hi": "केसर-इलायची चाशनी",
+      "items": [
+        {
+          "name_en": "Granulated Sugar",
+          "name_hi": "चीनी",
+          "amount": "3 cups (600g)"
+        },
+        {
+          "name_en": "Water",
+          "name_hi": "पानी",
+          "amount": "2 cups (500ml)"
+        },
+        {
+          "name_en": "Cardamom Powder",
+          "name_hi": "इलायची पाउडर",
+          "amount": "1 tsp"
+        },
+        {
+          "name_en": "Saffron Strands (Kesar)",
+          "name_hi": "केसर के धागे",
+          "amount": "2 pinches"
+        }
+      ]
+    },
+    {
+      "category_en": "Frying Medium (तलने हेतु)",
+      "category_hi": "तलने हेतु",
+      "items": [
+        {
+          "name_en": "Pure Desi Ghee or Oil",
+          "name_hi": "देसी घी या तेल",
+          "amount": "For deep frying"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Mash Paneer Silky Smooth: Crumble 100g fresh paneer onto a wide plate (parat). Using the heel of your palm, rub and mash the paneer firmly against the plate for 3-4 minutes until it turns completely creamy, smooth, and free of any lumps.",
+    "Mash Mawa & Blend Together: Add 250g fresh soft khoya (mawa) to the mashed paneer. Knead and mash both together using your palm for another 3-4 minutes until a silky, lump-free, buttery paste forms.",
+    "Add Maida & Baking Powder: Sprinkle 1/4 cup all-purpose flour (maida) and 1/3 tsp baking powder over the mawa-paneer mixture. Gently bring everything together into a smooth, cohesive dough. (Do not over-knead after adding flour to keep the texture melt-in-mouth). Cover with a damp cloth.",
+    "Prepare Scented Sugar Syrup: In a wide pan, mix 3 cups sugar and 2 cups water. Place over medium heat and stir until sugar dissolves. Bring to a rolling boil, then add 1 tsp cardamom powder and 2 pinches saffron strands. Simmer for 5-6 minutes until the syrup feels sticky and oily between your fingers (no one-string thread needed). Turn off heat and keep warm.",
+    "Roll Crack-Free Spheres: Divide the dough into 23 to 24 equal small portions. Roll each portion gently between your palms into a perfectly smooth, crack-free sphere. (Ensure there are zero surface cracks so jamuns do not burst during frying).",
+    "Swirl-Frying on Gentle Low Heat: Heat desi ghee or oil in a deep kadai over low-medium flame (moderately warm; when a tiny test ball is dropped, it should rise to the top gently in 3-4 seconds). Slide in 8-10 gulab jamuns. Do not touch them directly with the spatula; gently swirl the oil around the edges with the spatula. The jamuns will rotate and puff evenly. Fry patiently on low heat for 10-12 minutes until rich mahogany golden-brown.",
+    "Warm Syrup Soak: Lift the fried jamuns with a slotted spoon and immediately drop them into the warm saffron sugar syrup. Let them soak undisturbed for 1.5 to 2 hours until they drink the syrup, swell into plump juicy spheres, and sink gently to the bottom. Serve warm or chilled!"
+  ],
+  "instructions_hi": [
+    "पनीर को हथेली से घिसना: एक चौड़ी परात में 100 ग्राम ताजा पनीर कद्दूकस करें। हथेली के पिछले हिस्से से पनीर को 3-4 मिनट तक अच्छी तरह मसलें जब तक कि वह बिल्कुल मक्खन जैसा चिकना न हो जाए।",
+    "मावा और पनीर को मिलाना: अब 250 ग्राम ताजा खोया/मावा डालें और दोनों को हथेली से 3-4 मिनट तक अच्छी तरह रगड़कर एकसार चिकना पेस्ट बना लें।",
+    "मैदा व बेकिंग पाउडर मिलाना: 1/4 कप मैदा और 1/3 छोटा चम्मच बेकिंग पाउडर छिड़कें। हल्के हाथ से मिलाकर एक मुलायम और चिकना आटा तैयार कर लें (मैदा डालने के बाद ज्यादा न मसलें)। गीले कपड़े से ढकें।",
+    "केसर-इलायची चाशनी बनाना: एक गहरे बर्तन में 3 कप चीनी और 2 कप पानी मिलाएं। मध्यम आंच पर चीनी घुलने तक चलाएं। उबाल आने पर 1 छोटा चम्मच इलायची पाउडर और 2 चुटकी केसर डालें। 5-6 मिनट धीमी आंच पर पकाएं जब तक चाशनी उंगलियों के बीच तेल जैसी चिपचिपी न लगने लगे (तार नहीं बनाना है)। गैस बंद करें और चाशनी को गुनगुना रखें।",
+    "बिना दरार वाली चिकनी गोलियां बनाना: आटे की छोटी-छोटी 23-24 बराबर लोइयां बनाएं। दोनों हथेलियों के बीच हल्का दबाव देते हुए बिल्कुल चिकनी, बिना किसी दरार (crack-free) की गोलियां बना लें।",
+    "धीमी आंच पर तेल घुमाकर तलना: कड़ाही में देसी घी या तेल मध्यम-धीमी आंच पर गरम करें (तेल ज्यादा गरम नहीं होना चाहिए)। 8-10 गुलाब जामुन डालें। जामुन को कलछी से न छुएं, बल्कि तेल को किनारों से गोल-गोल घुमाएं जिससे जामुन अपने आप घूम-घूम कर फूलेंगे। धीमी आंच पर 10-12 मिनट तक गहरा सुनहरा रंग आने तक तलें।",
+    "गरम चाशनी में भिगोना व परोसना: तले हुए गुलाब जामुनों को निकालकर सीधे गुनगुनी चाशनी में डालें। 1.5 से 2 घंटे तक डूबे रहने दें ताकि वे पूरी चाशनी पीकर बड़े और एकदम रसीले हो जाएं। गरमा-गरम या ठंडे परोसें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Rub Paneer to Creamy Paste",
+      "title_hi": "पनीर को हथेली से चिकना करना",
+      "instruction_en": "Mash 100g fresh paneer with palm heel for 3-4 mins until completely smooth and lump-free.",
+      "instruction_hi": "पनीर को परात में हथेली से 3-4 मिनट रगड़ें जब तक वह बिल्कुल मक्खन जैसा चिकना न हो जाए।"
+    },
+    {
+      "step": 2,
+      "title_en": "Blend Mawa & Paneer Together",
+      "title_hi": "मावा और पनीर को एकसार रगड़ना",
+      "instruction_en": "Add 250g fresh mawa; vigorously knead together with paneer until a silky buttery paste forms.",
+      "instruction_hi": "मावा मिलाकर हथेली से 3-4 मिनट रगड़ें ताकि दोनों मिलकर एकसार और चिकने हो जाएं।"
+    },
+    {
+      "step": 3,
+      "title_en": "Incorporate Maida & Baking Powder",
+      "title_hi": "मैदा व बेकिंग पाउडर मिलाकर आटा बनाना",
+      "instruction_en": "Gently fold in 1/4 cup maida and 1/3 tsp baking powder into a cohesive soft dough. Cover with damp cloth.",
+      "instruction_hi": "मैदा और बेकिंग पाउडर डालकर हल्के हाथ से मुलायम आटा बनाएं और गीले कपड़े से ढकें।"
+    },
+    {
+      "step": 4,
+      "title_en": "Simmer Sticky Saffron Syrup",
+      "title_hi": "केसर वाली चिपचिपी चाशनी बनाना",
+      "instruction_en": "Boil 3 cups sugar and 2 cups water with cardamom and saffron for 5-6 mins until sticky and honey-like.",
+      "instruction_hi": "चीनी, पानी, इलायची और केसर को 5-6 मिनट उबालकर शहद जैसी चिपचिपी चाशनी तैयार करें।"
+    },
+    {
+      "step": 5,
+      "title_en": "Shape Crack-Free Round Balls",
+      "title_hi": "बिना दरार की गोलियां बनाना",
+      "instruction_en": "Roll small portions between greased palms into perfectly smooth, satin-finished crack-free spheres.",
+      "instruction_hi": "हथेलियों के बीच दबाकर 23-24 एकदम चिकनी बिना दरार वाली गोलियां तैयार करें।"
+    },
+    {
+      "step": 6,
+      "title_en": "Swirl-Fry on Gentle Low Flame",
+      "title_hi": "धीमी आंच पर तेल घुमाकर तलना",
+      "instruction_en": "Fry in moderately warm ghee on low heat, swirling oil continuously for 10-12 mins until deep golden.",
+      "instruction_hi": "धीमी आंच पर तेल को घुमाते हुए 10-12 मिनट तलें जब तक जामुन एकसमान गहरे सुनहरे न हो जाएं।"
+    },
+    {
+      "step": 7,
+      "title_en": "Soak in Warm Syrup for Plump Jamuns",
+      "title_hi": "गुनगुनी चाशनी में डुबोना व परोसना",
+      "instruction_en": "Transfer directly into warm syrup. Soak 1.5 to 2 hours until jamuns swell into melt-in-mouth delights!",
+      "instruction_hi": "तले जामुनों को गुनगुनी चाशनी में 1.5-2 घंटे भीगने दें ताकि वे चाशनी पीकर एकदम रसीले हो जाएं!"
+    }
+  ],
+  "chef_tips_en": [
+    "Mash Paneer First with Palm Heel: Paneer has more granular proteins than mawa. Mashing it thoroughly on its own first ensures there are zero hard granules in the center of the fried jamuns.",
+    "Zero Surface Cracks: The jamuns must have an impeccably smooth surface before frying. If your dough feels slightly dry, sprinkle a teaspoon of milk and roll again.",
+    "Swirl the Oil, Don't Touch the Jamuns: When frying, swirl the oil gently around the sides of the pan. Touching delicate, raw jamuns with the sharp edge of a slotted spoon will dent or pierce them."
+  ],
+  "chef_tips_hi": [
+    "पनीर को पहले अकेले रगड़ना: पनीर में दाने होते हैं; इसे मावे से पहले अकेले हथेली से घिसना ही गुलाब जामुन को अंदर से बिल्कुल जालीदार और मक्खन जैसा बनाता है।",
+    "गोलियों में कोई दरार न हो: अगर गोली बनाते समय दरार दिखे तो थोड़ा सा दूध छिड़क कर आटे को ठीक करें। दरार रहने पर जामुन तेल में फट जाते हैं।",
+    "तेल को घुमाएं, जामुन को न छुएं: तलते समय कलछी से जामुन को सीधे न छुएं बल्कि तेल को गोल-गोल घुमाएं। जामुन अपने आप तैरते हुए हर तरफ से एकसमान सिकेंगे।"
+  ]
+}
