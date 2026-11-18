@@ -1,0 +1,228 @@
+{
+  "id": "zero-bitterness-healthy-methi-paratha",
+  "title_en": "Zero-Bitterness Soft & Crispy Methi Paratha (Fenugreek Flatbread)",
+  "title_hi": "बिना कड़वाहट के एकदम खस्ता मेथी पराठा (हेल्दी नाश्ता रेसिपी)",
+  "title": {
+    "en": "Zero-Bitterness Soft & Crispy Methi Paratha (Fenugreek Flatbread)",
+    "hi": "बिना कड़वाहट के एकदम खस्ता मेथी पराठा (हेल्दी नाश्ता रेसिपी)"
+  },
+  "description_en": "Delicious, nutritious, and completely non-bitter Methi Parathas perfected with Kabita's smart sauté trick! Packed with fresh fenugreek greens, roasted garlic, sesame seeds, and mild spices. Crispy on the outside, feather-soft inside, and stays fresh for hours.",
+  "description_hi": "सर्दियों का सबसे सेहतमंद नाश्ता—बिना किसी कड़वाहट के सुपर टेस्टी मेथी पराठा! लहसुन और प्याज के साथ मेथी को हल्का भूनकर तैयार किया गया, जिससे इसका कड़वापन खत्म हो जाता है। सफेद तिल के क्रंच और देसी घी की खुशबू से भरपूर, जो लंचबॉक्स के लिए भी घंटों नरम रहता है।",
+  "description": {
+    "en": "Delicious, nutritious, and completely non-bitter Methi Parathas perfected with Kabita's smart sauté trick! Packed with fresh fenugreek greens, roasted garlic, sesame seeds, and mild spices. Crispy on the outside, feather-soft inside, and stays fresh for hours.",
+    "hi": "सर्दियों का सबसे सेहतमंद नाश्ता—बिना किसी कड़वाहट के सुपर टेस्टी मेथी पराठा! लहसुन और प्याज के साथ मेथी को हल्का भूनकर तैयार किया गया, जिससे इसका कड़वापन खत्म हो जाता है। सफेद तिल के क्रंच और देसी घी की खुशबू से भरपूर, जो लंचबॉक्स के लिए भी घंटों नरम रहता है।"
+  },
+  "category": "Breakfast",
+  "diet": "Vegetarian",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "सरल",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cook_time_en": "15 mins",
+  "cook_time_hi": "15 मिनट",
+  "prepTime": "15 mins",
+  "cookTime": "15 mins",
+  "servings_en": "4 servings",
+  "servings_hi": "4 लोग",
+  "servings": 4,
+  "youtube_id": "YzRw05WGVxE",
+  "youtubeId": "YzRw05WGVxE",
+  "youtube_url": "https://youtu.be/YzRw05WGVxE",
+  "image_url": "/static/images/YzRw05WGVxE.jpg",
+  "tags": [
+    "Methi Paratha",
+    "Paratha",
+    "Breakfast",
+    "Winter Special",
+    "Healthy",
+    "Weight Loss",
+    "Kabitaskitchen",
+    "Vegetarian"
+  ],
+  "ingredients_en": [
+    "500g Fresh Fenugreek Leaves (Methi), leaves plucked, washed & finely chopped (about 2.5 cups)",
+    "2 cups Whole Wheat Flour (Atta)",
+    "15 Garlic Cloves, finely minced",
+    "3-4 Green Chillies, finely chopped",
+    "1 tsp Cumin Seeds (Jeera)",
+    "1 cup Onions, finely chopped",
+    "1 tbsp White Sesame Seeds (Til) - for nutty crunch & warmth",
+    "1/2 tsp Turmeric Powder (Haldi)",
+    "1/2 tsp Kashmiri Red Chilli Powder",
+    "1 tbsp Cooking Oil (for sautéing methi)",
+    "3-4 tbsp Pure Desi Ghee or Oil (for roasting parathas)",
+    "1 tsp Salt (to taste)",
+    "Lukewarm water as needed for kneading"
+  ],
+  "ingredients_hi": [
+    "500 ग्राम ताजी मेथी के पत्ते (साफ धुले व बारीक कटे - लगभग 2.5 कप)",
+    "2 कप गेहूं का आटा",
+    "15 लहसुन की कलियां (बारीक कटी/कुटी)",
+    "3-4 हरी मिर्च (बारीक कटी)",
+    "1 छोटा चम्मच जीरा",
+    "1 कप प्याज (बारीक कटा)",
+    "1 बड़ा चम्मच सफेद तिल (क्रंच व सोंधेपन हेतु)",
+    "1/2 छोटा चम्मच हल्दी पाउडर",
+    "1/2 छोटा चम्मच कश्मीरी लाल मिर्च पाउडर",
+    "1 बड़ा चम्मच तेल (मेथी भूनने हेतु)",
+    "3-4 बड़े चम्मच शुद्ध देसी घी या तेल (पराठे सेकने हेतु)",
+    "1 छोटा चम्मच नमक (स्वादानुसार)",
+    "गुनगुना पानी (आटा गूंथने हेतु)"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Methi & Garlic Sauté (कड़वाहट हटाने हेतु मेथी तड़का)",
+      "category_hi": "कड़वाहट हटाने हेतु मेथी तड़का",
+      "items": [
+        {
+          "name_en": "Fresh Methi Leaves",
+          "name_hi": "ताजी मेथी के पत्ते",
+          "amount": "500g (2.5 cups chopped)"
+        },
+        {
+          "name_en": "Cooking Oil",
+          "name_hi": "तेल",
+          "amount": "1 tbsp"
+        },
+        {
+          "name_en": "Cumin Seeds (Jeera)",
+          "name_hi": "जीरा",
+          "amount": "1 tsp"
+        },
+        {
+          "name_en": "Garlic Cloves (Minced)",
+          "name_hi": "बारीक कटा लहसुन",
+          "amount": "15 cloves"
+        },
+        {
+          "name_en": "Green Chillies & Onions",
+          "name_hi": "हरी मिर्च व प्याज",
+          "amount": "4 chillies + 1 cup onion"
+        }
+      ]
+    },
+    {
+      "category_en": "Dough & Seasonings (आटा व मसाले)",
+      "category_hi": "आटा व मसाले",
+      "items": [
+        {
+          "name_en": "Whole Wheat Flour (Atta)",
+          "name_hi": "गेहूं का आटा",
+          "amount": "2 cups"
+        },
+        {
+          "name_en": "White Sesame Seeds (Til)",
+          "name_hi": "सफेद तिल",
+          "amount": "1 tbsp"
+        },
+        {
+          "name_en": "Turmeric & Chilli Powder",
+          "name_hi": "हल्दी व लाल मिर्च",
+          "amount": "1/2 tsp + 1/2 tsp"
+        },
+        {
+          "name_en": "Salt & Lukewarm Water",
+          "name_hi": "नमक व गुनगुना पानी",
+          "amount": "1 tsp + as needed"
+        }
+      ]
+    },
+    {
+      "category_en": "Roasting & Serving (सेंकना व परोसना)",
+      "category_hi": "सेंकना व परोसना",
+      "items": [
+        {
+          "name_en": "Pure Desi Ghee / Oil",
+          "name_hi": "देसी घी या तेल",
+          "amount": "3-4 tbsp"
+        },
+        {
+          "name_en": "Chilled Curd or Pickle",
+          "name_hi": "ताजा दही या अचार",
+          "amount": "For serving"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Clean & Chop Fresh Methi: Separate tender methi leaves from thick bitter stems. Wash thoroughly in multiple batches of cold water to discard dirt. Drain completely in a colander and chop finely.",
+    "Quick Sauté Trick to Remove Bitterness: Heat 1 tbsp oil in a pan. Add 1 tsp cumin seeds, 15 minced garlic cloves, chopped green chillies, and finely chopped onions. Sauté for 2 minutes until translucent. Add chopped methi leaves with a pinch of salt and sauté over medium heat for 2-3 minutes until wilted and excess moisture dries up. (This eliminates the raw bitter aftertaste and releases deep roasted aromas).",
+    "Mix Dry Ingredients: In a large kneading parat or bowl, combine 2 cups whole wheat flour, 1 tbsp white sesame seeds (til), 1/2 tsp turmeric powder, 1/2 tsp red chilli powder, and 1 tsp salt. Mix thoroughly.",
+    "Knead Pliable Soft Dough: Add the warm sautéed garlic-methi mixture into the flour. Rub well to integrate. Gradually add lukewarm water in splashes and knead into a soft, smooth, pliable dough (similar to roti dough). Rub 1/2 tsp oil on top, cover, and rest for 10-15 minutes.",
+    "Roll Parathas: Divide the dough into lemon-sized balls. Dust a ball with dry flour and roll out on a board into a 6-7 inch circular disc (or fold into a classic flaky triangle).",
+    "Cook on Hot Tawa: Heat an iron or heavy tawa over medium-high heat. Place the rolled paratha on the tawa. When tiny bubbles appear on the surface (about 30-40 seconds), flip it over. Brush 1/2 tsp desi ghee or oil evenly across the cooked side.",
+    "Roast Golden & Serve: Flip again and brush ghee on the second side. Press gently with a flat spatula along the rim until golden-brown crisp spots appear and the paratha turns flaky outside and soft inside. Serve piping hot with chilled curd (dahi), pickle, or masala chai!"
+  ],
+  "instructions_hi": [
+    "मेथी की सफाई व कटाई: मेथी के पत्तों को मोटे डंठलों से तोड़कर अलग करें। 2-3 बार पानी से अच्छी तरह धोएं ताकि मिट्टी निकल जाए। छन्नी में सुखाकर बारीक काट लें।",
+    "कड़वाहट हटाने की सीक्रेट ट्रिक: पैन में 1 बड़ा चम्मच तेल गरम करें। 1 छोटा चम्मच जीरा, 15 बारीक कटी लहसुन की कलियां, कटी हरी मिर्च और प्याज डालकर 2 मिनट हल्का भूनें। अब कटी हुई मेथी और चुटकी भर नमक डालकर 2-3 मिनट तेज आंच पर भूनें ताकि मेथी का कड़वा पानी सूख जाए और सौंधी खुशबू आने लगे।",
+    "आटे में मसाले मिलाना: एक बड़ी परात में 2 कप गेहूं का आटा, 1 बड़ा चम्मच सफेद तिल, 1/2 छोटा चम्मच हल्दी, 1/2 छोटा चम्मच लाल मिर्च पाउडर और 1 छोटा चम्मच नमक डालकर मिला लें।",
+    "मुलायम आटा गूंथना: भुनी हुई मेथी-लहसुन का मिश्रण आटे में डालें। अच्छी तरह मिलाएं। फिर थोड़ा-थोड़ा गुनगुना पानी डालते हुए चपाती जैसा नरम और लचीला आटा गूंथ लें। ऊपर से थोड़ा तेल लगाकर 10-15 मिनट ढककर रखें।",
+    "पराठा बेलना: आटे की नींबू के आकार की लोइयां बनाएं। सूखा आटा लगाकर चकले पर 6-7 इंच का गोल या तिकोना पराठा बेलें।",
+    "तवे पर सेकना: तवे को मध्यम-तेज आंच पर गरम करें। पराठा तवे पर डालें। जब नीचे से हल्का सिक जाए और बुलबुले दिखें तो पलट दें और ऊपर देसी घी या तेल लगाएं।",
+    "गोल्डन क्रिस्पी सेकना व परोसना: दोबारा पलटकर दूसरी तरफ भी घी लगाएं और कलछी से किनारों को दबाते हुए दोनों तरफ से सुनहरा व क्रिस्पी होने तक सेकें। गरमा-गरम मेथी के पराठों को ताजे ठंडे दही, आम के अचार या गरमा-गरम चाय के साथ परोसें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Pluck & Finely Chop Methi",
+      "title_hi": "मेथी के पत्ते साफ करके काटना",
+      "instruction_en": "Pluck tender fenugreek leaves away from bitter stems, wash thoroughly, drain, and finely chop.",
+      "instruction_hi": "मेथी के पत्तों को डंठल से तोड़कर अच्छी तरह धोएं, सुखाएं और बारीक काट लें।"
+    },
+    {
+      "step": 2,
+      "title_en": "Sauté Methi with Garlic & Onions",
+      "title_hi": "लहसुन व प्याज संग मेथी भूनना",
+      "instruction_en": "Sauté cumin, garlic, chillies, and onions, then add chopped methi for 2-3 mins to evaporate bitter juices.",
+      "instruction_hi": "जीरा, लहसुन, मिर्च व प्याज भूनें। फिर मेथी डालकर 2-3 मिनट भूनें ताकि कड़वापन खत्म हो जाए।"
+    },
+    {
+      "step": 3,
+      "title_en": "Blend Flour with Sesame Seeds & Spices",
+      "title_hi": "आटा, सफेद तिल व मसाले मिलाना",
+      "instruction_en": "Combine wheat flour with white sesame seeds (til for crunch), turmeric, red chilli powder, and salt.",
+      "instruction_hi": "गेहूं के आटे में सफेद तिल, हल्दी, लाल मिर्च पाउडर और नमक अच्छी तरह मिला लें।"
+    },
+    {
+      "step": 4,
+      "title_en": "Knead Soft Pliable Dough",
+      "title_hi": "मुलायम आटा गूंथना",
+      "instruction_en": "Incorporate sautéed methi into flour and knead with lukewarm water into a smooth, soft dough. Rest 15 mins.",
+      "instruction_hi": "मेथी डालकर गुनगुने पानी से नरम आटा गूंथें और 15 मिनट सेट होने के लिए ढकें।"
+    },
+    {
+      "step": 5,
+      "title_en": "Roll Out Even Parathas",
+      "title_hi": "पराठा बेलना",
+      "instruction_en": "Divide dough into balls and roll out into round or flaky layered triangular parathas.",
+      "instruction_hi": "लोइयां बनाकर सूखा आटा लगाकर गोल या तिकोना पराठा बेल लें।"
+    },
+    {
+      "step": 6,
+      "title_en": "Cook on Tawa with Desi Ghee",
+      "title_hi": "तवे पर देसी घी से सेकना",
+      "instruction_en": "Cook on hot tawa until bubbles form; flip, apply ghee or oil evenly across both sides.",
+      "instruction_hi": "गरम तवे पर पराठा डालें, पलटें और दोनों तरफ देसी घी या तेल लगाएं।"
+    },
+    {
+      "step": 7,
+      "title_en": "Roast Till Crisp & Serve Hot",
+      "title_hi": "सुनहरा सेकना व दही संग परोसना",
+      "instruction_en": "Press edges gently with spatula until golden-crisp spots appear. Serve hot with chilled dahi and pickle!",
+      "instruction_hi": "कलछी से किनारों को दबाकर सुनहरा क्रिस्पी सेकें और ताजे दही व अचार के साथ परोसें!"
+    }
+  ],
+  "chef_tips_en": [
+    "The Sauté Trick Eliminates Bitterness: Never add raw chopped fenugreek directly to flour if you dislike bitterness. Sautéing methi with minced garlic and onions for 2-3 minutes evaporates the bitter oxalic water and locks in sweetness.",
+    "White Sesame Seeds for Warmth & Crunch: Adding 1 tbsp til (sesame seeds) gives an irresistible nutty crunch, essential winter nutrients, and calcium.",
+    "Knead with Lukewarm Water: Using lukewarm water keeps the dough relaxed and ensures the parathas stay soft and fresh all day long in tiffin boxes."
+  ],
+  "chef_tips_hi": [
+    "मेथी भूनने की ट्रिक से कड़वाहट गायब: अगर आपको मेथी की कड़वाहट पसंद नहीं है, तो कच्ची मेथी आटे में न डालें। लहसुन और प्याज के साथ 2-3 मिनट भूनने से कड़वा पानी भाप बनकर उड़ जाता है।",
+    "सफेद तिल का सोंधापन: 1 बड़ा चम्मच सफेद तिल डालने से हर बाइट में क्रंच आता है और यह सर्दियों में शरीर को ताकत व कैल्शियम प्रदान करता है।",
+    "गुनगुने पानी से आटा लगाना: गुनगुने पानी से आटा लगाने पर पराठे बेहद मुलायम बनते हैं और टिफिन में रखने पर भी शाम तक बिल्कुल नरम रहते हैं।"
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "restaurant-style-palak-paneer",
+  "title_en": "Restaurant-Style Palak Paneer (Vibrant Green & Creamy)",
+  "title_hi": "रेस्टोरेंट स्टाइल पालक पनीर (एकदम हरा और मखमली)",
+  "title": {
+    "en": "Restaurant-Style Palak Paneer (Vibrant Green & Creamy)",
+    "hi": "रेस्टोरेंट स्टाइल पालक पनीर (एकदम हरा और मखमली)"
+  },
+  "description_en": "The ultimate restaurant-style Palak Paneer with a vibrant emerald-green hue and luxurious creamy texture. Fresh spinach is blanched with sugar and ice-shocked to lock in color and remove bitterness, pureed with green chillies, then simmered with caramelized onions, garlic, ripe tomatoes, fresh malai, and cotton-soft paneer cubes.",
+  "description_hi": "ढाबा और रेस्टोरेंट जैसा एकदम चमकदार हरा, मखमली और स्वादिष्ट पालक पनीर। चीनी के साथ ब्लांच कर बर्फ के पानी में ठंडी की गई ताजी पालक, जिसे देसी घी, बारीक लहसुन, प्याज, टमाटर, मलाई और रुई जैसे मुलायम पनीर के क्यूब्स के साथ पकाया गया है।",
+  "description": {
+    "en": "The ultimate restaurant-style Palak Paneer with a vibrant emerald-green hue and luxurious creamy texture. Fresh spinach is blanched with sugar and ice-shocked to lock in color and remove bitterness, pureed with green chillies, then simmered with caramelized onions, garlic, ripe tomatoes, fresh malai, and cotton-soft paneer cubes.",
+    "hi": "ढाबा और रेस्टोरेंट जैसा एकदम चमकदार हरा, मखमली और स्वादिष्ट पालक पनीर। चीनी के साथ ब्लांच कर बर्फ के पानी में ठंडी की गई ताजी पालक, जिसे देसी घी, बारीक लहसुन, प्याज, टमाटर, मलाई और रुई जैसे मुलायम पनीर के क्यूब्स के साथ पकाया गया है।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cook_time_en": "20 mins",
+  "cook_time_hi": "20 मिनट",
+  "prepTime": "15 mins",
+  "cookTime": "20 mins",
+  "servings_en": "4 servings (4 लोग)",
+  "servings_hi": "4 सर्विंग्स (4 लोग)",
+  "servings": "4 servings",
+  "youtube_id": "i0LZ0oKSjq8",
+  "youtubeId": "i0LZ0oKSjq8",
+  "youtube_url": "https://youtu.be/i0LZ0oKSjq8",
+  "image_url": "https://img.youtube.com/vi/i0LZ0oKSjq8/hqdefault.jpg",
+  "tags": [
+    "palak paneer",
+    "paneer curry",
+    "spinach paneer",
+    "bharatzkitchen",
+    "restaurant style",
+    "dhaba style",
+    "healthy greens",
+    "vegetarian main course"
+  ],
+  "ingredients_en": [
+    "500g Fresh Spinach Leaves (Palak), washed thoroughly and stems trimmed",
+    "250g Fresh Paneer, cut into 1-inch cubes",
+    "1/2 tsp Sugar (the secret to keeping spinach vibrant green)",
+    "Ice-cold water (for shocking the blanched spinach)",
+    "2 tbsp Butter and 1 tbsp Pure Desi Ghee",
+    "1 tsp Cumin Seeds (Jeera)",
+    "1 Bay Leaf (Tejpatta)",
+    "10-12 Garlic Cloves, finely minced",
+    "1.5 inch Fresh Ginger, finely chopped or grated",
+    "2-3 Fresh Green Chillies, slit or blended with spinach",
+    "2 Medium Onions, very finely chopped",
+    "2 Medium Ripe Tomatoes, finely chopped (or pureed)",
+    "1/2 tsp Turmeric Powder (Haldi)",
+    "1 tsp Kashmiri Red Chilli Powder",
+    "1 tbsp Coriander Powder (Dhaniya Powder)",
+    "1/2 tsp Garam Masala Powder",
+    "1 tsp Roasted Kasuri Methi (crushed fenugreek leaves)",
+    "1 tsp Salt (or to taste)",
+    "3 tbsp Fresh Cream or Malai (for velvety restaurant smoothness)",
+    "1 tbsp Butter (for final garnishing/melt)"
+  ],
+  "ingredients_hi": [
+    "500 ग्राम ताजी पालक (अच्छी तरह धुली और डंठल साफ की हुई)",
+    "250 ग्राम ताजा पनीर (1 इंच चौकोर टुकड़ों में कटा हुआ)",
+    "1/2 छोटा चम्मच चीनी (पालक का गहरा हरा रंग बनाए रखने का राज़)",
+    "बर्फ का ठंडा पानी (पालक को शॉक करने के लिए)",
+    "2 बड़े चम्मच मक्खन और 1 बड़ा चम्मच शुद्ध देसी घी",
+    "1 छोटा चम्मच जीरा",
+    "1 तेजपत्ता",
+    "10-12 लहसुन की कलियां (एकदम बारीक कटी हुई)",
+    "1.5 इंच ताजा अदरक (बारीक कटा या कद्दूकस)",
+    "2-3 हरी मिर्च (पालक के साथ पिसने हेतु)",
+    "2 मध्यम प्याज (बारीक कटे हुए)",
+    "2 मध्यम पके टमाटर (बारीक कटे या प्यूरी)",
+    "1/2 छोटा चम्मच हल्दी पाउडर",
+    "1 छोटा चम्मच कश्मीरी लाल मिर्च पाउडर",
+    "1 बड़ा चम्मच धनिया पाउडर",
+    "1/2 छोटा चम्मच गरम मसाला पाउडर",
+    "1 छोटा चम्मच भुनी कसूरी मेथी (हाथ से मसली हुई)",
+    "1 छोटा चम्मच नमक (स्वादानुसार)",
+    "3 बड़े चम्मच फ्रेश क्रीम या घर की ताजी मलाई",
+    "1 बड़ा चम्मच मक्खन (ऊपर से पिघलाने के लिए)"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Spinach Blanching & Puree (पालक ब्लांचिंग व प्यूरी)",
+      "category_hi": "पालक ब्लांचिंग और प्यूरी",
+      "items": [
+        {
+          "name_en": "Fresh Spinach (Palak)",
+          "name_hi": "ताजी पालक",
+          "amount": "500g"
+        },
+        {
+          "name_en": "Sugar",
+          "name_hi": "चीनी",
+          "amount": "1/2 tsp (हरे रंग हेतु)"
+        },
+        {
+          "name_en": "Ice-Cold Water",
+          "name_hi": "बर्फ का ठंडा पानी",
+          "amount": "For shock cooling"
+        },
+        {
+          "name_en": "Green Chillies & Ginger",
+          "name_hi": "हरी मिर्च व अदरक",
+          "amount": "2 chillies + 1 inch ginger"
+        }
+      ]
+    },
+    {
+      "category_en": "Gravy Masala Base (मसाला ग्रेवी सामग्री)",
+      "category_hi": "मसाला ग्रेवी सामग्री",
+      "items": [
+        {
+          "name_en": "Butter & Desi Ghee",
+          "name_hi": "मक्खन व देसी घी",
+          "amount": "2 tbsp butter + 1 tbsp ghee"
+        },
+        {
+          "name_en": "Cumin Seeds & Tejpatta",
+          "name_hi": "जीरा व तेजपत्ता",
+          "amount": "1 tsp + 1 leaf"
+        },
+        {
+          "name_en": "Finely Minced Garlic",
+          "name_hi": "बारीक कटा लहसुन",
+          "amount": "10-12 cloves"
+        },
+        {
+          "name_en": "Finely Chopped Onions",
+          "name_hi": "बारीक कटे प्याज",
+          "amount": "2 medium"
+        },
+        {
+          "name_en": "Tomatoes",
+          "name_hi": "बारीक कटे टमाटर",
+          "amount": "2 medium"
+        }
+      ]
+    },
+    {
+      "category_en": "Paneer, Dairy & Finishing (पनीर, मलाई व सुगंध)",
+      "category_hi": "पनीर, मलाई और गार्निश",
+      "items": [
+        {
+          "name_en": "Fresh Paneer",
+          "name_hi": "ताजा पनीर",
+          "amount": "250g (क्यूब्स में)"
+        },
+        {
+          "name_en": "Fresh Cream / Malai",
+          "name_hi": "ताजी मलाई / क्रीम",
+          "amount": "3 tbsp"
+        },
+        {
+          "name_en": "Kasuri Methi & Garam Masala",
+          "name_hi": "कसूरी मेथी व गरम मसाला",
+          "amount": "1 tsp + 1/2 tsp"
+        },
+        {
+          "name_en": "Ground Spices & Salt",
+          "name_hi": "हल्दी, कश्मीरी मिर्च, धनिया, नमक",
+          "amount": "Ground spices"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Blanch Spinach with Sugar (The Secret Step): In a wide pot, bring 4-5 cups of water to a rolling boil. Add 1/2 tsp sugar. Drop in the cleaned 500g spinach leaves. Boil uncovered for exactly 2 minutes (no more!). Sugar neutralizes the oxalic astringency and preserves the vibrant green color.",
+    "Shock in Ice Bath: Immediately transfer the hot boiled spinach into a large bowl filled with ice-cold water. This instantly halts the cooking process, locking in that vivid, radiant emerald-green hue.",
+    "Puree with Chillies: Drain the chilled spinach from water and transfer to a blender jar along with 2 green chillies and 1/2 inch ginger. Blend without adding extra water into a smooth, thick, silky green puree. Set aside.",
+    "Sauté Aromatics in Butter & Ghee: In a heavy pan or kadhai, melt 2 tbsp butter with 1 tbsp desi ghee on medium flame. Add 1 tsp cumin seeds and 1 bay leaf. Add 10-12 finely minced garlic cloves and sauté for 1 minute until fragrant and lightly golden.",
+    "Cook Onions & Tomatoes: Add finely chopped onions and sauté on medium heat for 4-5 minutes until translucent and golden. Add remaining chopped ginger and finely chopped tomatoes with 1 tsp salt, 1/2 tsp turmeric powder, 1 tsp Kashmiri red chilli powder, and 1 tbsp coriander powder. Cook for 5-6 minutes until tomatoes soften completely and butter/ghee releases from the edges.",
+    "Add Spinach Puree: Pour in the vibrant green spinach puree. Mix thoroughly with the onion-tomato masala base. Simmer on low-medium flame for 3 to 4 minutes. (Avoid over-boiling to maintain the bright green color).",
+    "Enrich with Cream & Kasuri Methi: Stir in 3 tbsp fresh cream (or malai), 1 tsp crushed roasted kasuri methi, and 1/2 tsp garam masala. The cream balances the iron richness of the greens and creates a velvety restaurant-style mouthfeel.",
+    "Fold in Paneer & Rest: Gently slide in the 250g fresh paneer cubes. Simmer on low flame for just 2 minutes so the paneer soaks in the lush green sauce without losing its pillowy softness. Turn off the heat.",
+    "Serve Hot: Swirl a splash of cream and a knob of melting butter on top. Serve immediately with hot garlic naan, butter tandoori roti, or steamed basmati rice!"
+  ],
+  "instructions_hi": [
+    "चीनी के साथ पालक उबालना (असली सीक्रेट): एक बर्तन में 4-5 कप पानी खौलाएं। इसमें 1/2 छोटा चम्मच चीनी डालें। अब 500 ग्राम धुली पालक डालें और बिना ढके ठीक 2 मिनट तक उबालें। चीनी पालक की कसैली कड़वाहट खत्म करती है और रंग काला नहीं पड़ने देती।",
+    "बर्फ के पानी में शॉक करना: 2 मिनट बाद पालक को तुरंत निकालकर बर्फ वाले एकदम ठंडे पानी में डाल दें। इससे पालक का पकना तुरंत रुक जाता है और उसका हरा चमकदार रंग हमेशा के लिए लॉक हो जाता है।",
+    "हरी मिर्च के साथ प्यूरी बनाना: ठंडी पालक को पानी से छानकर मिक्सी के जार में 2 हरी मिर्च और 1/2 इंच अदरक के साथ डालें। बिना अतिरिक्त पानी डाले एकदम चिकनी और गाढ़ी हरी प्यूरी पीस लें।",
+    "मक्खन-घी में लहसुन भूनना: कड़ाही में 2 चम्मच मक्खन और 1 चम्मच देसी घी गरम करें। जीरा और तेजपत्ता चटकाएं। अब 10-12 बारीक कटी लहसुन की कलियां डालकर 1 मिनट हल्का सुनहरा होने तक भूनें।",
+    "प्याज-टमाटर मसाला पकाना: बारीक कटे प्याज डालकर 4-5 मिनट सुनहरा भूनें। अब कटे टमाटर, हल्दी, कश्मीरी लाल मिर्च, धनिया पाउडर और 1 चम्मच नमक डालें। 5-6 मिनट भूनें जब तक टमाटर गल न जाएं और किनारों से घी/मक्खन न छूटने लगे।",
+    "पालक प्यूरी मिलाना: अब पिसी हुई हरी पालक प्यूरी को कड़ाही में डालें। मसाले के साथ अच्छी तरह मिलाएं और मध्यम-धीमी आंच पर सिर्फ 3-4 मिनट तक उबलने दें (ज्यादा न पकाएं ताकि रंग फीका न पड़े)।",
+    "मलाई और कसूरी मेथी मिलाना: इसमें 3 चम्मच ताजी मलाई (या फ्रेश क्रीम), 1 चम्मच भुनी कसूरी मेथी और 1/2 चम्मच गरम मसाला डालकर अच्छी तरह मिलाएं। मलाई से ग्रेवी बेहद मखमली और स्मूथ हो जाएगी।",
+    "पनीर मिलाना: ताजा पनीर के टुकड़े डालें और हल्के हाथ से मिलाएं। धीमी आंच पर सिर्फ 2 मिनट पकाएं ताकि पनीर अंदर से रुई जैसा नरम बना रहे। गैस बंद कर दें।",
+    "परोसें: ऊपर से थोड़ी सी मलाई और 1 चम्मच मक्खन डालकर गरमा-गरम बटर नान, गार्लिक नान या जीरा राइस के साथ परोसें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Blanching with Sugar",
+      "title_hi": "चीनी के साथ पालक उबालना",
+      "instruction_en": "Boil spinach in rolling water with 1/2 tsp sugar for exactly 2 minutes to eliminate bitterness.",
+      "instruction_hi": "उबलते पानी में 1/2 चम्मच चीनी डालकर पालक को ठीक 2 मिनट बिना ढके उबालें।"
+    },
+    {
+      "step": 2,
+      "title_en": "Ice Shocking & Blending",
+      "title_hi": "बर्फ में ठंडा करना व पीसना",
+      "instruction_en": "Plunge blanched leaves immediately into ice-cold water to lock the emerald color, then puree with green chillies.",
+      "instruction_hi": "पालक को तुरंत बर्फ के पानी में डालें और 2 हरी मिर्च के साथ गाढ़ी हरी प्यूरी पीस लें।"
+    },
+    {
+      "step": 3,
+      "title_en": "Sautéing Garlic in Butter",
+      "title_hi": "मक्खन में लहसुन भूनना",
+      "instruction_en": "Melt butter and ghee; sauté cumin, bay leaf, and 10-12 finely minced garlic cloves until fragrant.",
+      "instruction_hi": "कड़ाही में मक्खन-घी गरम कर जीरा और 12 बारीक कटी लहसुन की कलियां खुशबू आने तक भूनें।"
+    },
+    {
+      "step": 4,
+      "title_en": "Cooking Onion-Tomato Masala",
+      "title_hi": "प्याज व टमाटर मसाला भूनना",
+      "instruction_en": "Sauté onions until golden, add tomatoes, turmeric, chilli, coriander powder, and salt until fat separates.",
+      "instruction_hi": "प्याज, टमाटर, हल्दी, मिर्च, धनिया और नमक डालकर तेल/मक्खन छूटने तक अच्छी तरह भूनें।"
+    },
+    {
+      "step": 5,
+      "title_en": "Simmering Green Puree with Cream",
+      "title_hi": "पालक प्यूरी व मलाई मिलाना",
+      "instruction_en": "Add spinach puree; simmer for 3 minutes. Fold in fresh cream, kasuri methi, and garam masala for a velvety texture.",
+      "instruction_hi": "पालक प्यूरी डालें, 3 मिनट पकाएं। ताजी मलाई, कसूरी मेथी और गरम मसाला मिलाकर मखमली बनाएं।"
+    },
+    {
+      "step": 6,
+      "title_en": "Folding Paneer & Serving",
+      "title_hi": "पनीर मिलाना और परोसना",
+      "instruction_en": "Gently slide in paneer cubes, simmer on low for 2 minutes to keep them soft, and serve with melting butter.",
+      "instruction_hi": "पनीर के टुकड़े मिलाएं, सिर्फ 2 मिनट धीमी आंच पर पकाएं और ऊपर से मक्खन डालकर गरमा-गरम परोसें।"
+    }
+  ],
+  "chef_tips_en": [
+    "The Sugar Blanching Secret: Adding 1/2 tsp sugar to the boiling water before dropping in the spinach neutralizes the harsh oxalic acid and retains the natural bright green chlorophyll so the palak paneer looks freshly green like a 5-star restaurant, never dark or dull.",
+    "The 2-Minute Boiling Limit: Never boil spinach for longer than 2 minutes. Over-cooking oxidizes chlorophyll and releases bitterness. The immediate ice bath is essential to shock-stop cooking instantly.",
+    "Pungent Garlic Foundation: Palak paneer relies heavily on garlic. Mincing 10-12 cloves and frying them gently in pure butter and ghee creates the sweet, nutty aromatic base that defines true Punjabi Palak Paneer.",
+    "Never Overcook Paneer in Spinach: Paneer only needs 2 minutes in the simmering curry. Keeping it on heat longer extracts its whey, resulting in a rubbery texture."
+  ],
+  "chef_tips_hi": [
+    "चीनी से हरा रंग बनाए रखने का नुस्खा: पालक उबालते समय आधा चम्मच चीनी डालना 5-स्टार शेफ्स का सबसे बड़ा सीक्रेट है। चीनी से पालक का ऑक्सालिक एसिड कम होता है और उसका चमकदार हरा रंग कभी काला नहीं पड़ता।",
+    "सिर्फ 2 मिनट उबालने की सीमा: पालक को कभी भी 2 मिनट से ज्यादा न उबालें। ज्यादा देर पकाने से पालक का रंग उड़ जाता है और उसमें कड़वाहट आ जाती है। उबलते ही तुरंत बर्फ के पानी में डालना बेहद जरूरी है।",
+    "लहसुन की भरपूर खुशबू: पालक पनीर की असली जान लहसुन है। 10-12 कलियों को बारीक काटकर मक्खन में हल्का भूनने से जो सोंधापन आता है, वही ढाबा स्टाइल स्वाद देता है।",
+    "पनीर को अंत में डालना: पनीर को पालक में डालकर सिर्फ 2 मिनट ही रखें। ज्यादा पकाने से पनीर खिंचने लगता है और सख्त हो जाता है।"
+  ]
+}

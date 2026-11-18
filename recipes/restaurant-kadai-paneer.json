@@ -1,0 +1,357 @@
+{
+  "id": "restaurant-kadai-paneer",
+  "title": {
+    "en": "Restaurant-Style Kadhai Paneer",
+    "hi": "रेस्टोरेंट स्टाइल कड़ाही पनीर"
+  },
+  "description": {
+    "en": "Authentic restaurant-style Kadhai Paneer solved for home cooks: fresh roasted Kadhai Masala, juicy paneer cubes, crunchy capsicum & onions, and a dual-texture gravy (part coarse, part velvety) that replicates restaurant taste in a single pan.",
+    "hi": "रेस्टोरेंट का असली सीक्रेट कड़ाही पनीर! ताजा भुना कड़ाही मसाला, रसीले पनीर के टुकड़े, क्रंची शिमला मिर्च-प्याज और बिना अलग-अलग ग्रेवी बनाए एक ही पैन में तैयार की गई डुअल-टेक्सचर (हल्की दरदरी व मखमली) ग्रेवी।"
+  },
+  "category": "Latest Recipe",
+  "isVegetarian": true,
+  "prepTime": "15 mins",
+  "cookTime": "25 mins",
+  "servings": "4 servings",
+  "youtubeId": "ryCdr0le7xw",
+  "author": "Bharatzkitchen Hindi",
+  "ingredients": [
+    {
+      "category": {
+        "en": "Freshly Ground Kadhai Masala",
+        "hi": "ताजा कुटा कड़ाही मसाला"
+      },
+      "items": [
+        {
+          "en": "Coriander Seeds (Sabut Dhaniya) - 3 tbsp",
+          "hi": "साबुत धनिया - 3 बड़े चम्मच"
+        },
+        {
+          "en": "Fennel Seeds (Saunf) - 1 tsp",
+          "hi": "सौंफ - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Cumin Seeds (Jeera) - 1 tsp",
+          "hi": "जीरा - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Whole Kashmiri Dry Red Chillies - 4 (mild heat, rich red hue)",
+          "hi": "कश्मीरी साबुत लाल मिर्च - 4 (बिना तीखेपन के गहरा लाल रंग)"
+        },
+        {
+          "en": "Black Peppercorns (Kali Mirch) - 7 to 8",
+          "hi": "काली मिर्च - 7 से 8 दाने"
+        },
+        {
+          "en": "Green Cardamoms (Elaichi) - 2 (cracked open)",
+          "hi": "छोटी इलायची - 2 (खुली हुई)"
+        },
+        {
+          "en": "Cloves (Laung) - 2",
+          "hi": "लौंग - 2"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Dual-Texture Restaurant Gravy Base",
+        "hi": "डुअल-टेक्सचर ग्रेवी बेस (1:2 प्याज-टमाटर)"
+      },
+      "items": [
+        {
+          "en": "Onions - 2 medium (chopped)",
+          "hi": "प्याज - 2 मध्यम (कटे हुए)"
+        },
+        {
+          "en": "Hybrid Tomatoes - 4 medium (chopped)",
+          "hi": "हाइब्रिड टमाटर - 4 मध्यम (कटे हुए)"
+        },
+        {
+          "en": "Cashews (Kaju) - 10 to 12 nuts",
+          "hi": "काजू - 10 से 12 दाने"
+        },
+        {
+          "en": "Ginger-Garlic Paste - 1 heaped tbsp",
+          "hi": "अदरक-लहसुन पेस्ट - 1 बड़ा चम्मच"
+        },
+        {
+          "en": "Butter & Oil - 1 tbsp each (for sautéing base)",
+          "hi": "मक्खन और तेल - 1-1 बड़ा चम्मच"
+        },
+        {
+          "en": "Salt - 1 tsp",
+          "hi": "नमक - 1 छोटा चम्मच"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Paneer & Veggie Sauté",
+        "hi": "पनीर और शिमला मिर्च-प्याज"
+      },
+      "items": [
+        {
+          "en": "Fresh Paneer - 250g to 300g (cut into large cubes)",
+          "hi": "ताजा पनीर - 250 से 300 ग्राम (चौकोर टुकड़ों में कटा)"
+        },
+        {
+          "en": "Green Bell Pepper (Shimla Mirch) - 1 medium (deseeded & diced in petals)",
+          "hi": "शिमला मिर्च - 1 मध्यम (चौकोर कटी)"
+        },
+        {
+          "en": "Onion - 1 medium (layers separated into square petals)",
+          "hi": "प्याज - 1 मध्यम (चौकोर पंखुड़ियों में अलग किया)"
+        },
+        {
+          "en": "Oil & Butter - 1 tbsp for tossing paneer",
+          "hi": "तेल और मक्खन - 1 बड़ा चम्मच पनीर हल्का सेकने के लिए"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Spices, Cream & Finishing",
+        "hi": "तड़का, मलाई और खुशबू"
+      },
+      "items": [
+        {
+          "en": "Kashmiri Red Chilli Powder - 1 tbsp (vibrant color)",
+          "hi": "कश्मीरी लाल मिर्च पाउडर - 1 बड़ा चम्मच"
+        },
+        {
+          "en": "Spicy Red Chilli Powder - 1/2 tsp",
+          "hi": "तीखी लाल मिर्च - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Turmeric Powder (Haldi) - 1/2 tsp",
+          "hi": "हल्दी पाउडर - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Garam Masala - 1/2 tsp",
+          "hi": "गरम मसाला - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Kasuri Methi (crushed) - 1 tbsp",
+          "hi": "कसूरी मेथी - 1 बड़ा चम्मच (हाथ से मसली)"
+        },
+        {
+          "en": "Fresh Cream or Malai - 2 to 3 tbsp",
+          "hi": "ताजी मलाई या फ्रेश क्रीम - 2 से 3 चम्मच"
+        },
+        {
+          "en": "Reserved Kadhai Masala - 1 tsp (finishing burst)",
+          "hi": "बचा कर रखा कड़ाही मसाला - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Ginger - 1 inch (cut into fine juliennes for garnish)",
+          "hi": "अदरक - 1 इंच (बारीक लंबे लच्छे)"
+        },
+        {
+          "en": "Fresh Coriander leaves - 2 tbsp (chopped)",
+          "hi": "ताजा हरा धनिया - 2 चम्मच"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": {
+        "en": "Roasting & Crushing Fresh Kadhai Masala",
+        "hi": "ताजा कड़ाही मसाला भूनना और कूटना"
+      },
+      "text": {
+        "en": "In a dry pan on low heat, add coriander seeds, fennel seeds, cumin seeds, whole Kashmiri dry chillies, peppercorns, cloves, and cracked green cardamoms. Warm gently just until aromatic and barely smoking (do not brown). Turn off heat, let cool completely, and grind into a slightly coarse powder in a spice grinder. Reserve 1 teaspoon aside for finishing.",
+        "hi": "सूखे पैन में धीमी आंच पर साबुत धनिया, सौंफ, जीरा, कश्मीरी लाल मिर्च, काली मिर्च, लौंग और छोटी इलायची डालें। हल्का गर्म होने और खुशबू आने तक सेकें (ज्यादा लाल न करें)। ठंडा करके मिक्सी में दरदरा पीस लें। इसमें से 1 छोटा चम्मच मसाला अंत में खुशबू देने के लिए अलग रख लें।"
+      }
+    },
+    {
+      "step": 2,
+      "title": {
+        "en": "Sautéing Gravy Base (1:2 Ratio)",
+        "hi": "ग्रेवी बेस तैयार करना (1:2 प्याज-टमाटर)"
+      },
+      "text": {
+        "en": "In a kadhai, melt 1 tbsp oil and 1 tbsp butter. Sauté 2 chopped onions for 2 minutes until translucent light pink. Add 4 chopped hybrid tomatoes, 1 tsp salt, 10-12 cashews, and 1 heaped tbsp ginger-garlic paste. Cook on medium flame until tomatoes turn soft and juices release. Cover with a lid and simmer for 5 minutes on low flame until mushy. Remove from heat and cool completely.",
+        "hi": "कड़ाही में 1 चम्मच तेल और 1 चम्मच मक्खन गर्म करें। 2 कटे प्याज डालकर 2 मिनट हल्का गुलाबी होने तक भूनें। अब 4 कटे टमाटर, 1 चम्मच नमक, 10-12 काजू और 1 बड़ा चम्मच अदरक-लहसुन पेस्ट डालें। टमाटर गलने तक भूनें, फिर ढककर 5 मिनट धीमी आंच पर पकाएं। पूरी तरह ठंडा होने दें।"
+      }
+    },
+    {
+      "step": 3,
+      "title": {
+        "en": "The Single-Pan Dual-Texture Gravy Hack",
+        "hi": "डुअल-टेक्सचर ग्रेवी का सीक्रेट हैक (दरदरी + मखमली)"
+      },
+      "text": {
+        "en": "Transfer the cooled tomato-onion mixture to a blender jar. Pulse for just 20 seconds. Scoop out roughly half of this coarse, textured mixture into a bowl (this replicates the chunky restaurant chop masala). Blend the remaining half thoroughly on high speed for 1-2 minutes until silken and creamy (this replicates the velvety cashew makhani gravy).",
+        "hi": "ठंडे हुए टमाटर-प्याज मिश्रण को मिक्सी में डालें और सिर्फ 20 सेकंड के लिए पल्स करें। इसमें से आधा दरदरा मिश्रण एक कटोरी में निकाल लें (यह रेस्टोरेंट के चॉप मसाले का टेक्सचर देगा)। बचे हुए आधे मिश्रण को मिक्सी में 1-2 मिनट चलाकर एकदम चिकना और मखमली पेस्ट बना लें (यह मखमली काजू ग्रेवी का काम करेगा)।"
+      }
+    },
+    {
+      "step": 4,
+      "title": {
+        "en": "Lightly Searing Paneer Cubes",
+        "hi": "पनीर के टुकड़ों को हल्का सेकना"
+      },
+      "text": {
+        "en": "In the pan with 1 tbsp butter and oil, lightly sear paneer cubes on high flame for 1-2 minutes until very faint golden spots appear. This helps paneer hold its structural shape in the gravy without turning rubbery. Transfer paneer to a plate.",
+        "hi": "उसी पैन में 1 चम्मच मक्खन और तेल गर्म करें। पनीर के टुकड़ों को तेज आंच पर 1-2 मिनट हल्का सा सेकें ताकि वे ग्रेवी में टूटें नहीं। प्लेट में निकाल लें।"
+      }
+    },
+    {
+      "step": 5,
+      "title": {
+        "en": "Tempering & Combining Gravies",
+        "hi": "तड़का लगाना और दोनों ग्रेवी मिलाना"
+      },
+      "text": {
+        "en": "In the kadhai with hot oil/butter, lower the heat and add Kashmiri red chilli powder, spicy red chilli powder, and turmeric. Immediately pour in both the coarse and smooth purees along with the freshly ground kadhai masala (except the reserved 1 tsp). Rinse the blender with 1/2 cup water and add. Sauté on medium flame for 3-4 minutes until aromatic and oil surfaces.",
+        "hi": "कड़ाही में गर्म तेल-मक्खन में धीमी आंच पर कश्मीरी लाल मिर्च, तीखी मिर्च और हल्दी डालें। तुरंत दोनों तरह की ग्रेवी (दरदरी और चिकनी) और पिसा हुआ कड़ाही मसाला (1 चम्मच बचाकर) डाल दें। मिक्सी धोकर आधा कप पानी मिलाएं और मध्यम आंच पर 3-4 मिनट तेल छूटने तक भूनें।"
+      }
+    },
+    {
+      "step": 6,
+      "title": {
+        "en": "Adding Crunchy Veggies, Cream & Paneer",
+        "hi": "शिमला मिर्च-प्याज, मलाई और पनीर मिलाना"
+      },
+      "text": {
+        "en": "Add diced capsicum and onion petals into the simmering gravy so they absorb flavor while retaining their crisp crunch. Stir in crushed kasuri methi, garam masala, the reserved 1 tsp kadhai masala, a pinch of salt, and 2-3 tbsp fresh cream. Add seared paneer cubes and 1/2 cup warm water to achieve perfect luscious consistency.",
+        "hi": "ग्रेवी में चौकोर कटी शिमला मिर्च और प्याज की पंखुड़ियां डालें ताकि उनका क्रंच बना रहे। अब कसूरी मेथी, गरम मसाला, बचा हुआ 1 चम्मच कड़ाही मसाला, थोड़ा नमक और 2-3 चम्मच फ्रेश मलाई मिलाएं। सेके हुए पनीर के टुकड़े और आधा कप गुनगुना पानी मिलाकर चलाएं।"
+      }
+    },
+    {
+      "step": 7,
+      "title": {
+        "en": "Gentle 5-Minute Dum & Serving",
+        "hi": "5 मिनट धीमी आंच पर दम और परोसना"
+      },
+      "text": {
+        "en": "Cover the kadhai with a tight lid and let it simmer on low flame for 5 minutes. The flavors will fuse, paneer will turn melt-in-mouth soft, and aromatic red oil will pool on top. Garnish with ginger juliennes and fresh coriander. Serve hot with garlic naan, butter tandoori roti, or lachha paratha.",
+        "hi": "कड़ाही को ढक्कन से ढककर धीमी आंच पर 5 मिनट दम पर पकने दें। पनीर अंदर तक सॉफ्ट हो जाएगा और रोगन ऊपर तैरने लगेगा। ऊपर से अदरक के लच्छे और ताजा हरा धनिया सजाएं। गरमा-गरम गार्लिक नान, बटर तंदूरी रोटी या लच्छा पराठा के साथ परोसें।"
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "The dual-blending trick (pulsing half for chop masala texture and blending half silky smooth for makhani richness) is what creates true restaurant consistency without cooking two separate gravies.",
+      "hi": "आधी ग्रेवी को दरदरा रखना और बाकी आधी को काजू के साथ एकदम मखमली पीसना ही रेस्टोरेंट जैसा परफेक्ट डुअल-टेक्सचर देने का सबसे बड़ा सीक्रेट है।"
+    },
+    {
+      "en": "Always save 1 teaspoon of the freshly roasted Kadhai Masala to sprinkle near the end. Cooking all the spice from the start dampens its volatile top aromatic notes.",
+      "hi": "1 छोटा चम्मच ताजा कड़ाही मसाला अंत में डालने के लिए जरूर बचाएं। शुरुआत में सारा मसाला पका देने से उसकी ताजी खुशबू कम हो जाती है।"
+    },
+    {
+      "en": "Use whole Kashmiri chillies in the dry kadhai spice blend—they lend intense red colour and rich pepper taste without overwhelming pungency.",
+      "hi": "कड़ाही मसाले में कश्मीरी साबुत लाल मिर्च ही इस्तेमाल करें, इससे बिना ज्यादा तीखेपन के बहुत गहरा और खूबसूरत रेस्टोरेंट रंग आता है।"
+    }
+  ],
+  "title_en": "Restaurant-Style Kadhai Paneer",
+  "title_hi": "रेस्टोरेंट स्टाइल कड़ाही पनीर",
+  "description_en": "Authentic restaurant-style Kadhai Paneer solved for home cooks: fresh roasted Kadhai Masala, juicy paneer cubes, crunchy capsicum & onions, and a dual-texture gravy (part coarse, part velvety) that replicates restaurant taste in a single pan.",
+  "description_hi": "रेस्टोरेंट का असली सीक्रेट कड़ाही पनीर! ताजा भुना कड़ाही मसाला, रसीले पनीर के टुकड़े, क्रंची शिमला मिर्च-प्याज और बिना अलग-अलग ग्रेवी बनाए एक ही पैन में तैयार की गई डुअल-टेक्सचर (हल्की दरदरी व मखमली) ग्रेवी।",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 mins",
+  "cook_time_en": "25 mins",
+  "cook_time_hi": "25 mins",
+  "servings_en": "4 servings",
+  "servings_hi": "4 servings",
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "youtube_id": "ryCdr0le7xw",
+  "youtube_url": "https://www.youtube.com/watch?v=ryCdr0le7xw",
+  "image_url": "https://img.youtube.com/vi/ryCdr0le7xw/hqdefault.jpg",
+  "ingredients_en": [
+    "Coriander Seeds (Sabut Dhaniya) - 3 tbsp",
+    "Fennel Seeds (Saunf) - 1 tsp",
+    "Cumin Seeds (Jeera) - 1 tsp",
+    "Whole Kashmiri Dry Red Chillies - 4 (mild heat, rich red hue)",
+    "Black Peppercorns (Kali Mirch) - 7 to 8",
+    "Green Cardamoms (Elaichi) - 2 (cracked open)",
+    "Cloves (Laung) - 2",
+    "Onions - 2 medium (chopped)",
+    "Hybrid Tomatoes - 4 medium (chopped)",
+    "Cashews (Kaju) - 10 to 12 nuts",
+    "Ginger-Garlic Paste - 1 heaped tbsp",
+    "Butter & Oil - 1 tbsp each (for sautéing base)",
+    "Salt - 1 tsp",
+    "Fresh Paneer - 250g to 300g (cut into large cubes)",
+    "Green Bell Pepper (Shimla Mirch) - 1 medium (deseeded & diced in petals)",
+    "Onion - 1 medium (layers separated into square petals)",
+    "Oil & Butter - 1 tbsp for tossing paneer",
+    "Kashmiri Red Chilli Powder - 1 tbsp (vibrant color)",
+    "Spicy Red Chilli Powder - 1/2 tsp",
+    "Turmeric Powder (Haldi) - 1/2 tsp",
+    "Garam Masala - 1/2 tsp",
+    "Kasuri Methi (crushed) - 1 tbsp",
+    "Fresh Cream or Malai - 2 to 3 tbsp",
+    "Reserved Kadhai Masala - 1 tsp (finishing burst)",
+    "Ginger - 1 inch (cut into fine juliennes for garnish)",
+    "Fresh Coriander leaves - 2 tbsp (chopped)"
+  ],
+  "ingredients_hi": [
+    "साबुत धनिया - 3 बड़े चम्मच",
+    "सौंफ - 1 छोटा चम्मच",
+    "जीरा - 1 छोटा चम्मच",
+    "कश्मीरी साबुत लाल मिर्च - 4 (बिना तीखेपन के गहरा लाल रंग)",
+    "काली मिर्च - 7 से 8 दाने",
+    "छोटी इलायची - 2 (खुली हुई)",
+    "लौंग - 2",
+    "प्याज - 2 मध्यम (कटे हुए)",
+    "हाइब्रिड टमाटर - 4 मध्यम (कटे हुए)",
+    "काजू - 10 से 12 दाने",
+    "अदरक-लहसुन पेस्ट - 1 बड़ा चम्मच",
+    "मक्खन और तेल - 1-1 बड़ा चम्मच",
+    "नमक - 1 छोटा चम्मच",
+    "ताजा पनीर - 250 से 300 ग्राम (चौकोर टुकड़ों में कटा)",
+    "शिमला मिर्च - 1 मध्यम (चौकोर कटी)",
+    "प्याज - 1 मध्यम (चौकोर पंखुड़ियों में अलग किया)",
+    "तेल और मक्खन - 1 बड़ा चम्मच पनीर हल्का सेकने के लिए",
+    "कश्मीरी लाल मिर्च पाउडर - 1 बड़ा चम्मच",
+    "तीखी लाल मिर्च - 1/2 छोटा चम्मच",
+    "हल्दी पाउडर - 1/2 छोटा चम्मच",
+    "गरम मसाला - 1/2 छोटा चम्मच",
+    "कसूरी मेथी - 1 बड़ा चम्मच (हाथ से मसली)",
+    "ताजी मलाई या फ्रेश क्रीम - 2 से 3 चम्मच",
+    "बचा कर रखा कड़ाही मसाला - 1 छोटा चम्मच",
+    "अदरक - 1 इंच (बारीक लंबे लच्छे)",
+    "ताजा हरा धनिया - 2 चम्मच"
+  ],
+  "instructions_en": [
+    "In a dry pan on low heat, add coriander seeds, fennel seeds, cumin seeds, whole Kashmiri dry chillies, peppercorns, cloves, and cracked green cardamoms. Warm gently just until aromatic and barely smoking (do not brown). Turn off heat, let cool completely, and grind into a slightly coarse powder in a spice grinder. Reserve 1 teaspoon aside for finishing.",
+    "In a kadhai, melt 1 tbsp oil and 1 tbsp butter. Sauté 2 chopped onions for 2 minutes until translucent light pink. Add 4 chopped hybrid tomatoes, 1 tsp salt, 10-12 cashews, and 1 heaped tbsp ginger-garlic paste. Cook on medium flame until tomatoes turn soft and juices release. Cover with a lid and simmer for 5 minutes on low flame until mushy. Remove from heat and cool completely.",
+    "Transfer the cooled tomato-onion mixture to a blender jar. Pulse for just 20 seconds. Scoop out roughly half of this coarse, textured mixture into a bowl (this replicates the chunky restaurant chop masala). Blend the remaining half thoroughly on high speed for 1-2 minutes until silken and creamy (this replicates the velvety cashew makhani gravy).",
+    "In the pan with 1 tbsp butter and oil, lightly sear paneer cubes on high flame for 1-2 minutes until very faint golden spots appear. This helps paneer hold its structural shape in the gravy without turning rubbery. Transfer paneer to a plate.",
+    "In the kadhai with hot oil/butter, lower the heat and add Kashmiri red chilli powder, spicy red chilli powder, and turmeric. Immediately pour in both the coarse and smooth purees along with the freshly ground kadhai masala (except the reserved 1 tsp). Rinse the blender with 1/2 cup water and add. Sauté on medium flame for 3-4 minutes until aromatic and oil surfaces.",
+    "Add diced capsicum and onion petals into the simmering gravy so they absorb flavor while retaining their crisp crunch. Stir in crushed kasuri methi, garam masala, the reserved 1 tsp kadhai masala, a pinch of salt, and 2-3 tbsp fresh cream. Add seared paneer cubes and 1/2 cup warm water to achieve perfect luscious consistency.",
+    "Cover the kadhai with a tight lid and let it simmer on low flame for 5 minutes. The flavors will fuse, paneer will turn melt-in-mouth soft, and aromatic red oil will pool on top. Garnish with ginger juliennes and fresh coriander. Serve hot with garlic naan, butter tandoori roti, or lachha paratha."
+  ],
+  "instructions_hi": [
+    "सूखे पैन में धीमी आंच पर साबुत धनिया, सौंफ, जीरा, कश्मीरी लाल मिर्च, काली मिर्च, लौंग और छोटी इलायची डालें। हल्का गर्म होने और खुशबू आने तक सेकें (ज्यादा लाल न करें)। ठंडा करके मिक्सी में दरदरा पीस लें। इसमें से 1 छोटा चम्मच मसाला अंत में खुशबू देने के लिए अलग रख लें।",
+    "कड़ाही में 1 चम्मच तेल और 1 चम्मच मक्खन गर्म करें। 2 कटे प्याज डालकर 2 मिनट हल्का गुलाबी होने तक भूनें। अब 4 कटे टमाटर, 1 चम्मच नमक, 10-12 काजू और 1 बड़ा चम्मच अदरक-लहसुन पेस्ट डालें। टमाटर गलने तक भूनें, फिर ढककर 5 मिनट धीमी आंच पर पकाएं। पूरी तरह ठंडा होने दें।",
+    "ठंडे हुए टमाटर-प्याज मिश्रण को मिक्सी में डालें और सिर्फ 20 सेकंड के लिए पल्स करें। इसमें से आधा दरदरा मिश्रण एक कटोरी में निकाल लें (यह रेस्टोरेंट के चॉप मसाले का टेक्सचर देगा)। बचे हुए आधे मिश्रण को मिक्सी में 1-2 मिनट चलाकर एकदम चिकना और मखमली पेस्ट बना लें (यह मखमली काजू ग्रेवी का काम करेगा)।",
+    "उसी पैन में 1 चम्मच मक्खन और तेल गर्म करें। पनीर के टुकड़ों को तेज आंच पर 1-2 मिनट हल्का सा सेकें ताकि वे ग्रेवी में टूटें नहीं। प्लेट में निकाल लें।",
+    "कड़ाही में गर्म तेल-मक्खन में धीमी आंच पर कश्मीरी लाल मिर्च, तीखी मिर्च और हल्दी डालें। तुरंत दोनों तरह की ग्रेवी (दरदरी और चिकनी) और पिसा हुआ कड़ाही मसाला (1 चम्मच बचाकर) डाल दें। मिक्सी धोकर आधा कप पानी मिलाएं और मध्यम आंच पर 3-4 मिनट तेल छूटने तक भूनें।",
+    "ग्रेवी में चौकोर कटी शिमला मिर्च और प्याज की पंखुड़ियां डालें ताकि उनका क्रंच बना रहे। अब कसूरी मेथी, गरम मसाला, बचा हुआ 1 चम्मच कड़ाही मसाला, थोड़ा नमक और 2-3 चम्मच फ्रेश मलाई मिलाएं। सेके हुए पनीर के टुकड़े और आधा कप गुनगुना पानी मिलाकर चलाएं।",
+    "कड़ाही को ढक्कन से ढककर धीमी आंच पर 5 मिनट दम पर पकने दें। पनीर अंदर तक सॉफ्ट हो जाएगा और रोगन ऊपर तैरने लगेगा। ऊपर से अदरक के लच्छे और ताजा हरा धनिया सजाएं। गरमा-गरम गार्लिक नान, बटर तंदूरी रोटी या लच्छा पराठा के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "The dual-blending trick (pulsing half for chop masala texture and blending half silky smooth for makhani richness) is what creates true restaurant consistency without cooking two separate gravies.",
+    "Always save 1 teaspoon of the freshly roasted Kadhai Masala to sprinkle near the end. Cooking all the spice from the start dampens its volatile top aromatic notes.",
+    "Use whole Kashmiri chillies in the dry kadhai spice blend—they lend intense red colour and rich pepper taste without overwhelming pungency."
+  ],
+  "chef_tips_hi": [
+    "आधी ग्रेवी को दरदरा रखना और बाकी आधी को काजू के साथ एकदम मखमली पीसना ही रेस्टोरेंट जैसा परफेक्ट डुअल-टेक्सचर देने का सबसे बड़ा सीक्रेट है।",
+    "1 छोटा चम्मच ताजा कड़ाही मसाला अंत में डालने के लिए जरूर बचाएं। शुरुआत में सारा मसाला पका देने से उसकी ताजी खुशबू कम हो जाती है।",
+    "कड़ाही मसाले में कश्मीरी साबुत लाल मिर्च ही इस्तेमाल करें, इससे बिना ज्यादा तीखेपन के बहुत गहरा और खूबसूरत रेस्टोरेंट रंग आता है।"
+  ],
+  "tags": [
+    "Kadai Paneer",
+    "Restaurant Style",
+    "Paneer Special",
+    "Main Course",
+    "Vegetarian"
+  ]
+}

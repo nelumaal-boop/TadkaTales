@@ -1,0 +1,173 @@
+{
+  "id": "steamed-suji-veggie-sponge-cakes",
+  "title_en": "Steamed Suji Veggie Sponge Cakes & Tomato Chutney",
+  "title_hi": "बिना तेल का भाप में बना सूजी-वेजी स्पंजी नाश्ता (तीखी टमाटर चटनी)",
+  "title": {
+    "en": "Steamed Suji Veggie Sponge Cakes & Tomato Chutney",
+    "hi": "बिना तेल का भाप में बना सूजी-वेजी स्पंजी नाश्ता (तीखी टमाटर चटनी)"
+  },
+  "description_en": "A zero-oil, light, and airy breakfast recipe by Kitchen Magic by Vanisha. Pillowy semolina sponge cakes studded with tempered mustard seeds, crunchy veggies, and fresh herbs, steamed to cloud-soft perfection and served with a zesty tomato chutney.",
+  "description_hi": "किचन मैजिक बाय वनिषा की बिना तेल में तला, हल्का-फुल्का और बेहद स्वादिष्ट सुबह के नाश्ते की रेसिपी। सूजी, ताज़ा दही और सब्जियों के तड़के से भाप में बने रुई जैसे स्पंजी और जालीदार मिनी केक्स, जिन्हें तीखी चटपटी टमाटर चटनी के साथ परोसा जाता है।",
+  "description": {
+    "en": "A zero-oil, light, and airy breakfast recipe by Kitchen Magic by Vanisha. Pillowy semolina sponge cakes studded with tempered mustard seeds, crunchy veggies, and fresh herbs, steamed to cloud-soft perfection and served with a zesty tomato chutney.",
+    "hi": "किचन मैजिक बाय वनिषा की बिना तेल में तला, हल्का-फुल्का और बेहद स्वादिष्ट सुबह के नाश्ते की रेसिपी। सूजी, ताज़ा दही और सब्जियों के तड़के से भाप में बने रुई जैसे स्पंजी और जालीदार मिनी केक्स, जिन्हें तीखी चटपटी टमाटर चटनी के साथ परोसा जाता है।"
+  },
+  "category": "Breakfast",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cook_time_en": "10 mins",
+  "cook_time_hi": "10 मिनट",
+  "prepTime": "10 mins",
+  "cookTime": "10 mins",
+  "servings_en": "3-4 Servings (10-12 Sponge Cakes)",
+  "servings_hi": "3-4 लोग (10-12 स्पंज केक्स)",
+  "servings": "3-4 Servings (10-12 Sponge Cakes)",
+  "youtube_id": "PbIO4DyXG5U",
+  "youtubeId": "PbIO4DyXG5U",
+  "youtube_url": "https://www.youtube.com/watch?v=PbIO4DyXG5U",
+  "image_url": "https://img.youtube.com/vi/PbIO4DyXG5U/hqdefault.jpg",
+  "tags": [
+    "steamed breakfast",
+    "suji idli",
+    "zero oil breakfast",
+    "kitchen magic by vanisha",
+    "kids tiffin",
+    "healthy breakfast",
+    "instant dhokla"
+  ],
+  "ingredients_en": [
+    "1 cup Fine Semolina (suji / rava)",
+    "1/2 cup Fresh curd (dahi, whisked smooth)",
+    "1/2 cup Water (adjust as needed for thick idli consistency)",
+    "1 tsp Cooking oil (for tempering)",
+    "1 tsp Mustard seeds (rai)",
+    "1 tsp Cumin seeds (jeera)",
+    "1 tbsp White sesame seeds (safed til)",
+    "1 pinch Asafoetida (hing)",
+    "8-10 Fresh curry leaves (finely chopped)",
+    "1 inch Ginger (grated) & 2 Green chillies (minced)",
+    "1/2 cup Finely chopped vegetables (carrots, bell pepper, and onions)",
+    "1/4 cup Fresh coriander leaves (finely chopped)",
+    "1 tsp Red chilli flakes",
+    "1 tsp Salt (or to taste)",
+    "1 tsp Eno fruit salt (or 1/2 tsp baking soda + 1 tsp lemon juice)",
+    "3 Ripe red tomatoes (for chutney)",
+    "6-8 Garlic cloves & 3 dried red chillies",
+    "1/2 tsp Cumin & 1/2 tsp Salt (for chutney)"
+  ],
+  "ingredients_hi": [
+    "1 कप बारीक सूजी (रवा)",
+    "1/2 कप ताज़ा फेंटा हुआ दही",
+    "1/2 कप पानी (इडली जैसा गाढ़ा घोल बनाने के लिए)",
+    "1 छोटा चम्मच तेल (तड़के के लिए)",
+    "1 छोटा चम्मच राई / सरसों के दाने",
+    "1 छोटा चम्मच जीरा",
+    "1 बड़ा चम्मच सफेद तिल",
+    "1 चुटकी हींग",
+    "8-10 करी पत्ते (बारीक कटे हुए)",
+    "1 इंच अदरक (कद्दूकस) और 2 हरी मिर्च (बारीक कटी)",
+    "1/2 कप बारीक कटी सब्जियां (गाजर, शिमला मिर्च और प्याज)",
+    "1/4 कप ताज़ा हरा धनिया (बारीक कटा हुआ)",
+    "1 छोटा चम्मच कुटी लाल मिर्च (चिली फ्लेक्स)",
+    "1 छोटा चम्मच नमक (स्वादानुसार)",
+    "1 छोटा चम्मच ईनो फ्रूट साल्ट (या 1/2 छोटा चम्मच मीठा सोडा + 1 चम्मच नींबू रस)",
+    "3 पके लाल टमाटर (चटनी के लिए)",
+    "6-8 लहसुन की कलियां और 3 सूखी लाल मिर्च",
+    "1/2 छोटा चम्मच जीरा और नमक (चटनी के लिए)"
+  ],
+  "ingredients": [
+    {
+      "category": "Suji-Curd Aerated Batter",
+      "items": [
+        { "en": "1 cup Fine Suji & 1/2 cup Curd", "hi": "1 कप बारीक सूजी और 1/2 कप दही" },
+        { "en": "1/2 cup Water & 1 tsp Salt", "hi": "1/2 कप पानी और 1 छोटा चम्मच नमक" },
+        { "en": "1 tsp Eno fruit salt (leavening)", "hi": "1 छोटा चम्मच ईनो फ्रूट साल्ट" }
+      ]
+    },
+    {
+      "category": "Aromatic Crunchy Veggie Tadka",
+      "items": [
+        { "en": "Rai, Jeera, White sesame seeds & Hing", "hi": "राई, जीरा, सफेद तिल और हींग" },
+        { "en": "Curry leaves, Ginger, Green chillies & Chilli flakes", "hi": "करी पत्ता, अदरक, हरी मिर्च और चिली फ्लेक्स" },
+        { "en": "Diced Carrots, Capsicum & Coriander", "hi": "बारीक गाजर, शिमला मिर्च और हरा धनिया" }
+      ]
+    },
+    {
+      "category": "Spicy Tomato Garlic Dip",
+      "items": [
+        { "en": "3 Tomatoes & 6-8 Garlic cloves", "hi": "3 टमाटर और 6-8 लहसुन की कलियां" },
+        { "en": "3 Dried red chillies, Cumin & Salt", "hi": "3 सूखी लाल मिर्च, जीरा और नमक" }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Step 1 - Whisk the Batter Base: In a mixing bowl, combine 1 cup fine semolina (suji), 1/2 cup fresh whisked curd, 1/2 cup water, and 1 tsp salt. Whisk vigorously for 1 minute into a thick, smooth batter (similar to idli batter). Cover and rest for 10 minutes so semolina absorbs the liquid and plumps up.",
+    "Step 2 - Temper the Veggies: Heat 1 tsp oil in a small tadka pan. Add mustard seeds, cumin seeds, white sesame seeds, and hing. Let them crackle. Add minced ginger, green chillies, and curry leaves. Sauté for 30 seconds. Add the finely diced carrots and bell peppers; sauté on high heat for just 1 minute to keep their crunch. Remove from heat and stir in chilli flakes and fresh coriander.",
+    "Step 3 - Fold Tadka into Batter: Pour the aromatic tempered vegetables directly into the rested suji batter. Mix well. If the batter feels too stiff, stir in 1-2 tablespoons of water to bring it back to a thick dropping consistency.",
+    "Step 4 - The Quick Tangy Tomato Chutney: In a small pan, simmer chopped tomatoes, peeled garlic, and dried red chillies in 2 tbsp water for 4-5 minutes until soft. Cool and blend with cumin and salt into a smooth, bright orange-red savory dip.",
+    "Step 5 - Leavening: Set up your steamer or wide kadai with 2 cups of water on medium-high heat. Grease small metal katoris (shallow bowls), an idli mould, or a steamer tray with a couple drops of oil. Just before pouring, sprinkle 1 teaspoon of Eno fruit salt (or baking soda + lemon juice) over the batter and gently fold in one direction for 15 seconds. The batter will instantly turn frothy, airy, and bubbly.",
+    "Step 6 - Steam to Cloud Perfection: Spoon 2-3 tablespoons of batter into each greased bowl/mould. Place them in the steamer, cover tightly with the lid, and steam on high flame for 8 to 10 minutes. Test: Insert a toothpick into the center; it should come out completely clean.",
+    "Step 7 - Unmould & Serve: Remove the bowls from the steamer and let them cool for 1-2 minutes. Run a butter knife around the edges and invert onto a plate—they will pop out effortlessly as pillowy, round, spongy cakes. Serve warm with the tangy tomato-garlic chutney for an energizing, oil-free breakfast."
+  ],
+  "instructions_hi": [
+    "स्टेप 1 - सूजी-दही का घोल तैयार करना: एक बड़े बाउल में 1 कप बारीक सूजी, 1/2 कप ताज़ा फेंटा हुआ दही, 1/2 कप पानी और 1 छोटा चम्मच नमक डालें। 1 मिनट अच्छी तरह फेंटें ताकि इडली जैसा गाढ़ा और चिकना घोल बन जाए। 10 मिनट ढककर रख दें ताकि सूजी फूल जाए।",
+    "स्टेप 2 - सब्जियों का तड़का: एक छोटे पैन में 1 छोटा चम्मच तेल गरम करें। राई, जीरा, सफेद तिल और हींग चटकाएं। कद्दूकस अदरक, कटी हरी मिर्च और करी पत्ता डालकर 30 सेकंड भूनें। अब बारीक कटी गाजर और शिमला मिर्च डालें; सिर्फ 1 मिनट तेज़ आंच पर भूनें ताकि सब्जियों का क्रंच बना रहे। गैस बंद करें और चिली फ्लेक्स व हरा धनिया मिलाएं।",
+    "स्टेप 3 - बैटर में तड़का मिलाना: भुनी हुई सब्जियों के तड़के को सूजी के बैटर में डाल दें। अच्छी तरह मिलाएं। अगर बैटर ज्यादा गाढ़ा लगे तो 1-2 चम्मच पानी मिलाकर सही कंसिस्टेंसी कर लें।",
+    "स्टेप 4 - झटपट टमाटर की चटनी: एक पैन में कटे टमाटर, लहसुन और सूखी लाल मिर्च को 2 चम्मच पानी के साथ 4-5 मिनट उबालें। ठंडा करके मिक्सी में जीरा और नमक के साथ पीसकर गाढ़ी लाल-नारंगी चटनी तैयार करें।",
+    "स्टेप 5 - ईनो मिलाना: स्टीमर या कड़ाही में 2 कप पानी डालकर आंच पर रखें। छोटी कटोरियों या इडली स्टैंड में 2 बूंद तेल लगाकर चिकना करें। स्टीम करने से ठीक पहले बैटर में 1 छोटा चम्मच ईनो फ्रूट साल्ट डालें और हल्के हाथों से एक ही दिशा में 15 सेकंड मिलाएं। बैटर तुरंत एकदम झागदार और हल्का हो जाएगा।",
+    "स्टेप 6 - भाप में पकाना: चिकनी की हुई कटोरियों में 2-3 बड़े चम्मच बैटर डालें। स्टीमर में रखें, ढक्कन लगाएं और तेज़ आंच पर 8 से 10 मिनट तक भाप में पकने दें। टूथपिक डालकर देखें; टूथपिक साफ बाहर आनी चाहिए।",
+    "स्टेप 7 - निकालें और परोसें: कटोरियों को स्टीमर से निकालें और 1-2 मिनट ठंडा होने दें। चाकू की मदद से किनारों को ढीला करें और प्लेट पर पलटें—रुई जैसे फूले-फूले, गोल और स्पंजी केक्स आसानी से बाहर निकल आएंगे। इन्हें तीखी टमाटर की चटनी के साथ सुबह के हेल्दी नाश्ते में परोसें।"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": {
+        "en": "Whisk fine suji, curd, water, and salt into a thick idli-style batter. Rest covered for 10 minutes.",
+        "hi": "बारीक सूजी, दही, पानी और नमक मिलाकर इडली जैसा घोल बनाएं और 10 मिनट रेस्ट दें।"
+      }
+    },
+    {
+      "step": 2,
+      "text": {
+        "en": "Temper mustard seeds, cumin, sesame, curry leaves, ginger, chillies, carrots, and capsicum. Fold into batter.",
+        "hi": "राई, जीरा, तिल, करी पत्ता, अदरक, मिर्च, गाजर और शिमला मिर्च का तड़का बैटर में मिलाएं।"
+      }
+    },
+    {
+      "step": 3,
+      "text": {
+        "en": "Simmer tomatoes, garlic, and dried red chillies until soft; blend into a zesty dipping chutney.",
+        "hi": "टमाटर, लहसुन और सूखी मिर्च को उबालकर तीखी चटनी पीस लें।"
+      }
+    },
+    {
+      "step": 4,
+      "text": {
+        "en": "Fold 1 tsp Eno into batter until frothy. Spoon into greased shallow bowls or moulds.",
+        "hi": "बैटर में 1 चम्मच ईनो मिलाकर झागदार बनाएं और तेल लगी कटोरियों में डालें।"
+      }
+    },
+    {
+      "step": 5,
+      "text": {
+        "en": "Steam on high heat for 8-10 minutes. Unmould cushiony sponge cakes and serve with tomato chutney.",
+        "hi": "तेज़ आंच पर 8-10 मिनट भाप में पकाएं। रुई जैसे स्पंजी केक्स निकालें और टमाटर चटनी के साथ परोसें।"
+      }
+    }
+  ],
+  "chef_tips_en": [
+    "Zero-Oil Steam Cooking: Steaming instead of frying makes this dish easily digestible, gut-friendly, and perfect for toddlers, fitness enthusiasts, and weight-conscious mornings.",
+    "Eno Added at the Final Second: Always add Eno or baking soda only after the steamer water is bubbling hot and the moulds are greased. Steaming immediately captures the maximum volume of expanding carbon dioxide bubbles.",
+    "Sesame & Mustard Crunch: Sautéing white sesame seeds and mustard seeds in the tempering provides a delightful textural contrast to the soft, spongy crumb."
+  ],
+  "chef_tips_hi": [
+    "बिना तेल का हेल्दी नाश्ता: तलने के बजाय भाप में पकाने से यह नाश्ता पचने में बेहद हल्का होता है और बच्चों के टिफिन व बड़ों की सेहत के लिए एकदम परफेक्ट है।",
+    "ईनो अंत में मिलाएं: जब स्टीमर का पानी खौल रहा हो और कटोरियां तैयार हों, तभी अंत में ईनो मिलाएं और तुरंत भाप में रखें ताकि ज्यादा से ज्यादा झाग बनकर जाली बन सके।",
+    "सफेद तिल का क्रंच: तड़के में सफेद तिल और राई डालने से स्पंजी और मुलायम केक्स में हर बाइट पर एक कुरकुरा नटी स्वाद आता है।"
+  ]
+}

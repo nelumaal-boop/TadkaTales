@@ -1,0 +1,208 @@
+{
+  "id": "shaadi-style-gajar-ka-halwa",
+  "title_en": "Wedding-Style Gajar Ka Halwa (No Grating Pressure Cooker Method)",
+  "title_hi": "शादियों वाला गाजर का हलवा (बिना घिसे कुकर वाला नया तरीका)",
+  "title": {
+    "en": "Wedding-Style Gajar Ka Halwa (No Grating Pressure Cooker Method)",
+    "hi": "शादियों वाला गाजर का हलवा (बिना घिसे कुकर वाला नया तरीका)"
+  },
+  "description_en": "Authentic, rich, and aromatic wedding-style Carrot Halwa (Gajar Halwa) made effortlessly without tedious grating or fine chopping. Fresh red carrots are pressure-cooked with full-cream milk and pure desi ghee, mashed directly in the pot, simmered to a glossy caramel-red perfection, and enriched with mawa (khoya), cardamom, and roasted dry fruits.",
+  "description_hi": "बिना घंटों गाजर घिसने या काटने के झंझट के तैयार हलवाई और शादियों वाला दानेदार गाजर का हलवा। लाल रसीली गाजर को कुकर में फुल-क्रीम दूध और शुद्ध देसी घी के साथ पकाकर मैश किया जाता है, फिर धीमी आंच पर भूनकर मावा (खोया), हरी इलायची और घी में तले काजू-बादाम से सजाया जाता है।",
+  "description": {
+    "en": "Authentic, rich, and aromatic wedding-style Carrot Halwa (Gajar Halwa) made effortlessly without tedious grating or fine chopping. Fresh red carrots are pressure-cooked with full-cream milk and pure desi ghee, mashed directly in the pot, simmered to a glossy caramel-red perfection, and enriched with mawa (khoya), cardamom, and roasted dry fruits.",
+    "hi": "बिना घंटों गाजर घिसने या काटने के झंझट के तैयार हलवाई और शादियों वाला दानेदार गाजर का हलवा। लाल रसीली गाजर को कुकर में फुल-क्रीम दूध और शुद्ध देसी घी के साथ पकाकर मैश किया जाता है, फिर धीमी आंच पर भूनकर मावा (खोया), हरी इलायची और घी में तले काजू-बादाम से सजाया जाता है।"
+  },
+  "category": "Dessert",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cook_time_en": "35 mins",
+  "cook_time_hi": "35 मिनट",
+  "prepTime": "10 mins",
+  "cookTime": "35 mins",
+  "servings_en": "6-8 servings (6-8 लोग)",
+  "servings_hi": "6-8 सर्विंग्स (6-8 लोग)",
+  "servings": "6-8 servings",
+  "youtube_id": "adzT4-oN3ow",
+  "youtubeId": "adzT4-oN3ow",
+  "youtube_url": "https://youtu.be/adzT4-oN3ow",
+  "image_url": "https://img.youtube.com/vi/adzT4-oN3ow/maxresdefault.jpg",
+  "tags": [
+    "gajar ka halwa",
+    "carrot halwa",
+    "wedding style halwa",
+    "bharatzkitchen",
+    "winter dessert",
+    "no grating halwa",
+    "mawa halwa",
+    "indian sweets",
+    "pressure cooker dessert"
+  ],
+  "ingredients_en": [
+    "1 kg Fresh Winter Red Carrots (Lal Gajar), peeled and cut into large chunks",
+    "1 liter Full-Fat Milk (preferably buffalo milk or full-cream cow milk)",
+    "4 tbsp Pure Desi Ghee (divided: 2 tbsp for cooking, 2 tbsp for bhuna/roasting)",
+    "3/4 cup Sugar (Chini / Desi Khand, approx. 150g - adjust to taste)",
+    "1/2 cup Khoya / Mawa (crumbled, approx. 100g for authentic wedding richness)",
+    "1 tsp Green Cardamom Powder (Choti Elaichi Powder)",
+    "2 tbsp Cashews (Kaju), halved",
+    "2 tbsp Almonds (Badam), sliced or slivered",
+    "1 tbsp Pistachios (Pista), slivered (for garnish)"
+  ],
+  "ingredients_hi": [
+    "1 किलो ताजी लाल गाजर (छीलकर बड़े टुकड़ों में कटी हुई)",
+    "1 लीटर फुल क्रीम दूध",
+    "4 बड़े चम्मच शुद्ध देसी घी (2 चम्मच पकाने में, 2 चम्मच भूनने के लिए)",
+    "3/4 कप चीनी (या देसी खांड, लगभग 150 ग्राम स्वादानुसार)",
+    "1/2 कप मावा / खोया (मसला हुआ, लगभग 100 ग्राम शादियों जैसी रिचनेस के लिए)",
+    "1 छोटा चम्मच हरी इलायची पाउडर",
+    "2 बड़े चम्मच काजू (दो टुकड़ों में कटे)",
+    "2 बड़े चम्मच बादाम (कतरन या कटे हुए)",
+    "1 बड़ा चम्मच पिस्ता कतरन (सजावट के लिए)"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Carrot & Milk Base (मुख्य गाजर व दूध)",
+      "category_hi": "मुख्य गाजर व दूध बेस",
+      "items": [
+        {
+          "name_en": "Winter Red Carrots (Lal Gajar)",
+          "name_hi": "ताजी लाल गाजर",
+          "amount": "1 kg (बड़े टुकड़ों में कटी)"
+        },
+        {
+          "name_en": "Full-Fat Milk",
+          "name_hi": "फुल क्रीम दूध",
+          "amount": "1 liter (1 लीटर)"
+        },
+        {
+          "name_en": "Pure Desi Ghee",
+          "name_hi": "शुद्ध देसी घी",
+          "amount": "4 tbsp (विभाजित)"
+        }
+      ]
+    },
+    {
+      "category_en": "Sweetener & Halwai Richness (मिठास व मावा)",
+      "category_hi": "मिठास और मावा",
+      "items": [
+        {
+          "name_en": "Sugar (or Desi Khand)",
+          "name_hi": "चीनी या देसी खांड",
+          "amount": "3/4 cup (150g)"
+        },
+        {
+          "name_en": "Fresh Mawa / Khoya",
+          "name_hi": "ताजा मावा / खोया",
+          "amount": "1/2 cup (100g मसला हुआ)"
+        }
+      ]
+    },
+    {
+      "category_en": "Aromatics & Garnish (सुगंध व सूखे मेवे)",
+      "category_hi": "मेवे और सुगंध",
+      "items": [
+        {
+          "name_en": "Green Cardamom Powder",
+          "name_hi": "हरी इलायची पाउडर",
+          "amount": "1 tsp"
+        },
+        {
+          "name_en": "Cashews (Kaju)",
+          "name_hi": "काजू",
+          "amount": "2 tbsp"
+        },
+        {
+          "name_en": "Almonds (Badam)",
+          "name_hi": "बादाम",
+          "amount": "2 tbsp"
+        },
+        {
+          "name_en": "Pistachios (Pista)",
+          "name_hi": "पिस्ता",
+          "amount": "1 tbsp"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Prep Carrots (No Grating Needed): Wash 1 kg of fresh red carrots thoroughly. Peel the skin, trim the top and bottom tips, and cut into large 2 to 3-inch chunks. No manual grating or fine dicing is required.",
+    "Sauté in Ghee: In a 5-liter pressure cooker, heat 1 tbsp pure desi ghee on medium flame. Add the carrot chunks and sauté for 2-3 minutes. This seals in the vibrant natural red color and imparts an aromatic nutty base.",
+    "Pressure Cook with Milk: Pour in 1 liter of full-cream milk. Close the cooker lid and cook on medium flame for 3 whistles until the carrots turn completely fork-tender. Turn off flame and let the steam release naturally.",
+    "Mash Directly in the Cooker: Open the lid. Take a stainless-steel potato masher and gently press down on the softened carrots directly in the hot milk. Within 2 minutes, the carrots will break down into the exact fine, juicy, granular texture of grated carrots.",
+    "Reduce Milk on High-Medium Flame: Turn the flame back on to medium-high. Stir regularly and let the milk simmer and reduce until 80-90% of the liquid evaporates and thickens into luscious rabdi-like milk solids coating the carrots (approx. 12-15 minutes).",
+    "Add Sugar & Evaporate Moisture: Add 3/4 cup sugar. The sugar will melt and release moisture, loosening the halwa. Continue cooking on medium flame for 5–7 minutes until this sugary syrup evaporates and the halwa deepens in color.",
+    "Bhunai with Ghee & Mawa (The Halwai Secret): Add 2 tbsp desi ghee and 1/2 cup crumbled khoya/mawa. Sauté vigorously (bhunai) on medium-low flame for 6–8 minutes. The ghee will caramelize the natural carrot sugars, creating a stunning glossy sheen and wedding-style granular body.",
+    "Finish with Aromatics & Roasted Nuts: In a small pan, roast the cashews and almonds in 1 tbsp ghee until golden. Pour over the sizzling halwa along with 1 tsp freshly ground cardamom powder. Mix well, garnish with slivered pistachios, and serve piping hot!"
+  ],
+  "instructions_hi": [
+    "गाजर तैयार करें (बिना घिसे): 1 किलो ताजी लाल गाजर को अच्छी तरह धोकर छील लें। आगे-पीछे का डंठल काटकर गाजर को 2-3 इंच के बड़े टुकड़ों में काट लें। कद्दूकस करने या बारीक काटने की कोई जरूरत नहीं है।",
+    "घी में गाजर भूनें: 5 लीटर वाले प्रेशर कुकर में 1 बड़ा चम्मच देसी घी गरम करें। गाजर के टुकड़े डालकर मध्यम आंच पर 2-3 मिनट भूनें। इससे गाजर का लाल रंग गहरा रहता है और सोंधापन आता है।",
+    "दूध के साथ कुकर में पकाएं: अब इसमें 1 लीटर फुल क्रीम दूध डालें। कुकर का ढक्कन बंद करें और मध्यम आंच पर 3 सीटी आने तक पकाएं ताकि गाजर पूरी तरह मक्खन जैसी गल जाए। प्रेशर अपने आप निकलने दें।",
+    "कुकर में ही मैश करें: ढक्कन खोलें। एक पोटैटो मैशर लेकर गरम दूध के अंदर ही गाजर को हल्के हाथों से दबाएं। मात्र 2 मिनट में गाजर बिल्कुल घिसी हुई गाजर जैसे परफेक्ट दानेदार टेक्सचर में बदल जाएगी।",
+    "दूध को सुखाएं: गैस को तेज-मध्यम आंच पर दोबारा जलाएं। लगातार चलाते हुए दूध को 12-15 मिनट तक तब तक पकाएं जब तक कि 85-90% दूध सूखकर रबड़ीदार न बन जाए और गाजर में समा न जाए।",
+    "चीनी मिलाएं और पानी सुखाएं: अब इसमें 3/4 कप चीनी डालें। चीनी पिघलकर पानी छोड़ेगी। मध्यम आंच पर 5-7 मिनट लगातार चलाते हुए चीनी का पानी भी पूरी तरह सुखा लें।",
+    "घी और मावे से भूनना (हलवाई की असली ट्रिक): अब इसमें 2 बड़े चम्मच देसी घी और 1/2 कप मसला हुआ मावा (खोया) डालें। धीमी-मध्यम आंच पर 6-8 मिनट तक अच्छी तरह भूनें (भुनाई)। जब हलवा कड़ाही छोड़ने लगे और उसपर शानदार चमक (ग्लोस) आ जाए।",
+    "इलायची और मेवे मिलाएं: एक छोटे पैन में 1 चम्मच घी में काजू और बादाम को हल्का सुनहरा तल लें। इसे गरम हलवे में 1 चम्मच ताजी पिसी हरी इलायची के साथ डालें। अच्छी तरह मिलाएं, पिस्ते से सजाएं और गरमा-गरम परोसें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Prepping Carrot Chunks",
+      "title_hi": "गाजर छीलना और टुकड़े करना",
+      "instruction_en": "Wash, peel, and cut 1 kg carrots into 2-3 inch large chunks without grating.",
+      "instruction_hi": "गाजर धोकर छीलें और बिना कद्दूकस किए 2-3 इंच के बड़े टुकड़ों में काट लें।"
+    },
+    {
+      "step": 2,
+      "title_en": "Pressure Cooking in Milk & Ghee",
+      "title_hi": "दूध व घी के साथ कुकर में उबालना",
+      "instruction_en": "Sauté carrots in 1 tbsp ghee for 2 minutes, pour 1 liter full-fat milk, and cook for 3 whistles.",
+      "instruction_hi": "कुकर में 1 चम्मच घी में गाजर भूनें, 1 लीटर दूध डालें और 3 सीटी आने तक पकाएं।"
+    },
+    {
+      "step": 3,
+      "title_en": "Mashing Directly in Pot",
+      "title_hi": "कुकर में मैशर से मैश करना",
+      "instruction_en": "Press the tender carrots directly in the hot milk with a potato masher to get a perfect grated texture in 2 minutes.",
+      "instruction_hi": "पोटैटो मैशर से कुकर के अंदर ही उबली गाजर को मैश करें, यह बिल्कुल कद्दूकस जैसी दानेदार हो जाएगी।"
+    },
+    {
+      "step": 4,
+      "title_en": "Reducing Milk to Rabdi",
+      "title_hi": "दूध सुखाकर रबड़ी बनाना",
+      "instruction_en": "Simmer on medium-high heat, stirring regularly until almost all milk reduces and thickens.",
+      "instruction_hi": "तेज आंच पर लगातार चलाते हुए दूध को 12-15 मिनट में पूरी तरह गाढ़ा और सुखा लें।"
+    },
+    {
+      "step": 5,
+      "title_en": "Adding Sugar",
+      "title_hi": "चीनी डालकर पानी सुखाना",
+      "instruction_en": "Add 3/4 cup sugar and cook until the liquid released by the melting sugar completely evaporates.",
+      "instruction_hi": "3/4 कप चीनी मिलाएं और पिघलने पर उसका पानी भी पूरी तरह सुखा लें।"
+    },
+    {
+      "step": 6,
+      "title_en": "Bhunai with Ghee, Mawa & Dry Fruits",
+      "title_hi": "घी, मावा और मेवों से भुनाई",
+      "instruction_en": "Add remaining ghee, khoya, cardamom, and fried dry fruits. Roast for 6-8 minutes until glossy and fragrant.",
+      "instruction_hi": "देसी घी, खोया, इलायची और घी में तले मेवे डालकर 6-8 मिनट भूनें जब तक हलवा चमकने न लगे।"
+    }
+  ],
+  "chef_tips_en": [
+    "The Potato Masher Secret: Mashing boiled carrots directly in the hot milk produces tender, juicy, fibrous strands that closely mimic grated carrots without turning into a smooth baby-food paste. Don't use a blender!",
+    "Bhunai After Sugar: The authentic deep red color and wedding-style aroma come from the 'bhunai' (pan roasting) step AFTER adding sugar and ghee. The heat gently caramelizes the sugars into a rich toffee-like glaze.",
+    "Mawa / Khoya Timing: Always add khoya towards the very end during the ghee bhunai step so it maintains its soft, creamy dairy granules rather than dissolving completely into liquid milk.",
+    "Milk Selection: Using high-fat full-cream milk (or full-cream buffalo milk) naturally coats every carrot grain with rich mawa solids during reduction."
+  ],
+  "chef_tips_hi": [
+    "पोटैटो मैशर का सही इस्तेमाल: गाजर को मैशर से सिर्फ हल्का दबाएं ताकि रेशे बने रहें और बिल्कुल घिसी हुई गाजर जैसा टेक्सचर मिले। कभी भी मिक्सी या ब्लेंडर का उपयोग न करें, वरना प्यूरी बन जाएगी।",
+    "चीनी के बाद भुनाई का महत्व: हलवे का गहरा लाल रंग और सोंधापन चीनी और घी डालने के बाद की जाने वाली भुनाई से आता है। इस दौरान कैरामेलाइजेशन होता है जो शादी वाला स्वाद देता है।",
+    "मावा डालने का सही समय: मावे को हमेशा आखिरी में घी की भुनाई के समय ही डालें ताकि मावे के मुलायम दाने बरकरार रहें और वह पूरी तरह पिघलकर गायब न हो जाए।",
+    "फुल क्रीम दूध का लाभ: फुल क्रीम या भैंस के दूध का उपयोग करने से दूध सूखने पर प्राकृतिक रूप से खोया बन जाता है जो हलवे को बेहद रिच बनाता है।"
+  ]
+}

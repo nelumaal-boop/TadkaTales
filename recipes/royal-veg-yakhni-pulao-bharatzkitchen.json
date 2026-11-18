@@ -1,0 +1,201 @@
+{
+  "id": "royal-veg-yakhni-pulao-bharatzkitchen",
+  "title_en": "Royal 100% Veg Yakhni Pulao with Paneer & Veggies (वेज यखनी पुलाव)",
+  "title_hi": "शाही 100% वेज यखनी पुलाव (पनीर व सब्जियों के साथ)",
+  "title": {
+    "en": "Royal 100% Veg Yakhni Pulao with Paneer & Veggies (वेज यखनी पुलाव)",
+    "hi": "शाही 100% वेज यखनी पुलाव (पनीर व सब्जियों के साथ)"
+  },
+  "description_en": "2.6M views! So fragrant and delicious that biryani feels plain! Basmati rice cooked in a rich, herbal aromatic spice broth (yakhni) with sautéed paneer, carrots, beans, peas, and golden brown onions.",
+  "description_hi": "26 लाख व्यूज वाला शाही पुलाव जिसके आगे बिरयानी भी फीकी लगे! सौंफ, खड़े मसालों और धनिए के डंठल से बनी खुशबूदार वेज यखनी में पके लंबे बासमती चावल, पनीर और ताजी सब्जियों का लाजवाब पुलाव।",
+  "description": {
+    "en": "2.6M views! So fragrant and delicious that biryani feels plain! Basmati rice cooked in a rich, herbal aromatic spice broth (yakhni) with sautéed paneer, carrots, beans, peas, and golden brown onions.",
+    "hi": "26 लाख व्यूज वाला शाही पुलाव जिसके आगे बिरयानी भी फीकी लगे! सौंफ, खड़े मसालों और धनिए के डंठल से बनी खुशबूदार वेज यखनी में पके लंबे बासमती चावल, पनीर और ताजी सब्जियों का लाजवाब पुलाव।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Vegetarian",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "prep_time_en": "20 mins",
+  "prep_time_hi": "20 मिनट",
+  "cook_time_en": "25 mins",
+  "cook_time_hi": "25 मिनट",
+  "prepTime": "20 mins",
+  "cookTime": "25 mins",
+  "servings_en": "5 servings",
+  "servings_hi": "5 लोग",
+  "servings": 5,
+  "youtube_id": "wnTwfl6BuaI",
+  "youtubeId": "wnTwfl6BuaI",
+  "youtube_url": "https://youtu.be/wnTwfl6BuaI",
+  "image_url": "/static/images/wnTwfl6BuaI.jpg",
+  "tags": [
+    "Yakhni Pulao",
+    "Veg Pulao",
+    "Paneer Pulao",
+    "Rice Recipe",
+    "Royal",
+    "Main Course",
+    "Bharatzkitchen",
+    "Vegetarian"
+  ],
+  "ingredients_en": [
+    "2 cups Aged Basmati Rice, washed & soaked for 20-30 minutes",
+    "200g Fresh Paneer, cubed",
+    "Aromatic Yakhni Broth Ingredients: 4 cups Water, 1 Onion (quartered), 1/2 Garlic bulb, 1 inch Ginger, 1 Green Chilli, Coriander Stems, 1 tsp Cumin, 1 tbsp Fennel Seeds (Saunf), 1 tbsp Coriander Seeds, 4 Cloves, 5 Black Peppercorns, 2 Green Cardamoms, 1 Black Cardamom, 1 Star Anise, 1 Mace (Javitri), 1 Cinnamon, 2 tsp Salt",
+    "Veggies: 1 Carrot (diced), 5 French Beans, 1/2 cup Cauliflower florets, 1/2 cup Green Peas, 1 Potato (diced), 1 Tomato",
+    "1 large Onion, sliced into golden brown onions (birista)",
+    "3-4 tbsp Cooking Oil or Desi Ghee",
+    "Fresh Mint & Coriander Leaves for garnish"
+  ],
+  "ingredients_hi": [
+    "2 कप बासमती चावल (धोकर 20-30 मिनट भीगा)",
+    "200 ग्राम ताजा पनीर (क्यूब्स में कटा)",
+    "सुगंधित यखनी सामग्री: 4 कप पानी, 1 प्याज, 1/2 लहसुन, 1 इंच अदरक, हरी मिर्च, धनिए के डंठल, 1 छोटा चम्मच जीरा, 1 बड़ा चम्मच सौंफ, 1 बड़ा चम्मच साबुत धनिया, 4 लौंग, काली मिर्च, इलायची, चक्रफूल, जावित्री, दालचीनी व 2 चम्मच नमक",
+    "सब्जियां: 1 गाजर, 5 बीन्स, 1/2 कप गोभी, 1/2 कप मटर, 1 आलू, 1 टमाटर",
+    "1 बड़ा प्याज (बरिस्ता - सुनहरा तला प्याज)",
+    "3-4 बड़े चम्मच तेल या देसी घी",
+    "पुदीना व हरा धनिया"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Aromatic Yakhni Broth (सुगंधित यखनी निर्माण)",
+      "category_hi": "सुगंधित यखनी निर्माण",
+      "items": [
+        {
+          "name_en": "Water",
+          "name_hi": "पानी",
+          "amount": "4 cups"
+        },
+        {
+          "name_en": "Fennel & Coriander Seeds (Saunf-Dhaniya)",
+          "name_hi": "सौंफ व साबुत धनिया",
+          "amount": "1 tbsp + 1 tbsp"
+        },
+        {
+          "name_en": "Aromatics & Whole Spices (Ginger, Garlic, Mace, Star Anise, Cardamom)",
+          "name_hi": "अदरक, लहसुन व खड़े मसाले",
+          "amount": "As listed"
+        }
+      ]
+    },
+    {
+      "category_en": "Paneer & Mixed Vegetables (पनीर व सब्जियां)",
+      "category_hi": "पनीर व सब्जियां",
+      "items": [
+        {
+          "name_en": "Fresh Paneer Cubes",
+          "name_hi": "ताजा पनीर",
+          "amount": "200g"
+        },
+        {
+          "name_en": "Assorted Veggies (Carrot, Beans, Cauliflower, Peas, Potato)",
+          "name_hi": "मिक्स सब्जियां",
+          "amount": "2 cups total"
+        }
+      ]
+    },
+    {
+      "category_en": "Rice, Birista & Assembly (चावल व पुलाव असेंबली)",
+      "category_hi": "चावल व पुलाव असेंबली",
+      "items": [
+        {
+          "name_en": "Aged Basmati Rice",
+          "name_hi": "बासमती चावल",
+          "amount": "2 cups"
+        },
+        {
+          "name_en": "Golden Fried Onions (Birista)",
+          "name_hi": "तला प्याज (बरिस्ता)",
+          "amount": "1 cup"
+        },
+        {
+          "name_en": "Desi Ghee / Oil",
+          "name_hi": "देसी घी या तेल",
+          "amount": "4 tbsp"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Brew the Herbal Yakhni: In a pot, combine 4 cups water, 1 quartered onion, crushed garlic, ginger, coriander stems, fennel seeds, coriander seeds, cumin, star anise, mace, cinnamon, cloves, cardamoms, peppercorns, and 2 tsp salt. Simmer covered on medium heat for 15 minutes to extract all royal aromas. Strain the fragrant golden broth through a colander and keep aside.",
+    "Fry Birista & Sauté Paneer: In a large handi or pot, heat oil/ghee. Fry sliced onions until crisp and golden brown (birista); remove half for garnish. In the same oil, lightly sear paneer cubes for 1-2 minutes until pale golden; set aside.",
+    "Sauté Vegetables: In the remaining oil, add diced potatoes, carrots, cauliflower, and beans. Sauté over medium heat for 3-4 minutes until half-cooked. Add green peas and chopped tomato.",
+    "Add Soaked Basmati Rice: Gently slide in the drained, soaked basmati rice. Sauté gently with the vegetables for 1 minute to coat each grain with aromatic oil.",
+    "Pour Hot Yakhni Broth: Measure and pour in the strained hot yakhni broth (approx 3.5 to 4 cups). Stir gently once. Bring to a rolling boil over high heat.",
+    "Simmer & Dum: Once the liquid reduces to the level of the rice, arrange the seared paneer cubes on top. Scatter reserved fried onions (birista), chopped mint, and fresh coriander.",
+    "Rest & Fluff: Cover tightly with a lid and cook on low flame (dum) for 10-12 minutes. Turn off heat and rest for 10 minutes. Gently fluff with a flat spatula from the edges and serve hot with chilled burani raita!"
+  ],
+  "instructions_hi": [
+    "शाही यखनी तैयार करना: एक बर्तन में 4 कप पानी, प्याज, अदरक, लहसुन, धनिए के डंठल, सौंफ, साबुत धनिया, जावित्री, चक्रफूल, दालचीनी, इलायची और नमक डालकर 15 मिनट धीमी आंच पर उबालें। सुगंधित यखनी को छलनी से छानकर अलग रख लें।",
+    "बरिस्ता व पनीर सेकना: कड़ाही में तेल गरम करके प्याज को सुनहरा कुरकुरा तलकर निकालें। उसी तेल में पनीर को हल्का 1-2 मिनट सेककर निकाल लें।",
+    "सब्जियां भूनना: बचे तेल में आलू, गाजर, गोभी और बीन्स डालकर 3-4 मिनट भूनें। फिर मटर और टमाटर मिलाएं।",
+    "चावल मिलाना: भीगा हुआ बासमती चावल डालकर सब्जियों के साथ 1 मिनट हल्के हाथ से चलाएं।",
+    "गरम यखनी डालना: तैयार की हुई छानी हुई गरम यखनी डालें। तेज आंच पर उबाल आने दें।",
+    "दम लेयरिंग: जब पानी चावल के स्तर तक आ जाए, ऊपर सिका हुआ पनीर, तला प्याज (बरिस्ता), पुदीना और हरा धनिया बिछाएं।",
+    "दम लगाना व परोसना: ढक्कन अच्छी तरह बंद करके 10-12 मिनट धीमी आंच पर दम दें। 10 मिनट बाद खोलें, कलछी से चावल खोलें और ठंडे बूंदी रायते संग परोसें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Simmer Herbal Yakhni Broth",
+      "title_hi": "शाही यखनी उबालना",
+      "instruction_en": "Boil whole spices, fennel seeds, coriander seeds, and aromatics in water for 15 mins; strain broth.",
+      "instruction_hi": "सौंफ, धनिया, खड़े मसाले और अदरक-लहसुन को 15 मिनट पानी में उबालकर छान लें।"
+    },
+    {
+      "step": 2,
+      "title_en": "Fry Golden Birista & Sear Paneer",
+      "title_hi": "बरिस्ता तलना व पनीर सेकना",
+      "instruction_en": "Fry sliced onions until crisp and golden; lightly sear paneer cubes in oil.",
+      "instruction_hi": "प्याज को सुनहरा कुरकुरा तलें और पनीर को हल्का सेककर निकाल लें।"
+    },
+    {
+      "step": 3,
+      "title_en": "Sauté Crunchy Mixed Veggies",
+      "title_hi": "सब्जियां भूनना",
+      "instruction_en": "Sauté potatoes, carrots, beans, cauliflower, peas, and tomatoes for 3-4 minutes.",
+      "instruction_hi": "आलू, गाजर, गोभी, बीन्स और मटर को 3-4 मिनट मध्यम आंच पर भूनें।"
+    },
+    {
+      "step": 4,
+      "title_en": "Gently Coat Basmati Rice",
+      "title_hi": "चावल को सब्जियों संग मिलाना",
+      "instruction_en": "Add drained soaked basmati rice and toss gently with the glistening vegetables.",
+      "instruction_hi": "भीगे चावल डालकर सब्जियों के साथ हल्के हाथ से 1 मिनट चलाएं।"
+    },
+    {
+      "step": 5,
+      "title_en": "Pour Strained Aromatic Yakhni",
+      "title_hi": "सुगंधित यखनी डालना",
+      "instruction_en": "Pour in the hot strained yakhni broth and bring to a rolling boil over high heat.",
+      "instruction_hi": "छानी हुई गरम यखनी मिलाएं और तेज आंच पर उबाल आने दें।"
+    },
+    {
+      "step": 6,
+      "title_en": "Layer Paneer, Herbs & Birista",
+      "title_hi": "पनीर, बरिस्ता व पुदीना लेयर करना",
+      "instruction_en": "Arrange seared paneer, fried onions, mint, and fresh coriander on top as water reduces.",
+      "instruction_hi": "पानी कम होने पर ऊपर पनीर, तला प्याज, पुदीना और हरा धनिया सजाएं।"
+    },
+    {
+      "step": 7,
+      "title_en": "Slow Dum Cook & Fluff",
+      "title_hi": "धीमी आंच पर दम व परोसना",
+      "instruction_en": "Seal pot and cook on low heat for 10-12 minutes. Rest 10 minutes, fluff, and serve hot!",
+      "instruction_hi": "ढक्कन बंद करके 10-12 मिनट दम दें और खिले-खिले पुलाव को रायते संग परोसें!"
+    }
+  ],
+  "chef_tips_en": [
+    "Fennel & Coriander Seeds in Yakhni: Whole fennel seeds (saunf) and coriander seeds are the heart of authentic Awadhi yakhni; they infuse a sweet, cooling aroma that penetrates every grain of rice.",
+    "Coriander Stems Secret: Never throw away coriander roots/stems; simmering them in the yakhni adds intense freshness and earthy depth.",
+    "Lightly Sear Paneer: Searing paneer cubes in oil before adding to dum prevents them from breaking into crumbs while cooking."
+  ],
+  "chef_tips_hi": [
+    "सौंफ व साबुत धनिए का जादू: यखनी में 1 चम्मच सौंफ और साबुत धनिया उबालने से चावल के हर दाने में शाही और ताजी महक समा जाती है।",
+    "धनिए के डंठल की खुशबू: यखनी में हरे धनिए के डंठल उबालने से प्राकृतिक हर्बल खुशबू और स्वाद दोगुना हो जाता है।",
+    "पनीर को हल्का सेकना: पुलाव में डालने से पहले पनीर को हल्का सेक लेने से वह दम के दौरान टूटता नहीं है और मखमली रहता है।"
+  ]
+}

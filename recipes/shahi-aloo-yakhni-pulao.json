@@ -1,0 +1,208 @@
+{
+  "id": "shahi-aloo-yakhni-pulao",
+  "title_en": "Fragrant Shahi Aloo Yakhni Pulao",
+  "title_hi": "शाही आलू यखनी पुलाव (सौंफ-धनिया की खुशबूदार यखनी)",
+  "title": {
+    "en": "Fragrant Shahi Aloo Yakhni Pulao",
+    "hi": "शाही आलू यखनी पुलाव (सौंफ-धनिया की खुशबूदार यखनी)"
+  },
+  "description_en": "A royal, deeply aromatic Aloo Yakhni Pulao by Veg Food Talks (Rutba Khan). Tender potato chunks and long-grain basmati rice simmered in a slow-brewed herbal broth of whole fennel, coriander seeds, mint, garlic, and whole spices, finished under sealed steam (dum) with glistening fluffy grains.",
+  "description_hi": "वेज फूड टॉक्स (रूतबा खान) की खुशबूदार और लाजवाब शाही आलू यखनी पुलाव रेसिपी। सौंफ, साबुत धनिया, पुदीना और खड़े मसालों की धीमी आंच पर पकाई गई यखनी में तैयार बासमती चावल और आलू, जिन्हें दम देकर एकदम खिले-खिले और मखमली स्वाद में पकाया जाता है।",
+  "description": {
+    "en": "A royal, deeply aromatic Aloo Yakhni Pulao by Veg Food Talks (Rutba Khan). Tender potato chunks and long-grain basmati rice simmered in a slow-brewed herbal broth of whole fennel, coriander seeds, mint, garlic, and whole spices, finished under sealed steam (dum) with glistening fluffy grains.",
+    "hi": "वेज फूड टॉक्स (रूतबा खान) की खुशबूदार और लाजवाब शाही आलू यखनी पुलाव रेसिपी। सौंफ, साबुत धनिया, पुदीना और खड़े मसालों की धीमी आंच पर पकाई गई यखनी में तैयार बासमती चावल और आलू, जिन्हें दम देकर एकदम खिले-खिले और मखमली स्वाद में पकाया जाता है।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cook_time_en": "25 mins",
+  "cook_time_hi": "25 मिनट",
+  "prepTime": "15 mins",
+  "cookTime": "25 mins",
+  "servings_en": "3-4 Servings",
+  "servings_hi": "3-4 लोग",
+  "servings": "3-4 Servings",
+  "youtube_id": "6_FCqXwKIQY",
+  "youtubeId": "6_FCqXwKIQY",
+  "youtube_url": "https://www.youtube.com/watch?v=6_FCqXwKIQY",
+  "image_url": "https://img.youtube.com/vi/6_FCqXwKIQY/hqdefault.jpg",
+  "tags": [
+    "aloo yakhni pulao",
+    "yakhni pulao",
+    "aloo pulao",
+    "veg food talks",
+    "rice recipe",
+    "biryani style",
+    "main course"
+  ],
+  "ingredients_en": [
+    "1 glass (approx. 250g) Aged Long-Grain Basmati Rice (washed and soaked 30 mins)",
+    "5 Medium Potatoes (peeled and cut into large halves or quarters)",
+    "2 glasses Water (for brewing the herbal yakhni broth)",
+    "10 Garlic cloves & 1 Medium Onion (roughly sliced for yakhni)",
+    "1 tbsp Whole Coriander Seeds (sabut dhania)",
+    "1 tbsp Fennel Seeds (saunf - the soul of yakhni)",
+    "4 Cloves (laung)",
+    "1 tsp Cumin seeds (jeera)",
+    "1 Black Cardamom (badi elaichi)",
+    "1 inch Cinnamon stick (dalchini)",
+    "1 Star Anise (chakri phool)",
+    "1 Mace flower (javitri)",
+    "1/5 tsp Whole black peppercorns (kali mirch)",
+    "Handful of fresh mint leaves & coriander leaves",
+    "1/4 cup Cooking oil or Desi Ghee",
+    "1 Medium Onion (finely sliced for pulao base / birista)",
+    "1 Bay leaf (tej patta)",
+    "1 tsp Ginger-Garlic paste",
+    "1 tbsp Green chilli paste (for fresh heat without coloring rice)",
+    "1 Medium Tomato (sliced)",
+    "2 Whole Green chillies (slit)",
+    "1/4 tsp Garam masala powder",
+    "Salt to taste"
+  ],
+  "ingredients_hi": [
+    "1 गिलास (लगभग 250 ग्राम) पुराना लंबा बासमती चावल (धोकर 30 मिनट भिगोया हुआ)",
+    "5 मध्यम आलू (छीलकर बड़े टुकड़ों में कटे हुए)",
+    "2 गिलास पानी (यखनी अर्क बनाने के लिए)",
+    "10 लहसुन की कलियां और 1 प्याज (मोटा कटा हुआ, यखनी के लिए)",
+    "1 बड़ा चम्मच साबुत धनिया",
+    "1 बड़ा चम्मच सौंफ (यखनी की असली खुशबू)",
+    "4 लौंग",
+    "1 छोटा चम्मच जीरा",
+    "1 बड़ी इलायची",
+    "1 टुकड़ा दालचीनी",
+    "1 चक्रफूल (स्टार अनीस)",
+    "1 जावित्री का फूल",
+    "1/5 छोटा चम्मच साबुत काली मिर्च",
+    "मुट्ठी भर ताज़ा पुदीना और हरा धनिया",
+    "1/4 कप तेल या देसी घी",
+    "1 मध्यम प्याज (बारीक लंबा कटा हुआ, पुलाव तड़के के लिए)",
+    "1 तेजपत्ता",
+    "1 छोटा चम्मच अदरक-लहसुन का पेस्ट",
+    "1 बड़ा चम्मच हरी मिर्च का पेस्ट (तीखेपन के लिए)",
+    "1 मध्यम टमाटर (बारीक कटा हुआ)",
+    "2 हरी मिर्च (लंबाई में चीरी हुई)",
+    "1/4 छोटा चम्मच गरम मसाला पाउडर",
+    "स्वादानुसार नमक"
+  ],
+  "ingredients": [
+    {
+      "category": "Aromatic Herbal Yakhni (Broth)",
+      "items": [
+        {
+          "en": "2 glasses Water, 10 Garlic cloves & 1 Onion",
+          "hi": "2 गिलास पानी, 10 लहसुन कलियां और 1 प्याज"
+        },
+        {
+          "en": "1 tbsp Fennel seeds (saunf) & 1 tbsp Coriander seeds",
+          "hi": "1 बड़ा चम्मच सौंफ और साबुत धनिया"
+        },
+        {
+          "en": "Cinnamon, Star anise, Mace, Cloves, Cardamom & Peppercorns",
+          "hi": "दालचीनी, चक्रफूल, जावित्री, लौंग, बड़ी इलायची और काली मिर्च"
+        },
+        {
+          "en": "Handful of Mint & Coriander leaves + 1 tsp Salt",
+          "hi": "पुदीना, हरा धनिया और 1 छोटा चम्मच नमक"
+        }
+      ]
+    },
+    {
+      "category": "Pulao Pot & Potatoes",
+      "items": [
+        {
+          "en": "1 glass Aged Basmati Rice (soaked 30 mins)",
+          "hi": "1 गिलास बासमती चावल (भीगा हुआ)"
+        },
+        {
+          "en": "5 Potatoes (halved) & 1 sliced Onion",
+          "hi": "5 आलू (कटे हुए) और 1 लंबा कटा प्याज"
+        },
+        {
+          "en": "1 tsp Ginger-garlic paste & 1 tbsp Green chilli paste",
+          "hi": "1 छोटा चम्मच अदरक-लहसुन और हरी मिर्च पेस्ट"
+        },
+        {
+          "en": "1 sliced Tomato & 2 Slit green chillies",
+          "hi": "1 टमाटर और 2 हरी मिर्च"
+        },
+        {
+          "en": "1/4 cup Oil/Ghee, Bay leaf & Garam masala",
+          "hi": "1/4 कप तेल/घी, तेजपत्ता और गरम मसाला"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Step 1 - Brew the Herbal Yakhni: In a saucepan, pour 2 glasses of water. Add roughly sliced onion, garlic cloves, whole coriander seeds, fennel seeds, cloves, cumin, black cardamom, cinnamon, star anise, mace, peppercorns, fresh mint, coriander leaves, and 1 tsp salt. Bring to a rolling boil over medium heat and simmer covered for 8 to 10 minutes so all essential oils release into the broth. Strain through a sieve and reserve this fragrant clear yakhni liquid.",
+    "Step 2 - Sauté Onions & Whole Spices: In a heavy biryani handi or pot, heat 1/4 cup oil or ghee. Add bay leaf, 1 tsp cumin seeds, and sliced onions. Fry on medium flame for 5 to 6 minutes until onions turn translucent and light golden.",
+    "Step 3 - Sear Potatoes: Add the halved potatoes into the hot oil with the onions. Fry on medium heat for 3 to 4 minutes until a light golden crust forms on the potato edges.",
+    "Step 4 - Add Aromatics: Add 1 tsp ginger-garlic paste and 1 tbsp green chilli paste. Sauté for 1 minute until the raw smell dissipates. Add sliced tomatoes and 1/4 tsp garam masala. Cook on medium flame for 2 minutes until tomatoes turn soft.",
+    "Step 5 - Combine Rice & Yakhni: Gently add the soaked, drained basmati rice into the pot. Sauté very gently with a wooden spatula for 1 minute to coat each grain in the aromatic oil. Pour in the reserved hot strained yakhni broth (approx. 1.75 to 2 glasses). Taste the liquid—it should taste pleasantly salty.",
+    "Step 6 - High Flame Boil: Add slit green chillies and a sprinkle of chopped mint. Cook on high flame uncovered for 5 to 6 minutes until most of the liquid is absorbed and tiny steam holes (craters) form on the surface of the rice.",
+    "Step 7 - Slow Steam 'Dum': Turn the heat down to the absolute lowest setting. Cover the pot with a tight-fitting lid (or seal with foil/clean kitchen towel). Let it steam on 'dum' for 10 to 12 minutes undisturbed so the potatoes cook tender and the long rice grains expand straight and fluffy.",
+    "Step 8 - Rest & Fluff: Turn off heat and let the pot rest covered for 5 minutes. Gently fluff with a flat rice paddle from the edges toward the center. Serve hot with smoked boondi raita, green chutney, and crisp salad."
+  ],
+  "instructions_hi": [
+    "स्टेप 1 - खुशबूदार यखनी उबालना: एक बर्तन में 2 गिलास पानी लें। इसमें मोटा कटा प्याज, लहसुन की कलियां, साबुत धनिया, सौंफ, लौंग, जीरा, बड़ी इलायची, दालचीनी, चक्रफूल, जावित्री, काली मिर्च, पुदीना, हरा धनिया और 1 छोटा चम्मच नमक डालें। ढक्कन लगाकर मध्यम आंच पर 8 से 10 मिनट तक उबालें ताकि खड़े मसालों और जड़ी-बूटियों का पूरा रस पानी में उतर जाए। छलनी से छानकर खुशबूदार यखनी का पानी अलग रख लें।",
+    "स्टेप 2 - प्याज और खड़े मसाले भूनना: एक भारी तले की हांडी या बर्तन में 1/4 कप तेल या घी गरम करें। तेजपत्ता, 1 छोटा चम्मच जीरा और लंबा बारीक कटा प्याज डालें। मध्यम आंच पर 5-6 मिनट हल्का सुनहरा होने तक भूनें।",
+    "स्टेप 3 - आलू को तेल में तलना: अब बड़े टुकड़ों में कटे हुए आलू डालें। प्याज के साथ 3-4 मिनट तक भूनें जब तक कि आलू के किनारों पर हल्की सुनहरी परत न आ जाए।",
+    "स्टेप 4 - पेस्ट और टमाटर भूनना: 1 छोटा चम्मच अदरक-लहसुन पेस्ट और 1 बड़ा चम्मच हरी मिर्च का पेस्ट डालें। 1 मिनट भूनें ताकि कच्चापन निकल जाए। कटे टमाटर और गरम मसाला डालकर 2 मिनट और पकाएं जब तक टमाटर नरम न हो जाएं।",
+    "स्टेप 5 - चावल और यखनी मिलाना: भीगा हुआ बासमती चावल पानी निथारकर हांडी में डालें। हल्के हाथों से 1 मिनट चलाएं ताकि तेल की परत हर दाने पर लग जाए। अब छना हुआ गरम यखनी का पानी (लगभग 1.75 से 2 गिलास) डालें। पानी का नमक चखें; हल्का सा नमकीन लगना चाहिए।",
+    "स्टेप 6 - तेज़ आंच पर पकाना: ऊपर से चीरी हुई हरी मिर्च और थोड़ा पुदीना डालें। तेज़ आंच पर 5-6 मिनट बिना ढके उबलने दें जब तक कि पानी सूख न जाए और चावल की सतह पर छोटे-छोटे छेद (भाप के गड्ढे) न दिखने लगें।",
+    "स्टेप 7 - धीमी आंच पर 'दम' लगाना: गैस की आंच बिल्कुल धीमी कर दें। हांडी को भारी ढक्कन या फॉइल से अच्छी तरह सील कर दें। 10 से 12 मिनट 'दम' पर पकने दें ताकि आलू मक्खन जैसे गल जाएं और चावल का एक-एक दाना लंबा व खिला-खिला बने।",
+    "स्टेप 8 - परोसें: गैस बंद करने के बाद 5 मिनट ढका रहने दें। चावल के चमचे से किनारों से हल्के हाथों से खोलें। गरमा-गरम शाही आलू यखनी पुलाव को बूंदी रायते, तीखी चटनी और प्याज के लच्छों के साथ परोसें।"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": {
+        "en": "Simmer water with fennel, coriander seeds, garlic, onion, whole spices, mint, and salt for 10 mins. Strain clear yakhni broth.",
+        "hi": "सौंफ, धनिया, लहसुन, खड़े मसाले, पुदीना और नमक को पानी में 10 मिनट उबालकर खुशबूदार यखनी छान लें।"
+      }
+    },
+    {
+      "step": 2,
+      "text": {
+        "en": "Sauté sliced onions, bay leaf, and cumin in oil. Fry halved potatoes for 3-4 minutes until edges turn golden.",
+        "hi": "तेल में प्याज, तेजपत्ता और जीरा भूनें। आलू डालकर 3-4 मिनट सुनहरी परत आने तक तलें।"
+      }
+    },
+    {
+      "step": 3,
+      "text": {
+        "en": "Add ginger-garlic paste, green chilli paste, tomatoes, and garam masala. Cook 2 mins until tomatoes soften.",
+        "hi": "अदरक-लहसुन, हरी मिर्च पेस्ट, टमाटर और गरम मसाला डालकर टमाटर गलने तक भूनें।"
+      }
+    },
+    {
+      "step": 4,
+      "text": {
+        "en": "Add soaked basmati rice and pour in the hot strained yakhni. Boil on high flame until liquid recedes.",
+        "hi": "बासमती चावल और तैयार यखनी का पानी मिलाएं। तेज़ आंच पर पानी सूखने तक पकाएं।"
+      }
+    },
+    {
+      "step": 5,
+      "text": {
+        "en": "Cover tight and steam on low 'dum' for 10-12 mins. Rest 5 mins, fluff gently, and serve with raita.",
+        "hi": "ढक्कन सील करके 10-12 मिनट धीमी आंच पर दम दें। 5 मिनट बाद खोलकर रायते के साथ गरमा-गरम पेश करें।"
+      }
+    }
+  ],
+  "chef_tips_en": [
+    "Fennel & Coriander Yakhni Soul: Unlike plain pulao boiled in water, boiling the rice in yakhni infuses every rice grain from the inside with the floral warmth of fennel (saunf) and sweet earthy coriander.",
+    "Green Chilli Paste for Pulao Clarity: Red chilli powder darkens pulao into a red curry tone. Using fresh green chilli paste provides sharp, fragrant heat while keeping the rice glistening white and royal.",
+    "Potato Halves Frying: Frying the potato chunks in hot oil before adding the liquid forms a light protective crust, preventing them from dissolving into mush during the dum steam."
+  ],
+  "chef_tips_hi": [
+    "सौंफ और धनिए की यखनी: सादे पानी के बजाय सौंफ और साबुत धनिए के उबले अर्क (यखनी) में चावल पकाने से बासमती के हर दाने के अंदर तक शाही खुशबू समा जाती है।",
+    "हरी मिर्च के पेस्ट का फायदा: लाल मिर्च पाउडर डालने से पुलाव का रंग गहरा हो जाता है; हरी मिर्च का पेस्ट डालने से पुलाव का असली सफेद-सुनहरा रंग बना रहता है और तीखापन भी एकदम सही आता है।",
+    "आलू को पहले फ्राई करना: यखनी डालने से पहले आलू को प्याज के साथ 3-4 मिनट फ्राई करने से आलू के ऊपर हल्की परत बन जाती है जिससे दम के दौरान आलू टूटते या बिखरते नहीं हैं।"
+  ]
+}

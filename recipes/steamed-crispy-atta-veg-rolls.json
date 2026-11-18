@@ -1,0 +1,352 @@
+{
+  "id": "steamed-crispy-atta-veg-rolls",
+  "title": {
+    "en": "Crispy Steamed Atta Veg Rolls & Spicy Garlic Chutney",
+    "hi": "गेहूं के आटे के क्रिस्पी वेज रोल्स और तीखी लहसुन चटनी"
+  },
+  "description": {
+    "en": "Healthy meets irresistible! Thin whole wheat sheets packed with crunchy grated veggies and raw potatoes, rolled into tight pinwheels, steamed until set, and pan-crisped to golden perfection, served with street-style fiery garlic-chilli dip.",
+    "hi": "बिना मैदा के गेहूं के आटे का बेहद कुरकुरा और स्वादिष्ट नाश्ता! कद्दूकस की हुई ताजी सब्जियों और कच्चे आलू की स्टफिंग से भरे रोल्स, जिन्हें पहले भाप में पकाकर सेट किया जाता है और फिर तवे पर कुरकुरा सेका जाता है।"
+  },
+  "category": "Snacks",
+  "isVegetarian": true,
+  "prepTime": "20 mins",
+  "cookTime": "20 mins",
+  "servings": "4 servings (12-14 roll bites)",
+  "youtubeId": "JzhZxCQpM5A",
+  "author": "Bharatzkitchen Hindi",
+  "ingredients": [
+    {
+      "category": {
+        "en": "Whole Wheat Dough",
+        "hi": "गेहूं के आटे का डो"
+      },
+      "items": [
+        {
+          "en": "Whole Wheat Flour (Atta) - 1.5 cups",
+          "hi": "गेहूं का आटा - 1.5 कप"
+        },
+        {
+          "en": "Carom Seeds (Ajwain) - 1/2 tsp",
+          "hi": "अजवाइन - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Salt - 1 tsp",
+          "hi": "नमक - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Water - approx. 3/4 cup (to knead semi-stiff dough)",
+          "hi": "पानी - लगभग 3/4 कप (मध्यम सख्त आटा गूंधने हेतु)"
+        },
+        {
+          "en": "Cooking Oil - 1 tbsp",
+          "hi": "तेल - 1 बड़ा चम्मच"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Fresh Crunchy Veggie Filling",
+        "hi": "ताजी सब्जियों की स्टफिंग"
+      },
+      "items": [
+        {
+          "en": "Raw Potatoes (Kacche Aloo) - 2 medium (peeled, grated, washed & squeezed bone-dry)",
+          "hi": "कच्चे आलू - 2 मध्यम (कद्दूकस करके पानी से धोए और निचोड़े हुए)"
+        },
+        {
+          "en": "Carrot (Gajar) - 1 medium (finely grated)",
+          "hi": "गाजर - 1 मध्यम (बारीक कद्दूकस की हुई)"
+        },
+        {
+          "en": "Capsicum (Shimla Mirch) - 1 small (finely diced)",
+          "hi": "शिमला मिर्च - 1 छोटी (बारीक कटी)"
+        },
+        {
+          "en": "Onion - 1 medium (finely chopped)",
+          "hi": "प्याज - 1 मध्यम (बारीक कटा)"
+        },
+        {
+          "en": "Fresh Ginger - 1 inch (finely grated)",
+          "hi": "ताजा अदरक - 1 इंच (कद्दूकस किया हुआ)"
+        },
+        {
+          "en": "Black Pepper Powder (Kali Mirch) - 1 tsp",
+          "hi": "काली मिर्च पाउडर - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Garam Masala - 1/2 tsp",
+          "hi": "गरम मसाला - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Salt - 1 tbsp (mixed in to draw moisture & squeezed dry)",
+          "hi": "नमक - 1 बड़ा चम्मच (स्वादानुसार)"
+        },
+        {
+          "en": "Fresh Coriander leaves - 1/4 cup (chopped)",
+          "hi": "ताजा हरा धनिया - 1/4 कप"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Sealing Slurry & Pan Toasting",
+        "hi": "सील करने की स्लरी और सिकाई"
+      },
+      "items": [
+        {
+          "en": "All-Purpose Flour (Maida) or Atta - 2 tbsp",
+          "hi": "मैदा या गेहूं का आटा - 2 चम्मच"
+        },
+        {
+          "en": "Salt - 1/2 tsp & Water - 3 tbsp (for sealing edges)",
+          "hi": "नमक - 1/2 छोटा चम्मच और पानी - 3 चम्मच (किनारे चिपकाने हेतु)"
+        },
+        {
+          "en": "Cooking Oil - 3 to 4 tbsp (for shallow frying / pan-toasting)",
+          "hi": "कुकिंग ऑयल - 3 से 4 बड़े चम्मच (उथला तलने या सेकने के लिए)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Fiery Street Garlic-Chilli Chutney",
+        "hi": "तीखी स्ट्रीट स्टाइल लहसुन-लाल मिर्च चटनी"
+      },
+      "items": [
+        {
+          "en": "Dry Red Chillies (Sukhi Lal Mirch) - 8 (soaked in warm water)",
+          "hi": "साबुत सूखी लाल मिर्च - 8 (गर्म पानी में भिगोई हुई)"
+        },
+        {
+          "en": "Ripe Tomato - 1 medium (chopped)",
+          "hi": "पका टमाटर - 1 मध्यम"
+        },
+        {
+          "en": "Garlic Cloves - 10 (peeled)",
+          "hi": "लहसुन की कलियां - 10"
+        },
+        {
+          "en": "Fresh Ginger - 1 inch",
+          "hi": "ताजा अदरक - 1 इंच"
+        },
+        {
+          "en": "Salt - 1/2 tsp & Sugar - 1/4 tsp",
+          "hi": "नमक - 1/2 छोटा चम्मच और चीनी - 1/4 छोटा चम्मच"
+        },
+        {
+          "en": "Fresh Coriander - 1 tbsp",
+          "hi": "ताजा हरा धनिया - 1 चम्मच"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": {
+        "en": "Kneading Whole Wheat Dough",
+        "hi": "गेहूं का आटा गूंधना"
+      },
+      "text": {
+        "en": "In a mixing bowl, combine 1.5 cups whole wheat flour (atta), 1/2 tsp ajwain, and 1 tsp salt. Gradually add 3/4 cup water and knead into a semi-stiff, pliable dough (slightly firmer than roti dough). Smear 1 tbsp oil over the surface, cover with a damp cloth, and rest for 15 minutes.",
+        "hi": "बाउल में 1.5 कप गेहूं का आटा, 1/2 छोटा चम्मच अजवाइन और 1 छोटा चम्मच नमक मिलाएं। थोड़ा-थोड़ा करके 3/4 कप पानी डालें और मध्यम सख्त व लचीला आटा गूंध लें। ऊपर से 1 चम्मच तेल लगाएं और कपड़े से ढककर 15 मिनट रेस्ट दें।"
+      }
+    },
+    {
+      "step": 2,
+      "title": {
+        "en": "Squeezing Veggie Filling Bone-Dry",
+        "hi": "कद्दूकस सब्जियों का पानी निचोड़ना"
+      },
+      "text": {
+        "en": "Grate 2 raw potatoes directly into water to wash away surface starch. Drain and squeeze firmly with both hands to remove all moisture. In a bowl, toss the squeezed grated potatoes with grated carrot, chopped capsicum, chopped onion, grated ginger, black pepper powder, garam masala, salt, and fresh coriander. Let it sit for 2 minutes, then take handfuls and squeeze out any released vegetable juices so the stuffing is completely dry.",
+        "hi": "2 कच्चे आलू को पानी में कद्दूकस करके धो लें ताकि स्टार्च निकल जाए। छलनी में छानकर दोनों हाथों से दबाकर सारा पानी निकाल दें। अब इसमें कद्दूकस गाजर, कटी शिमला मिर्च, प्याज, अदरक, काली मिर्च, गरम मसाला, नमक और हरा धनिया मिलाएं। 2 मिनट बाद पूरे मिश्रण को दोनों हाथों से कसकर निचोड़ लें ताकि अतिरिक्त पानी निकल जाए और स्टफिंग सूखी रहे।"
+      }
+    },
+    {
+      "step": 3,
+      "title": {
+        "en": "Rolling & Assembling Vegetable Logs",
+        "hi": "शीट बेलना और टाइट रोल बनाना"
+      },
+      "text": {
+        "en": "Divide rested dough into 2 large equal portions. Roll each portion on a dusted surface into a large, thin rectangular sheet (approx. 10x12 inches). Spread half of the squeezed dry vegetable filling in an even layer across the sheet, leaving a 1/2 inch border along the edges. Brush the border with flour-water slurry. Starting from the long edge, roll tightly into a snug cylindrical log and press the seam to seal completely.",
+        "hi": "आटे की दो बड़ी लोइयां बनाएं। चकले पर सूखा आटा लगाकर बड़ी और पतली चौकोर रोटी बेलें। आधी सूखी स्टफिंग को रोटी पर एक समान फैलाएं और किनारों पर 1/2 इंच जगह छोड़ें। किनारों पर आटे की स्लरी लगाएं। नीचे से टाइट दबाते हुए रोल करें और किनारे को अच्छी तरह चिपकाकर सील कर दें।"
+      }
+    },
+    {
+      "step": 4,
+      "title": {
+        "en": "Steaming the Rolls to Set (The Healthy Hack)",
+        "hi": "रोल्स को 10-12 मिनट भाप में पकाना"
+      },
+      "text": {
+        "en": "Grease a steamer plate with a few drops of oil. Carefully place the sealed rolls onto the plate. Steam over boiling water on high heat for 10-12 minutes. The wheat outer shell will firm up and cook through while the raw potatoes and carrots inside steam to tender perfection. Remove and let cool completely for 10 minutes so they firm up into sliceable logs.",
+        "hi": "स्टीमर की जाली पर हल्का तेल लगाएं। दोनों रोल्स को जाली पर रखें। तेज आंच पर ढककर 10 से 12 मिनट भाप में पकाएं। गेहूं की बाहरी परत पककर सेट हो जाएगी और अंदर की सब्जियां भी अच्छी तरह स्टीम हो जाएंगी। बाहर निकालें और 10 मिनट पूरी तरह ठंडा होने दें ताकि वे कटने के लिए सख्त हो जाएं।"
+      }
+    },
+    {
+      "step": 5,
+      "title": {
+        "en": "Slicing Pinwheel Medallions",
+        "hi": "रोल्स को 1-इंच के टुकड़ों में काटना"
+      },
+      "text": {
+        "en": "Once cooled and firm to the touch, use a sharp oiled knife to slice each steamed log into 1-inch thick circular pinwheel discs (medallions). Each slice reveals colorful spirals of vibrant veggies neatly bound inside whole wheat layers.",
+        "hi": "पूरी तरह ठंडा होने पर तेल लगे तेज चाकू से रोल को 1-1 इंच मोटे गोल टुकड़ों में काट लें। हर टुकड़े में रंग-बिरंगी सब्जियों की सुंदर जालीदार स्पाइरल दिखेगी।"
+      }
+    },
+    {
+      "step": 6,
+      "title": {
+        "en": "Blending Fiery Street Garlic Dip",
+        "hi": "तीखी लहसुन-टमाटर चटनी बनाना"
+      },
+      "text": {
+        "en": "In a blender jar, combine 8 soaked red chillies, 1 chopped tomato, 10 peeled garlic cloves, 1 inch ginger, salt, a pinch of sugar, and fresh coriander. Blend with a splash of water into a smooth, fiery crimson street-style dipping chutney.",
+        "hi": "मिक्सी में भीगी हुई लाल मिर्च, टमाटर, 10 लहसुन की कलियां, 1 इंच अदरक, नमक, चुटकी भर चीनी और हरा धनिया थोड़ा पानी डालकर एकदम चिकना पीस लें। चटपटी लाल चटनी तैयार है।"
+      }
+    },
+    {
+      "step": 7,
+      "title": {
+        "en": "Pan-Crisping to Golden Perfection",
+        "hi": "तवे पर कुरकुरा सेकना"
+      },
+      "text": {
+        "en": "Heat 2-3 tbsp oil in a non-stick or cast-iron pan on medium flame. Place the sliced pinwheels flat into the pan. Shallow fry for 3-4 minutes per side until the outer crust turns deep golden-brown and delightfully shatteringly crisp. Drain on kitchen paper towels.",
+        "hi": "पैन में 2-3 चम्मच तेल मध्यम आंच पर गर्म करें। कटे हुए टुकड़ों को चपटा करके पैन में रखें। दोनों तरफ से 3-4 मिनट तक सुनहरा और बेहद कुरकुरा होने तक उथला तलें या सेक लें।"
+      }
+    },
+    {
+      "step": 8,
+      "title": {
+        "en": "Serving",
+        "hi": "परोसना"
+      },
+      "text": {
+        "en": "Serve the crackling hot, golden crispy wheat rolls immediately with the spicy street garlic chutney and tomato ketchup.",
+        "hi": "गरमा-गरम कुरकुरे गेहूं के वेज रोल्स को तीखी लहसुन की चटनी और टोमैटो केचप के साथ शाम की चाय पर परोसें।"
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Squeezing all the moisture out of the grated potatoes and vegetables is vital. Wet veggies release liquid during steaming, making the roll soggy inside.",
+      "hi": "कद्दूकस आलू और सब्जियों का पानी निचोड़ना सबसे जरूरी है। गीली सब्जियों से रोल अंदर से चिपचिपा और गीला रह जाता है।"
+    },
+    {
+      "en": "Always let the steamed rolls cool completely before slicing. Slicing them hot will cause the moist vegetable layers to crumble and tear apart.",
+      "hi": "स्टीम करने के बाद रोल्स को पूरी तरह ठंडा होने दें, तभी काटें। गरम काटने से वे बिखर सकते हैं।"
+    },
+    {
+      "en": "These rolls can be steamed ahead of time and refrigerated for up to 3 days. Slice and pan-crisp in 5 minutes whenever ready to serve!",
+      "hi": "इन रोल्स को पहले से स्टीम करके 3 दिन तक फ्रिज में रखा जा सकता है। जब भी खाना हो, काटकर 5 मिनट में तवे पर सेक लें!"
+    }
+  ],
+  "title_en": "Crispy Steamed Atta Veg Rolls & Spicy Garlic Chutney",
+  "title_hi": "गेहूं के आटे के क्रिस्पी वेज रोल्स और तीखी लहसुन चटनी",
+  "description_en": "Healthy meets irresistible! Thin whole wheat sheets packed with crunchy grated veggies and raw potatoes, rolled into tight pinwheels, steamed until set, and pan-crisped to golden perfection, served with street-style fiery garlic-chilli dip.",
+  "description_hi": "बिना मैदा के गेहूं के आटे का बेहद कुरकुरा और स्वादिष्ट नाश्ता! कद्दूकस की हुई ताजी सब्जियों और कच्चे आलू की स्टफिंग से भरे रोल्स, जिन्हें पहले भाप में पकाकर सेट किया जाता है और फिर तवे पर कुरकुरा सेका जाता है।",
+  "prep_time_en": "20 mins",
+  "prep_time_hi": "20 mins",
+  "cook_time_en": "20 mins",
+  "cook_time_hi": "20 mins",
+  "servings_en": "4 servings (12-14 roll bites)",
+  "servings_hi": "4 servings (12-14 roll bites)",
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "youtube_id": "JzhZxCQpM5A",
+  "youtube_url": "https://www.youtube.com/watch?v=JzhZxCQpM5A",
+  "image_url": "https://img.youtube.com/vi/JzhZxCQpM5A/hqdefault.jpg",
+  "ingredients_en": [
+    "Whole Wheat Flour (Atta) - 1.5 cups",
+    "Carom Seeds (Ajwain) - 1/2 tsp",
+    "Salt - 1 tsp",
+    "Water - approx. 3/4 cup (to knead semi-stiff dough)",
+    "Cooking Oil - 1 tbsp",
+    "Raw Potatoes (Kacche Aloo) - 2 medium (peeled, grated, washed & squeezed bone-dry)",
+    "Carrot (Gajar) - 1 medium (finely grated)",
+    "Capsicum (Shimla Mirch) - 1 small (finely diced)",
+    "Onion - 1 medium (finely chopped)",
+    "Fresh Ginger - 1 inch (finely grated)",
+    "Black Pepper Powder (Kali Mirch) - 1 tsp",
+    "Garam Masala - 1/2 tsp",
+    "Salt - 1 tbsp (mixed in to draw moisture & squeezed dry)",
+    "Fresh Coriander leaves - 1/4 cup (chopped)",
+    "All-Purpose Flour (Maida) or Atta - 2 tbsp",
+    "Salt - 1/2 tsp & Water - 3 tbsp (for sealing edges)",
+    "Cooking Oil - 3 to 4 tbsp (for shallow frying / pan-toasting)",
+    "Dry Red Chillies (Sukhi Lal Mirch) - 8 (soaked in warm water)",
+    "Ripe Tomato - 1 medium (chopped)",
+    "Garlic Cloves - 10 (peeled)",
+    "Fresh Ginger - 1 inch",
+    "Salt - 1/2 tsp & Sugar - 1/4 tsp",
+    "Fresh Coriander - 1 tbsp"
+  ],
+  "ingredients_hi": [
+    "गेहूं का आटा - 1.5 कप",
+    "अजवाइन - 1/2 छोटा चम्मच",
+    "नमक - 1 छोटा चम्मच",
+    "पानी - लगभग 3/4 कप (मध्यम सख्त आटा गूंधने हेतु)",
+    "तेल - 1 बड़ा चम्मच",
+    "कच्चे आलू - 2 मध्यम (कद्दूकस करके पानी से धोए और निचोड़े हुए)",
+    "गाजर - 1 मध्यम (बारीक कद्दूकस की हुई)",
+    "शिमला मिर्च - 1 छोटी (बारीक कटी)",
+    "प्याज - 1 मध्यम (बारीक कटा)",
+    "ताजा अदरक - 1 इंच (कद्दूकस किया हुआ)",
+    "काली मिर्च पाउडर - 1 छोटा चम्मच",
+    "गरम मसाला - 1/2 छोटा चम्मच",
+    "नमक - 1 बड़ा चम्मच (स्वादानुसार)",
+    "ताजा हरा धनिया - 1/4 कप",
+    "मैदा या गेहूं का आटा - 2 चम्मच",
+    "नमक - 1/2 छोटा चम्मच और पानी - 3 चम्मच (किनारे चिपकाने हेतु)",
+    "कुकिंग ऑयल - 3 से 4 बड़े चम्मच (उथला तलने या सेकने के लिए)",
+    "साबुत सूखी लाल मिर्च - 8 (गर्म पानी में भिगोई हुई)",
+    "पका टमाटर - 1 मध्यम",
+    "लहसुन की कलियां - 10",
+    "ताजा अदरक - 1 इंच",
+    "नमक - 1/2 छोटा चम्मच और चीनी - 1/4 छोटा चम्मच",
+    "ताजा हरा धनिया - 1 चम्मच"
+  ],
+  "instructions_en": [
+    "In a mixing bowl, combine 1.5 cups whole wheat flour (atta), 1/2 tsp ajwain, and 1 tsp salt. Gradually add 3/4 cup water and knead into a semi-stiff, pliable dough (slightly firmer than roti dough). Smear 1 tbsp oil over the surface, cover with a damp cloth, and rest for 15 minutes.",
+    "Grate 2 raw potatoes directly into water to wash away surface starch. Drain and squeeze firmly with both hands to remove all moisture. In a bowl, toss the squeezed grated potatoes with grated carrot, chopped capsicum, chopped onion, grated ginger, black pepper powder, garam masala, salt, and fresh coriander. Let it sit for 2 minutes, then take handfuls and squeeze out any released vegetable juices so the stuffing is completely dry.",
+    "Divide rested dough into 2 large equal portions. Roll each portion on a dusted surface into a large, thin rectangular sheet (approx. 10x12 inches). Spread half of the squeezed dry vegetable filling in an even layer across the sheet, leaving a 1/2 inch border along the edges. Brush the border with flour-water slurry. Starting from the long edge, roll tightly into a snug cylindrical log and press the seam to seal completely.",
+    "Grease a steamer plate with a few drops of oil. Carefully place the sealed rolls onto the plate. Steam over boiling water on high heat for 10-12 minutes. The wheat outer shell will firm up and cook through while the raw potatoes and carrots inside steam to tender perfection. Remove and let cool completely for 10 minutes so they firm up into sliceable logs.",
+    "Once cooled and firm to the touch, use a sharp oiled knife to slice each steamed log into 1-inch thick circular pinwheel discs (medallions). Each slice reveals colorful spirals of vibrant veggies neatly bound inside whole wheat layers.",
+    "In a blender jar, combine 8 soaked red chillies, 1 chopped tomato, 10 peeled garlic cloves, 1 inch ginger, salt, a pinch of sugar, and fresh coriander. Blend with a splash of water into a smooth, fiery crimson street-style dipping chutney.",
+    "Heat 2-3 tbsp oil in a non-stick or cast-iron pan on medium flame. Place the sliced pinwheels flat into the pan. Shallow fry for 3-4 minutes per side until the outer crust turns deep golden-brown and delightfully shatteringly crisp. Drain on kitchen paper towels.",
+    "Serve the crackling hot, golden crispy wheat rolls immediately with the spicy street garlic chutney and tomato ketchup."
+  ],
+  "instructions_hi": [
+    "बाउल में 1.5 कप गेहूं का आटा, 1/2 छोटा चम्मच अजवाइन और 1 छोटा चम्मच नमक मिलाएं। थोड़ा-थोड़ा करके 3/4 कप पानी डालें और मध्यम सख्त व लचीला आटा गूंध लें। ऊपर से 1 चम्मच तेल लगाएं और कपड़े से ढककर 15 मिनट रेस्ट दें।",
+    "2 कच्चे आलू को पानी में कद्दूकस करके धो लें ताकि स्टार्च निकल जाए। छलनी में छानकर दोनों हाथों से दबाकर सारा पानी निकाल दें। अब इसमें कद्दूकस गाजर, कटी शिमला मिर्च, प्याज, अदरक, काली मिर्च, गरम मसाला, नमक और हरा धनिया मिलाएं। 2 मिनट बाद पूरे मिश्रण को दोनों हाथों से कसकर निचोड़ लें ताकि अतिरिक्त पानी निकल जाए और स्टफिंग सूखी रहे।",
+    "आटे की दो बड़ी लोइयां बनाएं। चकले पर सूखा आटा लगाकर बड़ी और पतली चौकोर रोटी बेलें। आधी सूखी स्टफिंग को रोटी पर एक समान फैलाएं और किनारों पर 1/2 इंच जगह छोड़ें। किनारों पर आटे की स्लरी लगाएं। नीचे से टाइट दबाते हुए रोल करें और किनारे को अच्छी तरह चिपकाकर सील कर दें।",
+    "स्टीमर की जाली पर हल्का तेल लगाएं। दोनों रोल्स को जाली पर रखें। तेज आंच पर ढककर 10 से 12 मिनट भाप में पकाएं। गेहूं की बाहरी परत पककर सेट हो जाएगी और अंदर की सब्जियां भी अच्छी तरह स्टीम हो जाएंगी। बाहर निकालें और 10 मिनट पूरी तरह ठंडा होने दें ताकि वे कटने के लिए सख्त हो जाएं।",
+    "पूरी तरह ठंडा होने पर तेल लगे तेज चाकू से रोल को 1-1 इंच मोटे गोल टुकड़ों में काट लें। हर टुकड़े में रंग-बिरंगी सब्जियों की सुंदर जालीदार स्पाइरल दिखेगी।",
+    "मिक्सी में भीगी हुई लाल मिर्च, टमाटर, 10 लहसुन की कलियां, 1 इंच अदरक, नमक, चुटकी भर चीनी और हरा धनिया थोड़ा पानी डालकर एकदम चिकना पीस लें। चटपटी लाल चटनी तैयार है।",
+    "पैन में 2-3 चम्मच तेल मध्यम आंच पर गर्म करें। कटे हुए टुकड़ों को चपटा करके पैन में रखें। दोनों तरफ से 3-4 मिनट तक सुनहरा और बेहद कुरकुरा होने तक उथला तलें या सेक लें।",
+    "गरमा-गरम कुरकुरे गेहूं के वेज रोल्स को तीखी लहसुन की चटनी और टोमैटो केचप के साथ शाम की चाय पर परोसें।"
+  ],
+  "chef_tips_en": [
+    "Squeezing all the moisture out of the grated potatoes and vegetables is vital. Wet veggies release liquid during steaming, making the roll soggy inside.",
+    "Always let the steamed rolls cool completely before slicing. Slicing them hot will cause the moist vegetable layers to crumble and tear apart.",
+    "These rolls can be steamed ahead of time and refrigerated for up to 3 days. Slice and pan-crisp in 5 minutes whenever ready to serve!"
+  ],
+  "chef_tips_hi": [
+    "कद्दूकस आलू और सब्जियों का पानी निचोड़ना सबसे जरूरी है। गीली सब्जियों से रोल अंदर से चिपचिपा और गीला रह जाता है।",
+    "स्टीम करने के बाद रोल्स को पूरी तरह ठंडा होने दें, तभी काटें। गरम काटने से वे बिखर सकते हैं।",
+    "इन रोल्स को पहले से स्टीम करके 3 दिन तक फ्रिज में रखा जा सकता है। जब भी खाना हो, काटकर 5 मिनट में तवे पर सेक लें!"
+  ],
+  "tags": [
+    "Atta Veg Rolls",
+    "Healthy Snacks",
+    "Steamed Snacks",
+    "Snacks",
+    "Vegetarian"
+  ]
+}

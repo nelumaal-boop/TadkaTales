@@ -1,0 +1,207 @@
+{
+  "id": "traditional-desi-palak-chana",
+  "title_en": "Traditional Desi Palak Chana (Saag Wale Chole)",
+  "title_hi": "पारंपरिक देसी पालक चना (साग वाले काले चने)",
+  "title": {
+    "en": "Traditional Desi Palak Chana (Saag Wale Chole)",
+    "hi": "पारंपरिक देसी पालक चना (साग वाले काले चने)"
+  },
+  "description_en": "2.6M views! The forgotten village secret recipe! Earthy black chickpeas cooked in a lush, spiced spinach puree (palak saag) with curd, ginger, garlic, and hing in mustard oil.",
+  "description_hi": "26 लाख लोगों की पसंदीदा पारंपरिक रेसिपी! सेहतमंद काले चने को ताजी पालक के साग, दही और सरसों के तेल में पकाया गया। एकदम देसी, पौष्टिक और हर निवाले में भरपूर स्वाद।",
+  "description": {
+    "en": "2.6M views! The forgotten village secret recipe! Earthy black chickpeas cooked in a lush, spiced spinach puree (palak saag) with curd, ginger, garlic, and hing in mustard oil.",
+    "hi": "26 लाख लोगों की पसंदीदा पारंपरिक रेसिपी! सेहतमंद काले चने को ताजी पालक के साग, दही और सरसों के तेल में पकाया गया। एकदम देसी, पौष्टिक और हर निवाले में भरपूर स्वाद।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Vegetarian",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "सरल",
+  "prep_time_en": "20 mins",
+  "prep_time_hi": "20 मिनट",
+  "cook_time_en": "30 mins",
+  "cook_time_hi": "30 मिनट",
+  "prepTime": "20 mins",
+  "cookTime": "30 mins",
+  "servings_en": "5 servings",
+  "servings_hi": "5 लोग",
+  "servings": 5,
+  "youtube_id": "RzV69SUtHho",
+  "youtubeId": "RzV69SUtHho",
+  "youtube_url": "https://youtu.be/RzV69SUtHho",
+  "image_url": "/static/images/RzV69SUtHho.jpg",
+  "tags": [
+    "Palak Chana",
+    "Saag",
+    "Kala Chana",
+    "Spinach",
+    "Healthy",
+    "Main Course",
+    "Bharatzkitchen",
+    "Vegetarian"
+  ],
+  "ingredients_en": [
+    "250g Black Chickpeas (Kala Chana), soaked overnight",
+    "Whole Spices for Chana: 3 Cloves, 1 Cinnamon, 1 Black Cardamom, 1 Bay Leaf, 1 tsp Salt",
+    "300g Fresh Spinach (Palak), washed & blanched in hot water with salt & 2 tsp sugar",
+    "1/2 cup Fresh Curd (Dahi)",
+    "1 inch Ginger & 4 Green Chillies",
+    "1/4 cup Mustard Oil & a pinch of Hing (Asafoetida)",
+    "1 tsp Cumin Seeds & 8 Garlic Cloves, finely chopped",
+    "2 medium Onions, finely chopped",
+    "Spices: 1/4 tsp Turmeric, 1 tsp Kashmiri Red Chilli, 2 tsp Coriander Powder",
+    "Salt to taste & Fresh Coriander Leaves"
+  ],
+  "ingredients_hi": [
+    "250 ग्राम काले चने (रातभर भीगे हुए)",
+    "चने उबालने हेतु: 3 लौंग, 1 दालचीनी, 1 बड़ी इलायची, 1 तेज पत्ता, 1 चम्मच नमक",
+    "300 ग्राम ताजी पालक (नमक व 2 चम्मच चीनी वाले पानी में ब्लांच की हुई)",
+    "1/2 कप ताजा दही",
+    "1 इंच अदरक व 4 हरी मिर्च",
+    "1/4 कप सरसों का तेल व चुटकी भर हींग",
+    "1 छोटा चम्मच जीरा व 8 लहसुन की कलियां (बारीक कटी)",
+    "2 प्याज (बारीक कटे)",
+    "मसाले: हल्दी, कश्मीरी लाल मिर्च, धनिया पाउडर व नमक",
+    "हरा धनिया (गार्निश हेतु)"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Boiled Kala Chana (काले चने उबालना)",
+      "category_hi": "काले चने उबालना",
+      "items": [
+        {
+          "name_en": "Kala Chana (Soaked)",
+          "name_hi": "भीगे काले चने",
+          "amount": "250g"
+        },
+        {
+          "name_en": "Whole Spices & Salt",
+          "name_hi": "खड़े मसाले व नमक",
+          "amount": "Cloves, cinnamon, cardamom, bay leaf"
+        }
+      ]
+    },
+    {
+      "category_en": "Vibrant Palak Puree (पालक-दही पेस्ट)",
+      "category_hi": "पालक-दही पेस्ट",
+      "items": [
+        {
+          "name_en": "Fresh Spinach (Blanched)",
+          "name_hi": "ताजी पालक (ब्लांच की)",
+          "amount": "300g"
+        },
+        {
+          "name_en": "Fresh Curd (Dahi)",
+          "name_hi": "ताजा दही",
+          "amount": "1/2 cup"
+        },
+        {
+          "name_en": "Ginger, Chillies & Coriander",
+          "name_hi": "अदरक, मिर्च व धनिया पाउडर",
+          "amount": "1 inch + 4 chillies + 2 tsp"
+        }
+      ]
+    },
+    {
+      "category_en": "Mustard Oil Tadka & Assembly (तड़का व असेंबली)",
+      "category_hi": "तड़का व असेंबली",
+      "items": [
+        {
+          "name_en": "Mustard Oil & Hing",
+          "name_hi": "सरसों तेल व हींग",
+          "amount": "1/4 cup + pinch"
+        },
+        {
+          "name_en": "Garlic, Cumin & Onions",
+          "name_hi": "लहसुन, जीरा व प्याज",
+          "amount": "8 cloves + 1 tsp + 2 onions"
+        },
+        {
+          "name_en": "Turmeric & Chilli Slurry",
+          "name_hi": "हल्दी-मिर्च घोल",
+          "amount": "1/4 tsp + 1 tsp"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Boil Kala Chana: Pressure cook 250g soaked black chickpeas with 3 cloves, 1 cinnamon, 1 black cardamom, 1 bay leaf, 1 tsp salt, and water for 5-6 whistles until completely tender.",
+    "Blanch Spinach: Boil 1 litre water with 1 tbsp salt and 2 tsp sugar. Drop in 300g washed spinach for 1 minute, then transfer immediately to ice-cold water (retains bright emerald green color).",
+    "Blend Palak-Curd Puree: Blend blanched spinach with 1/2 cup curd, 1 inch ginger, 4 green chillies, and 2 tsp coriander powder into a velvety smooth green puree.",
+    "Sauté Onions & Garlic in Mustard Oil: Heat 1/4 cup mustard oil with a pinch of hing. Add 1 tsp cumin seeds and 8 chopped garlic cloves; sauté until fragrant. Add chopped onions and cook until golden.",
+    "Add Spice Slurry: Mix 1/4 tsp turmeric and 1 tsp chilli powder in 1/4 cup water (prevents burning) and pour into the onions. Cook for 2 minutes until oil releases.",
+    "Simmer Palak Saag & Chana: Pour in the green spinach puree. Cook on medium-low flame for 4-5 minutes. Add the boiled black chickpeas along with 1/2 cup of their nutritious cooking stock.",
+    "Simmer & Serve: Simmer for 6-8 minutes until the chickpeas soak in the lush green saag and the curry thickens. Serve steaming hot with makki ki roti or hot parathas!"
+  ],
+  "instructions_hi": [
+    "काले चने उबालना: भीगे चनों को कुकर में लौंग, दालचीनी, बड़ी इलायची, तेज पत्ता, नमक और पानी के साथ 5-6 सीटी लगाकर पूरी तरह गला लें।",
+    "पालक ब्लांच करना: पानी में नमक और 2 चम्मच चीनी डालकर उबालें। पालक को 1 मिनट उबालें और तुरंत बर्फीले ठंडे पानी में डालें (हरा रंग बरकरार रहेगा)।",
+    "पालक-दही पेस्ट पीसना: ब्लांच पालक को 1/2 कप दही, 1 इंच अदरक, 4 हरी मिर्च और 2 चम्मच धनिया पाउडर के साथ मिक्सी में पीसकर पेस्ट बनाएं।",
+    "सरसों तेल में प्याज-लहसुन भूनना: सरसों तेल में हींग, जीरा और लहसुन चटकाएं। प्याज डालकर सुनहरा होने तक भूनें।",
+    "हल्दी-मिर्च का घोल डालना: हल्दी और मिर्च को थोड़े पानी में घोलकर प्याज में डालें ताकि मसाले जलें नहीं। 2 मिनट भूनें।",
+    "पालक साग व चने मिलाना: पालक का हरा पेस्ट डालें और 4-5 मिनट भूनें। अब उबले काले चने और थोड़ा चने का पानी मिलाएं।",
+    "धीमी आंच पर पकाना व परोसना: 6-8 मिनट धीमी आंच पर पकाएं ताकि चनों में पालक का स्वाद समा जाए। गरमा-गरम रोटी या पराठे के साथ परोसें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Pressure Cook Black Chickpeas",
+      "title_hi": "काले चने उबालना",
+      "instruction_en": "Boil soaked kala chana with whole spices and salt for 5-6 whistles until soft.",
+      "instruction_hi": "कुकर में काले चने को खड़े मसालों के साथ 5-6 सीटी में गला लें।"
+    },
+    {
+      "step": 2,
+      "title_en": "Blanch Spinach in Sugared Water",
+      "title_hi": "पालक ब्लांच करना",
+      "instruction_en": "Blanch spinach in boiling water with sugar and salt, then plunge into cold water.",
+      "instruction_hi": "पालक को चीनी-नमक वाले पानी में 1 मिनट उबालकर ठंडे पानी में डालें।"
+    },
+    {
+      "step": 3,
+      "title_en": "Blend Vibrant Palak-Curd Puree",
+      "title_hi": "पालक-दही प्यूरी पीसना",
+      "instruction_en": "Blend blanched spinach with fresh curd, ginger, chillies, and coriander powder.",
+      "instruction_hi": "पालक को दही, अदरक, हरी मिर्च और धनिया के साथ पीस लें।"
+    },
+    {
+      "step": 4,
+      "title_en": "Sauté Garlic & Golden Onions",
+      "title_hi": "लहसुन व प्याज भूनना",
+      "instruction_en": "Heat mustard oil with hing and cumin; brown chopped garlic and onions.",
+      "instruction_hi": "सरसों तेल में हींग, जीरा, लहसुन और प्याज को सुनहरा भूनें।"
+    },
+    {
+      "step": 5,
+      "title_en": "Cook Spices Slurry",
+      "title_hi": "मसाला घोल पकाना",
+      "instruction_en": "Pour in turmeric and chilli water slurry; cook until oil floats on top.",
+      "instruction_hi": "हल्दी-मिर्च का घोल डालकर तेल अलग होने तक भूनें।"
+    },
+    {
+      "step": 6,
+      "title_en": "Simmer Palak Saag with Chana",
+      "title_hi": "पालक साग में चने पकाना",
+      "instruction_en": "Add spinach puree, cook 4 minutes, then fold in boiled chickpeas and stock.",
+      "instruction_hi": "पालक प्यूरी और उबले काले चने मिलाकर 6-8 मिनट धीमी आंच पर पकाएं।"
+    },
+    {
+      "step": 7,
+      "title_en": "Finish & Serve Hot",
+      "title_hi": "गरमा-गरम परोसना",
+      "instruction_en": "Garnish with fresh coriander and serve hot with parathas or rice!",
+      "instruction_hi": "हरा धनिया डालकर गरमा-गरम पराठे या चावल के साथ आनंद लें!"
+    }
+  ],
+  "chef_tips_en": [
+    "Sugar in Blanching Water: Adding 2 tsp sugar to the boiling water preserves the chlorophyll, ensuring the palak puree stays brilliant emerald green.",
+    "Curd in Spinach Puree: Blending fresh curd with spinach cuts the metallic iron aftertaste and provides a luscious creamy texture.",
+    "Water Spice Slurry (Insurance): Dissolving turmeric and chilli in a splash of water prevents them from burning in smoking mustard oil."
+  ],
+  "chef_tips_hi": [
+    "पालक में चीनी की ट्रिक: पालक उबालते समय 2 चम्मच चीनी डालने से पालक का प्राकृतिक चमकीला हरा रंग बिल्कुल बरकरार रहता है।",
+    "पालक में दही का संगम: पालक पीसते समय थोड़ा दही मिलाने से पालक का कसैलापन खत्म होता है और ग्रेवी मखमली बनती है।",
+    "मसाले का पानी में घोल: गर्म तेल में सीधे सूखे मसाले डालने के बजाय पानी में घोलकर डालने से मसाले कभी जलते नहीं हैं।"
+  ]
+}

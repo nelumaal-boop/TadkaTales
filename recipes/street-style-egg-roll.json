@@ -1,0 +1,170 @@
+{
+  "id": "street-style-egg-roll",
+  "title_en": "Kolkata Street Style Egg Roll (Healthy Atta-Maida)",
+  "title_hi": "बाज़ार जैसा स्ट्रीट स्टाइल एग रोल (अंडा रोल रेसिपी)",
+  "title": {
+    "en": "Kolkata Street Style Egg Roll (Healthy Atta-Maida)",
+    "hi": "बाज़ार जैसा स्ट्रीट स्टाइल एग रोल (अंडा रोल रेसिपी)"
+  },
+  "description_en": "Recreate iconic Kolkata roadside Egg Rolls at home with Kabita's Kitchen. Features a healthier, flaky atta-maida hybrid paratha fused seamlessly with a fluffy seasoned omelette, stuffed with crunchy onions, capsicum, chaat masala, lemon, and creamy sauces.",
+  "description_hi": "कबिताज़ किचन की आसान और हेल्दी कोलकाता स्ट्रीट स्टाइल अंडा रोल (Egg Roll) रेसिपी। गेहूं के आटे और मैदे से बना खस्ता पराठा, जिसे तवे पर फूले हुए ऑमलेट के साथ चिपकाकर क्रंची प्याज, शिमला मिर्च, चाट मसाला, नींबू और सॉसेज के साथ रोल किया जाता है।",
+  "description": {
+    "en": "Recreate iconic Kolkata roadside Egg Rolls at home with Kabita's Kitchen. Features a healthier, flaky atta-maida hybrid paratha fused seamlessly with a fluffy seasoned omelette, stuffed with crunchy onions, capsicum, chaat masala, lemon, and creamy sauces.",
+    "hi": "कबिताज़ किचन की आसान और हेल्दी कोलकाता स्ट्रीट स्टाइल अंडा रोल (Egg Roll) रेसिपी। गेहूं के आटे और मैदे से बना खस्ता पराठा, जिसे तवे पर फूले हुए ऑमलेट के साथ चिपकाकर क्रंची प्याज, शिमला मिर्च, चाट मसाला, नींबू और सॉसेज के साथ रोल किया जाता है।"
+  },
+  "category": "Snacks",
+  "diet": "Non-Veg",
+  "diet_hi": "मांसाहारी",
+  "isVegetarian": false,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cook_time_en": "15 mins",
+  "cook_time_hi": "15 मिनट",
+  "prepTime": "15 mins",
+  "cookTime": "15 mins",
+  "servings_en": "4 Rolls",
+  "servings_hi": "4 रोल",
+  "servings": "4 Rolls",
+  "youtube_id": "45fRzOhPdMI",
+  "youtubeId": "45fRzOhPdMI",
+  "youtube_url": "https://www.youtube.com/watch?v=45fRzOhPdMI",
+  "image_url": "https://img.youtube.com/vi/45fRzOhPdMI/hqdefault.jpg",
+  "tags": [
+    "egg roll",
+    "anda roll",
+    "kolkata street food",
+    "kabitas kitchen",
+    "frankie",
+    "kathi roll",
+    "snack wrap"
+  ],
+  "ingredients_en": [
+    "1 cup Whole wheat flour (gehun ka atta, for wholesome nutrition)",
+    "1/2 cup All-purpose flour (maida, for street-style flakiness and stretch)",
+    "1 tbsp Cooking oil + 1/2 tsp Salt (for dough)",
+    "Warm water as needed to knead soft dough",
+    "4 Fresh Eggs (1 egg per roll, or 2 for double egg roll)",
+    "3-4 tbsp Cooking oil (for roasting parathas and omelettes)",
+    "1/2 cup Onion (thinly sliced into long strands)",
+    "1/2 cup Green Bell Pepper / Capsicum (thinly julienned)",
+    "2 Green chillies (finely minced, optional)",
+    "1/2 tsp Freshly ground black pepper powder",
+    "1 tsp Chaat masala powder (for signature street tang)",
+    "1 tbsp Fresh lemon juice",
+    "2-3 tbsp Eggless Mayonnaise (for creamy street moisture)",
+    "2-3 tbsp Tomato Ketchup",
+    "1-2 tbsp Green Chilli Sauce or mint chutney",
+    "Salt to taste"
+  ],
+  "ingredients_hi": [
+    "1 कप गेहूं का आटा (पौष्टिकता के लिए)",
+    "1/2 कप मैदा (खस्तापन और खिंचाव के लिए)",
+    "1 बड़ा चम्मच तेल + 1/2 छोटा चम्मच नमक (आटे के लिए)",
+    "नरम आटा गूंथने के लिए गुनगुना पानी",
+    "4 ताज़ा अंडे (प्रति रोल 1 अंडा, डबल एग के लिए 2)",
+    "3-4 बड़ा चम्मच तेल (पराठा और ऑमलेट सेकने के लिए)",
+    "1/2 कप प्याज (लंबे पतले लच्छों में कटा हुआ)",
+    "1/2 कप शिमला मिर्च (पतली लंबी कटी हुई)",
+    "2 हरी मिर्च (बारीक कटी हुई)",
+    "1/2 छोटा चम्मच पिसी काली मिर्च पाउडर",
+    "1 छोटा चम्मच चाट मसाला पाउडर (चटपटे स्वाद के लिए)",
+    "1 बड़ा चम्मच नींबू का रस",
+    "2-3 बड़ा चम्मच मेयोनेज़ (क्रीमी स्वाद के लिए)",
+    "2-3 बड़ा चम्मच टोमैटो केचप",
+    "1-2 बड़ा चम्मच ग्रीन चिली सॉस या हरी चटनी",
+    "स्वादानुसार नमक"
+  ],
+  "ingredients": [
+    {
+      "category": "Flaky Atta-Maida Paratha Dough",
+      "items": [
+        { "en": "1 cup Atta & 1/2 cup Maida", "hi": "1 कप गेहूं आटा और 1/2 कप मैदा" },
+        { "en": "1 tbsp Oil, 1/2 tsp Salt & Warm water", "hi": "1 चम्मच तेल, नमक और गुनगुना पानी" }
+      ]
+    },
+    {
+      "category": "Omelette Layer",
+      "items": [
+        { "en": "4 Eggs (whisked with salt & black pepper)", "hi": "4 अंडे (नमक और काली मिर्च के साथ फेंटे हुए)" },
+        { "en": "Cooking oil for tawa searing", "hi": "तवे पर सेकने के लिए तेल" }
+      ]
+    },
+    {
+      "category": "Crunchy Street Salad & Sauces",
+      "items": [
+        { "en": "Sliced Onions, Capsicum & Green chillies", "hi": "लंबे कटे प्याज, शिमला मिर्च और हरी मिर्च" },
+        { "en": "Chaat masala, Black pepper & Lemon juice", "hi": "चाट मसाला, काली मिर्च और नींबू का रस" },
+        { "en": "Mayonnaise, Tomato ketchup & Green chilli sauce", "hi": "मेयोनेज़, टोमैटो केचप और ग्रीन चिली सॉस" }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Step 1 - Knead the Dough: In a mixing bowl, combine whole wheat flour, maida, salt, and 1 tbsp oil. Rub oil with fingertips, then gradually add warm water. Knead into a soft, smooth, elastic dough (similar to paratha dough). Cover with a damp cloth and rest for 15 minutes.",
+    "Step 2 - Roll the Parathas: Divide the dough into 4 equal portions. Dust with dry flour and roll each ball into an 8-inch round paratha of even medium thickness.",
+    "Step 3 - Semi-Roast the Parathas: Heat a flat tawa on medium-high flame. Place the rolled paratha and cook for 30-40 seconds on one side until light spots appear. Flip, drizzle 1/2 tsp oil, and cook the other side until lightly golden-speckled. Remove to a plate. (Pre-roasting ensures the paratha cooks crisp and doesn't remain raw under the egg).",
+    "Step 4 - The Egg Bonding Masterstroke: In a small bowl, crack 1 egg with a pinch of salt and a pinch of black pepper. Whisk briskly with a fork for 20 seconds. Drizzle 1 teaspoon of oil on the hot tawa. Pour the beaten egg onto the tawa; it will spread into a round omelette. While the egg is still raw and bubbling on top, immediately place the pre-roasted paratha directly over the egg. Press gently with a flat spatula so the paratha binds tightly with the cooking egg.",
+    "Step 5 - Crisp the Flip: Drizzle a few drops of oil around the edges. After 30 seconds, flip the combined egg-paratha over. Cook the paratha side for 30-45 seconds until golden and crisp, while the egg underneath cooks to a fluffy, golden omelette layer. Transfer to a clean board or parchment paper, egg-side facing up.",
+    "Step 6 - Assemble Street Fillings: Along the center line of the warm egg paratha, arrange a generous strip of crunchy sliced onions, thin capsicum juliennes, and minced green chillies.",
+    "Step 7 - Season & Sauce: Sprinkle a generous pinch of chaat masala and freshly ground black pepper. Squeeze a few drops of fresh lemon juice over the onions. Drizzle lines of creamy mayonnaise, tangy tomato ketchup, and spicy green chilli sauce across the salad.",
+    "Step 8 - Roll & Wrap: Tightly roll the paratha from one side into a snug cylinder. Wrap the bottom half in butter paper or aluminum foil so the juices and sauces stay inside. Serve hot and crisp for an energizing evening snack or dinner."
+  ],
+  "instructions_hi": [
+    "स्टेप 1 - खस्ता आटा गूंथना: एक बर्तन में गेहूं का आटा, मैदा, नमक और 1 बड़ा चम्मच तेल मिलाएं। गुनगुने पानी की मदद से एक नरम और लचीला आटा गूंथ लें। 15 मिनट गीले कपड़े से ढककर रेस्ट करने दें।",
+    "स्टेप 2 - पराठे बेलना: आटे की 4 बराबर लोइयां बनाएं। सूखा आटा लगाकर 8 इंच का एकसमान गोल पराठा बेल लें।",
+    "स्टेप 3 - पराठे को हल्का सेकना: गरम तवे पर पराठा डालें। 30-40 सेकंड में जब बबल्स आएं तो पलटें। थोड़ा सा तेल लगाकर दोनों तरफ से हल्का सुनहरा सेककर प्लेट में निकाल लें।",
+    "स्टेप 4 - अंडे के साथ पराठा चिपकाना (सीक्रेट ट्रिक): एक कटोरी में 1 अंडा तोड़ें, उसमें चुटकी भर नमक और काली मिर्च डालकर कांटे से अच्छी तरह फेंटें। तवे पर 1 छोटा चम्मच तेल गरम करें और फेंटा हुआ अंडा फैलाएं। अंडे के गीले रहते ही तुरंत उसके ऊपर पहले से सेका हुआ पराठा रख दें। स्पैटुला से हल्के हाथ से दबाएं ताकि पराठा और अंडा आपस में अच्छी तरह चिपक जाएं।",
+    "स्टेप 5 - पलटकर सेकना: 30 सेकंड बाद पलट दें। पराठे वाली साइड को 30-40 सेकंड थोड़ा और क्रिस्पी सेकें जब तक अंडा नीचे से फूला हुआ और सुनहरा न हो जाए। बोर्ड या बटर पेपर पर निकालें (अंडे वाला हिस्सा ऊपर रखें)।",
+    "स्टेप 6 - सलाद और मसाले डालना: अंडे के ऊपर बीचों-बीच लंबे कटे प्याज, पतली शिमला मिर्च और हरी मिर्च की एक लाइन लगाएं।",
+    "स्टेप 7 - सॉसेज और चटपटा तड़का: ऊपर से चाट मसाला, काली मिर्च और थोड़ा सा नींबू का रस निचोड़ें। अब मेयोनेज़, टोमैटो केचप और ग्रीन चिली सॉस की लाइनें डालें।",
+    "स्टेप 8 - रोल करना और परोसें: पराठे को एक तरफ से कसकर गोल रोल करें। नीचे के आधे हिस्से को बटर पेपर या फॉइल में लपेट लें ताकि सॉस बाहर न गिरे। गरमा-गरम ठेले जैसा क्रिस्पी और जूसी अंडा रोल तुरंत परोसें।"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": {
+        "en": "Knead whole wheat flour, maida, oil, and salt with warm water into a soft elastic dough. Rest 15 mins.",
+        "hi": "गेहूं के आटे, मैदा, तेल और नमक को पानी के साथ नरम गूंथकर 15 मिनट रेस्ट दें।"
+      }
+    },
+    {
+      "step": 2,
+      "text": {
+        "en": "Roll 8-inch parathas and lightly pre-roast on both sides with a little oil until golden spots appear.",
+        "hi": "8 इंच का पराठा बेलें और तवे पर थोड़ा तेल लगाकर दोनों तरफ हल्का सुनहरा सेक लें।"
+      }
+    },
+    {
+      "step": 3,
+      "text": {
+        "en": "Whisk egg with salt & pepper. Pour onto hot oiled tawa; immediately place pre-cooked paratha on top to fuse.",
+        "hi": "अंडा फेंटकर तवे पर डालें और तुरंत ऊपर पराठा रखकर दबाएं ताकि दोनों चिपक जाएं।"
+      }
+    },
+    {
+      "step": 4,
+      "text": {
+        "en": "Flip to crisp both sides. Place egg-side up; top with sliced onions, capsicum, chaat masala, lemon, and sauces.",
+        "hi": "पलटकर क्रिस्पी सेकें। अंडे के ऊपर प्याज, शिमला मिर्च, चाट मसाला, नींबू, मेयोनेज़ और सॉस डालें।"
+      }
+    },
+    {
+      "step": 5,
+      "text": {
+        "en": "Roll tightly into a wrap, wrap bottom in paper, and serve piping hot street-style.",
+        "hi": "कसकर रोल करें, बटर पेपर में लपेटें और गरमा-गरम ठेले जैसा एग रोल परोसें।"
+      }
+    }
+  ],
+  "chef_tips_en": [
+    "Atta + Maida Hybrid: 100% maida rolls can get rubbery as they cool, while 100% atta lacks the elasticity of street rolls. A 2:1 ratio of whole wheat to maida keeps the paratha flaky, pliable, and nutritious.",
+    "Pre-Roasting the Paratha: Never place a raw, unbaked dough circle onto the beaten egg; always cook the paratha 80% first so the dough crisps fully without absorbing raw egg moisture.",
+    "Raw Crunchy Salad: Keep the sliced onions and capsicum raw and crunchy inside the roll; the textural contrast between hot soft egg, flaky bread, and crisp tangy salad defines the street-side experience."
+  ],
+  "chef_tips_hi": [
+    "आटा और मैदा का सही मिश्रण: सिर्फ मैदे से रोल ठंडा होने पर खिंचने लगता है, जबकि सिर्फ आटे में वह लचक नहीं आती। 2 हिस्सा आटा और 1 हिस्सा मैदा मिलाने से रोल खस्ता, नरम और सेहतमंद बनता है।",
+    "पराठे को पहले सेकना जरूरी: कच्चे पराठे को अंडे पर न चिपकाएं; पराठे को पहले 80% सेक लें ताकि वह कुरकुरा बने और कच्चा न रहे।",
+    "कच्ची क्रंची सब्जियां: प्याज और शिमला मिर्च को पकाएं नहीं; कच्चा सलाद डालने से गर्म ऑमलेट के साथ हर बाइट में बेहतरीन क्रंच और फ्रेशनेस मिलती है।"
+  ]
+}

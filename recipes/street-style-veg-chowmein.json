@@ -1,0 +1,195 @@
+{
+  "id": "street-style-veg-chowmein",
+  "title_en": "Street Style Veg Chowmein (Hakka Noodles)",
+  "title_hi": "बाज़ार जैसी वेज चाऊमीन (स्ट्रीट स्टाइल हक्का नूडल्स)",
+  "title": {
+    "en": "Street Style Veg Chowmein (Hakka Noodles)",
+    "hi": "बाज़ार जैसी वेज चाऊमीन (स्ट्रीट स्टाइल हक्का नूडल्स)"
+  },
+  "description_en": "Recreate iconic Indian street-cart style Veg Chowmein at home with Kabita's Kitchen. Learn the secret to non-sticky, separate noodle strands, high-flame wok tossing with crunchy julienned veggies, and the perfect balance of sweet, spicy, and tangy Indo-Chinese sauces.",
+  "description_hi": "कबिताज़ किचन की सीक्रेट रेसिपी से घर पर बनाएं बिल्कुल बाज़ार जैसी ठेले वाली वेज चाऊमीन। जानिए नूडल्स को बिना चिपचिपा बनाए खिला-खिला उबालने का राज़, तेज़ आंच पर क्रंची सब्जियों का तड़का और चटपटे इंडो-चाइनीज सॉसेज का परफेक्ट संतुलन।",
+  "description": {
+    "en": "Recreate iconic Indian street-cart style Veg Chowmein at home with Kabita's Kitchen. Learn the secret to non-sticky, separate noodle strands, high-flame wok tossing with crunchy julienned veggies, and the perfect balance of sweet, spicy, and tangy Indo-Chinese sauces.",
+    "hi": "कबिताज़ किचन की सीक्रेट रेसिपी से घर पर बनाएं बिल्कुल बाज़ार जैसी ठेले वाली वेज चाऊमीन। जानिए नूडल्स को बिना चिपचिपा बनाए खिला-खिला उबालने का राज़, तेज़ आंच पर क्रंची सब्जियों का तड़का और चटपटे इंडो-चाइनीज सॉसेज का परफेक्ट संतुलन।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "आसान",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cook_time_en": "10 mins",
+  "cook_time_hi": "10 मिनट",
+  "prepTime": "10 mins",
+  "cookTime": "10 mins",
+  "servings_en": "2-3 Servings",
+  "servings_hi": "2-3 लोग",
+  "servings": "2-3 Servings",
+  "youtube_id": "w8dDtaN389M",
+  "youtubeId": "w8dDtaN389M",
+  "youtube_url": "https://www.youtube.com/watch?v=w8dDtaN389M",
+  "image_url": "https://img.youtube.com/vi/w8dDtaN389M/hqdefault.jpg",
+  "tags": [
+    "veg chowmein",
+    "hakka noodles",
+    "street food",
+    "indo chinese",
+    "kabitas kitchen",
+    "noodle recipe",
+    "fast food"
+  ],
+  "ingredients_en": [
+    "150g Chowmein / Hakka Noodles",
+    "4-5 cups Water + 1 tsp Salt + 1 tsp Oil (for boiling noodles)",
+    "3-4 tbsp Cooking oil (for high-heat stir frying)",
+    "4-5 Garlic cloves (finely minced)",
+    "2 Green chillies (slit or diagonally sliced)",
+    "1 Small Onion (thinly sliced)",
+    "1/2 cup Cabbage / Patta gobhi (shredded thin into long strips)",
+    "1/4 cup Carrot / Gajar (cut into thin matchsticks/juliennes)",
+    "1/4 cup Green Bell Pepper / Capsicum (cut into thin strips)",
+    "1/2 cup Spring onion greens (chopped, for tossing and garnish)",
+    "2 tbsp Dark Soy Sauce",
+    "1 tbsp Green Chilli Sauce",
+    "1 tbsp Red Chilli Sauce (or Schezwan sauce)",
+    "1 tbsp Tomato Ketchup (the street cart secret balancer)",
+    "1 tsp White Vinegar",
+    "1/2 tsp Freshly ground black pepper powder (kali mirch)",
+    "Salt to taste (use cautiously as sauces contain sodium)"
+  ],
+  "ingredients_hi": [
+    "150 ग्राम चाऊमीन / हक्का नूडल्स",
+    "4-5 कप पानी + 1 छोटा चम्मच नमक + 1 छोटा चम्मच तेल (नूडल्स उबालने के लिए)",
+    "3-4 बड़ा चम्मच तेल (तेज़ आंच पर टॉस करने के लिए)",
+    "4-5 लहसुन की कलियां (बारीक कटी हुई)",
+    "2 हरी मिर्च (बारीक या तिरछी कटी हुई)",
+    "1 छोटा प्याज (लंबा पतला कटा हुआ)",
+    "1/2 कप पत्तागोभी (लंबे पतले लच्छों में कटी हुई)",
+    "1/4 कप गाजर (पतले लंबे लच्छों में कटी हुई)",
+    "1/4 कप हरी शिमला मिर्च (लंबी पतली कटी हुई)",
+    "1/2 कप हरा प्याज / स्प्रिंग अनियन (बारीक कटा हुआ)",
+    "2 बड़ा चम्मच डार्क सोया सॉस",
+    "1 बड़ा चम्मच ग्रीन चिली सॉस",
+    "1 बड़ा चम्मच रेड चिली सॉस या शेजवान सॉस",
+    "1 बड़ा चम्मच टोमैटो केचप (ठेले वाले स्वाद का सीक्रेट)",
+    "1 छोटा चम्मच सफेद सिरका (विनेगर)",
+    "1/2 छोटा चम्मच पिसी काली मिर्च पाउडर",
+    "स्वादानुसार नमक (सॉस में भी नमक होता है)"
+  ],
+  "ingredients": [
+    {
+      "category": "Noodles & Boiling",
+      "items": [
+        {
+          "en": "150g Chowmein/Noodles",
+          "hi": "150 ग्राम चाऊमीन नूडल्स"
+        },
+        {
+          "en": "Boiling water, 1 tsp Salt & 1 tsp Oil",
+          "hi": "उबलता पानी, 1 चम्मच नमक और तेल"
+        }
+      ]
+    },
+    {
+      "category": "Crunchy Julienned Vegetables",
+      "items": [
+        {
+          "en": "Minced Garlic, Green chillies & Sliced onion",
+          "hi": "बारीक लहसुन, हरी मिर्च और लंबा प्याज"
+        },
+        {
+          "en": "Shredded Cabbage, Carrots & Capsicum",
+          "hi": "पतली पत्तागोभी, गाजर और शिमला मिर्च"
+        },
+        {
+          "en": "Chopped Spring onion greens",
+          "hi": "हरा प्याज (स्प्रिंग अनियन)"
+        }
+      ]
+    },
+    {
+      "category": "Street-Cart Sauce Blend",
+      "items": [
+        {
+          "en": "2 tbsp Soy sauce & 1 tbsp Vinegar",
+          "hi": "2 बड़ा चम्मच सोया सॉस और 1 चम्मच सिरका"
+        },
+        {
+          "en": "Red chilli sauce, Green chilli sauce & Ketchup",
+          "hi": "रेड चिली, ग्रीन चिली सॉस और टोमैटो केचप"
+        },
+        {
+          "en": "1/2 tsp Black pepper & Salt to taste",
+          "hi": "1/2 छोटा चम्मच काली मिर्च और नमक"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Step 1 - Boiling Noodles (Al Dente): In a large pot, bring 5 cups of water to a rolling boil with 1 tsp salt and 1 tsp oil. Drop the noodles in. Cook uncovered on high flame for 3 to 4 minutes only (approx. 80-85% cooked; when cut with a fingernail, there should be slight resistance in the core). Do not overcook or the noodles will turn sticky.",
+    "Step 2 - The Cold Rinse Trick: Drain noodles immediately into a colander. Rinse generously under running cold tap water to immediately halt the residual cooking. Drizzle 1 teaspoon of oil over the noodles and gently toss with your fingers so every strand is coated and completely separated. Spread on a plate.",
+    "Step 3 - High-Heat Wok Searing: Heat 3-4 tbsp oil in a wide kadai or iron wok until smoking hot. Add minced garlic and green chillies. Sauté on high flame for 20-30 seconds until intensely aromatic.",
+    "Step 4 - Flash Stir-Fry Veggies: Add sliced onions, carrots, and cabbage. Stir-fry furiously on high heat for 60 to 90 seconds. Add the green bell peppers (capsicum) and half the spring onion greens. Keep the flame at its highest so the vegetables retain their crisp crunch and pick up a smoky street-side wok aroma without releasing liquid.",
+    "Step 5 - Sauce Emulsion: Add black pepper powder and a light pinch of salt. Pour in dark soy sauce, green chilli sauce, red chilli sauce, tomato ketchup, and white vinegar directly around the edges of the smoking hot wok. Stir rapidly for 15 seconds as the sauces bubble and glaze the vegetables.",
+    "Step 6 - Toss the Noodles: Immediately add the boiled, oil-coated noodles into the wok. Using two forks or pairs of kitchen tongs, lift and toss the noodles with the vegetables on maximum heat for 1.5 to 2 minutes. Ensure all the strands are coated evenly in the dark, glistening, spicy sauce without breaking the noodles.",
+    "Step 7 - Garnish & Serve: Scatter the remaining fresh spring onion greens over the top. Turn off the heat and serve smoking hot straight from the wok into bowls alongside chilli paneer, manchurian, or as a street-style snack."
+  ],
+  "instructions_hi": [
+    "स्टेप 1 - नूडल्स उबालने का सही तरीका: एक बड़े बर्तन में 5 कप पानी, 1 छोटा चम्मच नमक और 1 छोटा चम्मच तेल डालकर तेज़ उबाल आने दें। नूडल्स डालें और तेज़ आंच पर केवल 3 से 4 मिनट तक उबालें (सिर्फ 80-85% तक पकाएं, जब नाखून से काटें तो हल्का कड़ापन महसूस होना चाहिए)। ज्यादा न उबालें वरना नूडल्स हलवा बन जाएंगे।",
+    "स्टेप 2 - ठंडे पानी से धोना और तेल लगाना: तुरंत छलनी में निकालें और नल के ठंडे पानी से अच्छी तरह धो लें ताकि उनकी गर्माहट खत्म हो जाए। अब ऊपर से 1 छोटा चम्मच तेल डालकर हल्के हाथों से मिला लें ताकि एक-एक नूडल बिल्कुल अलग-अलग और खिला-खिला रहे।",
+    "स्टेप 3 - कड़ाही में तेज़ आंच का तड़का: एक बड़ी कड़ाही या लोहे के वॉक में 3-4 बड़ा चम्मच तेल धुआं निकलने तक गरम करें। बारीक कटा लहसुन और हरी मिर्च डालें। तेज़ आंच पर 20-30 सेकंड भूनें जब तक बढ़िया खुशबू न आ जाए।",
+    "स्टेप 4 - सब्जियों को क्रंची भूनना: लंबा कटा प्याज, गाजर और पत्तागोभी डालें। तेज़ आंच पर सिर्फ 1 से 1.5 मिनट लगातार चलाते हुए भूनें। अब शिमला मिर्च और थोड़ा हरा प्याज डालें। आंच को तेज़ ही रखें ताकि सब्जियां गले नहीं बल्कि उनका कुरकुरापन (क्रंच) बना रहे और ठेले वाला स्मोकी स्वाद आए।",
+    "स्टेप 5 - सॉसेज मिलाना: काली मिर्च पाउडर और चुटकी भर नमक डालें। अब कड़ाही के किनारों से डार्क सोया सॉस, ग्रीन चिली सॉस, रेड चिली सॉस, टोमैटो केचप और सिरका डालें। 15 सेकंड तेज़ी से चलाएं।",
+    "स्टेप 6 - नूडल्स को टॉस करना: अब उबले हुए खिले-खिले नूडल्स कड़ाही में डालें। दो कांटों (Forks) या चिमटे की मदद से तेज़ आंच पर 1.5 से 2 मिनट तक ऊपर-नीचे उछालते हुए टॉस करें ताकि सारा सॉस नूडल्स के हर रेशे पर अच्छी तरह लिपट जाए और नूडल्स टूटें भी नहीं।",
+    "स्टेप 7 - गरमा-गरम परोसें: ऊपर से ढेर सारा कटा हुआ हरा प्याज छिड़कें। गरमा-गरम बाज़ार जैसी ठेले वाली वेज चाऊमीन को चिली पनीर या मंचूरियन के साथ परोसें।"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": {
+        "en": "Boil noodles in salted water for 3-4 mins until 80% al dente. Drain, rinse in cold water, and toss with 1 tsp oil.",
+        "hi": "नूडल्स को नमक वाले पानी में 3-4 मिनट 80% उबालें। ठंडे पानी से धोकर 1 चम्मच तेल लगाकर अलग रखें।"
+      }
+    },
+    {
+      "step": 2,
+      "text": {
+        "en": "Heat oil in smoking hot wok; flash fry garlic, chillies, sliced onions, cabbage, carrots, and capsicum for 90 seconds.",
+        "hi": "तेज़ गरम कड़ाही में लहसुन, मिर्च, प्याज, पत्तागोभी, गाजर और शिमला मिर्च को 90 सेकंड क्रंची भूनें।"
+      }
+    },
+    {
+      "step": 3,
+      "text": {
+        "en": "Add soy sauce, green chilli sauce, red chilli sauce, vinegar, ketchup, black pepper, and salt around hot wok edges.",
+        "hi": "सोया सॉस, ग्रीन व रेड चिली सॉस, विनेगर, केचप, काली मिर्च और नमक डालकर 15 सेकंड चलाएं।"
+      }
+    },
+    {
+      "step": 4,
+      "text": {
+        "en": "Tip in the boiled noodles and toss furiously with two forks on maximum heat for 2 minutes to coat every strand.",
+        "hi": "नूडल्स डालें और दो कांटों से तेज़ आंच पर 2 मिनट उछालते हुए टॉस करें ताकि सॉस अच्छी तरह लिपट जाए।"
+      }
+    },
+    {
+      "step": 5,
+      "text": {
+        "en": "Garnish with fresh chopped spring onion greens and serve piping hot straight from the wok.",
+        "hi": "कटा हरा प्याज छिड़कें और कड़ाही से गरमा-गरम बाज़ार जैसी चाऊमीन प्लेट में परोसें।"
+      }
+    }
+  ],
+  "chef_tips_en": [
+    "Cold Water Rinse: Immediately rinsing boiled noodles in cold running tap water washes off surface starches and abruptly arrests carryover cooking, ensuring strands stay 100% separate without clumping.",
+    "Maximum Wok Flame (Wok-Hei): Street vendors cook on high-pressure burners. Keep your kitchen burner on maximum heat so vegetables remain crisp with a smoky charred aroma rather than stewing in released water.",
+    "Tomato Ketchup Secret: Adding just 1 tablespoon of tomato ketchup balances the salty soy sauce and sharp vinegar, mimicking that addictive street-cart sweet-tangy taste."
+  ],
+  "chef_tips_hi": [
+    "ठंडे पानी का जादू: नूडल्स को उबलने के तुरंत बाद ठंडे पानी से धोना सबसे जरूरी है; इससे उनका स्टार्च धुल जाता है और वे आपस में कभी नहीं चिपकते।",
+    "तेज़ आंच पर भूनना: सब्जियां पानी न छोड़ें और उनका क्रंच बना रहे, इसके लिए गैस की आंच हमेशा सबसे तेज़ रखें और लगातार उछालते हुए पकाएं।",
+    "टोमैटो केचप का सीक्रेट: 1 चम्मच टोमैटो केचप डालने से सिरके का खट्टापन और सोया सॉस का तीखापन संतुलित हो जाता है, जिससे बिल्कुल बाज़ार के ठेले जैसा स्वाद आता है।"
+  ]
+}

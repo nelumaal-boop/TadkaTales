@@ -1,0 +1,180 @@
+{
+  "id": "steamed-soya-kofta-curry",
+  "title_en": "Steamed Soya Kofta Curry (Zero-Fry High Protein Gravy)",
+  "title_hi": "बिना तले बने सोया कोफ्ता करी (हाई-प्रोटीन वेज करी)",
+  "title": {
+    "en": "Steamed Soya Kofta Curry (Zero-Fry High Protein Gravy)",
+    "hi": "बिना तले बने सोया कोफ्ता करी (हाई-प्रोटीन वेज करी)"
+  },
+  "description_en": "1.4M views! Tender, melt-in-the-mouth soya koftas made without deep frying! Bound with soaked poha and roasted besan, gently steamed, and simmered in a luscious onion-tomato gravy with cashew cream.",
+  "description_hi": "14 लाख लोगों की पसंदीदा बिना तले बनी सोया कोफ्ता करी! पोहा और भुने बेसन से बंधे मखमली सोया कोफ्ते, जिन्हें तेल में तलने के बजाय भाप में पकाया जाता है और मखमली प्याज-टमाटर की शाही ग्रेवी में परोसा जाता है।",
+  "description": {
+    "en": "1.4M views! Tender, melt-in-the-mouth soya koftas made without deep frying! Bound with soaked poha and roasted besan, gently steamed, and simmered in a luscious onion-tomato gravy with cashew cream.",
+    "hi": "14 लाख लोगों की पसंदीदा बिना तले बनी सोया कोफ्ता करी! पोहा और भुने बेसन से बंधे मखमली सोया कोफ्ते, जिन्हें तेल में तलने के बजाय भाप में पकाया जाता है और मखमली प्याज-टमाटर की शाही ग्रेवी में परोसा जाता है।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Vegetarian",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "prep_time_en": "20 mins",
+  "prep_time_hi": "20 मिनट",
+  "cook_time_en": "25 mins",
+  "cook_time_hi": "25 मिनट",
+  "prepTime": "20 mins",
+  "cookTime": "25 mins",
+  "servings_en": "4-5 servings",
+  "servings_hi": "4-5 लोग",
+  "servings": 4,
+  "youtube_id": "7z-8h54khfo",
+  "youtubeId": "7z-8h54khfo",
+  "youtube_url": "https://youtu.be/7z-8h54khfo",
+  "image_url": "/static/images/7z-8h54khfo.jpg",
+  "tags": [
+    "Soya Kofta",
+    "Curry",
+    "Steamed",
+    "Zero Fry",
+    "High Protein",
+    "Main Course",
+    "Bharatzkitchen",
+    "Vegetarian"
+  ],
+  "ingredients_en": [
+    "Steamed Kofta Ingredients: 2 cups Soya Chunks (boiled & minced), 1/3 cup Poha (washed & mashed), 1 tbsp Desi Ghee, 3 tbsp Besan, 1/2 tsp Kashmiri Chilli, 3 Green Chillies, 2 Garlic cloves, 1/2 inch Ginger, 1 tsp Salt, 1/2 tsp Roasted Cumin Powder, Coriander leaves",
+    "Rich Gravy Ingredients: 2 large Onions (finely chopped), 2 large Ripe Tomatoes (pureed), 6 Garlic cloves & 1 inch Ginger, 2 Green Chillies, 1/4 cup Cooking Oil, 1 tsp Cumin Seeds, 1 Bay Leaf, 1/2 tsp Turmeric, 1 tsp Kashmiri Chilli, 1 tbsp Coriander Powder, 1/2 tsp Garam Masala, 1 tsp Kasuri Methi, 1.5 cups Water, Salt to taste"
+  ],
+  "ingredients_hi": [
+    "स्टीम्ड कोफ्ता सामग्री: 2 कप सोया चंक्स (उबले व पिसे हुए), 1/3 कप पोहा (धुला व मसला हुआ), 1 बड़ा चम्मच देसी घी, 3 बड़े चम्मच बेसन, 1/2 छोटा चम्मच कश्मीरी मिर्च, हरी मिर्च, लहसुन, अदरक, 1 छोटा चम्मच नमक, भुना जीरा पाउडर व हरा धनिया",
+    "ग्रेवी सामग्री: 2 प्याज (बारीक कटे), 2 पके टमाटर (प्यूरी), 6 लहसुन कलियां व 1 इंच अदरक, 2 हरी मिर्च, 1/4 कप तेल, जीरा, तेज पत्ता, हल्दी, कश्मीरी मिर्च, धनिया पाउडर, गरम मसाला, कसूरी मेथी, 1.5 कप पानी व नमक"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Steamed Soya Koftas (भाप में पके कोफ्ते)",
+      "category_hi": "भाप में पके कोफ्ते",
+      "items": [
+        {
+          "name_en": "Minced Soya Chunks",
+          "name_hi": "सोया कीमा",
+          "amount": "2 cups (80g)"
+        },
+        {
+          "name_en": "Washed Poha (Flatted Rice)",
+          "name_hi": "धुला हुआ पोहा",
+          "amount": "1/3 cup"
+        },
+        {
+          "name_en": "Besan & Desi Ghee",
+          "name_hi": "बेसन व देसी घी",
+          "amount": "3 tbsp + 1 tbsp"
+        },
+        {
+          "name_en": "Ginger, Garlic, Chillies & Salt",
+          "name_hi": "अदरक, लहसुन, मिर्च व नमक",
+          "amount": "As listed"
+        }
+      ]
+    },
+    {
+      "category_en": "Makhani Gravy Base (शाही ग्रेवी)",
+      "category_hi": "शाही ग्रेवी",
+      "items": [
+        {
+          "name_en": "Onions & Tomato Puree",
+          "name_hi": "प्याज व टमाटर प्यूरी",
+          "amount": "2 onions + 2 tomatoes"
+        },
+        {
+          "name_en": "Ginger-Garlic Paste & Chillies",
+          "name_hi": "अदरक-लहसुन व हरी मिर्च",
+          "amount": "1 tbsp + 2 chillies"
+        },
+        {
+          "name_en": "Spices, Kasuri Methi & Oil",
+          "name_hi": "मसाले, कसूरी मेथी व तेल",
+          "amount": "As listed"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Make Kofta Dough: Boil 2 cups soya chunks in salted water, squeeze dry, and pulse in a blender. In a bowl, mix soya keema with 1/3 cup soaked mashed poha, 3 tbsp besan, 1 tbsp desi ghee, ginger, garlic, chillies, cumin powder, salt, and coriander into a smooth dough.",
+    "Shape & Steam Koftas: Roll into smooth lemon-sized balls. Arrange on a greased steamer plate and steam over boiling water for 10-12 minutes until firm and cooked through. Keep aside.",
+    "Sauté Onions & Aromatics: Heat oil in a kadai. Splutter cumin seeds and bay leaf. Add finely chopped onions and sauté until golden brown. Add minced ginger and garlic; sauté 2 minutes.",
+    "Bhunao Tomato Masala: Add pureed tomatoes, turmeric, Kashmiri red chilli powder, coriander powder, and salt. Cook on medium flame until oil separates completely from the edges.",
+    "Simmer Gravy: Pour in 1.5 cups warm water. Bring to a boil and simmer for 5 minutes until rich and velvety. Stir in 1/2 tsp garam masala and crushed kasuri methi.",
+    "Add Steamed Koftas: Gently slide the steamed soft soya koftas into the simmering gravy. Cover and cook on low heat for 3-4 minutes so the koftas absorb the rich gravy without breaking.",
+    "Garnish & Serve: Garnish with fresh coriander and a swirl of cream. Serve hot with garlic naan, rotis, or jeera rice!"
+  ],
+  "instructions_hi": [
+    "कोफ्ता आटा तैयार करना: 2 कप सोया चंक्स को उबालकर निचोड़ें और मिक्सी में पीसें। इसमें 1/3 कप भीगा हुआ मसला पोहा, 3 चम्मच बेसन, 1 चम्मच देसी घी, अदरक, लहसुन, मिर्च, भुना जीरा और नमक मिलाकर आटा गूंथ लें।",
+    "कोफ्ते बनाना व भाप में पकाना: नींबू के आकार की गोलियां बनाएं और स्टीमर में 10-12 मिनट भाप में पका लें।",
+    "प्याज व अदरक-लहसुन भूनना: कड़ाही में तेल गरम करके जीरा और तेज पत्ता चटकाएं। प्याज डालकर सुनहरा भूनें और अदरक-लहसुन पेस्ट भूनें।",
+    "टमाटर मसाले की भुनाई: टमाटर प्यूरी, हल्दी, कश्मीरी मिर्च, धनिया पाउडर और नमक डालकर तेल छोड़ने तक भूनें।",
+    "ग्रेवी पकाना: 1.5 कप पानी डालें और 5 मिनट धीमी आंच पर पकाएं। गरम मसाला और कसूरी मेथी मिलाएं।",
+    "कोफ्ते मिलाना: भाप में पके कोफ्ते ग्रेवी में हल्के हाथ से डालें। ढककर 3-4 मिनट पकाएं ताकि कोफ्ते रसदार हो जाएं।",
+    "परोसना: ऊपर से हरा धनिया डालें और गरमा-गरम नान, पराठे या जीरा राइस के साथ परोसें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Prepare Soya-Poha Dough",
+      "title_hi": "सोया-पोहा मिश्रण बनाना",
+      "instruction_en": "Blend boiled soya chunks with mashed soaked poha, besan, ghee, and spices.",
+      "instruction_hi": "उबली सोयाबीन को पोहा, बेसन, घी और मसालों के साथ मिलाकर मिश्रण बनाएं।"
+    },
+    {
+      "step": 2,
+      "title_en": "Steam Koftas for 10-12 Mins",
+      "title_hi": "भाप में कोफ्ते पकाना",
+      "instruction_en": "Roll into balls and steam over water for 10-12 minutes until firm without oil.",
+      "instruction_hi": "गोलियां बनाकर 10-12 मिनट भाप में पकाएं ताकि वे बिना तले फर्म हो जाएं।"
+    },
+    {
+      "step": 3,
+      "title_en": "Brown Onions & Ginger-Garlic",
+      "title_hi": "प्याज व अदरक-लहसुन भूनना",
+      "instruction_en": "Sauté onions, cumin, and bay leaf until golden; add ginger and garlic.",
+      "instruction_hi": "जीरा, तेज पत्ता, प्याज और अदरक-लहसुन को सुनहरा भूनें।"
+    },
+    {
+      "step": 4,
+      "title_en": "Bhunao Tomato Spices Base",
+      "title_hi": "टमाटर व मसाले भूनना",
+      "instruction_en": "Cook tomato puree with turmeric, coriander, chilli, and salt till oil separates.",
+      "instruction_hi": "टमाटर प्यूरी और सभी सूखे मसाले डालकर तेल छोड़ने तक भूनें।"
+    },
+    {
+      "step": 5,
+      "title_en": "Simmer Velvety Curry",
+      "title_hi": "ग्रेवी उबालना",
+      "instruction_en": "Add water, simmer 5 minutes, then finish with garam masala and kasuri methi.",
+      "instruction_hi": "पानी डालकर 5 मिनट उबालें और गरम मसाला व कसूरी मेथी मिलाएं।"
+    },
+    {
+      "step": 6,
+      "title_en": "Simmer Steamed Koftas in Gravy",
+      "title_hi": "कोफ्ते ग्रेवी में पकाना",
+      "instruction_en": "Gently place steamed koftas into simmering gravy; cook 3-4 minutes to absorb flavors.",
+      "instruction_hi": "कोफ्ते ग्रेवी में डालकर 3-4 मिनट पकाएं ताकि वे अंदर तक रसदार हो जाएं।"
+    },
+    {
+      "step": 7,
+      "title_en": "Garnish & Serve Hot",
+      "title_hi": "हरा धनिया डालकर परोसना",
+      "instruction_en": "Garnish with fresh coriander and serve hot with garlic naan or jeera rice!",
+      "instruction_hi": "हरा धनिया डालकर गरमा-गरम रोटी, नान या चावल के साथ आनंद लें!"
+    }
+  ],
+  "chef_tips_en": [
+    "Poha for Moisture & Binding: Soaked and mashed poha acts as the moisture sponge, keeping the steamed koftas incredibly soft and preventing them from turning rubbery.",
+    "Steaming Eliminates Deep Frying: Steaming koftas preserves all soy isoflavones and proteins while cutting out 80% of fat.",
+    "Gentle Simmer: Never aggressively stir koftas with a sharp spoon; gently swirl the pan to coat them."
+  ],
+  "chef_tips_hi": [
+    "पोहा का जादू: भीगा हुआ पोहा कोफ्ते में नमी बनाए रखता है, जिससे भाप में पकने के बाद भी कोफ्ते बिल्कुल नरम रहते हैं।",
+    "बिना तले भाप में पकाना: कोफ्तों को तलने के बजाय भाप में पकाने से 80% तेल बचता है और यह 100% सेहतमंद रहता है।",
+    "कलछी हल्के हाथ से चलाना: कोफ्ते ग्रेवी में डालने के बाद उन्हें कलछी से तेजी से न चलाएं, बर्तन को हिलाकर ग्रेवी में मिलाएं।"
+  ]
+}

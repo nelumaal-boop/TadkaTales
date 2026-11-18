@@ -1,0 +1,216 @@
+{
+  "id": "super-crispy-street-kanda-bhajji",
+  "title_en": "Super Crispy Street-Style Kanda Bhajji (Mumbai Onion Pakora & Thecha Chutney)",
+  "title_hi": "सुपर क्रिस्पी मुंबई स्ट्रीट स्टाइल कांदा भज्जी (खस्ता प्याज के पकोड़े व तीखी चटनी)",
+  "title": {
+    "en": "Super Crispy Street-Style Kanda Bhajji (Mumbai Onion Pakora & Thecha Chutney)",
+    "hi": "सुपर क्रिस्पी मुंबई स्ट्रीट स्टाइल कांदा भज्जी (खस्ता प्याज के पकोड़े व तीखी चटनी)"
+  },
+  "description_en": "1.5M views! The authentic Mumbai street secret to ultra-crispy, zero-water Kanda Bhajji (onion fritters) that stay crunchy for hours! Coated in crushed spices, carom seeds, rice flour, and hot oil, served with fiery garlic thecha chutney.",
+  "description_hi": "15 लाख लोगों द्वारा देखी गई मुंबई की असली कांदा भज्जी रेसिपी! बिना एक बूंद पानी मिलाए, प्याज के अपने पानी में बेसन और चावल के आटे से तैयार पकोड़े, जो घंटों तक सुपर क्रिस्पी बने रहते हैं। साथ में मुंबई की तीखी लहसुन-मिर्च चटनी।",
+  "description": {
+    "en": "1.5M views! The authentic Mumbai street secret to ultra-crispy, zero-water Kanda Bhajji (onion fritters) that stay crunchy for hours! Coated in crushed spices, carom seeds, rice flour, and hot oil, served with fiery garlic thecha chutney.",
+    "hi": "15 लाख लोगों द्वारा देखी गई मुंबई की असली कांदा भज्जी रेसिपी! बिना एक बूंद पानी मिलाए, प्याज के अपने पानी में बेसन और चावल के आटे से तैयार पकोड़े, जो घंटों तक सुपर क्रिस्पी बने रहते हैं। साथ में मुंबई की तीखी लहसुन-मिर्च चटनी।"
+  },
+  "category": "Snacks",
+  "diet": "Vegetarian",
+  "diet_hi": "शाकाहारी",
+  "isVegetarian": true,
+  "difficulty_en": "Easy",
+  "difficulty_hi": "सरल",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cook_time_en": "15 mins",
+  "cook_time_hi": "15 मिनट",
+  "prepTime": "15 mins",
+  "cookTime": "15 mins",
+  "servings_en": "4 servings",
+  "servings_hi": "4 लोग",
+  "servings": 4,
+  "youtube_id": "LcZTetYu0Es",
+  "youtubeId": "LcZTetYu0Es",
+  "youtube_url": "https://youtu.be/LcZTetYu0Es",
+  "image_url": "/static/images/LcZTetYu0Es.jpg",
+  "tags": [
+    "Kanda Bhajji",
+    "Onion Pakora",
+    "Pakora",
+    "Street Food",
+    "Monsoon Special",
+    "Snacks",
+    "Bharatzkitchen",
+    "Vegetarian"
+  ],
+  "ingredients_en": [
+    "500g Onions, thinly sliced length-wise (lachha)",
+    "1.5 tsp Salt (to draw out moisture)",
+    "1 cup Gram Flour (Besan) - added gradually",
+    "3-4 tbsp Rice Flour (Chawal ka Atta - for extreme long-lasting crispiness)",
+    "1 tbsp Smoking Hot Oil (added to batter)",
+    "1 tbsp Whole Coriander Seeds (crushed)",
+    "1/2 tsp Carom Seeds (Ajwain, crushed)",
+    "1 tsp Cumin Seeds (Jeera)",
+    "10-12 Fresh Curry Leaves, chopped",
+    "3 Garlic Cloves & 1 inch Ginger, minced",
+    "3 Green Chillies, chopped",
+    "1/4 tsp Turmeric & a pinch of Hing",
+    "1 tsp Kashmiri Red Chilli & 1/2 tsp Hot Red Chilli Powder",
+    "20g Fresh Coriander Leaves, chopped",
+    "Oil for deep frying",
+    "Spicy Street Chutney: 6 Garlic cloves, 5 Green chillies, 2 Dry red chillies, 1 inch Ginger, Coriander, Lemon juice & Salt"
+  ],
+  "ingredients_hi": [
+    "500 ग्राम प्याज (पतले लंबे लच्छों में कटा)",
+    "1.5 छोटा चम्मच नमक (प्याज से पानी निकालने हेतु)",
+    "1 कप बेसन (धीरे-धीरे मिलाया हुआ)",
+    "3-4 बड़े चम्मच चावल का आटा (सुपर क्रिस्पी बनाने हेतु)",
+    "1 बड़ा चम्मच तेज गरम तेल (बैटर में डालने हेतु)",
+    "1 बड़ा चम्मच साबुत धनिया (दरदरा कुटा)",
+    "1/2 छोटा चम्मच अजवाइन (हाथ से मसली हुई)",
+    "1 छोटा चम्मच जीरा व चुटकी भर हींग",
+    "10-12 कढ़ी पत्ते (बारीक कटे)",
+    "3 लहसुन कलियां, 1 इंच अदरक व 3 हरी मिर्च (बारीक कटी)",
+    "हल्दी, कश्मीरी मिर्च, तीखी मिर्च व हरा धनिया",
+    "तलने के लिए तेल",
+    "तीखी चटनी: लहसुन, हरी मिर्च, सूखी लाल मिर्च, अदरक, हरा धनिया, नींबू रस व नमक"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Sliced Onions & Moisture Base (प्याज व मसाले)",
+      "category_hi": "प्याज व मसाले",
+      "items": [
+        {
+          "name_en": "Sliced Onions (Lachha)",
+          "name_hi": "लच्छेदार कटा प्याज",
+          "amount": "500g"
+        },
+        {
+          "name_en": "Salt (for sweating onions)",
+          "name_hi": "नमक",
+          "amount": "1.5 tsp"
+        },
+        {
+          "name_en": "Whole Coriander, Ajwain & Cumin",
+          "name_hi": "साबुत धनिया, अजवाइन व जीरा",
+          "amount": "1 tbsp + 1/2 tsp + 1 tsp"
+        },
+        {
+          "name_en": "Ginger, Garlic, Chillies & Curry Leaves",
+          "name_hi": "अदरक, लहसुन, मिर्च व कढ़ी पत्ता",
+          "amount": "As listed"
+        }
+      ]
+    },
+    {
+      "category_en": "Crisp Flours & Hot Oil (बेसन, चावल आटा व गरम तेल)",
+      "category_hi": "बेसन, चावल आटा व गरम तेल",
+      "items": [
+        {
+          "name_en": "Gram Flour (Besan)",
+          "name_hi": "बेसन",
+          "amount": "1 cup"
+        },
+        {
+          "name_en": "Rice Flour (Chawal ka Atta)",
+          "name_hi": "चावल का आटा",
+          "amount": "3-4 tbsp"
+        },
+        {
+          "name_en": "Smoking Hot Oil",
+          "name_hi": "तेज गरम तेल (मोयन)",
+          "amount": "1 tbsp"
+        }
+      ]
+    },
+    {
+      "category_en": "Spicy Street Thecha Chutney (तीखी लहसुन-मिर्च चटनी)",
+      "category_hi": "तीखी लहसुन-मिर्च चटनी",
+      "items": [
+        {
+          "name_en": "Garlic, Chillies, Ginger & Lemon",
+          "name_hi": "लहसुन, हरी-लाल मिर्च, अदरक व नींबू",
+          "amount": "6 garlic + 7 chillies + lemon"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Sweat Onions with Salt: In a large bowl, combine thinly sliced onions and 1.5 tsp salt. Rub vigorously with your fingers for 2 minutes to separate the onion layers and draw out natural moisture. Let rest for 5 minutes (Zero water is added!).",
+    "Add Whole Spices & Aromatics: Add crushed coriander seeds, crushed ajwain, cumin seeds, chopped curry leaves, minced ginger, garlic, green chillies, turmeric, red chilli powders, and chopped coriander leaves. Toss well with the wet onions.",
+    "Add Flours & Hot Oil: Sprinkle 3-4 tbsp rice flour (the secret to crispiness) and 1 cup besan in batches over the onions. Pour 1 tbsp smoking hot oil directly over the flour. Mix firmly with fingers so the onion juices bind the flour into a semi-dry, lacy coating (do not add any water!).",
+    "Heat Oil to Medium-High: Heat oil in a deep kadai over medium-high heat. The oil should be hot enough that a drop of batter rises quickly.",
+    "Drop Lacy Clusters: Grab loose, uneven clusters of onion with your fingers and drop them gently into the hot oil. Do not make dense round balls; keep them loose and airy for maximum crispiness.",
+    "Fry Golden-Crisp: Fry on medium flame for 4-5 minutes, turning occasionally with a slotted spoon, until deep golden brown and audibly crunchy. Drain on paper towels.",
+    "Blend Chutney & Serve: Grind garlic cloves, green chillies, dry red chillies, ginger, fresh coriander, lemon juice, and salt into a coarse, spicy chutney. Serve steaming hot kanda bhajjis immediately with fried green chillies and spicy chutney!"
+  ],
+  "instructions_hi": [
+    "प्याज को नमक संग मसलना: एक बड़े बर्तन में लच्छेदार कटे प्याज और 1.5 चम्मच नमक डालें। हाथों से 2 मिनट तक अच्छे से मसलें ताकि प्याज के लच्छे अलग हो जाएं और प्याज का प्राकृतिक पानी निकल आए। 5 मिनट छोड़ दें (एक बूंद भी पानी नहीं डालना है!)।",
+    "खड़े मसाले मिलाना: दरदरा कुटा साबुत धनिया, अजवाइन, जीरा, कटे कढ़ी पत्ते, अदरक, लहसुन, हरी मिर्च, हल्दी, कश्मीरी मिर्च और हरा धनिया डालकर प्याज में मिलाएं।",
+    "बेसन, चावल का आटा व गरम तेल: 3-4 चम्मच चावल का आटा और थोड़ा-थोड़ा करके 1 कप बेसन डालें। ऊपर से 1 बड़ा चम्मच खौलता हुआ गरम तेल डालें। हाथों से मिलाएं ताकि प्याज के पानी से ही बेसन की पतली लच्छेदार कोटिंग बने।",
+    "तेल गरम करना: कड़ाही में तेल मध्यम-तेज आंच पर गरम करें।",
+    "लच्छेदार पकोड़े छोड़ना: हाथों से प्याज के लच्छों को बिना दबाए ढीले-ढीले गुच्छों के रूप में तेल में डालें (गोल लड्डू जैसे न बनाएं)।",
+    "सुनहरा क्रिस्पी तलना: मध्यम आंच पर 4-5 मिनट उलट-पलट कर गहरा सुनहरा और बेहद कुरकुरा होने तक तलें।",
+    "चटनी पीसना व परोसना: लहसुन, हरी-लाल मिर्च, अदरक, धनिया और नींबू रस को पीसकर तीखी चटनी बनाएं। गरमा-गरम कांदा भज्जी को तली हरी मिर्च और तीखी चटनी के साथ परोसें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Sweat Onions with Salt (No Water)",
+      "title_hi": "प्याज को नमक संग मसलना",
+      "instruction_en": "Rub sliced onions with salt to release natural juices; never add water.",
+      "instruction_hi": "प्याज में नमक डालकर मसलें ताकि प्याज का अपना पानी निकल आए।"
+    },
+    {
+      "step": 2,
+      "title_en": "Toss Crushed Spices & Herbs",
+      "title_hi": "खड़े मसाले व जड़ी-बूटियां मिलाना",
+      "instruction_en": "Mix crushed coriander seeds, ajwain, cumin, curry leaves, ginger, and garlic into onions.",
+      "instruction_hi": "कुटा धनिया, अजवाइन, जीरा, कढ़ी पत्ता, अदरक और लहसुन प्याज में मिलाएं।"
+    },
+    {
+      "step": 3,
+      "title_en": "Incorporate Rice Flour, Besan & Hot Oil",
+      "title_hi": "चावल का आटा, बेसन व गरम तेल मिलाना",
+      "instruction_en": "Add rice flour for crispiness, besan to bind, and 1 tbsp hot oil; mix into a lacy coating.",
+      "instruction_hi": "चावल का आटा, बेसन और 1 चम्मच गरम तेल डालकर लच्छेदार कोटिंग बनाएं।"
+    },
+    {
+      "step": 4,
+      "title_en": "Drop Loose Lacy Clusters into Oil",
+      "title_hi": "ढीले लच्छेदार पकोड़े तेल में छोड़ना",
+      "instruction_en": "Drop loose, ragged clusters of onion into hot oil without squeezing into dense balls.",
+      "instruction_hi": "प्याज के खुले-खुले लच्छे गरम तेल में डालें, दबाकर गोल न बनाएं।"
+    },
+    {
+      "step": 5,
+      "title_en": "Fry to Deep Golden Crunch",
+      "title_hi": "सुनहरा कुरकुरा तलना",
+      "instruction_en": "Fry on medium heat for 4-5 minutes, turning occasionally until audibly crispy.",
+      "instruction_hi": "मध्यम आंच पर 4-5 मिनट दोनों तरफ से सुनहरा और क्रिस्पी होने तक तलें।"
+    },
+    {
+      "step": 6,
+      "title_en": "Blend Fiery Garlic-Chilli Thecha Chutney",
+      "title_hi": "तीखी लहसुन-मिर्च चटनी पीसना",
+      "instruction_en": "Grind garlic, fresh chillies, dried chillies, coriander, and lemon juice into spicy chutney.",
+      "instruction_hi": "लहसुन, मिर्च, अदरक और नींबू को पीसकर तीखी चटनी बनाएं।"
+    },
+    {
+      "step": 7,
+      "title_en": "Serve Piping Hot with Fried Chillies",
+      "title_hi": "तली मिर्च संग गरमा-गरम परोसना",
+      "instruction_en": "Serve hot kanda bhajjis with fried green chillies, spicy chutney, and hot chai!",
+      "instruction_hi": "कांदा भज्जी को तली मिर्च और कड़क चाय के साथ गरमा-गरम परोसें!"
+    }
+  ],
+  "chef_tips_en": [
+    "Zero Water Rule: The biggest secret to street-style kanda bhajji is never adding a single drop of water. The natural moisture released by salted onions is just enough to hydrate the flour.",
+    "Rice Flour + Hot Oil (Mohan): Adding 3 tbsp rice flour and 1 tbsp smoking hot oil creates micro air pockets in the crust, keeping the pakoras shattering-crisp for hours.",
+    "Loose Ragged Dropping: Never press the batter into tight round meatballs. Dropping loose, ragged onion strands allows hot oil to fry every strand directly."
+  ],
+  "chef_tips_hi": [
+    "एक बूंद भी पानी न डालें: स्ट्रीट स्टाइल कांदा भज्जी का सबसे बड़ा नियम है कि इसमें पानी बिल्कुल न डालें। नमक से निकला प्याज का पानी ही बेसन को लपेटने के लिए काफी होता है।",
+    "चावल का आटा व गरम तेल: 3 चम्मच चावल का आटा और 1 चम्मच खौलता तेल मिलाने से पकोड़े घंटों तक ठंडे होने के बाद भी एकदम कुरकुरे रहते हैं।",
+    "लच्छेदार खुले छोड़ना: पकोड़े बनाते समय उन्हें गोल लड्डू की तरह न दबाएं; खुले-खुले लच्छे डालने से तेल हर परत तक पहुंचता है और वे सुपर क्रिस्पी बनते हैं।"
+  ]
+}

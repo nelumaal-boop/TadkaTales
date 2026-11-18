@@ -1,0 +1,188 @@
+{
+  "id": "royal-chicken-kali-mirch",
+  "title_en": "Royal Mughlai Chicken Kali Mirch (White Gravy Black Pepper Chicken)",
+  "title_hi": "शाही मुगलाई चिकन काली मिर्च (सफेद काजू ग्रेवी वाला ब्लैक पेपर चिकन)",
+  "title": {
+    "en": "Royal Mughlai Chicken Kali Mirch (White Gravy Black Pepper Chicken)",
+    "hi": "शाही मुगलाई चिकन काली मिर्च (सफेद काजू ग्रेवी वाला ब्लैक पेपर चिकन)"
+  },
+  "description_en": "1.2M views! An opulent Nawabi restaurant delicacy. Tender bone-in chicken marinated in freshly cracked black pepper and yogurt, simmered in a velvety white cashew-onion puree infused with mace, green cardamom, and fresh cream.",
+  "description_hi": "12 लाख लोगों की पसंदीदा शाही नवाबी रेसिपी! ताजी कुटी काली मिर्च और दही में मैरीनेट किया हुआ चिकन, काजू-प्याज के सफेद मखमली पेस्ट, जावित्री और छोटी इलायची की खुशबूदार ग्रेवी में पका हुआ। बेहद स्वादिष्ट और रेस्टोरेंट स्टाइल।",
+  "description": {
+    "en": "1.2M views! An opulent Nawabi restaurant delicacy. Tender bone-in chicken marinated in freshly cracked black pepper and yogurt, simmered in a velvety white cashew-onion puree infused with mace, green cardamom, and fresh cream.",
+    "hi": "12 लाख लोगों की पसंदीदा शाही नवाबी रेसिपी! ताजी कुटी काली मिर्च और दही में मैरीनेट किया हुआ चिकन, काजू-प्याज के सफेद मखमली पेस्ट, जावित्री और छोटी इलायची की खुशबूदार ग्रेवी में पका हुआ। बेहद स्वादिष्ट और रेस्टोरेंट स्टाइल।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Non-Vegetarian",
+  "diet_hi": "मांसाहारी",
+  "isVegetarian": false,
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "prep_time_en": "20 mins",
+  "prep_time_hi": "20 मिनट",
+  "cook_time_en": "30 mins",
+  "cook_time_hi": "30 मिनट",
+  "prepTime": "20 mins",
+  "cookTime": "30 mins",
+  "servings_en": "5 servings",
+  "servings_hi": "5 लोग",
+  "servings": 5,
+  "youtube_id": "mrlsZRK8608",
+  "youtubeId": "mrlsZRK8608",
+  "youtube_url": "https://youtu.be/mrlsZRK8608",
+  "image_url": "/static/images/mrlsZRK8608.jpg",
+  "tags": [
+    "Chicken Kali Mirch",
+    "Black Pepper Chicken",
+    "White Gravy",
+    "Mughlai",
+    "Royal",
+    "Main Course",
+    "Bharatzkitchen",
+    "Non-Vegetarian"
+  ],
+  "ingredients_en": [
+    "Chicken Marinade: 1 kg Chicken (bone-in pieces), 1 tbsp Ginger Garlic Paste, 1 tsp Salt, 1 tbsp Freshly Cracked Black Pepper, 1/2 cup Fresh Curd (Dahi), 1 tbsp Cooking Oil",
+    "White Gravy Paste: 2 tbsp Oil, 4 Cloves, 4 Green Cardamoms, 1 Black Cardamom, 1 blade Mace (Javitri), 1 Bay Leaf, 2 Onions (boiled/sautéed pale), 8 Garlic Cloves, 1 inch Ginger, 3 Green Chillies, 40g Cashews, 1.5 cups Water",
+    "Finishing: 2 tbsp Butter or Ghee, 1/4 cup Fresh Cream, 1/2 tsp Garam Masala, 1 tsp Roasted Kasuri Methi, 1 tsp Crushed Black Pepper, Ginger juliennes & Coriander"
+  ],
+  "ingredients_hi": [
+    "चिकन मैरीनेशन: 1 किलो चिकन (हड्डी वाले टुकड़े), 1 बड़ा चम्मच अदरक-लहसुन पेस्ट, 1 छोटा चम्मच नमक, 1 बड़ा चम्मच ताजी कुटी काली मिर्च, 1/2 कप दही, 1 चम्मच तेल",
+    "सफेद ग्रेवी पेस्ट: तेल, 4 लौंग, 4 छोटी इलायची, बड़ी इलायची, जावित्री, तेज पत्ता, 2 प्याज (सफेद उबले), 8 लहसुन कलियां, अदरक, 3 हरी मिर्च, 40 ग्राम काजू व 1.5 कप पानी",
+    "अंतिम सामग्री: 2 चम्मच मक्खन, 1/4 कप ताजी मलाई/क्रीम, गरम मसाला, कसूरी मेथी, कुटी काली मिर्च, अदरक लच्छे व हरा धनिया"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Chicken Pepper Marinade (चिकन मैरीनेशन)",
+      "category_hi": "चिकन मैरीनेशन",
+      "items": [
+        {
+          "name_en": "Bone-in Chicken",
+          "name_hi": "चिकन",
+          "amount": "1 kg"
+        },
+        {
+          "name_en": "Freshly Cracked Black Pepper",
+          "name_hi": "ताजी कुटी काली मिर्च",
+          "amount": "1 tbsp"
+        },
+        {
+          "name_en": "Fresh Curd & Ginger Garlic",
+          "name_hi": "दही व अदरक-लहसुन",
+          "amount": "1/2 cup + 1 tbsp"
+        }
+      ]
+    },
+    {
+      "category_en": "Silky White Cashew Paste (सफेद काजू-प्याज पेस्ट)",
+      "category_hi": "सफेद काजू-प्याज पेस्ट",
+      "items": [
+        {
+          "name_en": "Whole Cashews & Onions",
+          "name_hi": "काजू व प्याज",
+          "amount": "40g cashews + 2 onions"
+        },
+        {
+          "name_en": "Aromatic Spices (Cardamom, Mace, Cloves)",
+          "name_hi": "इलायची, जावित्री व लौंग",
+          "amount": "As listed"
+        }
+      ]
+    },
+    {
+      "category_en": "Mughlai Finishing (मक्खन व क्रीम)",
+      "category_hi": "मक्खन व क्रीम",
+      "items": [
+        {
+          "name_en": "Butter & Fresh Cream",
+          "name_hi": "मक्खन व क्रीम",
+          "amount": "2 tbsp + 1/4 cup"
+        },
+        {
+          "name_en": "Kasuri Methi & Black Pepper Kick",
+          "name_hi": "कसूरी मेथी व काली मिर्च",
+          "amount": "1 tsp each"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Marinate Chicken: In a bowl, toss 1 kg chicken pieces with 1 tbsp ginger-garlic paste, 1 tsp salt, 1 tbsp freshly cracked black pepper, 1/2 cup curd, and 1 tbsp oil. Rub well and set aside for 20-30 minutes.",
+    "Boil & Puree White Base: In a pan, simmer 2 chopped onions, 40g cashews, 8 garlic cloves, 1 inch ginger, 3 green chillies, cardamoms, mace, cloves, and bay leaf in 1.5 cups water for 8 minutes until onions turn soft and translucent (do not brown). Discard bay leaf and blend the mixture into an ultra-smooth white paste.",
+    "Sear Chicken Pieces: In a heavy kadai or pan, melt 2 tbsp butter or oil over high heat. Add the marinated chicken pieces and sear for 5-6 minutes until lightly charred and moisture begins to evaporate.",
+    "Add White Cashew Gravy: Pour the blended silky white cashew-onion puree over the seared chicken. Stir well and bring to a gentle simmer over medium heat.",
+    "Slow Simmer Covered: Cover the kadai and cook on low heat for 15-18 minutes, stirring occasionally, until the chicken is tender, juicy, and cooked to the bone.",
+    "Finish with Cream & Black Pepper: Stir in 1/4 cup fresh cream, 1 tsp crushed kasuri methi, 1/2 tsp garam masala, and an extra 1/2 tsp freshly cracked black pepper. Simmer for 2 minutes on low flame.",
+    "Garnish & Serve: Garnish with ginger juliennes and fresh coriander leaves. Serve hot with garlic butter naan, laccha parathas, or steamed basmati rice!"
+  ],
+  "instructions_hi": [
+    "चिकन मैरीनेट करना: 1 किलो चिकन में 1 बड़ा चम्मच अदरक-लहसुन पेस्ट, 1 छोटा चम्मच नमक, 1 बड़ा चम्मच ताजी कुटी काली मिर्च, 1/2 कप दही और 1 चम्मच तेल मिलाकर 20-30 मिनट के लिए रख दें।",
+    "सफेद ग्रेवी पेस्ट बनाना: पैन में 2 प्याज, 40 ग्राम काजू, 8 लहसुन कलियां, अदरक, हरी मिर्च, इलायची, जावित्री और लौंग को 1.5 कप पानी में 8 मिनट उबालें (प्याज को भूरा नहीं होने देना है)। तेज पत्ता हटाकर मिक्सी में एकदम चिकना सफेद पेस्ट पीस लें।",
+    "चिकन को तेज आंच पर सेकना: कड़ाही में मक्खन या तेल गरम करें। मैरीनेटेड चिकन डालकर तेज आंच पर 5-6 मिनट भूनें ताकि चिकन का पानी छूटे और हल्का रंग आ जाए।",
+    "सफेद काजू पेस्ट मिलाना: तैयार किया हुआ सफेद काजू-प्याज का पेस्ट चिकन में डालें और अच्छी तरह मिलाएं।",
+    "धीमी आंच पर ढककर पकाना: ढककर 15-18 मिनट धीमी आंच पर पकाएं जब तक कि चिकन पूरी तरह गल न जाए और मखमली ग्रेवी बन जाए।",
+    "क्रीम व काली मिर्च का तड़का: 1/4 कप ताजी मलाई/क्रीम, भुनी कसूरी मेथी, थोड़ा गरम मसाला और 1/2 चम्मच कुटी काली मिर्च डालकर 2 मिनट धीमी आंच पर पकाएं।",
+    "परोसना: अदरक के लच्छे और हरे धनिए से गार्निश करें और गरमा-गरम बटर नान या लच्छा पराठे के साथ परोसें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Marinate Chicken with Pepper & Curd",
+      "title_hi": "चिकन मैरीनेट करना",
+      "instruction_en": "Coat chicken in curd, freshly cracked black pepper, ginger-garlic paste, and salt.",
+      "instruction_hi": "चिकन को दही, ताजी कुटी काली मिर्च, अदरक-लहसुन और नमक से मैरीनेट करें।"
+    },
+    {
+      "step": 2,
+      "title_en": "Boil & Blend White Cashew Paste",
+      "title_hi": "सफेद काजू-प्याज पेस्ट पीसना",
+      "instruction_en": "Boil onions, cashews, mace, cardamoms, and garlic in water; blend into silky white puree.",
+      "instruction_hi": "प्याज, काजू, जावित्री, इलायची और लहसुन को पानी में उबालकर चिकना पेस्ट बना लें।"
+    },
+    {
+      "step": 3,
+      "title_en": "Sear Marinated Chicken on High Heat",
+      "title_hi": "चिकन को तेज आंच पर भूनना",
+      "instruction_en": "Sear marinated chicken in butter over high flame for 5-6 minutes.",
+      "instruction_hi": "मक्खन में चिकन डालकर तेज आंच पर 5-6 मिनट हल्का रंग आने तक भूनें।"
+    },
+    {
+      "step": 4,
+      "title_en": "Add Silky Cashew Puree",
+      "title_hi": "सफेद काजू पेस्ट मिलाना",
+      "instruction_en": "Pour in white puree, stir to combine, and bring to a gentle simmer.",
+      "instruction_hi": "सफेद पेस्ट डालें और मध्यम आंच पर उबाल आने दें।"
+    },
+    {
+      "step": 5,
+      "title_en": "Slow Cook Covered for 15-18 Mins",
+      "title_hi": "ढककर धीमी आंच पर गलाना",
+      "instruction_en": "Cover and cook on low heat until chicken is tender to the bone.",
+      "instruction_hi": "ढककर 15-18 मिनट धीमी आंच पर पकाएं ताकि चिकन मक्खन जैसा गल जाए।"
+    },
+    {
+      "step": 6,
+      "title_en": "Enrich with Cream & Cracked Pepper",
+      "title_hi": "मलाई व कुटी काली मिर्च मिलाना",
+      "instruction_en": "Stir in fresh cream, roasted kasuri methi, and an extra pinch of black pepper.",
+      "instruction_hi": "ताजी मलाई, कसूरी मेथी और ऊपर से कुटी काली मिर्च मिलाकर 2 मिनट पकाएं।"
+    },
+    {
+      "step": 7,
+      "title_en": "Garnish with Ginger Juliennes & Serve",
+      "title_hi": "अदरक लच्छे संग परोसना",
+      "instruction_en": "Garnish with ginger juliennes and serve hot with garlic naan or parathas!",
+      "instruction_hi": "अदरक के लच्छे डालकर गरमा-गरम बटर नान या लच्छा पराठे के साथ परोसें!"
+    }
+  ],
+  "chef_tips_en": [
+    "Coarsely Cracked Black Pepper: Do not use fine store-bought black pepper powder. Freshly crushing whole black peppercorns in a mortar creates pungent bursts of heat without turning the white gravy grey.",
+    "Boil, Never Brown the Onions: Simmering onions in water with cashews keeps them sweet and translucent, preserving the signature immaculate royal white color of the gravy.",
+    "Finish with Fresh Cream on Low Heat: Add cream at the very end on low flame to maintain the glossy velvet emulsion without curdling."
+  ],
+  "chef_tips_hi": [
+    "दरदरी कुटी काली मिर्च का राज: बारीक पिसे पाउडर के बजाय तुरंत खलबट्टे में कुटी काली मिर्च डालें। इससे ग्रेवी का सफेद रंग काला नहीं पड़ता और हर बाइट में शाही तीखापन मिलता है।",
+    "प्याज को भूनना नहीं, उबालना है: प्याज को तेल में लाल करने के बजाय काजू के साथ पानी में उबालने से ग्रेवी का शाही दूधिया सफेद रंग बना रहता है।",
+    "धीमी आंच पर क्रीम मिलाना: ताजी मलाई या क्रीम को हमेशा अंत में धीमी आंच पर मिलाएं ताकि ग्रेवी फटे नहीं और मखमली चमक बनी रहे।"
+  ]
+}

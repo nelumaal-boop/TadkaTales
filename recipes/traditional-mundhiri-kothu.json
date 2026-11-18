@@ -1,0 +1,92 @@
+{
+  "id": "traditional-mundhiri-kothu",
+  "title": {
+    "en": "Traditional Mundhiri Kothu (Crispy South Indian Sweet)",
+    "hi": "पारंपरिक मुंधिरी कोथु (साउथ इंडियन क्रिस्पी स्वीट)"
+  },
+  "title_en": "Traditional Mundhiri Kothu (Crispy South Indian Sweet)",
+  "title_hi": "पारंपरिक मुंधिरी कोथु (साउथ इंडियन क्रिस्पी स्वीट)",
+  "description": {
+    "en": "An iconic heritage festive sweet from Kanyakumari and Tirunelveli. Spiced green gram and roasted sesame dumplings sweetened with jaggery, dipped in a crisp rice-flour batter, and deep fried in cluster balls.",
+    "hi": "कन्याकुमारी और तिरुनेलवेली की पारंपरिक दिवाली मिठाई। भुनी हुई हरी मूंग, तिल और गुड़ के मिश्रण से बने लड्डू, जिन्हें चावल के घोल में डुबोकर खस्ता तला जाता है। बाहर से क्रिस्पी और अंदर से खुशबूदार मीठी।"
+  },
+  "description_en": "An iconic heritage festive sweet from Kanyakumari and Tirunelveli. Spiced green gram and roasted sesame dumplings sweetened with jaggery, dipped in a crisp rice-flour batter, and deep fried in cluster balls.",
+  "description_hi": "कन्याकुमारी और तिरुनेलवेली की पारंपरिक दिवाली मिठाई। भुनी हुई हरी मूंग, तिल और गुड़ के मिश्रण से बने लड्डू, जिन्हें चावल के घोल में डुबोकर खस्ता तला जाता है। बाहर से क्रिस्पी और अंदर से खुशबूदार मीठी।",
+  "category": "Dessert",
+  "isVegetarian": true,
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "prepTime": "15 mins",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 मिनट",
+  "cookTime": "20 mins",
+  "cook_time_en": "20 mins",
+  "cook_time_hi": "20 मिनट",
+  "servings": "15 pieces",
+  "servings_en": "15 pieces",
+  "servings_hi": "15 पीस",
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "youtube_id": "8NHFrurvGt4",
+  "youtubeId": "8NHFrurvGt4",
+  "youtube_url": "https://www.youtube.com/watch?v=8NHFrurvGt4",
+  "author": "HomeCookingShow",
+  "image_url": "/static/images/8NHFrurvGt4.jpg",
+  "tags": [
+    "Mundhiri Kothu",
+    "South Indian Sweet",
+    "Diwali Special",
+    "Traditional Sweet",
+    "Dessert",
+    "Vegetarian",
+    "HomeCookingShow"
+  ],
+  "ingredients_en": [
+    "1 cup Whole Green Gram (Sabut Moong Dal)",
+    "2 tbsp White Sesame Seeds",
+    "1/2 cup Fresh Grated Coconut (roasted dry)",
+    "3/4 cup Jaggery (crushed)",
+    "1/4 cup Water (for jaggery syrup)",
+    "1 tsp Cardamom Powder & 1/2 tsp Dry Ginger Powder (Sukku)",
+    "For Outer Batter: 1/2 cup Raw Rice Flour, 2 tbsp Maida / Rice flour, 1/4 tsp Turmeric Powder, pinch of Salt, water to make batter",
+    "Oil for deep frying"
+  ],
+  "ingredients_hi": [
+    "1 कप साबुत हरी मूंग दाल",
+    "2 बड़े चम्मच सफेद तिल",
+    "1/2 कप सूखा भुना कद्दूकस नारियल",
+    "3/4 कप गुड़ (बारीक तोड़ा हुआ)",
+    "1/4 कप पानी (गुड़ की चाशनी हेतु)",
+    "1 छोटा चम्मच इलायची पाउडर व 1/2 छोटा चम्मच सोंठ पाउडर",
+    "घोल के लिए: 1/2 कप चावल का आटा, 2 बड़े चम्मच मैदा, 1/4 छोटा चम्मच हल्दी, चुटकी भर नमक, पानी",
+    "तलने के लिए तेल"
+  ],
+  "instructions_en": [
+    "Dry roast whole green gram in a heavy pan on medium flame until fragrant, crisp, and lightly golden. Cool completely and grind into a coarse rava-like flour.",
+    "Dry roast sesame seeds until popping and dry roast grated coconut until golden brown.",
+    "In a saucepan, melt jaggery with 1/4 cup water, strain impurities, and boil until it reaches a sticky single-string syrup consistency.",
+    "In a bowl, combine green gram flour, roasted sesame seeds, toasted coconut, cardamom powder, and dry ginger powder. Pour hot jaggery syrup and mix well.",
+    "While warm, shape the sweet dough into small round bite-sized balls (laddus).",
+    "Prepare a smooth coating batter by whisking rice flour, maida, turmeric, a pinch of salt, and water (like dosa batter consistency).",
+    "Cluster 2 to 3 balls together, dip them in the batter so they bond, and drop them gently into hot oil.",
+    "Deep fry on medium heat until the outer coating is crisp and pale golden. Drain on paper towels and store in an airtight container for up to 3 weeks."
+  ],
+  "instructions_hi": [
+    "साबुत मूंग को धीमी-मध्यम आंच पर अच्छी खुशबू आने तक सूखा भूनें। ठंडा करके मिक्सी में सूजी जैसा दानेदार पीस लें।",
+    "सफेद तिल को चटकने तक और कद्दूकस नारियल को हल्का सुनहरा होने तक सूखा भूनें।",
+    "एक पैन में गुड़ और पानी गरम करके पिघलाएं, छान लें और एक तार की चाशनी बनने तक पकाएं।",
+    "एक बर्तन में मूंग का आटा, भुने तिल, भुना नारियल, इलायची और सोंठ पाउडर मिलाएं। गरम चाशनी डालकर अच्छी तरह मिला लें।",
+    "हल्के गरम मिश्रण से छोटे-छोटे गोल लड्डू बना लें।",
+    "चावल का आटा, मैदा, हल्दी और चुटकी भर नमक में पानी मिलाकर डोसे जैसा गाढ़ा चिकना घोल तैयार करें।",
+    "2-3 लड्डुओं को एक साथ घोल में डुबोएं ताकि वे आपस में चिपक जाएं, और गरम तेल में डालें।",
+    "मध्यम आंच पर बाहरी परत के खस्ता और हल्का सुनहरा होने तक तलें। ठंडा करके एयरटाइट डिब्बे में रखें।"
+  ],
+  "chef_tips_en": [
+    "Dry ginger (sukku) and cardamom give this sweet its authentic deep temple-town aroma.",
+    "Frying them in clusters of 2 or 3 gives the classic 'kothu' (bunch) appearance."
+  ],
+  "chef_tips_hi": [
+    "सोंठ और इलायची पाउडर इस पारंपरिक मिठाई की असली पहचान और खुशबू हैं।",
+    "इन्हें 2 या 3 लड्डुओं के गुच्छे (कोथु) में तलने से इसका पारंपरिक रूप और कुरकुरापन मिलता है।"
+  ]
+}

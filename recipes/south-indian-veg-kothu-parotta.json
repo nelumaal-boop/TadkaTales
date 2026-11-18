@@ -1,0 +1,102 @@
+{
+  "id": "south-indian-veg-kothu-parotta",
+  "title": {
+    "en": "Street-Style South Indian Veg Kothu Parotta",
+    "hi": "स्ट्रीट स्टाइल साउथ इंडियन वेज कोथु परोटा"
+  },
+  "title_en": "Street-Style South Indian Veg Kothu Parotta",
+  "title_hi": "स्ट्रीट स्टाइल साउथ इंडियन वेज कोथु परोटा",
+  "description": {
+    "en": "The quintessential street food sensation of Tamil Nadu! Shredded flaky Malabar parottas beaten on a smoking iron tawa with spiced salna, onions, curry leaves, tomatoes, and vegetables.",
+    "hi": "तमिलनाडु का बेहद लोकप्रिय स्ट्रीट फूड वेज कोथु परोटा। लच्छेदार मालाबार परोटे को तवे पर बारीक कूटकर प्याज, टमाटर, कढ़ी पत्ता, सब्जियों और चटपटे सालना ग्रेवी के साथ तैयार किया जाता है।"
+  },
+  "description_en": "The quintessential street food sensation of Tamil Nadu! Shredded flaky Malabar parottas beaten on a smoking iron tawa with spiced salna, onions, curry leaves, tomatoes, and vegetables.",
+  "description_hi": "तमिलनाडु का बेहद लोकप्रिय स्ट्रीट फूड वेज कोथु परोटा। लच्छेदार मालाबार परोटे को तवे पर बारीक कूटकर प्याज, टमाटर, कढ़ी पत्ता, सब्जियों और चटपटे सालना ग्रेवी के साथ तैयार किया जाता है।",
+  "category": "Latest Recipe",
+  "isVegetarian": true,
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "prepTime": "10 mins",
+  "prep_time_en": "10 mins",
+  "prep_time_hi": "10 मिनट",
+  "cookTime": "15 mins",
+  "cook_time_en": "15 mins",
+  "cook_time_hi": "15 मिनट",
+  "servings": "4 servings",
+  "servings_en": "4 servings",
+  "servings_hi": "4 सर्विंग्स",
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "youtube_id": "3O-d_q2QkOA",
+  "youtubeId": "3O-d_q2QkOA",
+  "youtube_url": "https://www.youtube.com/watch?v=3O-d_q2QkOA",
+  "author": "HomeCookingShow",
+  "image_url": "/static/images/3O-d_q2QkOA.jpg",
+  "tags": [
+    "Kothu Parotta",
+    "Street Food",
+    "South Indian",
+    "Dinner Special",
+    "Flavorsome",
+    "Vegetarian",
+    "HomeCookingShow"
+  ],
+  "ingredients_en": [
+    "4 Cooked Malabar Parottas (shredded or torn into small bite-sized strips)",
+    "3 tbsp Oil",
+    "1 tsp Fennel Seeds (Saunf) & 2 sprigs Fresh Curry Leaves",
+    "2 medium Onions (finely chopped)",
+    "1 tbsp Ginger-Garlic Paste",
+    "2 Green Chillies (slit)",
+    "2 Tomatoes (finely chopped)",
+    "1/2 cup Mixed Boiled Veggies (Carrots, Peas, Beans)",
+    "1/2 tsp Turmeric & 1 tsp Chilli Powder",
+    "1/2 tsp Garam Masala or Chicken/Veg Salna Masala",
+    "1/2 cup Vegetable Salna or Kurma gravy (or water)",
+    "Salt to taste",
+    "Fresh Coriander & Lemon wedges"
+  ],
+  "ingredients_hi": [
+    "4 पके हुए मालाबार परोटे (हाथ से छोटे टुकड़ों में तोड़े हुए)",
+    "3 बड़े चम्मच तेल",
+    "1 छोटा चम्मच सौंफ व 2 डंडी कढ़ी पत्ता",
+    "2 प्याज (बारीक कटे हुए)",
+    "1 बड़ा चम्मच अदरक-लहसुन पेस्ट",
+    "2 हरी मिर्च",
+    "2 टमाटर (बारीक कटे हुए)",
+    "1/2 कप उबली सब्जियां (गाजर, मटर, बीन्स)",
+    "1/2 छोटा चम्मच हल्दी व 1 छोटा चम्मच लाल मिर्च",
+    "1/2 छोटा चम्मच गरम मसाला या सालना मसाला",
+    "1/2 कप वेज सालना या कुर्मा ग्रेवी (या पानी)",
+    "स्वादानुसार नमक",
+    "हरा धनिया व नींबू के टुकड़े"
+  ],
+  "instructions_en": [
+    "Tear cooked parottas into small shreds. Set aside.",
+    "Heat oil in a wide iron pan or heavy tawa. Add fennel seeds and curry leaves until crackling.",
+    "Add chopped onions and green chillies. Sauté on high heat for 3–4 minutes until onions turn light golden.",
+    "Add ginger-garlic paste and sauté for 1 minute. Add chopped tomatoes and cook until soft and pulpy.",
+    "Stir in turmeric powder, chilli powder, garam masala, and salt. Add boiled mixed vegetables.",
+    "Add shredded parotta and pour in vegetable salna or gravy.",
+    "Using two metal spatulas or the sharp edge of two heavy turners, rapidly shred, beat, and mince the parotta on high heat in a rhythmic chopping motion for 4–5 minutes until completely infused with the masala.",
+    "Garnish with chopped coriander, squeeze lemon juice, and serve piping hot with onion raita."
+  ],
+  "instructions_hi": [
+    "पके हुए परोटों को हाथ से छोटे-छोटे टुकड़ों में तोड़ लें।",
+    "चौड़े लोहे के तवे पर तेल गरम करें। सौंफ और कढ़ी पत्ता डालकर चटकाएं।",
+    "बारीक कटा प्याज और हरी मिर्च डालकर तेज आंच पर 3-4 मिनट सुनहरा होने तक भूनें।",
+    "अदरक-लहसुन पेस्ट डालकर भूनें, फिर टमाटर डालकर गलने तक पकाएं।",
+    "हल्दी, लाल मिर्च, गरम मसाला और नमक डालें। उबली हुई सब्जियां मिलाएं।",
+    "तोड़े हुए परोटे और वेज सालना या कुर्मा ग्रेवी डालें।",
+    "दो स्टील के पल्टों (spatulas) की मदद से तेज आंच पर परोटे को कूटते और मिलाते हुए 4-5 मिनट तक तेजी से चलाएं।",
+    "हरा धनिया और नींबू का रस निचोड़ें और गरमा-गरम प्याज के रायते के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "Flaky layered Malabar parotta is essential; its crisp layers soak up the spicy salna without turning pasty.",
+    "The rhythmic clattering chopping motion with two metal spatulas breaks down the parotta into classic bite-sized shreds."
+  ],
+  "chef_tips_hi": [
+    "असली स्वाद के लिए परतदार मालाबार परोटे का ही उपयोग करें।",
+    "तवे पर दो पल्टों से तेजी से कूटने (kothu) से मसाला परोटे के रेशे-रेशे में समा जाता है।"
+  ]
+}

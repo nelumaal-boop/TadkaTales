@@ -1,0 +1,369 @@
+{
+  "id": "tandoori-gobhi-matar",
+  "title": {
+    "en": "No Onion-Tomato Tandoori Gobhi Matar & Burani Raita",
+    "hi": "बिना प्याज-टमाटर तंदूरी गोभी मटर और स्मोक्ड बुरानी रायता"
+  },
+  "description": {
+    "en": "A zero-onion, zero-tomato dry cauliflower & peas sabzi that cooks in 15 minutes! Cauliflower florets marinated in raw mustard oil, curd, ajwain, and tandoori spices, seared on high flame, and paired with clay-diya smoked garlic Burani Raita.",
+    "hi": "बिना प्याज और बिना टमाटर के सिर्फ 15 मिनट में बनने वाली लाजवाब तंदूरी गोभी मटर! कच्चे सरसों के तेल, दही और अजवाइन के खास मैरिनेशन में लिपटी गोभी, और साथ में मिट्टी के दीये से तड़का लगा स्मोक्ड बुरानी रायता।"
+  },
+  "category": "Latest Recipe",
+  "isVegetarian": true,
+  "prepTime": "15 mins",
+  "cookTime": "15 mins",
+  "servings": "3-4 servings",
+  "youtubeId": "ham2FaY9tNk",
+  "author": "Bharatzkitchen Hindi",
+  "ingredients": [
+    {
+      "category": {
+        "en": "Cauliflower & Veggies",
+        "hi": "गोभी और मटर"
+      },
+      "items": [
+        {
+          "en": "Cauliflower (Phool Gobhi) - 350g florets (washed in warm water, thoroughly dried)",
+          "hi": "फूलगोभी - 350 ग्राम (गर्म पानी से धोकर सुखाए हुए मध्यम फूल)"
+        },
+        {
+          "en": "Fresh Green Peas (Taaze Matar) - 1/2 cup",
+          "hi": "ताजे हरे मटर - 1/2 कप"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Tandoori Marinade Paste (No Onion / Tomato)",
+        "hi": "तंदूरी मैरिनेशन पेस्ट (बिना प्याज-टमाटर)"
+      },
+      "items": [
+        {
+          "en": "Raw Cold-Pressed Mustard Oil (Kachha Sarson Tel) - 1 tbsp (tandoori kick)",
+          "hi": "कच्चा सरसों का तेल - 1 बड़ा चम्मच (तंदूरी ढाबा स्वाद की जान)"
+        },
+        {
+          "en": "Fresh Thick Curd (Dahi) - 2 tbsp",
+          "hi": "ताजा गाढ़ा दही - 2 बड़े चम्मच"
+        },
+        {
+          "en": "Ginger-Garlic Paste - 1 tbsp",
+          "hi": "अदरक-लहसुन पेस्ट - 1 बड़ा चम्मच"
+        },
+        {
+          "en": "Coriander Powder (Dhaniya) - 2 tbsp",
+          "hi": "धनिया पाउडर - 2 बड़े चम्मच"
+        },
+        {
+          "en": "Cumin Powder (Jeera) - 1 tsp",
+          "hi": "जीरा पाउडर - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Carom Seeds (Ajwain) - 1/2 tsp (crucial for cauliflower digestion)",
+          "hi": "अजवाइन - 1/2 छोटा चम्मच (पाचन और सुगंध के लिए)"
+        },
+        {
+          "en": "Kashmiri Red Chilli Powder - 1 tbsp",
+          "hi": "कश्मीरी लाल मिर्च पाउडर - 1 बड़ा चम्मच"
+        },
+        {
+          "en": "Spicy Red Chilli Powder - 1 tsp",
+          "hi": "तीखी लाल मिर्च - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Turmeric Powder (Haldi) - 1/2 tsp",
+          "hi": "हल्दी पाउडर - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Salt - 1 tsp",
+          "hi": "नमक - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Water - 2 to 3 tbsp (to adjust marinade slurry)",
+          "hi": "पानी - 2 से 3 चम्मच (पेस्ट बनाने के लिए)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Tempering & Finishing",
+        "hi": "तड़का और खुशबू"
+      },
+      "items": [
+        {
+          "en": "Cooking Oil - 2 tbsp",
+          "hi": "तेल - 2 बड़े चम्मच"
+        },
+        {
+          "en": "Cumin Seeds (Jeera) - 1/2 tsp",
+          "hi": "जीरा - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Crushed Coriander Seeds - 1/2 tsp",
+          "hi": "कुटा साबुत धनिया - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Fennel Seeds (Moti Saunf) - 1/2 tsp",
+          "hi": "मोटी सौंफ - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Dry Mango Powder (Amchur) - 1/2 tsp",
+          "hi": "अमचूर पाउडर - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Garam Masala - 1/2 tsp",
+          "hi": "गरम मसाला - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Fresh Ginger Juliennes & Slit Green Chillies - 1 tbsp each",
+          "hi": "अदरक के लच्छे और चीरा लगी हरी मिर्च - 1-1 चम्मच"
+        },
+        {
+          "en": "Fresh Coriander leaves - 2 tbsp (chopped)",
+          "hi": "ताजा हरा धनिया - 2 चम्मच"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Clay Diya Smoked Burani Raita",
+        "hi": "मिट्टी के दीये वाला स्मोक्ड बुरानी रायता"
+      },
+      "items": [
+        {
+          "en": "Fresh Curd (Dahi) - 400g (whisked smooth with 1/4 cup water)",
+          "hi": "ताजा दही - 400 ग्राम (हल्का फेंटा हुआ)"
+        },
+        {
+          "en": "Garlic Cloves - 4 to 5 (finely minced)",
+          "hi": "लहसुन - 4 से 5 कलियां (बारीक कटी)"
+        },
+        {
+          "en": "Desi Ghee - 1 tsp (for clay diya tempering)",
+          "hi": "देसी घी - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Asafoetida (Hing) - a pinch",
+          "hi": "हींग - 1 चुटकी"
+        },
+        {
+          "en": "Red Chilli Powder - 1/2 tsp",
+          "hi": "लाल मिर्च पाउडर - 1/2 छोटा चम्मच"
+        },
+        {
+          "en": "Black Salt & Regular Salt - 1/2 tsp each",
+          "hi": "काला नमक और सादा नमक - आधा-आधा छोटा चम्मच"
+        },
+        {
+          "en": "Unglazed Terracotta Diya (Mitti ka Diya) - 1 clean, unpainted earthen lamp",
+          "hi": "सादा मिट्टी का दीया - 1 (बिना पेंट वाला साफ दीया)"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": {
+        "en": "Mixing the Tandoori Marinade",
+        "hi": "तंदूरी मैरिनेशन तैयार करना"
+      },
+      "text": {
+        "en": "In a mixing bowl, combine 2 tbsp coriander powder, 1 tsp cumin powder, 1/2 tsp ajwain, 1 tsp chilli powder, 1 tbsp Kashmiri chilli, 1/2 tsp turmeric, and 1 tsp salt. Add 1 tbsp ginger-garlic paste, 2 tbsp fresh curd, and 1 tbsp RAW cold-pressed mustard oil. Whisk with 2-3 tbsp water into a coating-consistency marinade. Let it sit for 2 minutes to thicken as dried spices hydrate.",
+        "hi": "बाउल में धनिया पाउडर, जीरा पाउडर, अजवाइन, लाल मिर्च, कश्मीरी मिर्च, हल्दी और नमक मिलाएं। इसमें 1 बड़ा चम्मच अदरक-लहसुन पेस्ट, 2 चम्मच दही और 1 चम्मच कच्चा सरसों का तेल डालें। 2-3 चम्मच पानी मिलाकर पेस्ट जैसा घोल बनाएं। 2 मिनट सेट होने दें ताकि सूखे मसाले फूल जाएं।"
+      }
+    },
+    {
+      "step": 2,
+      "title": {
+        "en": "Marinating Gobhi & Matar (The 10-Minute Secret)",
+        "hi": "गोभी-मटर को 10 मिनट मैरिनेट करना"
+      },
+      "text": {
+        "en": "Add 350g washed and thoroughly dried cauliflower florets and 1/2 cup fresh green peas into the marinade. Toss gently with your hands so every floret is lacquered in spice. Rest for 10 minutes. The salt activates osmosis, drawing moisture and carrying the raw mustard oil and spices deep into the core stems of the cauliflower.",
+        "hi": "धोकर सुखाए हुए फूलगोभी के टुकड़े और हरे मटर मैरिनेशन में डालें। हाथों से अच्छी तरह मिलाएं ताकि हर फूल पर मसाला लिपट जाए। 10 मिनट के लिए रख दें। नमक से गोभी के रोम छिद्र खुलते हैं और सरसों के तेल व मसालों का स्वाद अंदर तक समा जाता है।"
+      }
+    },
+    {
+      "step": 3,
+      "title": {
+        "en": "Clay Diya Smoked Burani Raita",
+        "hi": "मिट्टी के दीये से स्मोक्ड बुरानी रायता तैयार करना"
+      },
+      "text": {
+        "en": "Whisk 400g curd with 1/4 cup water, salt, black salt, and red chilli powder in a bowl. Place an unglazed terracotta diya on low flame on your stove. Add 1 tsp ghee, a pinch of hing, and minced garlic into the hollow diya. Fry on low heat until garlic turns golden brown and aromatic smoke rises. Carefully lift the piping hot diya with tongs, submerge directly into the curd bowl, and IMMEDIATELY cover with a plate for 10 minutes to trap the earthy tandoori smoke.",
+        "hi": "बाउल में 400 ग्राम दही को थोड़ा पानी, सादा नमक, काला नमक और लाल मिर्च पाउडर के साथ फेंट लें। गैस पर एक सादा मिट्टी का दीया धीमी आंच पर गर्म करें। दीये में 1 चम्मच घी, हींग और बारीक कटा लहसुन डालें। लहसुन को सुनहरा होने और धुआं उठने तक पकाएं। चिमटे से गरम दीया उठाकर सीधे दही में डाल दें और तुरंत ढक्कन लगाकर 10 मिनट छोड़ दें ताकि मिट्टी और लहसुन का सोंधा धुआं रायते में रम जाए।"
+      }
+    },
+    {
+      "step": 4,
+      "title": {
+        "en": "Tempering & High-Heat Searing",
+        "hi": "तड़का और तेज आंच पर गोभी भूनना"
+      },
+      "text": {
+        "en": "Heat 2 tbsp oil in a wide kadhai on high flame. Add cumin seeds, crushed coriander seeds, and fennel seeds. Sauté for 10 seconds until aromatic, then immediately tip in all the marinated cauliflower florets and green peas. Stir-fry vigorously on high flame for 3-4 minutes to sear the outer coating and seal in structural crunch.",
+        "hi": "कड़ाही में 2 चम्मच तेल तेज आंच पर गर्म करें। जीरा, कुटा धनिया और सौंफ डालें। 10 सेकंड बाद मैरिनेट की हुई गोभी और मटर कड़ाही में पलट दें। तेज आंच पर 3-4 मिनट लगातार चलाते हुए भूनें ताकि मसालों की परत सिक जाए और गोभी का क्रंच बना रहे।"
+      }
+    },
+    {
+      "step": 5,
+      "title": {
+        "en": "Covered Slow Steam (Zero Extra Water)",
+        "hi": "ढककर भाप में 10 मिनट पकाना"
+      },
+      "text": {
+        "en": "As the cauliflower naturally releases moisture, cover the kadhai with a tight lid and reduce flame to low. Cook undisturbed for 10 minutes (open once at the 5-minute mark to stir gently from the bottom). The cauliflower will cook through to 95% tenderness in its own concentrated spiced steam without turning soggy or boiled.",
+        "hi": "गोभी जैसे ही अपना पानी छोड़ने लगे, कड़ाही पर ढक्कन लगाएं और आंच बिल्कुल धीमी कर दें। 10 मिनट धीमी आंच पर पकने दें (5 मिनट बाद एक बार नीचे से हल्के हाथ से चला लें)। गोभी अपनी ही भाप में 95% तक अंदर तक गल जाएगी और बिखरेगी नहीं।"
+      }
+    },
+    {
+      "step": 6,
+      "title": {
+        "en": "Off-Heat Dum & Finishing Touches",
+        "hi": "गैस बंद करके दम देना और गार्निश"
+      },
+      "text": {
+        "en": "Uncover the pan. Sprinkle amchur powder, garam masala, ginger juliennes, slit green chillies, and fresh coriander. Turn off the flame completely! Cover with the lid and let it rest undisturbed for 5 minutes. The lingering residual heat completes the cooking, leaving the florets tender to the bite with intense masala infused into every crevice.",
+        "hi": "ढक्कन हटाएं। अमचूर पाउडर, गरम मसाला, अदरक के लच्छे, हरी मिर्च और हरा धनिया डालें। गैस तुरंत बंद कर दें! ढक्कन लगाकर 5 मिनट दम पर ऐसे ही छोड़ दें। बची हुई भाप में गोभी पूरी तरह पक जाएगी और एक-एक फूल पर मसाला चिपका रहेगा।"
+      }
+    },
+    {
+      "step": 7,
+      "title": {
+        "en": "Serving",
+        "hi": "परोसना"
+      },
+      "text": {
+        "en": "Serve hot straight from the pan with steaming ghee-topped phulkas or crispy parathas, accompanied by chilled smoky Burani Raita.",
+        "hi": "गरमा-गरम तंदूरी गोभी मटर को देसी घी लगी गरमा-गरम रोटियों या पराठों और साथ में ठंडे-ठंडे स्मोक्ड बुरानी रायते के साथ परोसें।"
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Do not skip raw cold-pressed mustard oil in the marinade. Heating it beforehand destroys the pungent allyl isothiocyanate that gives genuine tandoori flavor.",
+      "hi": "मैरिनेशन में कच्चा सरसों का तेल जरूर इस्तेमाल करें। कच्चे तेल से ही असली ढाबा और तंदूरी जैसा तीखा और सोंधा स्वाद आता है।"
+    },
+    {
+      "en": "Sear the cauliflower on high flame for the first 3-4 minutes before covering. This locks in floret shape and prevents the cauliflower from turning into mushy baby food.",
+      "hi": "ढकने से पहले पहले 3-4 मिनट तेज आंच पर भूनना बेहद जरूरी है, इससे गोभी का आकार नहीं बिगड़ता और वह गलती नहीं है।"
+    },
+    {
+      "en": "Use an unpainted, porous terracotta diya for the Burani Raita. Painted or glazed diyas release chemical fumes instead of earthy petrichor.",
+      "hi": "बुरानी रायते के लिए केवल सादा और कच्चा मिट्टी का दीया इस्तेमाल करें, पेंट वाला दीया कभी न लें।"
+    }
+  ],
+  "title_en": "No Onion-Tomato Tandoori Gobhi Matar & Burani Raita",
+  "title_hi": "बिना प्याज-टमाटर तंदूरी गोभी मटर और स्मोक्ड बुरानी रायता",
+  "description_en": "A zero-onion, zero-tomato dry cauliflower & peas sabzi that cooks in 15 minutes! Cauliflower florets marinated in raw mustard oil, curd, ajwain, and tandoori spices, seared on high flame, and paired with clay-diya smoked garlic Burani Raita.",
+  "description_hi": "बिना प्याज और बिना टमाटर के सिर्फ 15 मिनट में बनने वाली लाजवाब तंदूरी गोभी मटर! कच्चे सरसों के तेल, दही और अजवाइन के खास मैरिनेशन में लिपटी गोभी, और साथ में मिट्टी के दीये से तड़का लगा स्मोक्ड बुरानी रायता।",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 mins",
+  "cook_time_en": "15 mins",
+  "cook_time_hi": "15 mins",
+  "servings_en": "3-4 servings",
+  "servings_hi": "3-4 servings",
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "youtube_id": "ham2FaY9tNk",
+  "youtube_url": "https://www.youtube.com/watch?v=ham2FaY9tNk",
+  "image_url": "https://img.youtube.com/vi/ham2FaY9tNk/hqdefault.jpg",
+  "ingredients_en": [
+    "Cauliflower (Phool Gobhi) - 350g florets (washed in warm water, thoroughly dried)",
+    "Fresh Green Peas (Taaze Matar) - 1/2 cup",
+    "Raw Cold-Pressed Mustard Oil (Kachha Sarson Tel) - 1 tbsp (tandoori kick)",
+    "Fresh Thick Curd (Dahi) - 2 tbsp",
+    "Ginger-Garlic Paste - 1 tbsp",
+    "Coriander Powder (Dhaniya) - 2 tbsp",
+    "Cumin Powder (Jeera) - 1 tsp",
+    "Carom Seeds (Ajwain) - 1/2 tsp (crucial for cauliflower digestion)",
+    "Kashmiri Red Chilli Powder - 1 tbsp",
+    "Spicy Red Chilli Powder - 1 tsp",
+    "Turmeric Powder (Haldi) - 1/2 tsp",
+    "Salt - 1 tsp",
+    "Water - 2 to 3 tbsp (to adjust marinade slurry)",
+    "Cooking Oil - 2 tbsp",
+    "Cumin Seeds (Jeera) - 1/2 tsp",
+    "Crushed Coriander Seeds - 1/2 tsp",
+    "Fennel Seeds (Moti Saunf) - 1/2 tsp",
+    "Dry Mango Powder (Amchur) - 1/2 tsp",
+    "Garam Masala - 1/2 tsp",
+    "Fresh Ginger Juliennes & Slit Green Chillies - 1 tbsp each",
+    "Fresh Coriander leaves - 2 tbsp (chopped)",
+    "Fresh Curd (Dahi) - 400g (whisked smooth with 1/4 cup water)",
+    "Garlic Cloves - 4 to 5 (finely minced)",
+    "Desi Ghee - 1 tsp (for clay diya tempering)",
+    "Asafoetida (Hing) - a pinch",
+    "Red Chilli Powder - 1/2 tsp",
+    "Black Salt & Regular Salt - 1/2 tsp each",
+    "Unglazed Terracotta Diya (Mitti ka Diya) - 1 clean, unpainted earthen lamp"
+  ],
+  "ingredients_hi": [
+    "फूलगोभी - 350 ग्राम (गर्म पानी से धोकर सुखाए हुए मध्यम फूल)",
+    "ताजे हरे मटर - 1/2 कप",
+    "कच्चा सरसों का तेल - 1 बड़ा चम्मच (तंदूरी ढाबा स्वाद की जान)",
+    "ताजा गाढ़ा दही - 2 बड़े चम्मच",
+    "अदरक-लहसुन पेस्ट - 1 बड़ा चम्मच",
+    "धनिया पाउडर - 2 बड़े चम्मच",
+    "जीरा पाउडर - 1 छोटा चम्मच",
+    "अजवाइन - 1/2 छोटा चम्मच (पाचन और सुगंध के लिए)",
+    "कश्मीरी लाल मिर्च पाउडर - 1 बड़ा चम्मच",
+    "तीखी लाल मिर्च - 1 छोटा चम्मच",
+    "हल्दी पाउडर - 1/2 छोटा चम्मच",
+    "नमक - 1 छोटा चम्मच",
+    "पानी - 2 से 3 चम्मच (पेस्ट बनाने के लिए)",
+    "तेल - 2 बड़े चम्मच",
+    "जीरा - 1/2 छोटा चम्मच",
+    "कुटा साबुत धनिया - 1/2 छोटा चम्मच",
+    "मोटी सौंफ - 1/2 छोटा चम्मच",
+    "अमचूर पाउडर - 1/2 छोटा चम्मच",
+    "गरम मसाला - 1/2 छोटा चम्मच",
+    "अदरक के लच्छे और चीरा लगी हरी मिर्च - 1-1 चम्मच",
+    "ताजा हरा धनिया - 2 चम्मच",
+    "ताजा दही - 400 ग्राम (हल्का फेंटा हुआ)",
+    "लहसुन - 4 से 5 कलियां (बारीक कटी)",
+    "देसी घी - 1 छोटा चम्मच",
+    "हींग - 1 चुटकी",
+    "लाल मिर्च पाउडर - 1/2 छोटा चम्मच",
+    "काला नमक और सादा नमक - आधा-आधा छोटा चम्मच",
+    "सादा मिट्टी का दीया - 1 (बिना पेंट वाला साफ दीया)"
+  ],
+  "instructions_en": [
+    "In a mixing bowl, combine 2 tbsp coriander powder, 1 tsp cumin powder, 1/2 tsp ajwain, 1 tsp chilli powder, 1 tbsp Kashmiri chilli, 1/2 tsp turmeric, and 1 tsp salt. Add 1 tbsp ginger-garlic paste, 2 tbsp fresh curd, and 1 tbsp RAW cold-pressed mustard oil. Whisk with 2-3 tbsp water into a coating-consistency marinade. Let it sit for 2 minutes to thicken as dried spices hydrate.",
+    "Add 350g washed and thoroughly dried cauliflower florets and 1/2 cup fresh green peas into the marinade. Toss gently with your hands so every floret is lacquered in spice. Rest for 10 minutes. The salt activates osmosis, drawing moisture and carrying the raw mustard oil and spices deep into the core stems of the cauliflower.",
+    "Whisk 400g curd with 1/4 cup water, salt, black salt, and red chilli powder in a bowl. Place an unglazed terracotta diya on low flame on your stove. Add 1 tsp ghee, a pinch of hing, and minced garlic into the hollow diya. Fry on low heat until garlic turns golden brown and aromatic smoke rises. Carefully lift the piping hot diya with tongs, submerge directly into the curd bowl, and IMMEDIATELY cover with a plate for 10 minutes to trap the earthy tandoori smoke.",
+    "Heat 2 tbsp oil in a wide kadhai on high flame. Add cumin seeds, crushed coriander seeds, and fennel seeds. Sauté for 10 seconds until aromatic, then immediately tip in all the marinated cauliflower florets and green peas. Stir-fry vigorously on high flame for 3-4 minutes to sear the outer coating and seal in structural crunch.",
+    "As the cauliflower naturally releases moisture, cover the kadhai with a tight lid and reduce flame to low. Cook undisturbed for 10 minutes (open once at the 5-minute mark to stir gently from the bottom). The cauliflower will cook through to 95% tenderness in its own concentrated spiced steam without turning soggy or boiled.",
+    "Uncover the pan. Sprinkle amchur powder, garam masala, ginger juliennes, slit green chillies, and fresh coriander. Turn off the flame completely! Cover with the lid and let it rest undisturbed for 5 minutes. The lingering residual heat completes the cooking, leaving the florets tender to the bite with intense masala infused into every crevice.",
+    "Serve hot straight from the pan with steaming ghee-topped phulkas or crispy parathas, accompanied by chilled smoky Burani Raita."
+  ],
+  "instructions_hi": [
+    "बाउल में धनिया पाउडर, जीरा पाउडर, अजवाइन, लाल मिर्च, कश्मीरी मिर्च, हल्दी और नमक मिलाएं। इसमें 1 बड़ा चम्मच अदरक-लहसुन पेस्ट, 2 चम्मच दही और 1 चम्मच कच्चा सरसों का तेल डालें। 2-3 चम्मच पानी मिलाकर पेस्ट जैसा घोल बनाएं। 2 मिनट सेट होने दें ताकि सूखे मसाले फूल जाएं।",
+    "धोकर सुखाए हुए फूलगोभी के टुकड़े और हरे मटर मैरिनेशन में डालें। हाथों से अच्छी तरह मिलाएं ताकि हर फूल पर मसाला लिपट जाए। 10 मिनट के लिए रख दें। नमक से गोभी के रोम छिद्र खुलते हैं और सरसों के तेल व मसालों का स्वाद अंदर तक समा जाता है।",
+    "बाउल में 400 ग्राम दही को थोड़ा पानी, सादा नमक, काला नमक और लाल मिर्च पाउडर के साथ फेंट लें। गैस पर एक सादा मिट्टी का दीया धीमी आंच पर गर्म करें। दीये में 1 चम्मच घी, हींग और बारीक कटा लहसुन डालें। लहसुन को सुनहरा होने और धुआं उठने तक पकाएं। चिमटे से गरम दीया उठाकर सीधे दही में डाल दें और तुरंत ढक्कन लगाकर 10 मिनट छोड़ दें ताकि मिट्टी और लहसुन का सोंधा धुआं रायते में रम जाए।",
+    "कड़ाही में 2 चम्मच तेल तेज आंच पर गर्म करें। जीरा, कुटा धनिया और सौंफ डालें। 10 सेकंड बाद मैरिनेट की हुई गोभी और मटर कड़ाही में पलट दें। तेज आंच पर 3-4 मिनट लगातार चलाते हुए भूनें ताकि मसालों की परत सिक जाए और गोभी का क्रंच बना रहे।",
+    "गोभी जैसे ही अपना पानी छोड़ने लगे, कड़ाही पर ढक्कन लगाएं और आंच बिल्कुल धीमी कर दें। 10 मिनट धीमी आंच पर पकने दें (5 मिनट बाद एक बार नीचे से हल्के हाथ से चला लें)। गोभी अपनी ही भाप में 95% तक अंदर तक गल जाएगी और बिखरेगी नहीं।",
+    "ढक्कन हटाएं। अमचूर पाउडर, गरम मसाला, अदरक के लच्छे, हरी मिर्च और हरा धनिया डालें। गैस तुरंत बंद कर दें! ढक्कन लगाकर 5 मिनट दम पर ऐसे ही छोड़ दें। बची हुई भाप में गोभी पूरी तरह पक जाएगी और एक-एक फूल पर मसाला चिपका रहेगा।",
+    "गरमा-गरम तंदूरी गोभी मटर को देसी घी लगी गरमा-गरम रोटियों या पराठों और साथ में ठंडे-ठंडे स्मोक्ड बुरानी रायते के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "Do not skip raw cold-pressed mustard oil in the marinade. Heating it beforehand destroys the pungent allyl isothiocyanate that gives genuine tandoori flavor.",
+    "Sear the cauliflower on high flame for the first 3-4 minutes before covering. This locks in floret shape and prevents the cauliflower from turning into mushy baby food.",
+    "Use an unpainted, porous terracotta diya for the Burani Raita. Painted or glazed diyas release chemical fumes instead of earthy petrichor."
+  ],
+  "chef_tips_hi": [
+    "मैरिनेशन में कच्चा सरसों का तेल जरूर इस्तेमाल करें। कच्चे तेल से ही असली ढाबा और तंदूरी जैसा तीखा और सोंधा स्वाद आता है।",
+    "ढकने से पहले पहले 3-4 मिनट तेज आंच पर भूनना बेहद जरूरी है, इससे गोभी का आकार नहीं बिगड़ता और वह गलती नहीं है।",
+    "बुरानी रायते के लिए केवल सादा और कच्चा मिट्टी का दीया इस्तेमाल करें, पेंट वाला दीया कभी न लें।"
+  ],
+  "tags": [
+    "Tandoori Gobhi",
+    "Gobhi Matar",
+    "Winter Sabzi",
+    "Main Course",
+    "Vegetarian"
+  ]
+}

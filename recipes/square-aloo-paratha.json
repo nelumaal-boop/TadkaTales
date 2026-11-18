@@ -1,0 +1,301 @@
+{
+  "id": "square-aloo-paratha",
+  "title": {
+    "en": "Dhaba-Style Square Stuffed Aloo Paratha",
+    "hi": "ढाबा स्टाइल चौकोर भरवां आलू परांठा"
+  },
+  "description": {
+    "en": "Never burst an aloo paratha again! The genius square envelope folding method that allows you to pack double the spicy potato-onion stuffing corner-to-corner without tearing, roasting into crisp, flaky, buttery layers.",
+    "hi": "आलू परांठा कभी फटेगा नहीं! चौकोर लिफाफा फोल्डिंग की जादुई तकनीक—जिसमें आप बिना फटे दोगुनी चटपटी आलू-प्याज की स्टफिंग भर सकते हैं। कोने-कोने तक भरा हुआ, बाहर से बेहद कुरकुरा और अंदर से मक्खन जैसा नरम।"
+  },
+  "category": "Breakfast",
+  "isVegetarian": true,
+  "prepTime": "15 mins",
+  "cookTime": "15 mins",
+  "servings": "4 servings (6-8 parathas)",
+  "youtubeId": "Azw4jxvj5Jo",
+  "author": "Bharatzkitchen Hindi",
+  "ingredients": [
+    {
+      "category": {
+        "en": "Soft Pliable Paratha Dough",
+        "hi": "नरम-लचीला परांठा आटा"
+      },
+      "items": [
+        {
+          "en": "Whole Wheat Flour (Atta) - 3 cups",
+          "hi": "गेहूं का आटा - 3 कप"
+        },
+        {
+          "en": "Desi Ghee - 1 tbsp (kneaded into dough for elasticity)",
+          "hi": "देसी घी - 1 बड़ा चम्मच (आटे में लचक और नरमी हेतु)"
+        },
+        {
+          "en": "Water - as needed (to knead a soft, pliable dough)",
+          "hi": "पानी - आवश्यकतानुसार (रोटी जैसा नरम आटा लगाने के लिए)"
+        },
+        {
+          "en": "Salt - 1/2 tsp",
+          "hi": "नमक - 1/2 छोटा चम्मच"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Spicy Punjabi Aloo Masala",
+        "hi": "चटपटा पंजाबी आलू मसाला"
+      },
+      "items": [
+        {
+          "en": "Potatoes (Aloo) - 5 to 6 medium (boiled, cooled completely, and grated)",
+          "hi": "आलू - 5 से 6 मध्यम (उबले, पूरी तरह ठंडे और कद्दूकस किए हुए)"
+        },
+        {
+          "en": "Onions - 2 medium (very finely chopped)",
+          "hi": "प्याज - 2 मध्यम (एकदम बारीक कटे हुए)"
+        },
+        {
+          "en": "Green Chillies - 5 to 6 (finely minced for spicy punch)",
+          "hi": "हरी मिर्च - 5 से 6 (बारीक कटी तीखी मिर्च)"
+        },
+        {
+          "en": "Fresh Ginger - 1 inch (finely grated)",
+          "hi": "ताजा अदरक - 1 इंच (बारीक कद्दूकस किया हुआ)"
+        },
+        {
+          "en": "Coriander Powder (Dhaniya) - 2 tbsp (dhaba-style base)",
+          "hi": "धनिया पाउडर - 2 बड़े चम्मच"
+        },
+        {
+          "en": "Roasted Cumin Powder (Bhuna Jeera) - 1 tsp",
+          "hi": "भुना जीरा पाउडर - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Red Chilli Powder - 1 tsp",
+          "hi": "लाल मिर्च पाउडर - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Amchur Powder (Dry Mango) - 1 tsp",
+          "hi": "अमचूर पाउडर - 1 छोटा चम्मच"
+        },
+        {
+          "en": "Carom Seeds (Ajwain) - 1/2 tsp (crushed between palms)",
+          "hi": "अजवाइन - 1/2 छोटा चम्मच (हथेलियों से मसली हुई)"
+        },
+        {
+          "en": "Pizza Herb Seasoning / Oregano - 1/2 tsp (Bharatzkitchen secret flavor enhancer)",
+          "hi": "पिज़्ज़ा सीजनिंग / ओरेगेनो - 1/2 छोटा चम्मच (सीक्रेट टेस्ट ट्विस्ट)"
+        },
+        {
+          "en": "Salt - 1 tbsp (to taste)",
+          "hi": "नमक - 1 बड़ा चम्मच (स्वादानुसार)"
+        },
+        {
+          "en": "Fresh Coriander leaves - 1/2 cup (finely chopped)",
+          "hi": "ताजा हरा धनिया - 1/2 कप (बारीक कटा)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Toasting & Serving",
+        "hi": "सिकाई और परोसने के लिए"
+      },
+      "items": [
+        {
+          "en": "Desi Ghee or White Butter (Safed Makhan) - for roasting and topping",
+          "hi": "देसी घी या सफेद मक्खन - परांठे सेकने और ऊपर रखने के लिए"
+        },
+        {
+          "en": "Chilled Curd (Dahi) or Fresh Mint Chutney & Mango Pickle",
+          "hi": "ठंडा दही, पुदीना चटनी और आम का अचार"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": {
+        "en": "Kneading Soft Elastic Dough",
+        "hi": "नरम और लचीला आटा गूंधना"
+      },
+      "text": {
+        "en": "In a wide parat, mix 3 cups wheat flour and 1/2 tsp salt. Gradually add water and knead into a soft, smooth dough (similar to chapati dough, not stiff). Drizzle 1 tbsp desi ghee over the dough and knead vigorously for another 2 minutes until pliable and elastic. Cover with a damp cloth and rest for 15 minutes.",
+        "hi": "परात में 3 कप गेहूं का आटा और आधा चम्मच नमक लें। धीरे-धीरे पानी डालते हुए रोटी जैसा नरम और लचीला आटा गूंधें। ऊपर से 1 चम्मच देसी घी डालें और 2 मिनट अच्छी तरह मसलें ताकि आटे में लचक आ जाए। गीले कपड़े से ढककर 15 मिनट रेस्ट दें।"
+      }
+    },
+    {
+      "step": 2,
+      "title": {
+        "en": "Preparing Spicy Dhaba Aloo Masala",
+        "hi": "चटपटा आलू मसाला तैयार करना"
+      },
+      "text": {
+        "en": "Ensure boiled potatoes are completely cool (warm potatoes turn watery and gummy). Grate potatoes into a bowl. Add finely chopped onions, minced green chillies, grated ginger, coriander powder, roasted cumin powder, red chilli powder, amchur, crushed ajwain, pizza seasoning, salt, and plenty of fresh coriander. Mix gently with fingertips until evenly seasoned. Do not over-knead.",
+        "hi": "उबले हुए आलुओं को पहले पूरी तरह ठंडा कर लें (गर्म आलू पानी छोड़ देते हैं)। आलुओं को कद्दूकस करें। इसमें बारीक कटा प्याज, हरी मिर्च, अदरक, धनिया पाउडर, भुना जीरा, लाल मिर्च, अमचूर, अजवाइन, पिज़्ज़ा सीजनिंग, नमक और हरा धनिया मिलाएं। उंगलियों से हल्के हाथ से मिलाएं।"
+      }
+    },
+    {
+      "step": 3,
+      "title": {
+        "en": "Rolling the Base Disc",
+        "hi": "बड़ी पतली रोटी बेलना"
+      },
+      "text": {
+        "en": "Pinch a lemon-sized ball of dough and dust with dry flour. Roll out with a rolling pin into a large, thin circular disc (approx. 9-10 inches wide), slightly thinner than a normal chapati.",
+        "hi": "आटे की एक मध्यम लोई लें और सूखे आटे में लपेटें। बेलन से 9-10 इंच की एक बड़ी और पतली गोल रोटी बेल लें (सामान्य रोटी से थोड़ी पतली)।"
+      }
+    },
+    {
+      "step": 4,
+      "title": {
+        "en": "The Square Envelope Folding Secret",
+        "hi": "चौकोर लिफाफा फोल्डिंग तकनीक (नो-बर्स्टिंग ट्रिक)"
+      },
+      "text": {
+        "en": "Place a generous mound (about 3-4 tablespoons) of aloo masala directly in the center of the rolled disc and gently flatten it into a neat square shape. Fold the left edge of the dough over the square filling. Fold the right edge over to overlap it. Next, fold the top flap downward and the bottom flap upward, forming a compact, perfectly sealed square envelope packet. The overlapping flaps create reinforced double layers that trap moisture and cushion sharp onion bits.",
+        "hi": "रोटी के बीचों-बीच 3-4 बड़े चम्मच आलू मसाला रखें और हाथों से चौकोर आकार में फैला दें। अब बाएं तरफ से रोटी मोड़कर मसाले पर रखें, फिर दाएं तरफ से मोड़कर उसके ऊपर लाएं। इसके बाद ऊपर से नीचे और नीचे से ऊपर मोड़कर एक सीलबंद चौकोर लिफाफा (पैकेट) बना लें। चारों परतों के आपस में मिलने से दोहरी दीवार बन जाती है जो प्याज को बाहर निकलने से रोकती है।"
+      }
+    },
+    {
+      "step": 5,
+      "title": {
+        "en": "Rolling Out the Square Paratha",
+        "hi": "चौकोर परांठा बेलना"
+      },
+      "text": {
+        "en": "Dust the square packet lightly with dry flour on both sides. Press gently with your palms to spread the filling evenly from center to all four corners. Roll gently with the rolling pin from center outward toward the edges, maintaining the sharp square shape. The paratha can be rolled generously large without a single tear or leak.",
+        "hi": "चौकोर पैकेट पर दोनों तरफ हल्का सूखा आटा लगाएं। पहले हथेलियों से हल्के से दबाएं ताकि आलू का मसाला चारों कोनों तक पहुंच जाए। अब बेलन से हल्के हाथ से चारों तरफ बेलकर बड़ा चौकोर परांठा तैयार करें। मसाला बिल्कुल बाहर नहीं निकलेगा।"
+      }
+    },
+    {
+      "step": 6,
+      "title": {
+        "en": "Tawa Roasting & Puffing with Desi Ghee",
+        "hi": "तवे पर देसी घी के साथ करारा सेकना"
+      },
+      "text": {
+        "en": "Heat a heavy tawa on medium heat. Place the square paratha on the tawa and cook for 1 minute until small bubbles appear. Flip to the other side. Brush the top surface generously with desi ghee. Flip again and apply ghee on the second side. Press the corners and edges gently with a spatula—the paratha will puff up like a pillow with crispy golden-brown blistered crusts all over.",
+        "hi": "मध्यम आंच पर भारी तवा गर्म करें। परांठा डालें और 1 मिनट बाद पलटें। ऊपर से भरपूर देसी घी लगाएं। फिर से पलटें और दूसरी तरफ भी घी लगाएं। पलटे से किनारों को हल्का दबाएं—परांठा गुब्बारे की तरह फूल जाएगा और दोनों तरफ से एकदम सुनहरा व खस्ता सिक जाएगा।"
+      }
+    },
+    {
+      "step": 7,
+      "title": {
+        "en": "Serving with White Butter",
+        "hi": "मक्खन और दही के साथ परोसना"
+      },
+      "text": {
+        "en": "Serve piping hot straight off the tawa, cut diagonally into triangular halves if desired. Top with a dollop of melting homemade white butter (makhan), alongside chilled spiced curd, spicy green chutney, and tangy mango pickle.",
+        "hi": "गरमा-गरम तवे से उतारकर ऊपर ढेर सारा ताजा सफेद मक्खन रखें। ठंडे दही, हरी पुदीना चटनी और आम के तीखे अचार के साथ परोसें।"
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Always let boiled potatoes cool down to room temperature (or refrigerate for 30 minutes) before peeling and mashing. Warm potatoes release starch moisture that turns the filling pasty and tears the dough.",
+      "hi": "उबले आलू हमेशा पूरी तरह ठंडे करके ही कद्दूकस करें। गरम आलू में भाप का पानी होता है जो मसाले को गीला कर देता है और परांठे को फाड़ देता है।"
+    },
+    {
+      "en": "The square envelope fold provides double layers on both sides of the paratha, preventing chopped onions from piercing through the dough during rolling.",
+      "hi": "चौकोर लिफाफा मोड़ने से परांठे के ऊपर और नीचे दोहरी परत बन जाती है, जिससे प्याज के टुकड़े बेलते समय आटे को चीर नहीं पाते।"
+    },
+    {
+      "en": "Adding 1/2 tsp of pizza herb seasoning/oregano to traditional Punjabi aloo masala provides a subtle herbal depth that elevates roadside dhaba flavors.",
+      "hi": "आलू मसाले में आधा छोटा चम्मच पिज़्ज़ा सीजनिंग मिलाने से पारंपरिक मसालों में एक अनोखा और ताजगी भरा ढाबा स्टाइल स्वाद आता है।"
+    }
+  ],
+  "title_en": "Dhaba-Style Square Stuffed Aloo Paratha",
+  "title_hi": "ढाबा स्टाइल चौकोर भरवां आलू परांठा",
+  "description_en": "Never burst an aloo paratha again! The genius square envelope folding method that allows you to pack double the spicy potato-onion stuffing corner-to-corner without tearing, roasting into crisp, flaky, buttery layers.",
+  "description_hi": "आलू परांठा कभी फटेगा नहीं! चौकोर लिफाफा फोल्डिंग की जादुई तकनीक—जिसमें आप बिना फटे दोगुनी चटपटी आलू-प्याज की स्टफिंग भर सकते हैं। कोने-कोने तक भरा हुआ, बाहर से बेहद कुरकुरा और अंदर से मक्खन जैसा नरम।",
+  "prep_time_en": "15 mins",
+  "prep_time_hi": "15 mins",
+  "cook_time_en": "15 mins",
+  "cook_time_hi": "15 mins",
+  "servings_en": "4 servings (6-8 parathas)",
+  "servings_hi": "4 servings (6-8 parathas)",
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "diet": "Veg",
+  "diet_hi": "शाकाहारी",
+  "youtube_id": "Azw4jxvj5Jo",
+  "youtube_url": "https://www.youtube.com/watch?v=Azw4jxvj5Jo",
+  "image_url": "https://img.youtube.com/vi/Azw4jxvj5Jo/hqdefault.jpg",
+  "ingredients_en": [
+    "Whole Wheat Flour (Atta) - 3 cups",
+    "Desi Ghee - 1 tbsp (kneaded into dough for elasticity)",
+    "Water - as needed (to knead a soft, pliable dough)",
+    "Salt - 1/2 tsp",
+    "Potatoes (Aloo) - 5 to 6 medium (boiled, cooled completely, and grated)",
+    "Onions - 2 medium (very finely chopped)",
+    "Green Chillies - 5 to 6 (finely minced for spicy punch)",
+    "Fresh Ginger - 1 inch (finely grated)",
+    "Coriander Powder (Dhaniya) - 2 tbsp (dhaba-style base)",
+    "Roasted Cumin Powder (Bhuna Jeera) - 1 tsp",
+    "Red Chilli Powder - 1 tsp",
+    "Amchur Powder (Dry Mango) - 1 tsp",
+    "Carom Seeds (Ajwain) - 1/2 tsp (crushed between palms)",
+    "Pizza Herb Seasoning / Oregano - 1/2 tsp (Bharatzkitchen secret flavor enhancer)",
+    "Salt - 1 tbsp (to taste)",
+    "Fresh Coriander leaves - 1/2 cup (finely chopped)",
+    "Desi Ghee or White Butter (Safed Makhan) - for roasting and topping",
+    "Chilled Curd (Dahi) or Fresh Mint Chutney & Mango Pickle"
+  ],
+  "ingredients_hi": [
+    "गेहूं का आटा - 3 कप",
+    "देसी घी - 1 बड़ा चम्मच (आटे में लचक और नरमी हेतु)",
+    "पानी - आवश्यकतानुसार (रोटी जैसा नरम आटा लगाने के लिए)",
+    "नमक - 1/2 छोटा चम्मच",
+    "आलू - 5 से 6 मध्यम (उबले, पूरी तरह ठंडे और कद्दूकस किए हुए)",
+    "प्याज - 2 मध्यम (एकदम बारीक कटे हुए)",
+    "हरी मिर्च - 5 से 6 (बारीक कटी तीखी मिर्च)",
+    "ताजा अदरक - 1 इंच (बारीक कद्दूकस किया हुआ)",
+    "धनिया पाउडर - 2 बड़े चम्मच",
+    "भुना जीरा पाउडर - 1 छोटा चम्मच",
+    "लाल मिर्च पाउडर - 1 छोटा चम्मच",
+    "अमचूर पाउडर - 1 छोटा चम्मच",
+    "अजवाइन - 1/2 छोटा चम्मच (हथेलियों से मसली हुई)",
+    "पिज़्ज़ा सीजनिंग / ओरेगेनो - 1/2 छोटा चम्मच (सीक्रेट टेस्ट ट्विस्ट)",
+    "नमक - 1 बड़ा चम्मच (स्वादानुसार)",
+    "ताजा हरा धनिया - 1/2 कप (बारीक कटा)",
+    "देसी घी या सफेद मक्खन - परांठे सेकने और ऊपर रखने के लिए",
+    "ठंडा दही, पुदीना चटनी और आम का अचार"
+  ],
+  "instructions_en": [
+    "In a wide parat, mix 3 cups wheat flour and 1/2 tsp salt. Gradually add water and knead into a soft, smooth dough (similar to chapati dough, not stiff). Drizzle 1 tbsp desi ghee over the dough and knead vigorously for another 2 minutes until pliable and elastic. Cover with a damp cloth and rest for 15 minutes.",
+    "Ensure boiled potatoes are completely cool (warm potatoes turn watery and gummy). Grate potatoes into a bowl. Add finely chopped onions, minced green chillies, grated ginger, coriander powder, roasted cumin powder, red chilli powder, amchur, crushed ajwain, pizza seasoning, salt, and plenty of fresh coriander. Mix gently with fingertips until evenly seasoned. Do not over-knead.",
+    "Pinch a lemon-sized ball of dough and dust with dry flour. Roll out with a rolling pin into a large, thin circular disc (approx. 9-10 inches wide), slightly thinner than a normal chapati.",
+    "Place a generous mound (about 3-4 tablespoons) of aloo masala directly in the center of the rolled disc and gently flatten it into a neat square shape. Fold the left edge of the dough over the square filling. Fold the right edge over to overlap it. Next, fold the top flap downward and the bottom flap upward, forming a compact, perfectly sealed square envelope packet. The overlapping flaps create reinforced double layers that trap moisture and cushion sharp onion bits.",
+    "Dust the square packet lightly with dry flour on both sides. Press gently with your palms to spread the filling evenly from center to all four corners. Roll gently with the rolling pin from center outward toward the edges, maintaining the sharp square shape. The paratha can be rolled generously large without a single tear or leak.",
+    "Heat a heavy tawa on medium heat. Place the square paratha on the tawa and cook for 1 minute until small bubbles appear. Flip to the other side. Brush the top surface generously with desi ghee. Flip again and apply ghee on the second side. Press the corners and edges gently with a spatula—the paratha will puff up like a pillow with crispy golden-brown blistered crusts all over.",
+    "Serve piping hot straight off the tawa, cut diagonally into triangular halves if desired. Top with a dollop of melting homemade white butter (makhan), alongside chilled spiced curd, spicy green chutney, and tangy mango pickle."
+  ],
+  "instructions_hi": [
+    "परात में 3 कप गेहूं का आटा और आधा चम्मच नमक लें। धीरे-धीरे पानी डालते हुए रोटी जैसा नरम और लचीला आटा गूंधें। ऊपर से 1 चम्मच देसी घी डालें और 2 मिनट अच्छी तरह मसलें ताकि आटे में लचक आ जाए। गीले कपड़े से ढककर 15 मिनट रेस्ट दें।",
+    "उबले हुए आलुओं को पहले पूरी तरह ठंडा कर लें (गर्म आलू पानी छोड़ देते हैं)। आलुओं को कद्दूकस करें। इसमें बारीक कटा प्याज, हरी मिर्च, अदरक, धनिया पाउडर, भुना जीरा, लाल मिर्च, अमचूर, अजवाइन, पिज़्ज़ा सीजनिंग, नमक और हरा धनिया मिलाएं। उंगलियों से हल्के हाथ से मिलाएं।",
+    "आटे की एक मध्यम लोई लें और सूखे आटे में लपेटें। बेलन से 9-10 इंच की एक बड़ी और पतली गोल रोटी बेल लें (सामान्य रोटी से थोड़ी पतली)।",
+    "रोटी के बीचों-बीच 3-4 बड़े चम्मच आलू मसाला रखें और हाथों से चौकोर आकार में फैला दें। अब बाएं तरफ से रोटी मोड़कर मसाले पर रखें, फिर दाएं तरफ से मोड़कर उसके ऊपर लाएं। इसके बाद ऊपर से नीचे और नीचे से ऊपर मोड़कर एक सीलबंद चौकोर लिफाफा (पैकेट) बना लें। चारों परतों के आपस में मिलने से दोहरी दीवार बन जाती है जो प्याज को बाहर निकलने से रोकती है।",
+    "चौकोर पैकेट पर दोनों तरफ हल्का सूखा आटा लगाएं। पहले हथेलियों से हल्के से दबाएं ताकि आलू का मसाला चारों कोनों तक पहुंच जाए। अब बेलन से हल्के हाथ से चारों तरफ बेलकर बड़ा चौकोर परांठा तैयार करें। मसाला बिल्कुल बाहर नहीं निकलेगा।",
+    "मध्यम आंच पर भारी तवा गर्म करें। परांठा डालें और 1 मिनट बाद पलटें। ऊपर से भरपूर देसी घी लगाएं। फिर से पलटें और दूसरी तरफ भी घी लगाएं। पलटे से किनारों को हल्का दबाएं—परांठा गुब्बारे की तरह फूल जाएगा और दोनों तरफ से एकदम सुनहरा व खस्ता सिक जाएगा।",
+    "गरमा-गरम तवे से उतारकर ऊपर ढेर सारा ताजा सफेद मक्खन रखें। ठंडे दही, हरी पुदीना चटनी और आम के तीखे अचार के साथ परोसें।"
+  ],
+  "chef_tips_en": [
+    "Always let boiled potatoes cool down to room temperature (or refrigerate for 30 minutes) before peeling and mashing. Warm potatoes release starch moisture that turns the filling pasty and tears the dough.",
+    "The square envelope fold provides double layers on both sides of the paratha, preventing chopped onions from piercing through the dough during rolling.",
+    "Adding 1/2 tsp of pizza herb seasoning/oregano to traditional Punjabi aloo masala provides a subtle herbal depth that elevates roadside dhaba flavors."
+  ],
+  "chef_tips_hi": [
+    "उबले आलू हमेशा पूरी तरह ठंडे करके ही कद्दूकस करें। गरम आलू में भाप का पानी होता है जो मसाले को गीला कर देता है और परांठे को फाड़ देता है।",
+    "चौकोर लिफाफा मोड़ने से परांठे के ऊपर और नीचे दोहरी परत बन जाती है, जिससे प्याज के टुकड़े बेलते समय आटे को चीर नहीं पाते।",
+    "आलू मसाले में आधा छोटा चम्मच पिज़्ज़ा सीजनिंग मिलाने से पारंपरिक मसालों में एक अनोखा और ताजगी भरा ढाबा स्टाइल स्वाद आता है।"
+  ],
+  "tags": [
+    "Aloo Paratha",
+    "Square Paratha",
+    "Dhaba Paratha",
+    "Breakfast",
+    "Comfort Food"
+  ]
+}

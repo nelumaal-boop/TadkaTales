@@ -1,0 +1,194 @@
+{
+  "id": "restaurant-style-dum-egg-biryani",
+  "title_en": "Restaurant Style Dum Egg Biryani (अंडा दम बिरयानी)",
+  "title_hi": "रेस्टोरेंट स्टाइल अंडा दम बिरयानी (परफेक्ट अंडा बिरयानी रेसिपी)",
+  "title": {
+    "en": "Restaurant Style Dum Egg Biryani (अंडा दम बिरयानी)",
+    "hi": "रेस्टोरेंट स्टाइल अंडा दम बिरयानी (परफेक्ट अंडा बिरयानी रेसिपी)"
+  },
+  "description_en": "1.2M views! Golden-fried spiced hard-boiled eggs layered with fragrant parboiled basmati rice, caramelized birista, fresh mint, saffron milk, and aromatic biryani spices, cooked on slow dum.",
+  "description_hi": "12 लाख लोगों की पसंदीदा रेस्टोरेंट स्टाइल अंडा दम बिरयानी! हल्दी-मिर्च में सिके उबले अंडे, खड़े मसालों में पके खिले-खिले बासमती चावल, सुनहरा तला प्याज (बरिस्ता), पुदीना और केसर के दम से तैयार शाही बिरयानी।",
+  "description": {
+    "en": "1.2M views! Golden-fried spiced hard-boiled eggs layered with fragrant parboiled basmati rice, caramelized birista, fresh mint, saffron milk, and aromatic biryani spices, cooked on slow dum.",
+    "hi": "12 लाख लोगों की पसंदीदा रेस्टोरेंट स्टाइल अंडा दम बिरयानी! हल्दी-मिर्च में सिके उबले अंडे, खड़े मसालों में पके खिले-खिले बासमती चावल, सुनहरा तला प्याज (बरिस्ता), पुदीना और केसर के दम से तैयार शाही बिरयानी।"
+  },
+  "category": "Latest Recipe",
+  "diet": "Non-Vegetarian",
+  "diet_hi": "मांसाहारी",
+  "isVegetarian": false,
+  "difficulty_en": "Medium",
+  "difficulty_hi": "मध्यम",
+  "prep_time_en": "20 mins",
+  "prep_time_hi": "20 मिनट",
+  "cook_time_en": "30 mins",
+  "cook_time_hi": "30 मिनट",
+  "prepTime": "20 mins",
+  "cookTime": "30 mins",
+  "servings_en": "4-5 servings",
+  "servings_hi": "4-5 लोग",
+  "servings": 4,
+  "youtube_id": "cvzDQMbVoq8",
+  "youtubeId": "cvzDQMbVoq8",
+  "youtube_url": "https://youtu.be/cvzDQMbVoq8",
+  "image_url": "/static/images/cvzDQMbVoq8.jpg",
+  "tags": [
+    "Egg Biryani",
+    "Anda Biryani",
+    "Biryani",
+    "Dum Biryani",
+    "Main Course",
+    "Bharatzkitchen",
+    "Non-Vegetarian"
+  ],
+  "ingredients_en": [
+    "Egg Preparation: 6 Hard-Boiled Eggs (pricked with fork), 1/4 tsp Turmeric, 1/2 tsp Chilli Powder, 1/2 tsp Salt, 2 tbsp Oil for frying",
+    "Aromatic Rice Boiling: 2 cups Aged Basmati Rice, 2 Litres Water, 2 tbsp Salt, 3 Cloves, 8 Peppercorns, 3 Green Cardamoms, 1 Cinnamon, 1 Bay Leaf, 1 tsp Cumin, 1 Green Chilli, Slice of Lemon, Mint & Coriander leaves, 2 tsp Desi Ghee",
+    "Biryani Masala Gravy: 1/4 cup Oil, 3 Onions (sliced & fried golden), 1 tbsp Ginger Garlic Paste, 2 Tomatoes (chopped), 1/2 cup Curd, 1 tbsp Biryani Masala, 1 tsp Kashmiri Chilli, 1/2 tsp Turmeric, 1 tsp Salt",
+    "Dum Toppings: Saffron milk, 1 tbsp Desi Ghee, Kewra water, Fried onions (birista), Fresh Mint & Coriander"
+  ],
+  "ingredients_hi": [
+    "अंडा तैयारी: 6 उबले अंडे (कांटे से गोदें), 1/4 छोटा चम्मच हल्दी, 1/2 छोटा चम्मच लाल मिर्च, 1/2 छोटा चम्मच नमक, तलने हेतु तेल",
+    "चावल उबालने हेतु: 2 कप बासमती चावल, 2 लीटर पानी, 2 चम्मच नमक, लौंग, काली मिर्च, इलायची, दालचीनी, तेज पत्ता, जीरा, हरी मिर्च, नींबू का टुकड़ा, पुदीना, धनिया व 2 चम्मच देसी घी",
+    "बिरयानी मसाला ग्रेवी: 1/4 कप तेल, 3 प्याज (सुनहरा तला बरिस्ता), 1 बड़ा चम्मच अदरक-लहसुन पेस्ट, 2 टमाटर, 1/2 कप दही, 1 बड़ा चम्मच बिरयानी मसाला, कश्मीरी मिर्च, हल्दी व नमक",
+    "दम सामग्री: केसर दूध, 1 बड़ा चम्मच देसी घी, केवड़ा जल, तला प्याज, पुदीना व हरा धनिया"
+  ],
+  "ingredients": [
+    {
+      "category_en": "Golden Fried Spiced Eggs (तले मसालेदार अंडे)",
+      "category_hi": "तले मसालेदार अंडे",
+      "items": [
+        {
+          "name_en": "Hard-Boiled Eggs",
+          "name_hi": "उबले अंडे",
+          "amount": "6 eggs"
+        },
+        {
+          "name_en": "Turmeric, Chilli & Salt",
+          "name_hi": "हल्दी, मिर्च व नमक",
+          "amount": "1/4 tsp + 1/2 tsp + 1/2 tsp"
+        },
+        {
+          "name_en": "Oil for searing",
+          "name_hi": "तलने हेतु तेल",
+          "amount": "2 tbsp"
+        }
+      ]
+    },
+    {
+      "category_en": "70% Cooked Fragrant Rice (सुगंधित बासमती चावल)",
+      "category_hi": "सुगंधित बासमती चावल",
+      "items": [
+        {
+          "name_en": "Aged Basmati Rice",
+          "name_hi": "बासमती चावल",
+          "amount": "2 cups (soaked 30 mins)"
+        },
+        {
+          "name_en": "Water, Whole Spices, Lemon & Ghee",
+          "name_hi": "पानी, खड़े मसाले, नींबू व घी",
+          "amount": "2 Litres water + whole spices"
+        }
+      ]
+    },
+    {
+      "category_en": "Spiced Onion-Tomato Masala (बिरयानी मसाला ग्रेवी)",
+      "category_hi": "बिरयानी मसाला ग्रेवी",
+      "items": [
+        {
+          "name_en": "Fried Onions (Birista)",
+          "name_hi": "तला प्याज",
+          "amount": "3 onions"
+        },
+        {
+          "name_en": "Ginger-Garlic, Tomatoes & Curd",
+          "name_hi": "अदरक-लहसुन, टमाटर व दही",
+          "amount": "1 tbsp + 2 tomatoes + 1/2 cup curd"
+        },
+        {
+          "name_en": "Biryani Masala & Spices",
+          "name_hi": "बिरयानी मसाला व मसाले",
+          "amount": "1 tbsp biryani masala"
+        }
+      ]
+    }
+  ],
+  "instructions_en": [
+    "Boil Rice to 70%: Boil 2 litres water with salt, whole spices (cloves, cardamoms, cinnamon, bay leaf, pepper, cumin), mint, coriander, a slice of lemon, and 2 tsp ghee. Add soaked basmati rice and boil for 6-7 minutes until 70% cooked (grain has a firm bite in center). Drain in a colander.",
+    "Sear Eggs: Prick boiled eggs with a fork. Dust with turmeric, red chilli, and salt. Heat 2 tbsp oil in a pan and sear the eggs over medium flame for 2-3 minutes until golden blistered. Remove.",
+    "Crisp Golden Birista: In the biryani pot, heat 1/4 cup oil. Fry sliced onions until deeply golden and crisp. Remove half for layering.",
+    "Cook Biryani Masala: In the same pot, add ginger-garlic paste and sauté for 1 minute. Add chopped tomatoes, turmeric, chilli powder, biryani masala, and salt. Cook until tomatoes break down. Turn heat to low, stir in 1/2 cup whisked curd, and cook until oil separates.",
+    "Layering the Biryani: Place the golden-fried eggs into the simmering masala. Layer the drained 70% cooked basmati rice evenly over the eggs.",
+    "Top with Dum Aromatics: Scatter the reserved fried onions (birista), chopped mint, and fresh coriander over the rice. Drizzle saffron milk, kewra water, and 1 tbsp melted desi ghee across the top.",
+    "Slow Dum & Serve: Cover pot tightly with a lid (seal with foil or dough if needed). Cook on low flame (dum) on a tawa for 15 minutes. Turn off heat and rest 10 minutes. Fluff gently from the rim and serve piping hot with chilled raita!"
+  ],
+  "instructions_hi": [
+    "चावल 70% पकाना: 2 लीटर पानी में नमक, खड़े मसाले, पुदीना, हरा धनिया, नींबू का टुकड़ा और देसी घी डालकर उबालें। भीगे चावल डालें और 6-7 मिनट उबालें जब तक चावल 70% पक न जाएं। छलनी में छान लें।",
+    "अंडे सेकना: उबले अंडों को कांटे से गोदें। हल्दी, मिर्च और नमक लगाएं। तेल में 2-3 मिनट सुनहरा होने तक सेक लें।",
+    "बरिस्ता तलना: बर्तन में तेल गरम करके प्याज को सुनहरा व क्रिस्पी होने तक तलें और आधा प्याज निकाल लें।",
+    "बिरयानी मसाला भूनना: उसी तेल में अदरक-लहसुन पेस्ट और टमाटर भूनें। हल्दी, मिर्च, बिरयानी मसाला और नमक डालें। आंच धीमी करके फेंटा दही मिलाएं और तेल छोड़ने तक भूनें।",
+    "लेयरिंग करना: मसाले में तले हुए अंडे रखें। ऊपर से 70% पके हुए बासमती चावल बराबर फैलाएं।",
+    "दम की सामग्री सजाना: ऊपर से बचा हुआ तला प्याज (बरिस्ता), पुदीना, हरा धनिया, केसर का दूध, केवड़ा जल और 1 बड़ा चम्मच देसी घी डालें।",
+    "दम लगाना व परोसना: ढक्कन अच्छी तरह बंद करके तवे पर रखकर धीमी आंच पर 15 मिनट दम दें। 10 मिनट बाद खोलें, हल्के हाथ से चावल खोलें और रायते के साथ परोसें!"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title_en": "Parboil Fragrant Basmati Rice to 70%",
+      "title_hi": "चावल 70% पकाना",
+      "instruction_en": "Boil soaked rice in spiced salted water for 6-7 mins until 70% cooked; drain.",
+      "instruction_hi": "खड़े मसालों के पानी में चावल को 6-7 मिनट 70% तक उबालकर छान लें।"
+    },
+    {
+      "step": 2,
+      "title_en": "Sear Spiced Hard-Boiled Eggs",
+      "title_hi": "अंडे सेकना",
+      "instruction_en": "Prick boiled eggs, dust with turmeric, chilli, and salt; sear till golden in oil.",
+      "instruction_hi": "अंडों पर हल्दी-मिर्च लगाकर तेल में सुनहरा क्रिस्पी होने तक सेकें।"
+    },
+    {
+      "step": 3,
+      "title_en": "Fry Caramelized Golden Birista",
+      "title_hi": "बरिस्ता तलना",
+      "instruction_en": "Fry sliced onions until deep golden and crunchy; reserve half for dum garnish.",
+      "instruction_hi": "प्याज को सुनहरा कुरकुरा तलें और आधा प्याज गार्निश हेतु निकालें।"
+    },
+    {
+      "step": 4,
+      "title_en": "Bhunao Curd & Biryani Masala Gravy",
+      "title_hi": "दही व बिरयानी मसाला भूनना",
+      "instruction_en": "Sauté ginger-garlic, tomatoes, spices, and whisked curd until oil releases.",
+      "instruction_hi": "टमाटर, बिरयानी मसाला और फेंटा दही डालकर तेल छोड़ने तक भूनें।"
+    },
+    {
+      "step": 5,
+      "title_en": "Layer Eggs & Drained Rice",
+      "title_hi": "अंडे व चावल की लेयरिंग",
+      "instruction_en": "Place seared eggs in the rich masala; spread warm parboiled rice evenly on top.",
+      "instruction_hi": "मसाले में अंडे रखें और ऊपर से बासमती चावल की लेयर बिछाएं।"
+    },
+    {
+      "step": 6,
+      "title_en": "Drizzle Saffron, Ghee & Herbs",
+      "title_hi": "केसर दूध, घी व पुदीना सजाना",
+      "instruction_en": "Drizzle saffron milk, kewra water, desi ghee, fried onions, mint, and coriander.",
+      "instruction_hi": "ऊपर से केसर का दूध, केवड़ा, देसी घी, तला प्याज और पुदीना फैलाएं।"
+    },
+    {
+      "step": 7,
+      "title_en": "15-Minute Slow Dum & Fluff",
+      "title_hi": "15 मिनट दम व परोसना",
+      "instruction_en": "Seal pot and cook on low heat for 15 minutes. Rest 10 minutes, fluff, and serve hot!",
+      "instruction_hi": "15 मिनट धीमी आंच पर दम दें, 10 मिनट बाद खोलें और रायते संग परोसें!"
+    }
+  ],
+  "chef_tips_en": [
+    "Prick Eggs Before Searing: Pricking the hard-boiled eggs with a fork prevents them from exploding in hot oil and allows spices and gravy to penetrate the egg whites.",
+    "Parboil Rice to Exactly 70%: The rice should have a slight raw firmness in the center when drained; it absorbs the masala steam during dum to finish into separate, unbroken grains.",
+    "Lemon Slice in Rice Boiling Water: Dropping a slice of lemon into the rice boiling water keeps the long basmati grains sparkling white and distinct."
+  ],
+  "chef_tips_hi": [
+    "अंडों को कांटे से गोदना: उबले अंडों को कांटे से गोदने से वे तेल में फटते नहीं हैं और मसाला अंडे की सफेदी के अंदर तक समा जाता है।",
+    "चावल सिर्फ 70% ही उबालें: चावल के दाने में हल्का सा कच्चापन रहना चाहिए ताकि वह दम के दौरान मसाले की भाप पीकर खिले-खिले पकें।",
+    "चावल में नींबू का टुकड़ा: चावल उबालते समय नींबू का टुकड़ा डालने से बासमती चावल एकदम मोतियों जैसे सफेद और खिले-खिले बनते हैं।"
+  ]
+}
